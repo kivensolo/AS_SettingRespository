@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="saturating" />
+      <item value="parallel" />
+      <item value="computation" />
+      <item value="An exposed registry instance that holds a reference to the instrumentation running in the process * and its arguments. Also provides an easy way for callers to get a hold of instrumentation, * application context and instrumentation arguments Bundle." />
+      <item value="Provides the primary interface for test authors to perform actions or asserts on views" />
+      <item value="medium test" />
+      <item value="inherited by all product flavors" />
+      <item value="flavor dimension" />
+      <item value="Assigns this product flavor to the &quot;version&quot; flavor dimension." />
+      <item value="This property is optional if you are using only one dimension." />
+      <item value="Charset Simple" />
+      <item value="HEX DIGITS" />
+      <item value="spin" />
+      <item value="for the first pointer index (may be an * arbitrary pointer identifier)." />
+      <item value="Returns the original raw X coordinate of this event" />
+      <item value="Clearable" />
+      <item value="We're switching to absolute, discard relative" />
+      <item value="* An exposed registry instance that holds a reference to the instrumentation running in the process * and its arguments. Also provides an easy way for callers to get a hold of instrumentation, * application context and instrumentation arguments Bundle." />
+      <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity * to reverse its exit Transition. When the exit Transition completes, * {@link Activity#finish()} is called. If no entry Transition was used, finish() is called * immediately and the Activity exit Transition is run." />
+      <item value="immutable" />
+      <item value="we know we are shut down or saturated * and so reject the task." />
+      <item value="If we cannot queue task" />
+      <item value="because existing ones died since last checking" />
+      <item value="queued" />
+      <item value="If a task can be successfully queued" />
+      <item value="and so reject the task" />
+      <item value="we know we are shut down or saturated" />
+      <item value="saturated" />
+      <item value="whether running, shutting down etc" />
+      <item value="indicating the effective number of threads" />
+      <item value="two conceptual fields" />
+      <item value="The main pool control state," />
+      <item value="monotonically" />
+      <item value="In order to pack them into one int" />
+      <item value="conceptual" />
+      <item value="effective" />
+      <item value="existing pooled thread" />
+      <item value="pooled thread" />
+      <item value="pooled" />
+      <item value="drain To" />
+      <item value="Drains the task queue into a new list" />
+      <item value="drain" />
+      <item value="This accommodates special-purpose * queues such as DelayQueues for which poll() is allowed to * return null even if it may later return non-null when delays * expire." />
+      <item value="accommodates" />
+      <item value="so rely * solely on isEmpty to see if the queue is empty (which we must * do for example when deciding whether to transition from * SHUTDOWN to TIDYING)" />
+      <item value="We do not require that workQueue.poll() returning * null necessarily means that workQueue.isEmpty()" />
+      <item value="handing off" />
+      <item value="The queue used for holding tasks and handing off to worker * threads." />
+      <item value="work Queue" />
+      <item value="convenience" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE_TRADITIONAL" value="7" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="BOSNIAN" value="1" />
+        <entry key="ESPERANTO" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="primaryFontFamily" value="Yu Gothic UI" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6953e2b0635b37a0" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

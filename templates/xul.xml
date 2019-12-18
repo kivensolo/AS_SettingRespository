@@ -1,0 +1,52 @@
+<templateSet group="xul">
+  <template name="xld" value="XulLog.d(TAG,&quot;$MSG$&quot;);" description="debug leval of xul log" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="area" value="&lt;area type=&quot;$defined$&quot; class=&quot;$item_class$&quot;&gt;&#10;&#10;&lt;/area&gt;" description="area structure" toReformat="false" toShortenFQNames="true">
+    <variable name="defined" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item_class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="bkg-c" value="&lt;style name=&quot;background-color&quot;&gt;&lt;/style&gt;" description="background-color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="bkg-i" value="&lt;style name=&quot;background-image&quot;&gt;&lt;/style&gt;" description="background-image" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="bord" value="&lt;style name=&quot;border&quot;&gt;1,ff00ff00&lt;/style&gt;" description="border" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="vertical-d" value="&lt;attr name=&quot;direction&quot;&gt;vertical&lt;/attr&gt;" description="attr of direction- vertical" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="fonta" value="&lt;style name=&quot;font-align&quot;&gt;&lt;/style&gt;" description="style of font-align" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="fontc" value="&lt;style name=&quot;font-color&quot;&gt;&lt;/style&gt;" description="style of font-color" toReformat="false" toShortenFQNames="true" />
+  <template name="fonts" value="&lt;style name=&quot;font-size&quot;&gt;&lt;/style&gt;" description="style of font-size" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="image" value="&lt;item type=&quot;image&quot; class=&quot;$item_class$&quot;&gt;&#10;    &lt;attr name=&quot;x&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;y&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;width&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;height&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;text&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;img.0&quot;&gt;&lt;/attr&gt;&#10;    &lt;style name=&quot;font-size&quot;&gt;&lt;/style&gt;&#10;    &lt;style name=&quot;font-color&quot;&gt;&lt;/style&gt;&#10;    &lt;style name=&quot;font-align&quot;&gt;&lt;/style&gt;&#10;    &lt;attr name=&quot;img.0.mode&quot;&gt;center&lt;/attr&gt;&#10;    &lt;attr name=&quot;img.0.width&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;img.0.height&quot;&gt;&lt;/attr&gt;&#10;&lt;/item&gt;" description="item of l image" toReformat="false" toShortenFQNames="true">
+    <variable name="item_class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
