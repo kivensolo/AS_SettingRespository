@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sliding Tab Strip" />
+      <item value="Strip" />
       <item value="Allows complete control over the colors drawn in the tab layout" />
       <item value="saturating" />
       <item value="parallel" />
@@ -49,13 +51,11 @@
       <item value="so rely * solely on isEmpty to see if the queue is empty (which we must * do for example when deciding whether to transition from * SHUTDOWN to TIDYING)" />
       <item value="We do not require that workQueue.poll() returning * null necessarily means that workQueue.isEmpty()" />
       <item value="handing off" />
-      <item value="The queue used for holding tasks and handing off to worker * threads." />
-      <item value="work Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
