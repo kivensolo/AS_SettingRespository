@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquire" />
       <item value="Recursive" />
       <item value="model may occasionally be null, so to enforce that load() was called, put a boolean rather // than relying on model not to be null." />
       <item value="acquired" />
@@ -50,12 +51,11 @@
       <item value="effective" />
       <item value="existing pooled thread" />
       <item value="pooled thread" />
-      <item value="pooled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
