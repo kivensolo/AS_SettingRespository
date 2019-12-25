@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recursive" />
+      <item value="model may occasionally be null, so to enforce that load() was called, put a boolean rather // than relying on model not to be null." />
       <item value="acquired" />
       <item value="If we're the application level request manager, we may be created on a background thread. // In that case we cannot risk synchronously pausing or resuming requests, so we hack around the // issue by delaying adding ourselves as a lifecycle listener by posting to the main thread. // This should be entirely safe." />
       <item value="Indicates that target's visibility can be relaxed to avoid synthetic methods." />
@@ -49,13 +51,11 @@
       <item value="existing pooled thread" />
       <item value="pooled thread" />
       <item value="pooled" />
-      <item value="drain To" />
-      <item value="Drains the task queue into a new list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
