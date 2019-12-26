@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the blur radius" />
+      <item value="Allocate memory for Renderscript to work with" />
+      <item value="Load up an instance of the specific script that we want to use" />
       <item value="FRAGMENT TAG" />
       <item value="USE SEPARATE WINDOW" />
       <item value="Queriable" />
@@ -48,14 +51,11 @@
       <item value="queued" />
       <item value="If a task can be successfully queued" />
       <item value="and so reject the task" />
-      <item value="we know we are shut down or saturated" />
-      <item value="saturated" />
-      <item value="whether running, shutting down etc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
