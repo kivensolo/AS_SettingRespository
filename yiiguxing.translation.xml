@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap" />
       <item value="Set the blur radius" />
       <item value="Allocate memory for Renderscript to work with" />
       <item value="Load up an instance of the specific script that we want to use" />
@@ -50,12 +51,11 @@
       <item value="because existing ones died since last checking" />
       <item value="queued" />
       <item value="If a task can be successfully queued" />
-      <item value="and so reject the task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
