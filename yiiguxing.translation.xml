@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FRAGMENT TAG" />
+      <item value="USE SEPARATE WINDOW" />
+      <item value="Queriable" />
+      <item value="support for multiple app processes requires a proper android service&#10;// instead of the shared memory &quot;service&quot; implemented here. Such a service could&#10;// support continuity between fragments of different applications if desired." />
+      <item value="which may be in transition" />
+      <item value="continuity" />
+      <item value="Supports background image continuity between multiple Activities." />
       <item value="size Multiplier" />
       <item value="Multiplier" />
       <item value="acquire" />
@@ -44,21 +51,15 @@
       <item value="we know we are shut down or saturated" />
       <item value="saturated" />
       <item value="whether running, shutting down etc" />
-      <item value="indicating the effective number of threads" />
-      <item value="two conceptual fields" />
-      <item value="The main pool control state," />
-      <item value="monotonically" />
-      <item value="In order to pack them into one int" />
-      <item value="conceptual" />
-      <item value="effective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
