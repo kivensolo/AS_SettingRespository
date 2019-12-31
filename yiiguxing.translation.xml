@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get a View that displays the data at the specified position in the data set. You can either * create a View manually or inflate it from an XML layout file. When the View is inflated, the * parent View (GridView, ListView...) will apply default layout parameters unless you use * {@link android.view.LayoutInflater#inflate(int, android.view.ViewGroup, boolean)} * to specify a root view and to prevent attachment to the root." />
+      <item value="The position of the item within the adapter's data set of the item whose view we want." />
+      <item value="The position of the item within the adapter's data set of the item whose view * we want." />
+      <item value="The old view to reuse, if possible" />
+      <item value="The old view to reuse" />
+      <item value="The parent that this view will eventually be attached to" />
       <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap" />
       <item value="Set the blur radius" />
       <item value="Allocate memory for Renderscript to work with" />
@@ -45,17 +51,11 @@
       <item value="We're switching to absolute, discard relative" />
       <item value="* An exposed registry instance that holds a reference to the instrumentation running in the process * and its arguments. Also provides an easy way for callers to get a hold of instrumentation, * application context and instrumentation arguments Bundle." />
       <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity * to reverse its exit Transition. When the exit Transition completes, * {@link Activity#finish()} is called. If no entry Transition was used, finish() is called * immediately and the Activity exit Transition is run." />
-      <item value="immutable" />
-      <item value="we know we are shut down or saturated * and so reject the task." />
-      <item value="If we cannot queue task" />
-      <item value="because existing ones died since last checking" />
-      <item value="queued" />
-      <item value="If a task can be successfully queued" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
