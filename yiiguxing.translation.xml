@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
       <item value="Get a View that displays the data at the specified position in the data set. You can either * create a View manually or inflate it from an XML layout file. When the View is inflated, the * parent View (GridView, ListView...) will apply default layout parameters unless you use * {@link android.view.LayoutInflater#inflate(int, android.view.ViewGroup, boolean)} * to specify a root view and to prevent attachment to the root." />
       <item value="The position of the item within the adapter's data set of the item whose view we want." />
       <item value="The position of the item within the adapter's data set of the item whose view * we want." />
@@ -50,12 +51,11 @@
       <item value="Clearable" />
       <item value="We're switching to absolute, discard relative" />
       <item value="* An exposed registry instance that holds a reference to the instrumentation running in the process * and its arguments. Also provides an easy way for callers to get a hold of instrumentation, * application context and instrumentation arguments Bundle." />
-      <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity * to reverse its exit Transition. When the exit Transition completes, * {@link Activity#finish()} is called. If no entry Transition was used, finish() is called * immediately and the Activity exit Transition is run." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
