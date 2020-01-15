@@ -1,5 +1,5 @@
 <templateSet group="AndroidLog">
-  <template name="zld" value="com.zeke.kangaroo.utils.ZLog(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="ZLog.d(TAG, String)" toReformat="false" toShortenFQNames="true">
+  <template name="zld" value="com.zeke.kangaroo.utils.ZLog.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="ZLog.d(TAG, String)" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
