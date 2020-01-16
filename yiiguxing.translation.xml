@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A generic class that can handle setting options and staring loads for generic resource types" />
+      <item value="lazily becomes a new Rect()" />
+      <item value="which draws multiple underlying * drawables on top of each other." />
+      <item value="a compound drawable" />
+      <item value="the simplest Drawable, a PNG or JPEG image" />
+      <item value="Though usually not visible to the application, Drawables may take a variety * of forms:" />
+      <item value="Drawable provides a number of generic * mechanisms for its client to interact with what is being drawn" />
+      <item value="In addition to simple drawing" />
+      <item value="facility" />
+      <item value="any facility" />
+      <item value="Drawable does not have any facility" />
+      <item value="a Drawable does not have any facility to * receive events or otherwise interact with the user" />
+      <item value="underlying" />
+      <item value="generic" />
+      <item value="A Drawable is a general abstraction for &quot;something that can be drawn.&quot;" />
+      <item value="@return A new request builder for loading a {@link Drawable} using the given model." />
+      <item value="Equivalent to" />
+      <item value="Factor out this Glide.get() call." />
       <item value="retrieving" />
       <item value="* A collection of static methods for creating new {@link com.bumptech.glide.RequestManager}s or * retrieving existing ones from activities and fragment." />
       <item value="Internal method" />
@@ -33,29 +51,11 @@
       <item value="Set the blur radius" />
       <item value="Allocate memory for Renderscript to work with" />
       <item value="Load up an instance of the specific script that we want to use" />
-      <item value="FRAGMENT TAG" />
-      <item value="USE SEPARATE WINDOW" />
-      <item value="Queriable" />
-      <item value="support for multiple app processes requires a proper android service&#10;// instead of the shared memory &quot;service&quot; implemented here. Such a service could&#10;// support continuity between fragments of different applications if desired." />
-      <item value="which may be in transition" />
-      <item value="continuity" />
-      <item value="Supports background image continuity between multiple Activities." />
-      <item value="size Multiplier" />
-      <item value="Multiplier" />
-      <item value="acquire" />
-      <item value="Recursive" />
-      <item value="model may occasionally be null, so to enforce that load() was called, put a boolean rather // than relying on model not to be null." />
-      <item value="acquired" />
-      <item value="If we're the application level request manager, we may be created on a background thread. // In that case we cannot risk synchronously pausing or resuming requests, so we hack around the // issue by delaying adding ourselves as a lifecycle listener by posting to the main thread. // This should be entirely safe." />
-      <item value="Indicates that target's visibility can be relaxed to avoid synthetic methods." />
-      <item value="The return value of getAllocationByteCount silently changes for recycled bitmaps from the // internal buffer size to row bytes * height. To avoid random inconsistencies in caches, we // instead assert here." />
-      <item value="The return value of getAllocationByteCount silently changes for recycled bitmaps" />
-      <item value="Enables or disables adjustment of view bounds on the main image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
