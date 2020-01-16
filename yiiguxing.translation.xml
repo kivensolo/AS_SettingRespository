@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retriever" />
       <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the * given size." />
       <item value="with" />
       <item value="A singleton to present a simple static interface" />
@@ -50,7 +51,6 @@
       <item value="computation" />
       <item value="An exposed registry instance that holds a reference to the instrumentation running in the process * and its arguments. Also provides an easy way for callers to get a hold of instrumentation, * application context and instrumentation arguments Bundle." />
       <item value="Provides the primary interface for test authors to perform actions or asserts on views" />
-      <item value="medium test" />
     </histories>
     <option name="languageScores">
       <map>
