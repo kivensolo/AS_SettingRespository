@@ -1,7 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieving" />
+      <item value="* A collection of static methods for creating new {@link com.bumptech.glide.RequestManager}s or * retrieving existing ones from activities and fragment." />
+      <item value="Internal method" />
+      <item value="assertions" />
+      <item value="Preconditions" />
+      <item value="but in practice it will // only occur due to errors with the Fragment lifecycle" />
+      <item value="in practice" />
       <item value="Retriever" />
+      <item value="get Retriever" />
       <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the * given size." />
       <item value="with" />
       <item value="A singleton to present a simple static interface" />
@@ -43,19 +51,11 @@
       <item value="The return value of getAllocationByteCount silently changes for recycled bitmaps from the // internal buffer size to row bytes * height. To avoid random inconsistencies in caches, we // instead assert here." />
       <item value="The return value of getAllocationByteCount silently changes for recycled bitmaps" />
       <item value="Enables or disables adjustment of view bounds on the main image" />
-      <item value="Sliding Tab Strip" />
-      <item value="Strip" />
-      <item value="Allows complete control over the colors drawn in the tab layout" />
-      <item value="saturating" />
-      <item value="parallel" />
-      <item value="computation" />
-      <item value="An exposed registry instance that holds a reference to the instrumentation running in the process * and its arguments. Also provides an easy way for callers to get a hold of instrumentation, * application context and instrumentation arguments Bundle." />
-      <item value="Provides the primary interface for test authors to perform actions or asserts on views" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
