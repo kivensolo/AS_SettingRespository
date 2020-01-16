@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A RequestManager for the top level application that can be used to start a load." />
+      <item value="Any context, will not be retained" />
+      <item value="The entry point for interacting with Glide for Applications" />
       <item value="A generic class that can handle setting options and staring loads for generic resource types" />
       <item value="lazily becomes a new Rect()" />
       <item value="which draws multiple underlying * drawables on top of each other." />
@@ -31,7 +34,6 @@
       <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the * given size." />
       <item value="with" />
       <item value="A singleton to present a simple static interface" />
-      <item value="The entry point for interacting with Glide for Applications" />
       <item value="Tries to intelligently choose a strategy based on the data source" />
       <item value="Caches remote data with both {@link #DATA} and {@link #RESOURCE}, and local data with * {@link #RESOURCE} only." />
       <item value="if this request should attempt to decode cached source data." />
@@ -49,13 +51,11 @@
       <item value="The parent that this view will eventually be attached to" />
       <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap" />
       <item value="Set the blur radius" />
-      <item value="Allocate memory for Renderscript to work with" />
-      <item value="Load up an instance of the specific script that we want to use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
