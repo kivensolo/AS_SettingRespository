@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An {@link BitmapPool BitmapPool} implementation * that rejects all {@link Bitmap Bitmap}s added to it and always returns {@code * null} from get" />
+      <item value="Reduces the size of the cache by evicting items based on the given level." />
+      <item value="Identical to {@link #get(int, int, Bitmap.Config)} except that any returned * {@link Bitmap} may &lt;em&gt;not&lt;/em&gt; have been erased and may contain random data." />
+      <item value="Returns a {@link Bitmap} of exactly the given width, height, and * configuration, and containing only transparent pixels." />
+      <item value="Adds the given {@link Bitmap} if it is eligible to be re-used and the pool * can fit it, or calls {@link Bitmap#recycle()} on the Bitmap and discards it." />
+      <item value="The size multiplier to apply between 0 and 1" />
+      <item value="size Multiplier" />
+      <item value="Multiplies the initial size of the pool by the given multiplier to dynamically and * synchronously allow users to adjust the size of the pool" />
+      <item value="Returns the current maximum size of the pool in bytes" />
+      <item value="An interface for a pool that allows users to reuse {@link Bitmap} objects" />
+      <item value="The default strategy, currently" />
+      <item value="A strategy for handling unexpected and uncaught {@link Throwable}s thrown by futures run on the * pool." />
       <item value="A RequestManager for the top level application that can be used to start a load." />
       <item value="Any context, will not be retained" />
       <item value="The entry point for interacting with Glide for Applications" />
@@ -39,23 +51,11 @@
       <item value="if this request should attempt to decode cached source data." />
       <item value="Returns true if this request should attempt to decode cached source data" />
       <item value="Returns true if this request should attempt to decode cached resource data." />
-      <item value="Set of available caching strategies for media" />
-      <item value="Writes resources to disk after they've been decoded." />
-      <item value="Writes retrieved data directly to the disk cache before it's decoded." />
-      <item value="restore" />
-      <item value="Get a View that displays the data at the specified position in the data set. You can either * create a View manually or inflate it from an XML layout file. When the View is inflated, the * parent View (GridView, ListView...) will apply default layout parameters unless you use * {@link android.view.LayoutInflater#inflate(int, android.view.ViewGroup, boolean)} * to specify a root view and to prevent attachment to the root." />
-      <item value="The position of the item within the adapter's data set of the item whose view we want." />
-      <item value="The position of the item within the adapter's data set of the item whose view * we want." />
-      <item value="The old view to reuse, if possible" />
-      <item value="The old view to reuse" />
-      <item value="The parent that this view will eventually be attached to" />
-      <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap" />
-      <item value="Set the blur radius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
