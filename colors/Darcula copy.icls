@@ -4,7 +4,7 @@
     <property name="created">2019-03-13T11:29:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2019-12-17T09:57:45</property>
+    <property name="modified">2020-01-18T20:56:21</property>
     <property name="originalScheme">My_2</property>
   </metaInfo>
   <font>
@@ -729,11 +729,20 @@
         <option name="FOREGROUND" value="bbb529" />
       </value>
     </option>
+    <option name="KOTLIN_ARROW">
+      <value />
+    </option>
     <option name="KOTLIN_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="KOTLIN_BRACES">
+      <value />
+    </option>
+    <option name="KOTLIN_BRACKETS">
+      <value />
     </option>
     <option name="KOTLIN_BUILTIN_ANNOTATION">
       <value>
@@ -795,7 +804,7 @@
     </option>
     <option name="KOTLIN_EXTENSION_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="11cb69" />
+        <option name="FOREGROUND" value="a884ba" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
