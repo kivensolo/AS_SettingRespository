@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Garden" />
       <item value="implementation" />
       <item value="A responsibility of an implementation of this interface is to retain owned ViewModelStore * during the configuration changes and call {@link ViewModelStore#clear()}, when this scope is * going to be destroyed." />
       <item value="A scope that owns {@link ViewModelStore}." />
@@ -50,12 +51,11 @@
       <item value="in practice" />
       <item value="Retriever" />
       <item value="get Retriever" />
-      <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the * given size." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
