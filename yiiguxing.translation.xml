@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Segment" />
+      <item value="Segments are specialized versions of hash tables. This * subclasses from ReentrantLock opportunistically, just to * simplify some locking and avoid separate construction." />
       <item value="this way we can find the .aar file in libs folder" />
       <item value="java.lang.IllegalArgumentException: Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkParameterIsNotNul" />
       <item value="vary" />
@@ -49,13 +51,11 @@
       <item value="Internal method" />
       <item value="assertions" />
       <item value="Preconditions" />
-      <item value="but in practice it will // only occur due to errors with the Fragment lifecycle" />
-      <item value="in practice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
