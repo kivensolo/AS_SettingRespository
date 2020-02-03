@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cache is valid until revision(versionCode) changed" />
       <item value="secondary Hash" />
       <item value="spread" />
       <item value="Absent" />
@@ -50,12 +51,11 @@
       <item value="@return A new request builder for loading a {@link Drawable} using the given model." />
       <item value="Equivalent to" />
       <item value="Factor out this Glide.get() call." />
-      <item value="retrieving" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
