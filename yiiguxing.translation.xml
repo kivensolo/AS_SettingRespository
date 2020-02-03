@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="secondary Hash" />
+      <item value="spread" />
+      <item value="Absent" />
+      <item value="only If Absent" />
       <item value="Segment" />
       <item value="Segments are specialized versions of hash tables. This * subclasses from ReentrantLock opportunistically, just to * simplify some locking and avoid separate construction." />
       <item value="this way we can find the .aar file in libs folder" />
@@ -47,15 +51,11 @@
       <item value="Equivalent to" />
       <item value="Factor out this Glide.get() call." />
       <item value="retrieving" />
-      <item value="* A collection of static methods for creating new {@link com.bumptech.glide.RequestManager}s or * retrieving existing ones from activities and fragment." />
-      <item value="Internal method" />
-      <item value="assertions" />
-      <item value="Preconditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
