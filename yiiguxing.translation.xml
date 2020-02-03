@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this way we can find the .aar file in libs folder" />
       <item value="java.lang.IllegalArgumentException: Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkParameterIsNotNul" />
       <item value="vary" />
       <item value="acquire" />
@@ -50,12 +51,11 @@
       <item value="Preconditions" />
       <item value="but in practice it will // only occur due to errors with the Fragment lifecycle" />
       <item value="in practice" />
-      <item value="Retriever" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
