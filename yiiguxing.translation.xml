@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Up" />
       <item value="Handler to assign to the returned Message object's &lt;em&gt;target&lt;/em&gt; member" />
       <item value="Cache is valid until revision(versionCode) changed" />
       <item value="secondary Hash" />
@@ -50,12 +51,11 @@
       <item value="generic" />
       <item value="A Drawable is a general abstraction for &quot;something that can be drawn.&quot;" />
       <item value="@return A new request builder for loading a {@link Drawable} using the given model." />
-      <item value="Equivalent to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
