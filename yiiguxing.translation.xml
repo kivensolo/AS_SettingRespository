@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="5.0_home carousel" />
+      <item value="carousel" />
       <item value="time Up" />
       <item value="Handler to assign to the returned Message object's &lt;em&gt;target&lt;/em&gt; member" />
       <item value="Cache is valid until revision(versionCode) changed" />
@@ -49,13 +51,11 @@
       <item value="a Drawable does not have any facility to * receive events or otherwise interact with the user" />
       <item value="underlying" />
       <item value="generic" />
-      <item value="A Drawable is a general abstraction for &quot;something that can be drawn.&quot;" />
-      <item value="@return A new request builder for loading a {@link Drawable} using the given model." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
