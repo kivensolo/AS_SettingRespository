@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kotlin.UninitializedPropertyAccessException: lateinit property mPresenter has not been initialized" />
       <item value="The one-stop shop for setting up this {@link TabLayout} with a {@link ViewPager}" />
       <item value="5.0_home carousel" />
       <item value="carousel" />
@@ -50,7 +51,6 @@
       <item value="any facility" />
       <item value="Drawable does not have any facility" />
       <item value="a Drawable does not have any facility to * receive events or otherwise interact with the user" />
-      <item value="underlying" />
     </histories>
     <option name="languageScores">
       <map>
