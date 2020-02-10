@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoke" />
+      <item value="Do not pass a resource ID" />
       <item value="Carousel" />
       <item value="kotlin.UninitializedPropertyAccessException: lateinit property mPresenter has not been initialized" />
       <item value="The one-stop shop for setting up this {@link TabLayout} with a {@link ViewPager}" />
@@ -49,13 +51,11 @@
       <item value="Drawable provides a number of generic * mechanisms for its client to interact with what is being drawn" />
       <item value="In addition to simple drawing" />
       <item value="facility" />
-      <item value="any facility" />
-      <item value="Drawable does not have any facility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
