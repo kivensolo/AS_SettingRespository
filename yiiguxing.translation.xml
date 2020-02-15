@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minimum velocity to initiate a fling, as measured in pixels per second" />
+      <item value="Minimum velocity to initiate a fling, as measured in pixels per second." />
+      <item value="Retrieve the last computed X velocity" />
+      <item value="A value of 1 * provides pixels per millisecond, 1000 provides pixels per second" />
+      <item value="Velocity Tracker" />
+      <item value="1000 provides pixels per second" />
+      <item value="The units you would like the velocity in" />
+      <item value="Velocity" />
       <item value="Could not determine the class-path for interface com.android.builder.model.AndroidProject." />
       <item value="invoke" />
       <item value="Do not pass a resource ID" />
@@ -43,19 +51,11 @@
       <item value="A RequestManager for the top level application that can be used to start a load." />
       <item value="Any context, will not be retained" />
       <item value="The entry point for interacting with Glide for Applications" />
-      <item value="A generic class that can handle setting options and staring loads for generic resource types" />
-      <item value="lazily becomes a new Rect()" />
-      <item value="which draws multiple underlying * drawables on top of each other." />
-      <item value="a compound drawable" />
-      <item value="the simplest Drawable, a PNG or JPEG image" />
-      <item value="Though usually not visible to the application, Drawables may take a variety * of forms:" />
-      <item value="Drawable provides a number of generic * mechanisms for its client to interact with what is being drawn" />
-      <item value="In addition to simple drawing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
