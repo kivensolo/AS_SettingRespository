@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portrait" />
       <item value="Minimum velocity to initiate a fling, as measured in pixels per second" />
       <item value="Minimum velocity to initiate a fling, as measured in pixels per second." />
       <item value="Retrieve the last computed X velocity" />
@@ -50,12 +51,11 @@
       <item value="A strategy for handling unexpected and uncaught {@link Throwable}s thrown by futures run on the * pool." />
       <item value="A RequestManager for the top level application that can be used to start a load." />
       <item value="Any context, will not be retained" />
-      <item value="The entry point for interacting with Glide for Applications" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
