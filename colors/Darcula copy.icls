@@ -4,7 +4,7 @@
     <property name="created">2019-03-13T11:29:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2020-02-15T19:05:35</property>
+    <property name="modified">2020-02-15T19:06:01</property>
     <property name="originalScheme">My_2</property>
   </metaInfo>
   <font>
@@ -715,7 +715,7 @@
     </option>
     <option name="KDOC_LINK">
       <value>
-        <option name="FOREGROUND" value="12ae5c" />
+        <option name="FOREGROUND" value="12c971" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
