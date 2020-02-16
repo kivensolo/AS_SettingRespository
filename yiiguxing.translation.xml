@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find method onClick(View) in a parent or ancestor Context for android:onClick attribute defined on view class" />
+      <item value="ancestor" />
       <item value="Color Flip" />
       <item value="where each element is calculated by calling the specified * [init] function." />
       <item value="The function [init] is called for each array element sequentially starting from the first one. * It should return the value for an array element given its index." />
@@ -49,13 +51,11 @@
       <item value="The size multiplier to apply between 0 and 1" />
       <item value="size Multiplier" />
       <item value="Multiplies the initial size of the pool by the given multiplier to dynamically and * synchronously allow users to adjust the size of the pool" />
-      <item value="Returns the current maximum size of the pool in bytes" />
-      <item value="An interface for a pool that allows users to reuse {@link Bitmap} objects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
