@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Skim Over" />
+      <item value="instantiate" />
       <item value="Could not find method onClick(View) in a parent or ancestor Context for android:onClick attribute defined on view class" />
       <item value="ancestor" />
       <item value="Color Flip" />
@@ -49,13 +51,11 @@
       <item value="Returns a {@link Bitmap} of exactly the given width, height, and * configuration, and containing only transparent pixels." />
       <item value="Adds the given {@link Bitmap} if it is eligible to be re-used and the pool * can fit it, or calls {@link Bitmap#recycle()} on the Bitmap and discards it." />
       <item value="The size multiplier to apply between 0 and 1" />
-      <item value="size Multiplier" />
-      <item value="Multiplies the initial size of the pool by the given multiplier to dynamically and * synchronously allow users to adjust the size of the pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
