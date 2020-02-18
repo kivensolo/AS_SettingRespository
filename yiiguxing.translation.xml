@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The {@code Fragment} support library adds 100k of binary size to an app, and full-Flutter * apps do not otherwise require that binary hit. Therefore, it was concluded that Flutter * must provide a {@link FlutterActivity} based on the AOSP {@code Activity}, and an independent * {@link FlutterFragment} for add-to-app developers." />
+      <item value="One might ask why an {@code Activity} and {@code Fragment} delegate needs to exist. Given * that a {@code Fragment} can be placed within an {@code Activity}, it would make more sense * to use a {@link FlutterFragment} within a {@link FlutterActivity}." />
+      <item value="No preferred FlutterEngine was provided" />
       <item value="INCREMENT" />
       <item value="Skim Over" />
       <item value="instantiate" />
@@ -48,14 +51,11 @@
       <item value="Internal class that can receive any lifecycle change and dispatch it to the receiver" />
       <item value="An {@link BitmapPool BitmapPool} implementation * that rejects all {@link Bitmap Bitmap}s added to it and always returns {@code * null} from get" />
       <item value="Reduces the size of the cache by evicting items based on the given level." />
-      <item value="Identical to {@link #get(int, int, Bitmap.Config)} except that any returned * {@link Bitmap} may &lt;em&gt;not&lt;/em&gt; have been erased and may contain random data." />
-      <item value="Returns a {@link Bitmap} of exactly the given width, height, and * configuration, and containing only transparent pixels." />
-      <item value="Adds the given {@link Bitmap} if it is eligible to be re-used and the pool * can fit it, or calls {@link Bitmap#recycle()} on the Bitmap and discards it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
