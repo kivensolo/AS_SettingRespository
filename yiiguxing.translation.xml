@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Main entry point for using Flutter in Android applications." />
       <item value="dart Entrypoint Function Name" />
       <item value="The path within the AssetManager where the app will look for assets." />
       <item value="use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute" />
@@ -50,12 +51,11 @@
       <item value="java.lang.IllegalArgumentException: Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkParameterIsNotNul" />
       <item value="vary" />
       <item value="acquire" />
-      <item value="A responsibility of an implementation of this interface is to retain owned ViewModelStore * during the configuration changes and call {@link ViewModelStore#clear()}, when this scope is * going to be destroyed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
