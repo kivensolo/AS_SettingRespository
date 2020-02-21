@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Packing" />
       <item value="Observer" />
       <item value="Pack" />
       <item value="Packing" />
@@ -50,12 +51,11 @@
       <item value="time Up" />
       <item value="Handler to assign to the returned Message object's &lt;em&gt;target&lt;/em&gt; member" />
       <item value="Cache is valid until revision(versionCode) changed" />
-      <item value="secondary Hash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
