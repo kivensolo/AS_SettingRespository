@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Observer" />
+      <item value="Pack" />
+      <item value="Packing" />
+      <item value="Inertial" />
+      <item value="duration On Inertial" />
+      <item value="Looping" />
+      <item value="Loop" />
+      <item value="Auto Cycle" />
+      <item value="Cycle" />
       <item value="Main entry point for using Flutter in Android applications." />
       <item value="dart Entrypoint Function Name" />
       <item value="The path within the AssetManager where the app will look for assets." />
@@ -42,20 +51,11 @@
       <item value="Handler to assign to the returned Message object's &lt;em&gt;target&lt;/em&gt; member" />
       <item value="Cache is valid until revision(versionCode) changed" />
       <item value="secondary Hash" />
-      <item value="spread" />
-      <item value="Absent" />
-      <item value="only If Absent" />
-      <item value="Segment" />
-      <item value="Segments are specialized versions of hash tables. This * subclasses from ReentrantLock opportunistically, just to * simplify some locking and avoid separate construction." />
-      <item value="this way we can find the .aar file in libs folder" />
-      <item value="java.lang.IllegalArgumentException: Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkParameterIsNotNul" />
-      <item value="vary" />
-      <item value="acquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
