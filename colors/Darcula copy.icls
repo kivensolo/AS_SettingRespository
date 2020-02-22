@@ -4,7 +4,7 @@
     <property name="created">2019-03-13T11:29:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2020-02-15T21:13:03</property>
+    <property name="modified">2020-02-22T14:39:16</property>
     <property name="originalScheme">My_2</property>
   </metaInfo>
   <font>
@@ -765,8 +765,8 @@
     </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="2f9ee3" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="9ded4" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_COMMA">
@@ -837,10 +837,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="24b897" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
