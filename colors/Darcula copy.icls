@@ -1,21 +1,22 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.5" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-03-13T11:29:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2020-02-22T14:39:16</property>
+    <property name="modified">2020-02-24T09:43:12</property>
     <property name="originalScheme">My_2</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Courier New" />
-    <option name="EDITOR_FONT_SIZE" value="28" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Constantia" />
-    <option name="EDITOR_FONT_SIZE" value="28" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
