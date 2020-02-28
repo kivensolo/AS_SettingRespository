@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="acquire" />
-      <item value="A responsibility of an implementation of this interface is to retain owned ViewModelStore * during the configuration changes and call {@link ViewModelStore#clear()}, when this scope is * going to be destroyed." />
-      <item value="A scope that owns {@link ViewModelStore}." />
-      <item value="is Assignable From" />
-      <item value="Mutable" />
-      <item value="Mediator" />
-      <item value="Internal class that can receive any lifecycle change and dispatch it to the receiver" />
-      <item value="An {@link BitmapPool BitmapPool} implementation * that rejects all {@link Bitmap Bitmap}s added to it and always returns {@code * null} from get" />
-      <item value="Reduces the size of the cache by evicting items based on the given level." />
-      <item value="Identical to {@link #get(int, int, Bitmap.Config)} except that any returned * {@link Bitmap} may &lt;em&gt;not&lt;/em&gt; have been erased and may contain random data." />
-      <item value="Returns a {@link Bitmap} of exactly the given width, height, and * configuration, and containing only transparent pixels." />
-      <item value="Adds the given {@link Bitmap} if it is eligible to be re-used and the pool * can fit it, or calls {@link Bitmap#recycle()} on the Bitmap and discards it." />
-      <item value="The size multiplier to apply between 0 and 1" />
-      <item value="size Multiplier" />
-      <item value="Multiplies the initial size of the pool by the given multiplier to dynamically and * synchronously allow users to adjust the size of the pool" />
-      <item value="Returns the current maximum size of the pool in bytes" />
-      <item value="An interface for a pool that allows users to reuse {@link Bitmap} objects" />
-      <item value="The default strategy, currently" />
-      <item value="A strategy for handling unexpected and uncaught {@link Throwable}s thrown by futures run on the * pool." />
-      <item value="A RequestManager for the top level application that can be used to start a load." />
-      <item value="Any context, will not be retained" />
-      <item value="The entry point for interacting with Glide for Applications" />
-      <item value="A generic class that can handle setting options and staring loads for generic resource types" />
-      <item value="lazily becomes a new Rect()" />
-      <item value="which draws multiple underlying * drawables on top of each other." />
-      <item value="a compound drawable" />
-      <item value="the simplest Drawable, a PNG or JPEG image" />
-      <item value="Though usually not visible to the application, Drawables may take a variety * of forms:" />
-      <item value="Drawable provides a number of generic * mechanisms for its client to interact with what is being drawn" />
-      <item value="In addition to simple drawing" />
-      <item value="facility" />
-      <item value="any facility" />
-      <item value="Drawable does not have any facility" />
-      <item value="a Drawable does not have any facility to * receive events or otherwise interact with the user" />
-      <item value="underlying" />
-      <item value="generic" />
-      <item value="A Drawable is a general abstraction for &quot;something that can be drawn.&quot;" />
-      <item value="@return A new request builder for loading a {@link Drawable} using the given model." />
-      <item value="Equivalent to" />
-      <item value="Factor out this Glide.get() call." />
-      <item value="retrieving" />
-      <item value="* A collection of static methods for creating new {@link com.bumptech.glide.RequestManager}s or * retrieving existing ones from activities and fragment." />
-      <item value="Internal method" />
-      <item value="assertions" />
-      <item value="Preconditions" />
-      <item value="but in practice it will // only occur due to errors with the Fragment lifecycle" />
-      <item value="in practice" />
-      <item value="Retriever" />
-      <item value="get Retriever" />
-      <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the * given size." />
+      <item value="appendix" />
+      <item value="classifier" />
+      <item value="intersects" />
+      <item value="Indent" />
+      <item value="Ratio" />
+      <item value="Parking" />
+      <item value="Pack" />
+      <item value="space Between Items" />
+      <item value="auto Packing" />
+      <item value="Observer" />
+      <item value="Packing" />
+      <item value="Inertial" />
+      <item value="duration On Inertial" />
+      <item value="Looping" />
+      <item value="Loop" />
+      <item value="Auto Cycle" />
+      <item value="Cycle" />
+      <item value="Main entry point for using Flutter in Android applications." />
+      <item value="dart Entrypoint Function Name" />
+      <item value="The path within the AssetManager where the app will look for assets." />
+      <item value="use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute" />
+      <item value="To specify a top-level Dart function to execute," />
+      <item value="Configures, bootstraps, and starts executing Dart code." />
+      <item value="To specify a top-level Dart function to execute, use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute, and which Dart function to use as * the entrypoint. To execute the entrypoint, pass the {@link DartEntrypoint} to * {@link #executeDartEntrypoint(DartEntrypoint)}. * &lt;p&gt; * To specify a Dart callback to execute, use a {@link DartCallback}. A given Dart callback must * be registered with the Dart VM to be invoked by a {@link DartExecutor}. To execute the callback, * pass the {@link DartCallback} to {@link #executeDartCallback(DartCallback)}. * TODO(mattcarroll): add a reference to docs about background/plugin execution * &lt;p&gt; * Once started, a {@link DartExecutor} cannot be stopped. The associated Dart code will execute * until it completes, or until the {@link io.flutter.embedding.engine.FlutterEngine} that owns * this {@link DartExecutor} is destroyed." />
+      <item value="Hook for subclasses to easily configure a {@code FlutterEngine}, e.g., register * plugins." />
+      <item value="The {@code Fragment} support library adds 100k of binary size to an app, and full-Flutter * apps do not otherwise require that binary hit. Therefore, it was concluded that Flutter * must provide a {@link FlutterActivity} based on the AOSP {@code Activity}, and an independent * {@link FlutterFragment} for add-to-app developers." />
+      <item value="One might ask why an {@code Activity} and {@code Fragment} delegate needs to exist. Given * that a {@code Fragment} can be placed within an {@code Activity}, it would make more sense * to use a {@link FlutterFragment} within a {@link FlutterActivity}." />
+      <item value="No preferred FlutterEngine was provided" />
+      <item value="INCREMENT" />
+      <item value="Skim Over" />
+      <item value="instantiate" />
+      <item value="Could not find method onClick(View) in a parent or ancestor Context for android:onClick attribute defined on view class" />
+      <item value="ancestor" />
+      <item value="Color Flip" />
+      <item value="where each element is calculated by calling the specified * [init] function." />
+      <item value="The function [init] is called for each array element sequentially starting from the first one. * It should return the value for an array element given its index." />
+      <item value="Rfactor in 2020/2/15 with kotlin" />
+      <item value="portrait" />
+      <item value="Minimum velocity to initiate a fling, as measured in pixels per second" />
+      <item value="Minimum velocity to initiate a fling, as measured in pixels per second." />
+      <item value="Retrieve the last computed X velocity" />
+      <item value="A value of 1 * provides pixels per millisecond, 1000 provides pixels per second" />
+      <item value="Velocity Tracker" />
+      <item value="1000 provides pixels per second" />
+      <item value="The units you would like the velocity in" />
+      <item value="Velocity" />
+      <item value="Could not determine the class-path for interface com.android.builder.model.AndroidProject." />
+      <item value="invoke" />
+      <item value="Do not pass a resource ID" />
+      <item value="Carousel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
