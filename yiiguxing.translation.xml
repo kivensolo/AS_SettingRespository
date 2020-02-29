@@ -67,6 +67,7 @@
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Yu Gothic UI" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
