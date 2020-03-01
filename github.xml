@@ -1,5 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="a230de44-34ef-4517-8cdd-67367ef9f375" name="kivensolo">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="CONNECTION_TIMEOUT" value="15000" />
   </component>
 </application>
