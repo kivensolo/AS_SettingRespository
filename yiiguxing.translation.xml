@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pass 0 to stroke in hairline mode" />
+      <item value="Set the width for stroking" />
       <item value="Visibility Aware Image Button" />
       <item value="Aware" />
       <item value="obsolete" />
@@ -49,13 +51,11 @@
       <item value="A value of 1 * provides pixels per millisecond, 1000 provides pixels per second" />
       <item value="Velocity Tracker" />
       <item value="1000 provides pixels per second" />
-      <item value="The units you would like the velocity in" />
-      <item value="Velocity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
