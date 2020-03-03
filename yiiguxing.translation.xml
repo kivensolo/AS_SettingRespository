@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MITER" />
+      <item value="BEVEL" />
       <item value="The Join specifies the treatment where lines and curve segments * join on a stroked path. The default is MITER." />
       <item value="BUTT" />
       <item value="and does not project beyond it" />
@@ -49,13 +51,11 @@
       <item value="INCREMENT" />
       <item value="Skim Over" />
       <item value="instantiate" />
-      <item value="Could not find method onClick(View) in a parent or ancestor Context for android:onClick attribute defined on view class" />
-      <item value="ancestor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="270" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
