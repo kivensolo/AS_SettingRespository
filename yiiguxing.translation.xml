@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values" />
+      <item value="Instructs the Kotlin compiler not to generate getters/setters for this property and expose it as a field." />
       <item value="Pass 0 to stroke in hairline mode" />
       <item value="Set the width for stroking" />
       <item value="Visibility Aware Image Button" />
@@ -49,13 +51,11 @@
       <item value="Minimum velocity to initiate a fling, as measured in pixels per second." />
       <item value="Retrieve the last computed X velocity" />
       <item value="A value of 1 * provides pixels per millisecond, 1000 provides pixels per second" />
-      <item value="Velocity Tracker" />
-      <item value="1000 provides pixels per second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
