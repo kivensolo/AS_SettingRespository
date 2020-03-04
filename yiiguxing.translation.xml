@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create an implementation of the API endpoints" />
+      <item value="defined by the {@code service} interface" />
+      <item value="Create an implementation of the API endpoints defined by the {@code service} interface" />
       <item value="Provides a mechanism for receiving push-based notifications." />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java" />
       <item value="You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
@@ -48,14 +51,11 @@
       <item value="Color Flip" />
       <item value="where each element is calculated by calling the specified * [init] function." />
       <item value="The function [init] is called for each array element sequentially starting from the first one. * It should return the value for an array element given its index." />
-      <item value="Rfactor in 2020/2/15 with kotlin" />
-      <item value="portrait" />
-      <item value="Minimum velocity to initiate a fling, as measured in pixels per second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
