@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java" />
       <item value="You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
       <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema" />
       <item value="Garden Fit Details" />
@@ -50,12 +51,11 @@
       <item value="portrait" />
       <item value="Minimum velocity to initiate a fling, as measured in pixels per second" />
       <item value="Minimum velocity to initiate a fling, as measured in pixels per second." />
-      <item value="Retrieve the last computed X velocity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
