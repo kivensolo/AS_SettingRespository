@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selections" />
       <item value="Stuck" />
       <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
       <item value="Requests made with this annotation will have" />
@@ -50,12 +51,11 @@
       <item value="The path within the AssetManager where the app will look for assets." />
       <item value="use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute" />
       <item value="To specify a top-level Dart function to execute," />
-      <item value="Configures, bootstraps, and starts executing Dart code." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
