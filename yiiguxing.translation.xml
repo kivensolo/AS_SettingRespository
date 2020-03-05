@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="debounce" />
       <item value="fashion" />
       <item value="Calling the {@code Observer}'s method must happen in a serialized fashion" />
       <item value="or the {@code Observer}'s * {@link #onError} method exactly once" />
@@ -50,12 +51,11 @@
       <item value="No preferred FlutterEngine was provided" />
       <item value="INCREMENT" />
       <item value="Skim Over" />
-      <item value="instantiate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
