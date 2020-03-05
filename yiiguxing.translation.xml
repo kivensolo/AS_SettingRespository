@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stuck" />
       <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
       <item value="Requests made with this annotation will have" />
       <item value="equests made with this annotation will have" />
@@ -50,12 +51,11 @@
       <item value="use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute" />
       <item value="To specify a top-level Dart function to execute," />
       <item value="Configures, bootstraps, and starts executing Dart code." />
-      <item value="To specify a top-level Dart function to execute, use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute, and which Dart function to use as * the entrypoint. To execute the entrypoint, pass the {@link DartEntrypoint} to * {@link #executeDartEntrypoint(DartEntrypoint)}. * &lt;p&gt; * To specify a Dart callback to execute, use a {@link DartCallback}. A given Dart callback must * be registered with the Dart VM to be invoked by a {@link DartExecutor}. To execute the callback, * pass the {@link DartCallback} to {@link #executeDartCallback(DartCallback)}. * TODO(mattcarroll): add a reference to docs about background/plugin execution * &lt;p&gt; * Once started, a {@link DartExecutor} cannot be stopped. The associated Dart code will execute * until it completes, or until the {@link io.flutter.embedding.engine.FlutterEngine} that owns * this {@link DartExecutor} is destroyed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
