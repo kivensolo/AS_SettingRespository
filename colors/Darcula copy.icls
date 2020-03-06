@@ -4,7 +4,7 @@
     <property name="created">2019-03-13T11:29:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2020-03-05T11:20:37</property>
+    <property name="modified">2020-03-06T09:51:54</property>
     <property name="originalScheme">My_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -921,7 +921,8 @@
     </option>
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="247877" />
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
@@ -1413,7 +1414,8 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="247877" />
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPO">
