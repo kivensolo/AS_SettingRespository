@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Composite" />
+      <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="Selections" />
       <item value="Stuck" />
       <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
@@ -49,13 +51,11 @@
       <item value="Main entry point for using Flutter in Android applications." />
       <item value="dart Entrypoint Function Name" />
       <item value="The path within the AssetManager where the app will look for assets." />
-      <item value="use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute" />
-      <item value="To specify a top-level Dart function to execute," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
