@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fitness" />
       <item value="gossapit" />
       <item value="consumed" />
       <item value="Composite" />
@@ -50,12 +51,11 @@
       <item value="Loop" />
       <item value="Auto Cycle" />
       <item value="Cycle" />
-      <item value="Main entry point for using Flutter in Android applications." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
