@@ -1,19 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="reserved word" />
-      <item value="reserved" />
-      <item value="alled anytime to cancel the connection" />
-      <item value="Returns true if this resource has been disposed" />
-      <item value="idempotent" />
-      <item value="Dispose the resource, the operation should be idempotent." />
-      <item value="Dispose the resource," />
-      <item value="disposable" />
-      <item value="Represents a disposable resource" />
-      <item value="Provides the Observer with the means of cancelling (disposing) the * connection (channel) with the Observable in both * synchronous (from within {@link #onNext(Object)}) and asynchronous manner. * @param d the Disposable instance whose {@link Disposable#dispose()} can * be called anytime to cancel the connection" />
-      <item value="Create an implementation of the API endpoints" />
-      <item value="defined by the {@code service} interface" />
-      <item value="Create an implementation of the API endpoints defined by the {@code service} interface" />
+      <item value="Subtracts the other value from this value" />
+      <item value="Subtracts the other value from this value." />
+      <item value="grade" />
+      <item value="is Send Login Edu Vip" />
+      <item value="Subscription" />
+      <item value="Special Bean" />
+      <item value="proto" />
+      <item value="Fitness" />
+      <item value="gossapit" />
+      <item value="consumed" />
+      <item value="Composite" />
+      <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
+      <item value="Selections" />
+      <item value="Stuck" />
+      <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
+      <item value="Requests made with this annotation will have" />
+      <item value="equests made with this annotation will have" />
+      <item value="Fields should be declared as * parameters and annotated with {@link Field @Field}" />
+      <item value="Denotes that the request body will use form URL encoding" />
+      <item value="Grade" />
+      <item value="debounce" />
+      <item value="fashion" />
+      <item value="Calling the {@code Observer}'s method must happen in a serialized fashion" />
+      <item value="or the {@code Observer}'s * {@link #onError} method exactly once" />
+      <item value="exactly once" />
+      <item value="A well-behaved" />
+      <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications." />
+      <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications" />
+      <item value="sequence" />
       <item value="Provides a mechanism for receiving push-based notifications." />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java" />
       <item value="You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
@@ -35,30 +51,15 @@
       <item value="space Between Items" />
       <item value="auto Packing" />
       <item value="Observer" />
-      <item value="Packing" />
-      <item value="Inertial" />
-      <item value="duration On Inertial" />
-      <item value="Looping" />
-      <item value="Loop" />
-      <item value="Auto Cycle" />
-      <item value="Cycle" />
-      <item value="Main entry point for using Flutter in Android applications." />
-      <item value="dart Entrypoint Function Name" />
-      <item value="The path within the AssetManager where the app will look for assets." />
-      <item value="use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute" />
-      <item value="To specify a top-level Dart function to execute," />
-      <item value="Configures, bootstraps, and starts executing Dart code." />
-      <item value="To specify a top-level Dart function to execute, use a {@link DartEntrypoint} to tell * {@link DartExecutor} where to find the Dart code to execute, and which Dart function to use as * the entrypoint. To execute the entrypoint, pass the {@link DartEntrypoint} to * {@link #executeDartEntrypoint(DartEntrypoint)}. * &lt;p&gt; * To specify a Dart callback to execute, use a {@link DartCallback}. A given Dart callback must * be registered with the Dart VM to be invoked by a {@link DartExecutor}. To execute the callback, * pass the {@link DartCallback} to {@link #executeDartCallback(DartCallback)}. * TODO(mattcarroll): add a reference to docs about background/plugin execution * &lt;p&gt; * Once started, a {@link DartExecutor} cannot be stopped. The associated Dart code will execute * until it completes, or until the {@link io.flutter.embedding.engine.FlutterEngine} that owns * this {@link DartExecutor} is destroyed." />
-      <item value="Hook for subclasses to easily configure a {@code FlutterEngine}, e.g., register * plugins." />
-      <item value="The {@code Fragment} support library adds 100k of binary size to an app, and full-Flutter * apps do not otherwise require that binary hit. Therefore, it was concluded that Flutter * must provide a {@link FlutterActivity} based on the AOSP {@code Activity}, and an independent * {@link FlutterFragment} for add-to-app developers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="290" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
+        <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
