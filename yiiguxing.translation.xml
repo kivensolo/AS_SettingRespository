@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grade" />
       <item value="is Send Login Edu Vip" />
       <item value="Subscription" />
       <item value="Special Bean" />
@@ -50,12 +51,11 @@
       <item value="Observer" />
       <item value="Packing" />
       <item value="Inertial" />
-      <item value="duration On Inertial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="288" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
