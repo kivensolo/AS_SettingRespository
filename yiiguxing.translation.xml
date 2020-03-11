@@ -1,19 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Use {@link #fromCallable(Callable)} * to generate a single item on demand" />
-      <item value="by any means" />
-      <item value="as is and not computed by any means by {@code just}" />
-      <item value="as is" />
-      <item value="Note that the item is taken and re-emitted" />
-      <item value="constant reference" />
-      <item value="signals" />
-      <item value="Returns an Observable that signals the given (constant reference) item and then completes" />
-      <item value="the item to emit" />
-      <item value="Note that the item is taken and re-emitted as is and not computed by any means by {@code just}" />
-      <item value="observe" />
-      <item value="unlogin" />
-      <item value="Guest" />
+      <item value="Cache in file only" />
+      <item value="Cache domain optimized for property storing" />
+      <item value="aspect ratio" />
       <item value="Subtracts the other value from this value" />
       <item value="Subtracts the other value from this value." />
       <item value="grade" />
@@ -51,15 +41,24 @@
       <item value="Pass 0 to stroke in hairline mode" />
       <item value="Set the width for stroking" />
       <item value="Visibility Aware Image Button" />
+      <item value="Aware" />
+      <item value="obsolete" />
+      <item value="Dummy View" />
+      <item value="appendix" />
+      <item value="classifier" />
+      <item value="intersects" />
+      <item value="Indent" />
+      <item value="Ratio" />
+      <item value="Parking" />
+      <item value="Pack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="293" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="GERMAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
