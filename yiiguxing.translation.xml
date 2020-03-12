@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial Delay" />
+      <item value="observe" />
+      <item value="subscribe" />
       <item value="have the same width and height equal to the min-edge of the result image." />
       <item value="Does not maintain the image's aspect ratio" />
       <item value="Crop" />
@@ -48,14 +51,11 @@
       <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications." />
       <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications" />
       <item value="sequence" />
-      <item value="Provides a mechanism for receiving push-based notifications." />
-      <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java" />
-      <item value="You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="313" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
