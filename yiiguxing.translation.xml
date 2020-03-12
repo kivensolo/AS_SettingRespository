@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entrance Bean" />
+      <item value="Entrance" />
       <item value="Defines whether the ViewGroup will clip its children and resize (but not clip) any EdgeEffect to its padding, if padding is not zero. This property is set to true by default" />
       <item value="Defines whether a child is limited to draw inside of its bounds or not. This is useful with animations that scale the size of the children to more than 100% for instance. In such a case, this property should be set to false to allow the children to draw outside of their bounds. The default value of this property is true" />
       <item value="seminar" />
@@ -49,13 +51,11 @@
       <item value="Aware" />
       <item value="obsolete" />
       <item value="Dummy View" />
-      <item value="appendix" />
-      <item value="classifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="301" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
