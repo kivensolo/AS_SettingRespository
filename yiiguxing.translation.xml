@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seminar" />
+      <item value="Restricted" />
       <item value="entrance" />
       <item value="Cache in file only" />
       <item value="Cache domain optimized for property storing" />
@@ -49,13 +51,11 @@
       <item value="classifier" />
       <item value="intersects" />
       <item value="Indent" />
-      <item value="Ratio" />
-      <item value="Parking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="296" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
