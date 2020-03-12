@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="have the same width and height equal to the min-edge of the result image." />
+      <item value="Does not maintain the image's aspect ratio" />
+      <item value="Crop" />
+      <item value="Circle Crop" />
       <item value="Legacy Public APIs" />
       <item value="MODELS REQUIRING BITMAP LOCK" />
       <item value="Defines whether a child is limited to draw inside of its bounds or not" />
@@ -47,15 +51,11 @@
       <item value="Provides a mechanism for receiving push-based notifications." />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java" />
       <item value="You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
-      <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema" />
-      <item value="Garden Fit Details" />
-      <item value="Pass 0 to stroke in hairline mode" />
-      <item value="Set the width for stroking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="310" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
