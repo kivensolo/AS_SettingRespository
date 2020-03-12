@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Defines whether a child is limited to draw inside of its bounds or not" />
       <item value="intermediates" />
       <item value="Entrance Bean" />
       <item value="Entrance" />
@@ -50,12 +51,11 @@
       <item value="Set the width for stroking" />
       <item value="Visibility Aware Image Button" />
       <item value="Aware" />
-      <item value="obsolete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="303" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
