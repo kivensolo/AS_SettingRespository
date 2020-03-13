@@ -1,6 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Fading Left Edge Offset" />
+      <item value="DECORATION" />
+      <item value="item Alignment Offset Percent" />
+      <item value="Fading" />
+      <item value="trial start" />
+      <item value="Cloud" />
+      <item value="initial Delay" />
+      <item value="observe" />
+      <item value="subscribe" />
+      <item value="have the same width and height equal to the min-edge of the result image." />
+      <item value="Does not maintain the image's aspect ratio" />
+      <item value="Crop" />
+      <item value="Circle Crop" />
+      <item value="Legacy Public APIs" />
+      <item value="MODELS REQUIRING BITMAP LOCK" />
+      <item value="Defines whether a child is limited to draw inside of its bounds or not" />
+      <item value="intermediates" />
+      <item value="Entrance Bean" />
+      <item value="Entrance" />
+      <item value="Defines whether the ViewGroup will clip its children and resize (but not clip) any EdgeEffect to its padding, if padding is not zero. This property is set to true by default" />
+      <item value="Defines whether a child is limited to draw inside of its bounds or not. This is useful with animations that scale the size of the children to more than 100% for instance. In such a case, this property should be set to false to allow the children to draw outside of their bounds. The default value of this property is true" />
+      <item value="seminar" />
+      <item value="Restricted" />
+      <item value="entrance" />
       <item value="Cache in file only" />
       <item value="Cache domain optimized for property storing" />
       <item value="aspect ratio" />
@@ -27,35 +51,11 @@
       <item value="debounce" />
       <item value="fashion" />
       <item value="Calling the {@code Observer}'s method must happen in a serialized fashion" />
-      <item value="or the {@code Observer}'s * {@link #onError} method exactly once" />
-      <item value="exactly once" />
-      <item value="A well-behaved" />
-      <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications." />
-      <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications" />
-      <item value="sequence" />
-      <item value="Provides a mechanism for receiving push-based notifications." />
-      <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java" />
-      <item value="You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
-      <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema" />
-      <item value="Garden Fit Details" />
-      <item value="Pass 0 to stroke in hairline mode" />
-      <item value="Set the width for stroking" />
-      <item value="Visibility Aware Image Button" />
-      <item value="Aware" />
-      <item value="obsolete" />
-      <item value="Dummy View" />
-      <item value="appendix" />
-      <item value="classifier" />
-      <item value="intersects" />
-      <item value="Indent" />
-      <item value="Ratio" />
-      <item value="Parking" />
-      <item value="Pack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="319" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
