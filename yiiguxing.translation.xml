@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fading" />
       <item value="trial start" />
       <item value="Cloud" />
       <item value="initial Delay" />
@@ -50,12 +51,11 @@
       <item value="or the {@code Observer}'s * {@link #onError} method exactly once" />
       <item value="exactly once" />
       <item value="A well-behaved" />
-      <item value="then the * {@code ObservableSource} may call the Observer's {@link #onNext} method any number of times * to provide notifications." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="316" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
