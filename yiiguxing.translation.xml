@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amlogic" />
+      <item value="integrated" />
       <item value="set Fading Left Edge Offset" />
       <item value="DECORATION" />
       <item value="item Alignment Offset Percent" />
@@ -49,13 +51,11 @@
       <item value="Denotes that the request body will use form URL encoding" />
       <item value="Grade" />
       <item value="debounce" />
-      <item value="fashion" />
-      <item value="Calling the {@code Observer}'s method must happen in a serialized fashion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="321" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
