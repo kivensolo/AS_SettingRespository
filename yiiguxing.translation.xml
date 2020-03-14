@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the measure specification to extract the size from * @return the size in pixels defined in the supplied measure specification" />
+      <item value="Measure specification mode: The child can be as large as it wants up * to the specified size." />
+      <item value="Measure specification mode: The parent has not imposed any constraint * on the child. It can be whatever size it wants." />
+      <item value="Measure specification mode: The parent has determined an exact size * for the child. The child is going to be given those bounds regardless * of how big it wants to be." />
+      <item value="UNSPECIFIED" />
+      <item value="AT MOST" />
+      <item value="EXACTLY" />
       <item value="set Fading Left Edge Offset" />
       <item value="DECORATION" />
       <item value="item Alignment Offset Percent" />
@@ -44,18 +51,11 @@
       <item value="Stuck" />
       <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
       <item value="Requests made with this annotation will have" />
-      <item value="equests made with this annotation will have" />
-      <item value="Fields should be declared as * parameters and annotated with {@link Field @Field}" />
-      <item value="Denotes that the request body will use form URL encoding" />
-      <item value="Grade" />
-      <item value="debounce" />
-      <item value="fashion" />
-      <item value="Calling the {@code Observer}'s method must happen in a serialized fashion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="326" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
