@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Compute the bounds of the control points of the path, and write the * answer into bounds. If the path contains 0 or 1 points, the bounds is * set to (0,0,0,0)" />
       <item value="the size in pixels defined in the supplied measure specification" />
       <item value="* Measure specification mode: The parent has determined an exact size * for the child. The child is going to be given those bounds regardless * of how big it wants to be." />
       <item value="EXACTLY" />
@@ -50,12 +51,11 @@
       <item value="Composite" />
       <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="Selections" />
-      <item value="Stuck" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="330" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
