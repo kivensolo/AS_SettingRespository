@@ -1,16 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="* Compute the bounds of the control points of the path, and write the * answer into bounds. If the path contains 0 or 1 points, the bounds is * set to (0,0,0,0)" />
-      <item value="the size in pixels defined in the supplied measure specification" />
-      <item value="* Measure specification mode: The parent has determined an exact size * for the child. The child is going to be given those bounds regardless * of how big it wants to be." />
-      <item value="EXACTLY" />
-      <item value="the measure specification to extract the size from * @return the size in pixels defined in the supplied measure specification" />
-      <item value="Measure specification mode: The child can be as large as it wants up * to the specified size." />
-      <item value="Measure specification mode: The parent has not imposed any constraint * on the child. It can be whatever size it wants." />
-      <item value="Measure specification mode: The parent has determined an exact size * for the child. The child is going to be given those bounds regardless * of how big it wants to be." />
-      <item value="UNSPECIFIED" />
-      <item value="AT MOST" />
+      <item value="confirm btn" />
+      <item value="is Translucent Or Floating" />
+      <item value="present" />
+      <item value="amlogic" />
+      <item value="integrated" />
       <item value="set Fading Left Edge Offset" />
       <item value="DECORATION" />
       <item value="item Alignment Offset Percent" />
@@ -51,15 +46,20 @@
       <item value="Composite" />
       <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="Selections" />
+      <item value="Stuck" />
+      <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
+      <item value="Requests made with this annotation will have" />
+      <item value="equests made with this annotation will have" />
+      <item value="Fields should be declared as * parameters and annotated with {@link Field @Field}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="323" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="MALAY" value="1" />
+        <entry key="MALAY" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
