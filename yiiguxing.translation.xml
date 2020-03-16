@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="glide" />
+      <item value="GeneratedAppGlideModuleImpl is implemented incorrectly" />
+      <item value="incorrectly" />
       <item value="gift Vip" />
       <item value="Free Vip" />
       <item value="gift" />
@@ -48,14 +51,11 @@
       <item value="Fitness" />
       <item value="gossapit" />
       <item value="consumed" />
-      <item value="Composite" />
-      <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
-      <item value="Selections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="330" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
