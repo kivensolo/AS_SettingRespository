@@ -1,12 +1,12 @@
 <templateSet group="KLog">
-  <template name="kld" value="KLog.d(TAG,&quot;$MSG$&quot;);" description="debug leval of klog" toReformat="false" toShortenFQNames="true">
+  <template name="kld" value="KLog.d(TAG,&quot;$MSG$&quot;)" description="debug leval of klog" toReformat="false" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="kle" value="KLog.e(TAG,&quot;$MSG$&quot;);" description="error leval of klog" toReformat="false" toShortenFQNames="true">
+  <template name="kle" value="KLog.e(TAG,&quot;$MSG$&quot;)" description="error leval of klog" toReformat="false" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
