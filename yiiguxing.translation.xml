@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gift Vip" />
+      <item value="Free Vip" />
+      <item value="gift" />
+      <item value="Free" />
       <item value="OVERDUE" />
       <item value="confirm btn" />
       <item value="is Translucent Or Floating" />
@@ -47,21 +51,19 @@
       <item value="Composite" />
       <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="Selections" />
-      <item value="Stuck" />
-      <item value="Field names and values will be UTF-8 encoded before being URI-encoded in accordance to" />
-      <item value="Requests made with this annotation will have" />
-      <item value="equests made with this annotation will have" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="326" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="MALAY" value="2" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
