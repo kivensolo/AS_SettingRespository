@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the path (outline) for the specified text." />
+      <item value="specified" />
+      <item value="in the paint" />
+      <item value="respect" />
+      <item value="just like Canvas.drawText, this will respect the Align setting * in the paint." />
       <item value="Plus" />
       <item value="Bolt" />
       <item value="Must be allocated by the caller" />
@@ -46,16 +51,11 @@
       <item value="aspect ratio" />
       <item value="Subtracts the other value from this value" />
       <item value="Subtracts the other value from this value." />
-      <item value="grade" />
-      <item value="is Send Login Edu Vip" />
-      <item value="Subscription" />
-      <item value="Special Bean" />
-      <item value="proto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="337" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BOSNIAN" value="1" />
