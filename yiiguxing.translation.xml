@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quit" />
+      <item value="quite" />
       <item value="Stamp" />
       <item value="Chart View" />
       <item value="visual" />
@@ -49,13 +51,11 @@
       <item value="trial start" />
       <item value="Cloud" />
       <item value="initial Delay" />
-      <item value="observe" />
-      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="363" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
