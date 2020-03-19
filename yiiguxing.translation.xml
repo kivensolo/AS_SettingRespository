@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A set of values that the animation will animate between over time." />
+      <item value="The name of the property being animated." />
+      <item value="Instead, it is simply started" />
+      <item value="There is no duration, interpolation" />
+      <item value="This class provides a simple callback mechanism to listeners that is synchronized with all * other animators in the system. There is no duration, interpolation, or object value-setting * with this Animator. Instead, it is simply started, after which it proceeds to send out events * on every animation frame to its TimeListener (if set), with information about this animator, * the total elapsed time, and the elapsed time since the previous animation frame." />
+      <item value="This subclass of {@link ValueAnimator} provides support for animating properties on target objects. * The constructors of this class take parameters to define the target object that will be animated * as well as the name of the property that will be animated. Appropriate set/get functions * are then determined internally and the animation will call these functions as necessary to * animate the property." />
+      <item value="Shape" />
+      <item value="Radial Gradient" />
       <item value="set Facet" />
       <item value="set Label Visual" />
       <item value="Visual" />
@@ -43,19 +51,11 @@
       <item value="DECORATION" />
       <item value="item Alignment Offset Percent" />
       <item value="Fading" />
-      <item value="trial start" />
-      <item value="Cloud" />
-      <item value="initial Delay" />
-      <item value="observe" />
-      <item value="subscribe" />
-      <item value="have the same width and height equal to the min-edge of the result image." />
-      <item value="Does not maintain the image's aspect ratio" />
-      <item value="Crop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="364" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
