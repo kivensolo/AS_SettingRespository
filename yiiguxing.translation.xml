@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&gt;This class is not constructed by the caller" />
+      <item value="simultaneous" />
+      <item value="This class may provide better performance for several simultaneous animations" />
+      <item value="invalidate" />
+      <item value="If only one or two properties on a View object are being animated" />
+      <item value="automatic" />
+      <item value="properties" />
+      <item value="This class enables automatic and optimized animation of select properties on View objects." />
       <item value="A set of values that the animation will animate between over time." />
       <item value="The name of the property being animated." />
       <item value="Instead, it is simply started" />
@@ -43,19 +51,11 @@
       <item value="Free" />
       <item value="OVERDUE" />
       <item value="confirm btn" />
-      <item value="is Translucent Or Floating" />
-      <item value="present" />
-      <item value="amlogic" />
-      <item value="integrated" />
-      <item value="set Fading Left Edge Offset" />
-      <item value="DECORATION" />
-      <item value="item Alignment Offset Percent" />
-      <item value="Fading" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="374" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
