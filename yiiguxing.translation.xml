@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Death Recipient" />
       <item value="recipient" />
       <item value="Register the recipient for a notification if this binder * goes away. If this binder object unexpectedly goes away * (typically because its hosting process has been killed), * then the given {@link DeathRecipient}'s * {@link DeathRecipient#binderDied DeathRecipient.binderDied()} method * will be called." />
       <item value="Binder invocation to an incorrect interface" />
@@ -50,12 +51,11 @@
       <item value="Bolt" />
       <item value="Must be allocated by the caller" />
       <item value="glide" />
-      <item value="GeneratedAppGlideModuleImpl is implemented incorrectly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="385" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
