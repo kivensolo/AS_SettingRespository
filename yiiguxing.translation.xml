@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="studio" />
+      <item value="Praesent viverra bibendum semper" />
+      <item value="Fusce id nisi turpis" />
+      <item value="Google Demo Slam_ 20ft Search" />
+      <item value="fast Lane" />
+      <item value="set fastLane (or headers) background color" />
+      <item value="search Affordance Color" />
+      <item value="brand Color" />
+      <item value="The headers fragment is enabled and shown by default" />
+      <item value="Loads a grid of cards with movies to browse" />
       <item value="Death Recipient" />
       <item value="recipient" />
       <item value="Register the recipient for a notification if this binder * goes away. If this binder object unexpectedly goes away * (typically because its hosting process has been killed), * then the given {@link DeathRecipient}'s * {@link DeathRecipient#binderDied DeathRecipient.binderDied()} method * will be called." />
@@ -38,34 +48,26 @@
       <item value="Badge" />
       <item value="A CardPresenter is used to generate Views and bind Objects to them on demand" />
       <item value="Facet" />
-      <item value="Loads a grid of cards with movies to browse" />
       <item value="Book Shop" />
       <item value="the y coordinate of the text's origin" />
       <item value="the x coordinate of the text's origin" />
-      <item value="Return the path (outline) for the specified text." />
-      <item value="specified" />
-      <item value="in the paint" />
-      <item value="respect" />
-      <item value="just like Canvas.drawText, this will respect the Align setting * in the paint." />
-      <item value="Plus" />
-      <item value="Bolt" />
-      <item value="Must be allocated by the caller" />
-      <item value="glide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="393" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="BOSNIAN" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="MALAY" value="3" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
