@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Binder invocation to an incorrect interface" />
+      <item value="explicit" />
+      <item value="Retrieve the Binder object associated with this interface. * You must use this instead of a plain cast, so that proxy objects * can return the correct result." />
       <item value="sikai" />
       <item value="View Property Animator" />
       <item value="The value to be animated to" />
@@ -48,14 +51,11 @@
       <item value="GeneratedAppGlideModuleImpl is implemented incorrectly" />
       <item value="incorrectly" />
       <item value="gift Vip" />
-      <item value="Free Vip" />
-      <item value="gift" />
-      <item value="Free" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="380" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
