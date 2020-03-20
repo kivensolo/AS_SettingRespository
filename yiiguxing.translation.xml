@@ -1,28 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Your anti-virus program might be impacting your build performance. Android Studio checked the following directories:" />
-      <item value="impacting" />
-      <item value="&gt;This class is not constructed by the caller" />
-      <item value="simultaneous" />
-      <item value="This class may provide better performance for several simultaneous animations" />
-      <item value="invalidate" />
-      <item value="If only one or two properties on a View object are being animated" />
-      <item value="automatic" />
-      <item value="properties" />
-      <item value="This class enables automatic and optimized animation of select properties on View objects." />
-      <item value="A set of values that the animation will animate between over time." />
-      <item value="The name of the property being animated." />
-      <item value="Instead, it is simply started" />
-      <item value="There is no duration, interpolation" />
-      <item value="This class provides a simple callback mechanism to listeners that is synchronized with all * other animators in the system. There is no duration, interpolation, or object value-setting * with this Animator. Instead, it is simply started, after which it proceeds to send out events * on every animation frame to its TimeListener (if set), with information about this animator, * the total elapsed time, and the elapsed time since the previous animation frame." />
-      <item value="This subclass of {@link ValueAnimator} provides support for animating properties on target objects. * The constructors of this class take parameters to define the target object that will be animated * as well as the name of the property that will be animated. Appropriate set/get functions * are then determined internally and the animation will call these functions as necessary to * animate the property." />
-      <item value="Shape" />
-      <item value="Radial Gradient" />
-      <item value="set Facet" />
+      <item value="Death Recipient" />
+      <item value="recipient" />
+      <item value="Register the recipient for a notification if this binder * goes away. If this binder object unexpectedly goes away * (typically because its hosting process has been killed), * then the given {@link DeathRecipient}'s * {@link DeathRecipient#binderDied DeathRecipient.binderDied()} method * will be called." />
+      <item value="Binder invocation to an incorrect interface" />
+      <item value="explicit" />
+      <item value="Retrieve the Binder object associated with this interface. * You must use this instead of a plain cast, so that proxy objects * can return the correct result." />
+      <item value="sikai" />
+      <item value="View Property Animator" />
+      <item value="The value to be animated to" />
+      <item value="was suspected to be a leaked instance" />
+      <item value="The value in pixels that should be added to each line other than the last line. * This will be applied after the multiplier" />
+      <item value="The value by which each line height other than the last line will be multiplied * by" />
+      <item value="complex unit: Value is a scaled pixel" />
+      <item value="Interval" />
+      <item value="period" />
+      <item value="the operation should be idempotent" />
+      <item value="idempotent" />
+      <item value="Extral View" />
+      <item value="Rest" />
+      <item value="quit" />
+      <item value="quite" />
+      <item value="Stamp" />
+      <item value="Chart View" />
+      <item value="visual" />
+      <item value="Draw the text, with origin at (x,y), using the specified paint, along the specified path. The * paint's Align setting determins where along the path to start the text." />
+      <item value="along the specified path" />
       <item value="set Label Visual" />
       <item value="Visual" />
-      <item value="Chart View" />
       <item value="The children dealt with the focus disorder" />
       <item value="disorder" />
       <item value="serials" />
@@ -45,23 +51,17 @@
       <item value="Bolt" />
       <item value="Must be allocated by the caller" />
       <item value="glide" />
-      <item value="GeneratedAppGlideModuleImpl is implemented incorrectly" />
-      <item value="incorrectly" />
-      <item value="gift Vip" />
-      <item value="Free Vip" />
-      <item value="gift" />
-      <item value="Free" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="385" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="FRENCH" value="1" />
-        <entry key="MALAY" value="2" />
+        <entry key="MALAY" value="3" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ESPERANTO" value="1" />
