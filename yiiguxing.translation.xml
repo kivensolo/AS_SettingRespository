@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recipient" />
+      <item value="Register the recipient for a notification if this binder * goes away. If this binder object unexpectedly goes away * (typically because its hosting process has been killed), * then the given {@link DeathRecipient}'s * {@link DeathRecipient#binderDied DeathRecipient.binderDied()} method * will be called." />
       <item value="Binder invocation to an incorrect interface" />
       <item value="explicit" />
       <item value="Retrieve the Binder object associated with this interface. * You must use this instead of a plain cast, so that proxy objects * can return the correct result." />
@@ -49,13 +51,11 @@
       <item value="Must be allocated by the caller" />
       <item value="glide" />
       <item value="GeneratedAppGlideModuleImpl is implemented incorrectly" />
-      <item value="incorrectly" />
-      <item value="gift Vip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="386" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="384" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
