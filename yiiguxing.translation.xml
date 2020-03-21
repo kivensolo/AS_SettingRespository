@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fast Lane" />
+      <item value="brand" />
       <item value="Uses a lookup table for the Bezier curve from (0,0) to (1,1) with control points" />
       <item value="fast out linear in" />
       <item value="Fast Out Linear In Interpolator" />
@@ -36,7 +38,6 @@
       <item value="Praesent viverra bibendum semper" />
       <item value="Fusce id nisi turpis" />
       <item value="Google Demo Slam_ 20ft Search" />
-      <item value="fast Lane" />
       <item value="set fastLane (or headers) background color" />
       <item value="search Affordance Color" />
       <item value="brand Color" />
@@ -50,12 +51,11 @@
       <item value="sikai" />
       <item value="View Property Animator" />
       <item value="The value to be animated to" />
-      <item value="was suspected to be a leaked instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="428" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
