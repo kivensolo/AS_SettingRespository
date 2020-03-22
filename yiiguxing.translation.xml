@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="revert" />
       <item value="Restrict usage to code within the same group of libraries. * This corresponds to the gradle group ID." />
       <item value="LIBRARY GROUP" />
       <item value="Restrict To" />
@@ -50,12 +51,11 @@
       <item value="Fusce id nisi turpis" />
       <item value="Google Demo Slam_ 20ft Search" />
       <item value="set fastLane (or headers) background color" />
-      <item value="search Affordance Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="444" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
