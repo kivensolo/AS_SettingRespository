@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an array containing the specified elements" />
       <item value="An action contains one or two lines of text, an optional image and an optional id. It may also * be invoked by one or more keycodes." />
       <item value="shuffle" />
       <item value="Spinner Fragment" />
@@ -50,12 +51,11 @@
       <item value="recipient" />
       <item value="Register the recipient for a notification if this binder * goes away. If this binder object unexpectedly goes away * (typically because its hosting process has been killed), * then the given {@link DeathRecipient}'s * {@link DeathRecipient#binderDied DeathRecipient.binderDied()} method * will be called." />
       <item value="Binder invocation to an incorrect interface" />
-      <item value="explicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="434" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
