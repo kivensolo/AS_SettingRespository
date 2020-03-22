@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Restrict usage to code within the same group of libraries. * This corresponds to the gradle group ID." />
+      <item value="LIBRARY GROUP" />
+      <item value="Restrict To" />
+      <item value="TRANSPARENT" />
       <item value="shuffle" />
       <item value="Randomly shuffles elements in this mutable list." />
       <item value="he index at which the items should be inserted" />
@@ -47,15 +51,11 @@
       <item value="Google Demo Slam_ 20ft Search" />
       <item value="set fastLane (or headers) background color" />
       <item value="search Affordance Color" />
-      <item value="brand Color" />
-      <item value="Loads a grid of cards with movies to browse" />
-      <item value="Death Recipient" />
-      <item value="recipient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="443" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
