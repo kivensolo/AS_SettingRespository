@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="订购" />
       <item value="interactive rebase in progress" />
       <item value="You must edit all merge conflicts and then mark them as resolved using git add" />
       <item value="(use &quot;git rebase --continue&quot; once you are satisfied with your changes)" />
@@ -50,12 +51,11 @@
       <item value="dynamic interface" />
       <item value="A trivial Presenter that takes a string and renders it into a" />
       <item value="such as references to child views to be used when * binding to avoid expensive calls to" />
-      <item value="view state information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="468" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
