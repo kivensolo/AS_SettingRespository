@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thrown when a non-recoverable playback failure occurs" />
       <item value="album" />
       <item value="set Early Work Completed" />
       <item value="Seminar" />
@@ -50,12 +51,11 @@
       <item value="The headers fragment is enabled and shown by default" />
       <item value="Both background colors should be set because the view's background is temporarily visible // during animations." />
       <item value="during animations." />
-      <item value="entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="473" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="474" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
