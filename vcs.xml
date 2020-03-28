@@ -98,6 +98,10 @@
           <option name="url" value="git@gitlab.xgimi-dev.com:xgimi-ui-dev/LibMenu.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.xgimi-dev.com:xgimi-ui-dev/XgimiPlayer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work\SDK" />
