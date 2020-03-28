@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="responsible" />
+      <item value="We don't turn this method into a no-op if the surface is being replaced with itself // so as to ensure onRenderedFirstFrame callbacks are still called in this case." />
       <item value="Thrown when a non-recoverable playback failure occurs" />
       <item value="album" />
       <item value="set Early Work Completed" />
@@ -49,13 +51,11 @@
       <item value="Fast Out Linear In Interpolator" />
       <item value="Lookup table values sampled with x at regular intervals between 0 and 1 for a total of * 201 points." />
       <item value="The headers fragment is enabled and shown by default" />
-      <item value="Both background colors should be set because the view's background is temporarily visible // during animations." />
-      <item value="during animations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="477" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
