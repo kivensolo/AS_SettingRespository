@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fitness" />
       <item value="Joel" />
       <item value="Does all the initial setup of the button such as retrieving all the attributes that were * set in xml and inflating the like button's view and initial state." />
       <item value="This triggers the entire functionality of the button such as icon changes, * animations, listeners etc." />
@@ -50,12 +51,11 @@
       <item value="Restrict usage to code within the same group of libraries. * This corresponds to the gradle group ID." />
       <item value="LIBRARY GROUP" />
       <item value="Restrict To" />
-      <item value="TRANSPARENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="493" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="494" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
