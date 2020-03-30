@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="APPLICATION_ID is misleading in libraries" />
       <item value="An action name, such as ACTION_VIEW. Application-specific * actions should be prefixed with the vendor's package name." />
       <item value="Fitness" />
       <item value="Joel" />
@@ -50,12 +51,11 @@
       <item value="simulator" />
       <item value="revert" />
       <item value="Restrict usage to code within the same group of libraries. * This corresponds to the gradle group ID." />
-      <item value="LIBRARY GROUP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="497" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
