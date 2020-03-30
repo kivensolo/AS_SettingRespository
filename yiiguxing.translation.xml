@@ -73,6 +73,7 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="disableAppKeyNotification" value="true" />
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Yu Gothic UI" />
     <option name="translator" value="ai.youdao" />
