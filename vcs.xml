@@ -102,9 +102,13 @@
           <option name="url" value="git@gitlab.xgimi-dev.com:xgimi-ui-dev/XgimiPlayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kivensolo/K-TV.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work\SDK" />
+    <option name="cloneParentDir" value="E:\androidCode\GithubCode" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
