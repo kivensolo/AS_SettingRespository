@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RecyclerView introduces an additional level of abstraction between the {@link Adapter} and * {@link LayoutManager} to be able to detect data set changes in batches during a layout * calculation. This saves LayoutManager from tracking adapter changes to calculate animations. * It also helps with performance because all view bindings happen at the same time and unnecessary * bindings are avoided." />
+      <item value="A flexible view for providing a limited window into a large data set." />
       <item value="A new View that can be the next focus after the focused View" />
       <item value="Condition Item View" />
       <item value="The returned ViewTreeObserver observer is not guaranteed to remain * valid for the lifetime of this View. If the caller of this method keeps * a long-lived reference to ViewTreeObserver, it should always check for * the return value of {@link ViewTreeObserver#isAlive()}" />
@@ -49,13 +51,11 @@
       <item value="remaining" />
       <item value="interval" />
       <item value="thereafter" />
-      <item value="INSTALL FAILED UPDATE INCOMPATIBLE" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="523" />
+        <entry key="ENGLISH" value="514" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -73,7 +73,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="disableAppKeyNotification" value="true" />
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Yu Gothic UI" />
     <option name="translator" value="ai.youdao" />
