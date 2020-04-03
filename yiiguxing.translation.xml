@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pursure" />
       <item value="Programme" />
       <item value="Program" />
       <item value="Sets the padding. The view may add on the space required to display * the scrollbars, depending on the style and visibility of the scrollbars. * So the values returned from {@link #getPaddingLeft}, {@link #getPaddingTop}, * {@link #getPaddingRight} and {@link #getPaddingBottom} may be different * from the values set in this call." />
@@ -50,12 +51,11 @@
       <item value="Thrown when a non-recoverable playback failure occurs" />
       <item value="album" />
       <item value="set Early Work Completed" />
-      <item value="Seminar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="524" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
