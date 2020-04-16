@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partner" />
       <item value="Row" />
       <item value="should be recycled but actually still exists in 1 times detection with 0 created activities during destroy, wait for next detection to confirm" />
       <item value="should be recycled but actually still" />
@@ -50,7 +51,6 @@
       <item value="Scorpio" />
       <item value="Composite" />
       <item value="pursure" />
-      <item value="Programme" />
     </histories>
     <option name="languageScores">
       <map>
