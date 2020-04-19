@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transparent" />
+      <item value="Bitmap" />
+      <item value="Child views of this ViewGroup" />
+      <item value="the view at the specified position or null if the position * does not exist within the group" />
+      <item value="Returns the view at the specified position in the group" />
+      <item value="subposition" />
+      <item value="set On Child Laid Out Listener" />
       <item value="Metrics" />
       <item value="Call this view's OnClickListener, if it is defined. Performs all normal * actions associated with clicking: reporting accessibility event, playing * a sound, etc." />
       <item value="True there was an assigned OnClickListener that was called, false * otherwise is returned." />
@@ -44,18 +51,11 @@
       <item value="m Intrinsic Width" />
       <item value="This abstract class is used by {@link Drawable}s to store shared constant state and data * between Drawables" />
       <item value="get Intrinsic Width" />
-      <item value="similar to padding or margin. * The default implementation sets the bounds of outRect to 0 and returns" />
-      <item value="Retrieve any offsets for the given item. Each field of &lt;code&gt;outRect&lt;/code&gt; specifies * the number of pixels that the item view should be inset by" />
-      <item value="Chunk" />
-      <item value="layout Chunk" />
-      <item value="insets" />
-      <item value="set Window Alignment Offset" />
-      <item value="end Section" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="598" />
+        <entry key="ENGLISH" value="586" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
