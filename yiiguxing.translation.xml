@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A &lt;b&gt;mandatory&lt;/b&gt; lifecycle callback that is called when a load is cancelled and its resources * are freed" />
+      <item value="mandatory" />
+      <item value="if you are referencing the bitmap somewhere else too other than this imageView // clear it here as you can no longer have the bitmap" />
+      <item value="referencing" />
+      <item value="You &lt;b&gt;must&lt;/b&gt; ensure that any current Drawable received in {@link #onResourceReady(Object, * Transition)} is no longer used before redrawing the container (usually a View) or changing its * visibility." />
+      <item value="A &lt;b&gt;mandatory&lt;/b&gt; lifecycle callback that is called when a load is cancelled and its resources * are freed." />
       <item value="METADATA" />
       <item value="CLOSED CAPTION" />
       <item value="The value in pixels that should be added to each line other than the last line. * This will be applied after the multiplier" />
@@ -45,17 +51,11 @@
       <item value="True there was an assigned OnClickListener that was called, false * otherwise is returned." />
       <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="partner" />
-      <item value="Row" />
-      <item value="should be recycled but actually still exists in 1 times detection with 0 created activities during destroy, wait for next detection to confirm" />
-      <item value="should be recycled but actually still" />
-      <item value="is Largest View" />
-      <item value="on Back Down" />
-      <item value="integrated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="624" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
