@@ -6,4 +6,15 @@
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\btodo-zeke\b.*">
+      <option name="FOREGROUND" value="d3e012" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a92ec" />
+    </pattern>
+    <filter name="For Me">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
