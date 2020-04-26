@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot get property 'androidx' on extra properties extension as it does not exist" />
       <item value="To inline the bytecode built with JVM target 1.8 into // bytecode that is being built with JVM target 1.6." />
       <item value="set Selected Track" />
       <item value="Track(" />
@@ -50,12 +51,11 @@
       <item value="Chart" />
       <item value="portrait" />
       <item value="RESTART" />
-      <item value="INFINITE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="642" />
+        <entry key="CHINESE" value="656" />
+        <entry key="ENGLISH" value="643" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
