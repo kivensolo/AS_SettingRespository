@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Environmental Control" />
       <item value="bar Active" />
       <item value="on Complete" />
       <item value="on Completion" />
@@ -50,12 +51,11 @@
       <item value="The rectangle (in this View's coordinate system) * to give a finer grained hint about where focus is coming from. May be null * if there is no hint." />
       <item value="FOCUS BLOCK DESCENDANTS" />
       <item value="Descendant" />
-      <item value="Looks for a view to give focus to respecting the setting specified by" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="663" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="651" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
