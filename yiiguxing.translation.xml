@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;Repeat All&quot; mode to repeat the entire timeline infinitely" />
       <item value="flexible" />
       <item value="Environmental Control" />
       <item value="bar Active" />
@@ -50,12 +51,11 @@
       <item value="Notifies registered listeners that focus has changed." />
       <item value="handle Focus Gain Internal" />
       <item value="The rectangle (in this View's coordinate system) * to give a finer grained hint about where focus is coming from. May be null * if there is no hint." />
-      <item value="FOCUS BLOCK DESCENDANTS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="653" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
