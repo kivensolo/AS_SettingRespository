@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ironman" />
       <item value="&quot;Repeat All&quot; mode to repeat the entire timeline infinitely" />
       <item value="flexible" />
       <item value="Environmental Control" />
@@ -50,12 +51,11 @@
       <item value="dealt Recommend Next Item Set Focus" />
       <item value="Notifies registered listeners that focus has changed." />
       <item value="handle Focus Gain Internal" />
-      <item value="The rectangle (in this View's coordinate system) * to give a finer grained hint about where focus is coming from. May be null * if there is no hint." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="654" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
