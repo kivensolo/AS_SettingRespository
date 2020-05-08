@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Convenience method to scroll to a certain position" />
+      <item value="Convenience" />
       <item value="get Unfiltered Child Count" />
       <item value="By convention" />
       <item value="convention" />
@@ -49,13 +51,11 @@
       <item value="prevent" />
       <item value="A &lt;b&gt;mandatory&lt;/b&gt; lifecycle callback that is called when a load is cancelled and its resources * are freed" />
       <item value="mandatory" />
-      <item value="if you are referencing the bitmap somewhere else too other than this imageView // clear it here as you can no longer have the bitmap" />
-      <item value="referencing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="686" />
+        <entry key="ENGLISH" value="673" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
