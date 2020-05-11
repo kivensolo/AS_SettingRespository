@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Blend Mode" />
       <item value="Call this when something has changed which has invalidated the * layout of this view. This will schedule a layout pass of the view * tree." />
       <item value="artifacts" />
       <item value="@deprecated Use {@link #getArchiveClassifier()}" />
@@ -50,12 +51,11 @@
       <item value="Intentionally" />
       <item value="Intent" />
       <item value="Intention" />
-      <item value="Intentionally empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="683" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
