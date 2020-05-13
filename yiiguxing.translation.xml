@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dragged" />
+      <item value="The RecyclerView is currently being dragged by outside input such as user touch input" />
+      <item value="The RecyclerView is not currently scrolling" />
       <item value="An OnScrollListener can be added to a RecyclerView to receive messages when a scrolling event * has occurred on that RecyclerView" />
       <item value="individual" />
       <item value="readLock() can be work with flush progress in the same time" />
@@ -48,14 +51,11 @@
       <item value="on Img Zoom Point To Point" />
       <item value="VIDEO ARC JUSTSCAN" />
       <item value="Cannot get property 'androidx' on extra properties extension as it does not exist" />
-      <item value="To inline the bytecode built with JVM target 1.8 into // bytecode that is being built with JVM target 1.6." />
-      <item value="set Selected Track" />
-      <item value="Track(" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="707" />
+        <entry key="ENGLISH" value="694" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
