@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A LayoutManager wishing to keep focused views aligned in a specific * portion of the view may implement that behavior in an override of this method." />
+      <item value="Called when a descendant view of the RecyclerView requests focus" />
       <item value="Circular Reveal" />
       <item value="present" />
       <item value="The visual z position of this view" />
@@ -49,13 +51,11 @@
       <item value="INSTALL FAILED SHARED USER INCOMPATIBLE" />
       <item value="ironman" />
       <item value="&quot;Repeat All&quot; mode to repeat the entire timeline infinitely" />
-      <item value="flexible" />
-      <item value="Environmental Control" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="702" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="704" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
