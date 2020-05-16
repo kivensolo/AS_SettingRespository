@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="he final step of the layout where we save the information about views for animations, * trigger animations and do any necessary cleanup." />
+      <item value="always make sure we sync them (to ensure mode is exact)" />
+      <item value="First 2 steps are done in onMeasure but looks like we have to run again due to // changed size." />
+      <item value="predictive" />
+      <item value="If necessary, run predictive layout and save its information" />
+      <item value="save information about current views" />
+      <item value="decide which animation should run" />
+      <item value="process adapter updates" />
+      <item value="The first step of a layout where we" />
+      <item value="Scrap Data" />
+      <item value="If you want to recycle views across RecyclerViews, create an instance of RecycledViewPool" />
+      <item value="RecycledViewPool lets you share Views between multiple RecyclerViews" />
+      <item value="EdgeEffectFactory lets you customize the over-scroll edge effect for RecyclerViews" />
       <item value="bail out if layout is frozen" />
       <item value="set Adapter Internal" />
       <item value="The child of this ViewParent that wants focus. This view * will contain the focused view. It is not necessarily the view that * actually has focus" />
@@ -38,24 +51,11 @@
       <item value="present" />
       <item value="The visual z position of this view" />
       <item value="This callback will also be called if visible item range changes after a layout * calculation. In that case, dx and dy will be 0." />
-      <item value="Callback method to be invoked when the RecyclerView has been scrolled" />
-      <item value="This will be * called after the scroll has completed." />
-      <item value="FOREVER NS" />
-      <item value="The RecyclerView is currently animating to a final position while not under * outside control." />
-      <item value="dragged" />
-      <item value="The RecyclerView is currently being dragged by outside input such as user touch input" />
-      <item value="The RecyclerView is not currently scrolling" />
-      <item value="An OnScrollListener can be added to a RecyclerView to receive messages when a scrolling event * has occurred on that RecyclerView" />
-      <item value="individual" />
-      <item value="readLock() can be work with flush progress in the same time" />
-      <item value="This is the class for text whose content is immutable but to which * markup objects can be attached and detached." />
-      <item value="will skip focus dispatch and its all children" />
-      <item value="assistant thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="743" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="756" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
