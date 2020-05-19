@@ -4,7 +4,7 @@
     <property name="created">2019-03-13T11:29:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2020-04-03T17:26:53</property>
+    <property name="modified">2020-05-19T20:55:22</property>
     <property name="originalScheme">My_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -964,6 +964,11 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="28abee" />
       </value>
     </option>
     <option name="Line comment">
