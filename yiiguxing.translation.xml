@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Unbind View Holder" />
       <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="iven artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="Here are the highlights of this release:" />
@@ -50,12 +51,11 @@
       <item value="Returns the focused child of this view, if any. The child may have focus * or contain focus." />
       <item value="Containing" />
       <item value="The view that is a descendant of the RecyclerView" />
-      <item value="Traverses the ancestors of the given view and returns the item view that contains it and * also a direct child of the RecyclerView" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="797" />
+        <entry key="ENGLISH" value="784" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
