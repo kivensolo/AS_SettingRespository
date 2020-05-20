@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reveal" />
+      <item value="present" />
       <item value="Reveal" />
       <item value="on Unbind View Holder" />
       <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
@@ -49,13 +51,11 @@
       <item value="iteration" />
       <item value="The current iteration" />
       <item value="Returns the index of the child to draw for this iteration. Override this * if you want to change the drawing order of children. By default, it * returns i." />
-      <item value="Returns the focused child of this view, if any. The child may have focus * or contain focus." />
-      <item value="Containing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="801" />
+        <entry key="ENGLISH" value="788" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
