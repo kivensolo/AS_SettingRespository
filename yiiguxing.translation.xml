@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Helper class for displaying track selection dialogs." />
       <item value="player Needs Source" />
       <item value="did Layout" />
       <item value="Ask host how big it wants to be" />
@@ -50,12 +51,11 @@
       <item value="Number of pixels that it added. Useful for scroll functions" />
       <item value="If true, filling stops in the first focusable new child" />
       <item value="The magic functions :). Fills the given layout, defined by the layoutState. This is fairly * independent from the rest of the {@link android.support.v7.widget.LinearLayoutManager} * and with little change, can be made publicly available as a helper class." />
-      <item value="consumed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
-        <entry key="ENGLISH" value="812" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="813" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
