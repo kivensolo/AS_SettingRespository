@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called by RecyclerView when it starts observing this Adapter" />
       <item value="The exo player renderer track indexes" />
       <item value="Helper class for displaying track selection dialogs." />
       <item value="player Needs Source" />
@@ -50,12 +51,11 @@
       <item value="ugly bug fix. should not happen" />
       <item value="max offset we should set is mFastScroll + available" />
       <item value="Number of pixels that it added. Useful for scroll functions" />
-      <item value="If true, filling stops in the first focusable new child" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="814" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="816" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
