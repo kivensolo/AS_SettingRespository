@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when a view created by this adapter has been detached from its window" />
       <item value="Called when a view created by this adapter has been attached to a window" />
       <item value="The RecyclerView instance which started observing this adapter" />
       <item value="Keep in mind that same adapter may be observed by multiple RecyclerViews." />
@@ -50,12 +51,11 @@
       <item value="Number of pixels that we should fill, in the layout direction." />
       <item value="We calculate everything with View's bounding box (which includes decor and margins) // To calculate correct layout position, we subtract margins." />
       <item value="Chunk" />
-      <item value="layout Chunk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="832" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="833" />
+        <entry key="ENGLISH" value="820" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
