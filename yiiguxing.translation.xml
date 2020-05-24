@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when a view created by this adapter has been attached to a window" />
+      <item value="The RecyclerView instance which started observing this adapter" />
+      <item value="Keep in mind that same adapter may be observed by multiple RecyclerViews." />
       <item value="Called by RecyclerView when it starts observing this Adapter" />
       <item value="The exo player renderer track indexes" />
       <item value="Helper class for displaying track selection dialogs." />
@@ -48,14 +51,11 @@
       <item value="We calculate everything with View's bounding box (which includes decor and margins) // To calculate correct layout position, we subtract margins." />
       <item value="Chunk" />
       <item value="layout Chunk" />
-      <item value="ugly bug fix. should not happen" />
-      <item value="max offset we should set is mFastScroll + available" />
-      <item value="Number of pixels that it added. Useful for scroll functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="816" />
+        <entry key="CHINESE" value="832" />
+        <entry key="ENGLISH" value="819" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
