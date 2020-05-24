@@ -1,6 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The exo player renderer track indexes" />
+      <item value="Helper class for displaying track selection dialogs." />
+      <item value="player Needs Source" />
+      <item value="did Layout" />
+      <item value="Ask host how big it wants to be" />
+      <item value="m Report Next Draw" />
+      <item value="cache mView since it is used so much below" />
+      <item value="Traversal" />
+      <item value="The parent has not imposed any constraint on the child. It can be whatever size it wants." />
+      <item value="The child can be as large as it wants up to the specified size." />
+      <item value="The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
+      <item value="Sets the size of the padding between the compound drawables and * the text." />
+      <item value="Sets the Drawables (if any) to appear to the left of, above, to the * right of, and below the text. Use {@code null} if you do not want a * Drawable there. The Drawables must already have had * {@link Drawable#setBounds} called." />
+      <item value="Calling this method will overwrite any Drawables previously set using * {@link #setCompoundDrawablesRelative} or related methods." />
+      <item value="Compound" />
+      <item value="Sets the size of the padding between the compound drawables and * the text. *" />
+      <item value="size" />
+      <item value="bar Active" />
+      <item value="m Facets" />
+      <item value="Inactive" />
+      <item value="corresponding" />
+      <item value="LiveData is a data holder class that can be observed within a given lifecycle" />
+      <item value="Pending" />
+      <item value="Why? Why, to give you a taste of your future, a preview of things * to come. Con permiso, Capitan. The hall is rented, the orchestra * engaged. It's now time to see if you can dance." />
+      <item value="Not available for general use. If you need help, hang up and then dial one of the following * public APIs:" />
+      <item value="reveal" />
+      <item value="present" />
+      <item value="Reveal" />
+      <item value="on Unbind View Holder" />
       <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="iven artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="Here are the highlights of this release:" />
@@ -22,40 +51,11 @@
       <item value="max offset we should set is mFastScroll + available" />
       <item value="Number of pixels that it added. Useful for scroll functions" />
       <item value="If true, filling stops in the first focusable new child" />
-      <item value="The magic functions :). Fills the given layout, defined by the layoutState. This is fairly * independent from the rest of the {@link android.support.v7.widget.LinearLayoutManager} * and with little change, can be made publicly available as a helper class." />
-      <item value="consumed" />
-      <item value="layout algorithm" />
-      <item value="he final step of the layout where we save the information about views for animations, * trigger animations and do any necessary cleanup." />
-      <item value="always make sure we sync them (to ensure mode is exact)" />
-      <item value="First 2 steps are done in onMeasure but looks like we have to run again due to // changed size." />
-      <item value="predictive" />
-      <item value="If necessary, run predictive layout and save its information" />
-      <item value="save information about current views" />
-      <item value="decide which animation should run" />
-      <item value="process adapter updates" />
-      <item value="The first step of a layout where we" />
-      <item value="Scrap Data" />
-      <item value="If you want to recycle views across RecyclerViews, create an instance of RecycledViewPool" />
-      <item value="RecycledViewPool lets you share Views between multiple RecyclerViews" />
-      <item value="EdgeEffectFactory lets you customize the over-scroll edge effect for RecyclerViews" />
-      <item value="bail out if layout is frozen" />
-      <item value="set Adapter Internal" />
-      <item value="The child of this ViewParent that wants focus. This view * will contain the focused view. It is not necessarily the view that * actually has focus" />
-      <item value="The view that is a descendant of child that actually has * focus" />
-      <item value="dispatch Provide Structure" />
-      <item value="The index of the child to draw this iteration" />
-      <item value="iteration" />
-      <item value="The current iteration" />
-      <item value="Returns the index of the child to draw for this iteration. Override this * if you want to change the drawing order of children. By default, it * returns i." />
-      <item value="Returns the focused child of this view, if any. The child may have focus * or contain focus." />
-      <item value="Containing" />
-      <item value="The view that is a descendant of the RecyclerView" />
-      <item value="Traverses the ancestors of the given view and returns the item view that contains it and * also a direct child of the RecyclerView" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="814" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
