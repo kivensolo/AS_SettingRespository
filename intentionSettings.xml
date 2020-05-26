@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
+    <ignoreAction name="Kotlin/Add explicit type arguments" />
   </component>
 </application>
