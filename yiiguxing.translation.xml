@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scope" />
       <item value="permit" />
       <item value="`LiveData` containing their full name as a `String`." />
       <item value="Coroutine Scope" />
@@ -50,12 +51,11 @@
       <item value="delta" />
       <item value="interpolated Time" />
       <item value="Dummy" />
-      <item value="Dummy View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="839" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="840" />
+        <entry key="ENGLISH" value="827" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
