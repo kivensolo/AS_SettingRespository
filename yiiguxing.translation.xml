@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a LiveData that tries to load the `User` from local cache first and then tries to fetch * // from the server and also yields the updated value" />
+      <item value="A retrying data fetcher with doubling back-off" />
+      <item value="note that `while(true)` is fine because the `delay(30_000)` below will cooperate in * // cancellation if LiveData is not actively observed anymore" />
+      <item value="errors are ignored for brevity" />
+      <item value="as long as it is observed" />
+      <item value="a LiveData that fetches a `User` object based on a `userId` and refreshes it every 30 seconds" />
       <item value="[Dispatchers.Main] supports immediate execution for Android," />
       <item value="immediate" />
       <item value="m Bag Of Tags" />
@@ -45,17 +51,11 @@
       <item value="Why? Why, to give you a taste of your future, a preview of things * to come. Con permiso, Capitan. The hall is rented, the orchestra * engaged. It's now time to see if you can dance." />
       <item value="Not available for general use. If you need help, hang up and then dial one of the following * public APIs:" />
       <item value="reveal" />
-      <item value="present" />
-      <item value="Reveal" />
-      <item value="on Unbind View Holder" />
-      <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
-      <item value="iven artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
-      <item value="Here are the highlights of this release:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="839" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
