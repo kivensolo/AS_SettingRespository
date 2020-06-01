@@ -1,4 +1,1 @@
-# Android Studio Setting Respository
-### Automatic backup repository for my Android Studio configuration
-
-
+# The custom setting config respository of IntelliJ IDEA

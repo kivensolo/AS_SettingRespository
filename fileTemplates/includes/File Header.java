@@ -1,6 +1,7 @@
-/**
- * Copyright (c) ${YEAR}, 北京视达科科技有限责任公司 All rights reserved.
- * author：KingZ
- * date：${DATE}
- * description：
+ /**
+ * Copyright(C) 2018, 北京视达科科技有限公司
+ * All rights reserved. <br>
+ * author: King.Z <br>
+ * date:  ${DATE} ${TIME} <br>
+ * description: XXXXXXX <br>
  */

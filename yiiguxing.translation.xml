@@ -1,84 +1,75 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="fetch Seminar Detail For Suspend" />
-      <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
-      <item value="mnemonic" />
-      <item value="View Model Provider" />
-      <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
-      <item value="Implicit This" />
-      <item value="This property can be accessed only after the Activity is attached to the Application, * and access prior to that will result in IllegalArgumentException." />
-      <item value="Item Keyed Data Source" />
-      <item value="a LiveData that tries to load the `User` from local cache first and then tries to fetch * // from the server and also yields the updated value" />
-      <item value="A retrying data fetcher with doubling back-off" />
-      <item value="note that `while(true)` is fine because the `delay(30_000)` below will cooperate in * // cancellation if LiveData is not actively observed anymore" />
-      <item value="errors are ignored for brevity" />
-      <item value="as long as it is observed" />
-      <item value="a LiveData that fetches a `User` object based on a `userId` and refreshes it every 30 seconds" />
-      <item value="[Dispatchers.Main] supports immediate execution for Android," />
-      <item value="immediate" />
-      <item value="m Bag Of Tags" />
-      <item value="Bag Of Tag" />
-      <item value="Absent" />
-      <item value="Can't use ConcurrentHashMap, because it can lose values on old apis" />
-      <item value="Scope" />
-      <item value="permit" />
-      <item value="`LiveData` containing their full name as a `String`." />
-      <item value="Coroutine Scope" />
-      <item value="Return the array of floats representing this colormatrix." />
-      <item value="Copies the provided color matrix to be used by this filter." />
-      <item value="Copies the ColorMatrix from the filter into the passed ColorMatrix" />
-      <item value="Called when a view created by this adapter has been detached from its window" />
-      <item value="Called when a view created by this adapter has been attached to a window" />
-      <item value="The RecyclerView instance which started observing this adapter" />
-      <item value="Keep in mind that same adapter may be observed by multiple RecyclerViews." />
-      <item value="Called by RecyclerView when it starts observing this Adapter" />
-      <item value="The exo player renderer track indexes" />
-      <item value="Helper class for displaying track selection dialogs." />
-      <item value="player Needs Source" />
-      <item value="did Layout" />
-      <item value="Ask host how big it wants to be" />
-      <item value="m Report Next Draw" />
-      <item value="cache mView since it is used so much below" />
-      <item value="Traversal" />
-      <item value="The parent has not imposed any constraint on the child. It can be whatever size it wants." />
-      <item value="The child can be as large as it wants up to the specified size." />
-      <item value="The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
-      <item value="Sets the size of the padding between the compound drawables and * the text." />
-      <item value="Sets the Drawables (if any) to appear to the left of, above, to the * right of, and below the text. Use {@code null} if you do not want a * Drawable there. The Drawables must already have had * {@link Drawable#setBounds} called." />
-      <item value="Calling this method will overwrite any Drawables previously set using * {@link #setCompoundDrawablesRelative} or related methods." />
-      <item value="Compound" />
-      <item value="Sets the size of the padding between the compound drawables and * the text. *" />
-      <item value="size" />
-      <item value="bar Active" />
+      <item value="bulk" />
+      <item value="increments" />
+      <item value="pending" />
+      <item value="Schedule" />
+      <item value="trippe" />
+      <item value="tripped" />
+      <item value="直接" />
+      <item value="间接" />
+      <item value="Reentrant" />
+      <item value="ReentrantLock" />
+      <item value="认证" />
+      <item value="Solver" />
+      <item value="parallel" />
+      <item value="delta" />
+      <item value="_xul Time Delta" />
+      <item value="Delta" />
+      <item value="delay" />
+      <item value="gray" />
+      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
+      <item value="component UI" />
+      <item value="available" />
+      <item value="permits" />
+      <item value="semaphore" />
+      <item value="Conceptually" />
+      <item value="Patching" />
+      <item value="evict entries" />
+      <item value="evict" />
+      <item value="often" />
+      <item value="instanceof" />
+      <item value="effects" />
+      <item value="composed" />
+      <item value="side" />
+      <item value="operate" />
+      <item value="expected" />
+      <item value="Represents" />
+      <item value="This method is called when new component state is loaded. The method can and will be called several times, if * config files were externally changed while IDEA running. * @param state loaded component state" />
+      <item value="consumer" />
+      <item value="consume" />
+      <item value="Override" />
+      <item value="Open Image Action" />
+      <item value="private" />
+      <item value="Notification" />
+      <item value="Logger" />
+      <item value="extends" />
+      <item value="final" />
+      <item value="Fuzzy Words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="861" />
-        <entry key="ENGLISH" value="848" />
-        <entry key="CHINESE_TRADITIONAL" value="7" />
-        <entry key="ESTONIAN" value="1" />
-        <entry key="POLISH" value="1" />
-        <entry key="BOSNIAN" value="1" />
-        <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="3" />
-        <entry key="MALAY" value="6" />
-        <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="1" />
-        <entry key="ITALIAN" value="2" />
-        <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="primaryFontFamily" value="Yu Gothic UI" />
     <option name="translator" value="ai.youdao" />
+    <option name="ttsSource" value="TRANSLATION" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
+        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="ENGLISH" />
       </youdao-translate>
     </option>
   </component>
