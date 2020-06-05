@@ -34,13 +34,9 @@
           <option name="url" value="http://gitlab.xgimi-dev.com:8001" />
           <option name="userName" value="zeke.wang" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.xgimi-dev.com:8001/lei.yao/atmosphere.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work" />
+    <option name="cloneParentDir" value="E:\GitHubProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">

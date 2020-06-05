@@ -1,9 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="The documentation for Process.THREAD_PRIORITY_AUDIO that states &quot;Applications can // not normally change to this priority&quot; is incorrect." />
-      <item value="mplements the internal behavior of {@link ExoPlayerImpl}" />
-      <item value="was Interrupted" />
       <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
@@ -53,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>
