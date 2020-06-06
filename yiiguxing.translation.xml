@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple Transform Animation" />
+      <item value="Quiver Animation" />
       <item value="It will never change from this size." />
       <item value="surface Redraw Needed Async" />
       <item value="The SurfaceHolder whose surface has changed." />
@@ -49,13 +51,11 @@
       <item value="private" />
       <item value="Notification" />
       <item value="Logger" />
-      <item value="extends" />
-      <item value="final" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
