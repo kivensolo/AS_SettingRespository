@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It will never change from this size." />
+      <item value="surface Redraw Needed Async" />
+      <item value="The SurfaceHolder whose surface has changed." />
+      <item value="surface Redraw Needed" />
+      <item value="Additional callbacks that can be received for {@link Callback}." />
       <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
@@ -46,12 +51,11 @@
       <item value="Logger" />
       <item value="extends" />
       <item value="final" />
-      <item value="Fuzzy Words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
