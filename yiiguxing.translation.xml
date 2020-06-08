@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If {@code false}, then at least one of the following is true" />
+      <item value="Returns whether the player is playing, i.e. {@link #getContentPosition()} is advancing. * * &lt;p&gt;If {@code false}, then at least one of the following is true:" />
+      <item value="&gt;There is no {@link #getPlayWhenReady() intention to play" />
       <item value="Simple Transform Animation" />
       <item value="Quiver Animation" />
       <item value="It will never change from this size." />
@@ -48,14 +51,11 @@
       <item value="consume" />
       <item value="Override" />
       <item value="Open Image Action" />
-      <item value="private" />
-      <item value="Notification" />
-      <item value="Logger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="91" />
       </map>
     </option>
   </component>
