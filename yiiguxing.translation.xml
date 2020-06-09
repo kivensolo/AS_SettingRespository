@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MULTIPLE" />
+      <item value="sync" />
       <item value="The factor by which playback will be sped up. Must be greater than zero" />
       <item value="The factor by which the audio pitch will be scaled. Must be greater than zero" />
       <item value="If {@code false}, then at least one of the following is true" />
@@ -49,13 +51,11 @@
       <item value="expected" />
       <item value="Represents" />
       <item value="This method is called when new component state is loaded. The method can and will be called several times, if * config files were externally changed while IDEA running. * @param state loaded component state" />
-      <item value="consumer" />
-      <item value="consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="95" />
       </map>
     </option>
   </component>
