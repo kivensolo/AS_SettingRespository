@@ -1,10 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fallback To Destructive Migration" />
+      <item value="Allows Room to destructively recreate database tables if {@link Migration}s that would * migrate old database schemas to the latest schema version are not found. * &lt;p&gt;" />
+      <item value="Asserts that we are not on the main thread." />
+      <item value="Disables the main thread query check for Room." />
+      <item value="Room ensures that Database is never accessed on the main thread because it may lock the * main thread and trigger an ANR. If you need to access the database from the main thread, * you should always use async alternatives or manually move the call to a background * thread." />
+      <item value="It is recommended to have multiple {@code Dao} classes in your codebase depending on the tables * they touch." />
+      <item value="An abstract {@code @Dao} class can optionally have a constructor that takes a {@link Database} * as its only parameter." />
+      <item value="At compile * time, Room will generate an implementation of this class when it is referenced by a * {@link Database}." />
+      <item value="The class marked with {@code @Dao} should either be an interface or an abstract class." />
+      <item value="Data Access Objects are the main classes where you define your database interactions. They can * include a variety of query methods." />
+      <item value="Instead of running queries on the database directly" />
+      <item value="implementation" />
+      <item value="receive" />
+      <item value="You can receive an implementation of the class via" />
+      <item value="Can be empty if the class has a field annotated * with {@link PrimaryKey}" />
+      <item value="If a field is {@code transient}, it is automatically ignored &lt;b&gt;unless&lt;/b&gt; it is annotated with * {@link ColumnInfo}, {@link Embedded} or {@link Relation}" />
+      <item value="If a field is {@code transient}, it is automatically ignored &lt;b&gt;unless&lt;/b&gt; it is annotated with * {@link ColumnInfo}, {@link Embedded} or {@link Relation}." />
+      <item value="When a class is marked as an Entity, all of its fields are persisted. If you would like to * exclude some of its fields, you can mark them with {@link Ignore}" />
+      <item value="When a class is marked as an Entity, all of its fields are persisted" />
+      <item value="persisted" />
+      <item value="Constructor does not have to receive all fields as parameters * but if a field is not passed into the constructor, it should either be public or have a public * setter. If a matching constructor is available, Room will always use it. If you don't want it * to use a constructor, you can annotate it with {@link Ignore}" />
+      <item value="Each entity must either have a no-arg constructor or a constructor whose parameters match * fields (based on type and name)" />
+      <item value="primary key" />
+      <item value="This class will have a mapping SQLite table in the database" />
+      <item value="Marks a class as an entity. This class will have a mapping SQLite table in the database." />
       <item value="The list of entities included in the database. Each entity turns into a table in the * database." />
       <item value="initialize With Defaults" />
       <item value="Stetho" />
-      <item value="fallback To Destructive Migration" />
       <item value="The * service should clean up any resources it holds (threads, registered * receivers, etc) at this point" />
       <item value="Called by the system to notify a Service that it is no longer used and is being removed" />
       <item value="subhead" />
@@ -27,35 +51,11 @@
       <item value="surface Redraw Needed" />
       <item value="Additional callbacks that can be received for {@link Callback}." />
       <item value="bulk" />
-      <item value="increments" />
-      <item value="pending" />
-      <item value="Schedule" />
-      <item value="trippe" />
-      <item value="tripped" />
-      <item value="直接" />
-      <item value="间接" />
-      <item value="Reentrant" />
-      <item value="ReentrantLock" />
-      <item value="认证" />
-      <item value="Solver" />
-      <item value="parallel" />
-      <item value="delta" />
-      <item value="_xul Time Delta" />
-      <item value="Delta" />
-      <item value="delay" />
-      <item value="gray" />
-      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
-      <item value="component UI" />
-      <item value="available" />
-      <item value="permits" />
-      <item value="semaphore" />
-      <item value="Conceptually" />
-      <item value="Patching" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="134" />
       </map>
     </option>
   </component>
