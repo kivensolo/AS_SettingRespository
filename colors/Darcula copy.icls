@@ -511,7 +511,7 @@
     </option>
     <option name="GString">
       <value>
-        <option name="FOREGROUND" value="51b550" />
+        <option name="FOREGROUND" value="4b9b4a" />
       </value>
     </option>
     <option name="Groovydoc comment">
@@ -629,6 +629,11 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="Interface name">
+      <value>
+        <option name="FOREGROUND" value="10b2cf" />
       </value>
     </option>
     <option name="Invalid string escape">
@@ -894,7 +899,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="629755" />
+        <option name="FOREGROUND" value="3cb9cc" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
