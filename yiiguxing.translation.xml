@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize With Defaults" />
+      <item value="Stetho" />
+      <item value="fallback To Destructive Migration" />
       <item value="The * service should clean up any resources it holds (threads, registered * receivers, etc) at this point" />
       <item value="Called by the system to notify a Service that it is no longer used and is being removed" />
       <item value="subhead" />
@@ -48,14 +51,11 @@
       <item value="Conceptually" />
       <item value="Patching" />
       <item value="evict entries" />
-      <item value="evict" />
-      <item value="often" />
-      <item value="instanceof" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
