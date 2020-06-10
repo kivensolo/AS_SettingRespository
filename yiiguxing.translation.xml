@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The * service should clean up any resources it holds (threads, registered * receivers, etc) at this point" />
+      <item value="Called by the system to notify a Service that it is no longer used and is being removed" />
       <item value="subhead" />
       <item value="crosshead" />
       <item value="Brand" />
@@ -49,13 +51,11 @@
       <item value="evict" />
       <item value="often" />
       <item value="instanceof" />
-      <item value="effects" />
-      <item value="composed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="103" />
       </map>
     </option>
   </component>
