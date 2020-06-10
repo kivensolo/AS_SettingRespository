@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The list of entities included in the database. Each entity turns into a table in the * database." />
       <item value="initialize With Defaults" />
       <item value="Stetho" />
       <item value="fallback To Destructive Migration" />
@@ -50,12 +51,11 @@
       <item value="semaphore" />
       <item value="Conceptually" />
       <item value="Patching" />
-      <item value="evict entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="107" />
       </map>
     </option>
   </component>
