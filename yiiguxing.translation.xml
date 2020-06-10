@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subhead" />
+      <item value="crosshead" />
       <item value="Brand" />
       <item value="Deal Data" />
       <item value="recycle inner" />
@@ -49,13 +51,11 @@
       <item value="instanceof" />
       <item value="effects" />
       <item value="composed" />
-      <item value="side" />
-      <item value="operate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="101" />
       </map>
     </option>
   </component>
