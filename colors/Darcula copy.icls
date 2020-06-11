@@ -869,6 +869,11 @@
         <option name="FOREGROUND" value="ff6b68" />
       </value>
     </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5b88e9" />
+      </value>
+    </option>
     <option name="Line comment">
       <value>
         <option name="FOREGROUND" value="479842" />
