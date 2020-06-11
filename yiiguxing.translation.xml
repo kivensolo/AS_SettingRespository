@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Brand" />
+      <item value="Deal Data" />
+      <item value="recycle inner" />
+      <item value="MULTIPLE" />
+      <item value="sync" />
+      <item value="The factor by which playback will be sped up. Must be greater than zero" />
+      <item value="The factor by which the audio pitch will be scaled. Must be greater than zero" />
+      <item value="If {@code false}, then at least one of the following is true" />
+      <item value="Returns whether the player is playing, i.e. {@link #getContentPosition()} is advancing. * * &lt;p&gt;If {@code false}, then at least one of the following is true:" />
+      <item value="&gt;There is no {@link #getPlayWhenReady() intention to play" />
+      <item value="Simple Transform Animation" />
+      <item value="Quiver Animation" />
+      <item value="It will never change from this size." />
+      <item value="surface Redraw Needed Async" />
+      <item value="The SurfaceHolder whose surface has changed." />
+      <item value="surface Redraw Needed" />
+      <item value="Additional callbacks that can be received for {@link Callback}." />
       <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
@@ -34,24 +51,11 @@
       <item value="composed" />
       <item value="side" />
       <item value="operate" />
-      <item value="expected" />
-      <item value="Represents" />
-      <item value="This method is called when new component state is loaded. The method can and will be called several times, if * config files were externally changed while IDEA running. * @param state loaded component state" />
-      <item value="consumer" />
-      <item value="consume" />
-      <item value="Override" />
-      <item value="Open Image Action" />
-      <item value="private" />
-      <item value="Notification" />
-      <item value="Logger" />
-      <item value="extends" />
-      <item value="final" />
-      <item value="Fuzzy Words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="98" />
       </map>
     </option>
   </component>
