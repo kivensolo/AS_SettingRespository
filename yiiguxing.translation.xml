@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A bandwidth based adaptive {@link TrackSelection}, whose selected track is updated to be the one * of highest quality given the current network conditions and the state of the buffer." />
+      <item value="Handles a message delivered to the target." />
+      <item value="A target for messages" />
+      <item value="Builds {@link Renderer} instances for use by a {@link SimpleExoPlayer}." />
+      <item value="Extension renderers are indexed after core renderers of the * same type" />
+      <item value="Allow use of extension renderers. Extension renderers are indexed before core renderers of the * same type. A {@link TrackSelector} that prefers the first suitable renderer will therefore * prefer to use an extension renderer to a core renderer in the case that both are able to play * a given track." />
+      <item value="media Codec Selector" />
+      <item value="allowed Video Joining Time Ms" />
+      <item value="Use {@link #DefaultRenderersFactory(Context)} and {@link * #setExtensionRendererMode(int)}, and pass {@link DrmSessionManager} directly to {@link * SimpleExoPlayer} or {@link ExoPlayerFactory}." />
+      <item value="Modes for using extension renderers. One of {@link #EXTENSION_RENDERER_MODE_OFF}, {@link * #EXTENSION_RENDERER_MODE_ON} or {@link #EXTENSION_RENDERER_MODE_PREFER}." />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
       <item value="singer" />
       <item value="fallback To Destructive Migration" />
@@ -41,21 +51,11 @@
       <item value="MULTIPLE" />
       <item value="sync" />
       <item value="The factor by which playback will be sped up. Must be greater than zero" />
-      <item value="The factor by which the audio pitch will be scaled. Must be greater than zero" />
-      <item value="If {@code false}, then at least one of the following is true" />
-      <item value="Returns whether the player is playing, i.e. {@link #getContentPosition()} is advancing. * * &lt;p&gt;If {@code false}, then at least one of the following is true:" />
-      <item value="&gt;There is no {@link #getPlayWhenReady() intention to play" />
-      <item value="Simple Transform Animation" />
-      <item value="Quiver Animation" />
-      <item value="It will never change from this size." />
-      <item value="surface Redraw Needed Async" />
-      <item value="The SurfaceHolder whose surface has changed." />
-      <item value="surface Redraw Needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="146" />
       </map>
     </option>
   </component>
