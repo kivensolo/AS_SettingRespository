@@ -814,6 +814,12 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="919bb7" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="bbb529" />
