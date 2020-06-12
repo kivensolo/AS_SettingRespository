@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Name of the file. It can include the path of the file. * @return The content type." />
+      <item value="Makes a best guess to infer the type from a file name." />
+      <item value="mpd" />
+      <item value="A boolean that specify whether multiple key session support is enabled" />
+      <item value="A boolean that specify whether multiple key session support is enabled. * Default is false." />
+      <item value="Progressive" />
+      <item value="Progressive Media Source" />
       <item value="A bandwidth based adaptive {@link TrackSelection}, whose selected track is updated to be the one * of highest quality given the current network conditions and the state of the buffer." />
       <item value="Handles a message delivered to the target." />
       <item value="A target for messages" />
@@ -44,18 +51,12 @@
       <item value="The * service should clean up any resources it holds (threads, registered * receivers, etc) at this point" />
       <item value="Called by the system to notify a Service that it is no longer used and is being removed" />
       <item value="subhead" />
-      <item value="crosshead" />
-      <item value="Brand" />
-      <item value="Deal Data" />
-      <item value="recycle inner" />
-      <item value="MULTIPLE" />
-      <item value="sync" />
-      <item value="The factor by which playback will be sped up. Must be greater than zero" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
