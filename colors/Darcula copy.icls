@@ -831,6 +831,17 @@
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
+        <option name="FOREGROUND" value="e5a920" />
+      </value>
+    </option>
+    <option name="KOTLIN_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="2c7eb8" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="KOTLIN_PARAMETER">
+      <value>
         <option name="FOREGROUND" value="2c7eb8" />
       </value>
     </option>
