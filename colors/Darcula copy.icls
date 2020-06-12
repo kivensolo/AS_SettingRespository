@@ -831,7 +831,7 @@
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="e5a920" />
+        <option name="FOREGROUND" value="298ac6" />
       </value>
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
@@ -843,6 +843,21 @@
     <option name="KOTLIN_PARAMETER">
       <value>
         <option name="FOREGROUND" value="2c7eb8" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="ea7374" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ea7374" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="ea7374" />
       </value>
     </option>
     <option name="KOTLIN_STRING">
