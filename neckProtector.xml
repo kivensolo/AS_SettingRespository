@@ -1,8 +1,6 @@
 <application>
   <component name="neckProtector">
     <option name="imageSrcType" value="1" />
-    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/ECAF1FA47653A6D7CADECF53D7E2AF12.jpg" />
-    <option name="notifyContent" value="休息一下吧~" />
-    <option name="notifyAction" value="看图放松" />
+    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/C8C0BDC74B70ADA6C8F39E8C4D1297E3.jpg" />
   </component>
 </application>

@@ -1,0 +1,15 @@
+<keymap version="1" name="Eclipse copy1" parent="Eclipse">
+  <action id="ExternalSystem.RunTask">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+</keymap>
