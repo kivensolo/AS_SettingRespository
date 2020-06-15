@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Migration Start And End Versions" />
+      <item value="Restricted Api" />
+      <item value="all RoomDatabases use in memory storage for TEMP tables and enables recursive * triggers." />
       <item value="Parallel" />
       <item value="Deferred" />
       <item value="series" />
@@ -48,14 +51,11 @@
       <item value="singer" />
       <item value="fallback To Destructive Migration" />
       <item value="Allows Room to destructively recreate database tables if {@link Migration}s that would * migrate old database schemas to the latest schema version are not found. * &lt;p&gt;" />
-      <item value="Asserts that we are not on the main thread." />
-      <item value="Disables the main thread query check for Room." />
-      <item value="Room ensures that Database is never accessed on the main thread because it may lock the * main thread and trigger an ANR. If you need to access the database from the main thread, * you should always use async alternatives or manually move the call to a background * thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="185" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
