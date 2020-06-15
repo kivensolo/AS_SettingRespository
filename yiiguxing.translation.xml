@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deferred" />
       <item value="inferred type is CommonApp" />
       <item value="Brand" />
       <item value="Deal Data" />
@@ -50,12 +51,11 @@
       <item value="instanceof" />
       <item value="effects" />
       <item value="composed" />
-      <item value="side" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="100" />
       </map>
     </option>
   </component>
