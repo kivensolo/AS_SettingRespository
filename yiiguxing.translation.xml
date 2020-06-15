@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="utility" />
+      <item value="An utility class that provides {@code ViewModels} for a scope." />
+      <item value="factory Producer" />
+      <item value="factory Promise" />
+      <item value="Returns a [Lazy] delegate to access the ComponentActivity's ViewModel, if [factoryProducer] * is specified then [ViewModelProvider.Factory] returned by it will be used * to create [ViewModel] first time." />
       <item value="information elements found in the beacon" />
       <item value="Assignable" />
       <item value="* The created ViewModel is associated with the given scope and will be retained * as long as the scope is alive" />
@@ -46,16 +51,11 @@
       <item value="Data Access Objects are the main classes where you define your database interactions. They can * include a variety of query methods." />
       <item value="Instead of running queries on the database directly" />
       <item value="implementation" />
-      <item value="receive" />
-      <item value="You can receive an implementation of the class via" />
-      <item value="Can be empty if the class has a field annotated * with {@link PrimaryKey}" />
-      <item value="If a field is {@code transient}, it is automatically ignored &lt;b&gt;unless&lt;/b&gt; it is annotated with * {@link ColumnInfo}, {@link Embedded} or {@link Relation}" />
-      <item value="If a field is {@code transient}, it is automatically ignored &lt;b&gt;unless&lt;/b&gt; it is annotated with * {@link ColumnInfo}, {@link Embedded} or {@link Relation}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="174" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
