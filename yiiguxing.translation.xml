@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the delimiters" />
+      <item value="delim" />
+      <item value="String Tokenizer" />
       <item value="m Migration Start And End Versions" />
       <item value="Restricted Api" />
       <item value="all RoomDatabases use in memory storage for TEMP tables and enables recursive * triggers." />
@@ -48,14 +51,12 @@
       <item value="Use {@link #DefaultRenderersFactory(Context)} and {@link * #setExtensionRendererMode(int)}, and pass {@link DrmSessionManager} directly to {@link * SimpleExoPlayer} or {@link ExoPlayerFactory}." />
       <item value="Modes for using extension renderers. One of {@link #EXTENSION_RENDERER_MODE_OFF}, {@link * #EXTENSION_RENDERER_MODE_ON} or {@link #EXTENSION_RENDERER_MODE_PREFER}." />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
-      <item value="singer" />
-      <item value="fallback To Destructive Migration" />
-      <item value="Allows Room to destructively recreate database tables if {@link Migration}s that would * migrate old database schemas to the latest schema version are not found. * &lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="188" />
+        <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
