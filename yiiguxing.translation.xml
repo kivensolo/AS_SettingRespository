@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reified" />
       <item value="coroutineScope is needed, else in case of any network error, it will crash" />
       <item value="supervisorScope is needed, so that we can ignore error and continue // here, more than two child jobs are running in parallel under a supervisor, // one child job gets failed, we can continue with other." />
       <item value="supervisor Scope" />
@@ -50,12 +51,11 @@
       <item value="Patching" />
       <item value="evict entries" />
       <item value="evict" />
-      <item value="often" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="104" />
       </map>
     </option>
   </component>
