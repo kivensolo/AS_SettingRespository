@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serves requests from the cache and writes responses to the cache" />
+      <item value="If we don't need the network, we're done." />
+      <item value="If we're forbidden from using the network and the cache is insufficient, fail." />
+      <item value="The cache candidate wasn't applicable. Close it." />
       <item value="Transfer-Encoding" />
       <item value="chunked" />
       <item value="prior" />
@@ -47,15 +51,11 @@
       <item value="Name of the file. It can include the path of the file. * @return The content type." />
       <item value="Makes a best guess to infer the type from a file name." />
       <item value="mpd" />
-      <item value="A boolean that specify whether multiple key session support is enabled" />
-      <item value="A boolean that specify whether multiple key session support is enabled. * Default is false." />
-      <item value="Progressive" />
-      <item value="Progressive Media Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="203" />
         <entry key="POLISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="1" />
