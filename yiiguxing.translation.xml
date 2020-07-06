@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal runtime error" />
       <item value="The boolean literal does not conform to the expected type Int" />
       <item value="CHANNEL DEFAULT CAPACITY" />
       <item value="Rendezvous" />
@@ -50,12 +51,11 @@
       <item value="cenario" />
       <item value="SCENARIO" />
       <item value="EXTENSION RENDERER MODE PREFER" />
-      <item value="Item Keyed Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="267" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="TURKISH" value="1" />
