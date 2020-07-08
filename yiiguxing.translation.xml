@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="official" />
+      <item value="obsolete" />
       <item value="geyifeng" />
       <item value="init Immersion Bar" />
       <item value="matisse" />
@@ -49,13 +51,11 @@
       <item value="Returns a snapshot of the calls currently being executed" />
       <item value="Safely publish the Call instance to the EventListener" />
       <item value="Guarded by this" />
-      <item value="decode Hex Digit" />
-      <item value="bom Aware Charset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="274" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="TURKISH" value="2" />
