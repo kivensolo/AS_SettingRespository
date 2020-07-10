@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the primary shared/external storage directory. This directory may * not currently be accessible if it has been mounted by the user on their * computer, has been removed from the device, or some other problem has * happened. You can determine its current state with" />
+      <item value="Return the primary shared/external storage directory" />
       <item value="Returns a [LiveData] mapped from the input `this` `LiveData` by applying * [transform] to each value set on `this`." />
       <item value="request Price Updates" />
       <item value="Stock" />
@@ -49,13 +51,11 @@
       <item value="For example, a thread that has called &lt;tt&gt;Object.wait()&lt;/tt&gt; * on an object is waiting for another thread to call * &lt;tt&gt;Object.notify()&lt;/tt&gt; or &lt;tt&gt;Object.notifyAll()&lt;/tt&gt; on * that object. A thread that has called &lt;tt&gt;Thread.join()&lt;/tt&gt; * is waiting for a specified thread to terminate." />
       <item value="A thread in the waiting state is waiting for another thread to * perform a particular action." />
       <item value="Assertion Error" />
-      <item value="This is the last interceptor in the chain. It makes a network call to the server." />
-      <item value="Call Serve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="281" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="TURKISH" value="2" />
