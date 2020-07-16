@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@link #getAction} value: multiple duplicate key events have * occurred in a row, or a complex string is being delivered. If the * key code is not {#link {@link #KEYCODE_UNKNOWN} then the * {#link {@link #getRepeatCount()} method returns the number of times * the given key code should be executed. * Otherwise, if the key code is {@link #KEYCODE_UNKNOWN}, then * this is a sequence of characters as returned by {@link #getCharacters}." />
+      <item value="Pass any events not handled by (unfocused) views straight to UnityPlayer" />
       <item value="xlarge Screens" />
       <item value="prefer External" />
       <item value="install Location" />
@@ -49,13 +51,11 @@
       <item value="prior" />
       <item value="follow Up" />
       <item value="Attach the prior response if it exists. Such responses never have a body." />
-      <item value="An attempt to communicate with a server failed. The request may have been sent" />
-      <item value="The attempt to connect via a route failed. The request will not have been sent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="251" />
         <entry key="POLISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="2" />
