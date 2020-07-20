@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TAG SPOTLIGHT" />
       <item value="jank" />
       <item value="Unify" />
       <item value="We will need to evaluate the drawable state at least once." />
@@ -50,12 +51,11 @@
       <item value="Stock" />
       <item value="curtain" />
       <item value="smartcurtain" />
-      <item value="official" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="331" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="TURKISH" value="3" />
