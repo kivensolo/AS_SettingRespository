@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sparse Array" />
+      <item value="FLAG MEMORY MONITOR" />
+      <item value="FLAG TRACE MONITOR" />
+      <item value="X Gimi Matrix" />
       <item value="Activity Leak" />
       <item value="Evil Method" />
       <item value="Evil" />
@@ -47,15 +51,11 @@
       <item value="Variant of {@link Theme_Dialog} that does not include a frame (or background). The view hierarchy of the dialog is responsible for drawing all of its pixels" />
       <item value="Default theme for activities that don't actually display a UI; that is, they finish themselves before being resumed." />
       <item value="background Dim" />
-      <item value="Dim" />
-      <item value="Return the primary shared/external storage directory. This directory may * not currently be accessible if it has been mounted by the user on their * computer, has been removed from the device, or some other problem has * happened. You can determine its current state with" />
-      <item value="Return the primary shared/external storage directory" />
-      <item value="Returns a [LiveData] mapped from the input `this` `LiveData` by applying * [transform] to each value set on `this`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="338" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="TURKISH" value="3" />
