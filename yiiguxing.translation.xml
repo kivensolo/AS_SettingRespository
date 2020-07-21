@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ellipsize" />
+      <item value="indefinitely" />
+      <item value="stock" />
       <item value="the modified command line string or null" />
       <item value="Override this in your custom UnityPlayerActivity to tweak the command line arguments passed to the Unity Android Player // The command line arguments are passed as a string, separated by spaces // UnityPlayerActivity calls this from 'onCreate' // Supported: -force-gles20, -force-gles30, -force-gles31, -force-gles31aep, -force-gles32, -force-gles, -force-vulkan // See https://docs.unity3d.com/Manual/CommandLineArguments.html // @param cmdLine the current command line arguments, may be null // @return the modified command line string or null" />
       <item value="The default NORMAL typeface object" />
@@ -48,16 +51,14 @@
       <item value="This must be a system resource" />
       <item value="A style resource defining the animations to use for this window." />
       <item value="Flag indicating whether there should be no title on this window" />
-      <item value="Drawable to use as a frame around the window" />
-      <item value="window Frame" />
-      <item value="window Content Overlay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="346" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="MALAY" value="1" />
         <entry key="TURKISH" value="3" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
