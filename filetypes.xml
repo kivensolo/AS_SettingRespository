@@ -13,6 +13,7 @@
     <extensionMap>
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
       <mapping pattern="level0" type="PLAIN_TEXT" />
+      <mapping pattern="unity_builtin_extra" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="unity default resources" type="PLAIN_TEXT" />
       <mapping pattern="globalgamemanagers" type="XHTML" />
