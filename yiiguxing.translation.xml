@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not changed myself" />
+      <item value="Sort Value" />
+      <item value="IMAGE FORMAT" />
       <item value="random Color" />
       <item value="Image downloading, transformation, and caching manager." />
       <item value="default is floor" />
@@ -48,14 +51,11 @@
       <item value="We will need to evaluate the drawable state at least once." />
       <item value="Transfer all pending runnables." />
       <item value="Queue" />
-      <item value="Growing Array Utils" />
-      <item value="Postpone the runnable until we know on which thread it needs to run. // Assume that the runnable will be successfully placed after attach." />
-      <item value="DEFAULT INITIAL CAPACITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="291" />
+        <entry key="ENGLISH" value="376" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
