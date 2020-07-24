@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates that annotations with a type are to be documented by javadoc * and similar tools by default. This type should be used to annotate the * declarations of types whose annotations affect the use of annotated * elements by their clients. If a type declaration is annotated with * Documented, its annotations become part of the public API * of the annotated elements." />
+      <item value="Named pair for a form-encoded request." />
       <item value="construction" />
       <item value="This can only happen during construction." />
       <item value="Edit" />
@@ -49,13 +51,11 @@
       <item value="Serves requests from the cache and writes responses to the cache" />
       <item value="If we don't need the network, we're done." />
       <item value="If we're forbidden from using the network and the cache is insufficient, fail." />
-      <item value="Transfer-Encoding" />
-      <item value="chunked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="258" />
         <entry key="POLISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="2" />
