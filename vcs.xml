@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/xuanduoduo/MVVM" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kivensolo/Unity3DParticleDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
