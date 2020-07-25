@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="waste" />
       <item value="Skip headers from the request body as they are explicitly logged above." />
       <item value="Clip" />
       <item value="Clip Data" />
@@ -50,12 +51,11 @@
       <item value="Evil Method" />
       <item value="Evil" />
       <item value="SALT" />
-      <item value="TAG SPOTLIGHT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="382" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
