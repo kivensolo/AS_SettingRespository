@@ -54,6 +54,14 @@
           <option name="url" value="https://github.com/kivensolo/Unity3DParticleDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jenly1314/WanAndroid" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lulululbj/wanandroid" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
