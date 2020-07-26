@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Space Item Decoration" />
+      <item value="init Immersion Bar" />
       <item value="INSTALL PARSE FAILED MANIFEST MALFORMED" />
       <item value="amitshekhar" />
       <item value="Indicates that annotations with a type are to be documented by javadoc * and similar tools by default. This type should be used to annotate the * declarations of types whose annotations affect the use of annotated * elements by their clients. If a type declaration is annotated with * Documented, its annotations become part of the public API * of the annotated elements." />
@@ -49,13 +51,11 @@
       <item value="required network use" />
       <item value="the number of those * requests that required network use." />
       <item value="the number of HTTP * requests issued since this cache was created." />
-      <item value="To measure cache effectiveness, this class tracks three statistics" />
-      <item value="Serves requests from the cache and writes responses to the cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="262" />
         <entry key="POLISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="3" />
