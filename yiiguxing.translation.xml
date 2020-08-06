@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALTER" />
+      <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
+      <item value="immediate" />
       <item value="Use UnityPlayerActivity instead." />
       <item value="It's recommended that you base your code directly on UnityPlayerActivity or make your own NativeActitivty implementation." />
       <item value="waste" />
@@ -48,18 +51,15 @@
       <item value="Sparse Array" />
       <item value="FLAG MEMORY MONITOR" />
       <item value="FLAG TRACE MONITOR" />
-      <item value="X Gimi Matrix" />
-      <item value="Activity Leak" />
-      <item value="Evil Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="387" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="MALAY" value="1" />
+        <entry key="MALAY" value="2" />
         <entry key="TURKISH" value="3" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
