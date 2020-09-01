@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="please realize IPageSpecialFace" />
       <item value="covered Fade Color" />
       <item value="Fluttering Layout" />
       <item value="fluttering" />
@@ -50,12 +51,11 @@
       <item value="SYSTEM UI FLAG LAYOUT STABLE" />
       <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
       <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
-      <item value="To support deep linking, we need to make sure that the client can get access to // the last sent intent. The clients access this through a JNI api that allows them // to get the intent set on launch. To update that after launch we have to manually // replace the intent with the one caught here." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="408" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
