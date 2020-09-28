@@ -1,7 +1,7 @@
 <application>
   <component name="neckProtector">
     <option name="imageSrcType" value="1" />
-    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/4EA22C1F206AFCD8E831F7E0BD7E1F0B.jpg" />
+    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/E6846C11275BFC0A08865A1D115EC994.jpg" />
     <option name="periodMinutes" value="10" />
   </component>
 </application>
