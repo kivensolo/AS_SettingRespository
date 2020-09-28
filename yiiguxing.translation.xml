@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The number of columns in the grid" />
       <item value="Gradle's dependency cache may be corrupt" />
       <item value="corrupt" />
       <item value="Carousel Info" />
@@ -50,12 +51,11 @@
       <item value="DEFAULT OVERHANG SIZE" />
       <item value="plant" />
       <item value="flutteringlayout" />
-      <item value="get Top Text Margin Top" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="445" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
