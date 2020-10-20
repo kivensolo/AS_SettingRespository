@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only close initialized instances" />
+      <item value="Closes this zip file. This method is idempotent. This method may cause I/O if the * zip file needs to be deleted." />
       <item value="idempotent" />
       <item value="This method is idempotent" />
       <item value="This constructor allows to create an inflater that expects no header from * the input stream." />
@@ -49,13 +51,11 @@
       <item value="Catcher" />
       <item value="Never Crash" />
       <item value="Timber" />
-      <item value="This indicates that there is more content available and provides" />
-      <item value="At least this much of a sliding pane will remain visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="453" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
