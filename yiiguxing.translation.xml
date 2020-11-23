@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Put debugging code here to determine why" />
+      <item value="//TODO: define all used protocols" />
+      <item value="any" />
+      <item value="Protocol" />
+      <item value="The name of the service tells the user what they'd be // connecting to. It could be &quot;Bob's Chat App" />
+      <item value="Service type is the string containing the protocol and // transport layer for this service." />
+      <item value="Called as soon as service discovery begins." />
+      <item value="populate" />
       <item value="original" />
       <item value="if the key exceeds 32 characters" />
       <item value="normal" />
@@ -45,17 +51,11 @@
       <item value="Absent" />
       <item value="Lifecycle Registry" />
       <item value="Accumulates entries of this context starting with [initial] value and applying [operation] * from left to right to current accumulator value and each element of this context." />
-      <item value="Persistent context for the coroutine. It is an indexed set of [Element] instances. * An indexed set is a mix between a set and a map. * Every element in this set has a unique [Key]. */" />
-      <item value="Suspends coroutine similar to [suspendCoroutine], but provide an implementation of [CancellableContinuation] to * the [block]. This function throws [CancellationException] if the coroutine is cancelled or completed while suspended." />
-      <item value="coroutine" />
-      <item value="NOTE: Before version 1.1.0 the following invocation was inlined here, so invocation of this // method indicates that the code was compiled by kotlinx.coroutines &lt; 1.1.0 // cancellable.initCancellability()" />
-      <item value="Interface definition of a callback to be invoked when a * timed text is available for display." />
-      <item value="ad Presenter Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="557" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
