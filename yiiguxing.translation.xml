@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Exist Play Bill Request" />
       <item value="is Buy First" />
       <item value="//TODO: define all used protocols" />
       <item value="any" />
@@ -50,12 +51,11 @@
       <item value="An implementation of [Lazy] used by [androidx.fragment.app.Fragment.viewModels] and * [androidx.activity.ComponentActivity.viewmodels]. * * [storeProducer] is a lambda that will be called during initialization, [VM] will be created * in the scope of returned [ViewModelStore]. * * [factoryProducer] is a lambda that will be called during initialization, * returned [ViewModelProvider.Factory] will be used for creation of [VM]" />
       <item value="Closeable Coroutine Scope" />
       <item value="Absent" />
-      <item value="Lifecycle Registry" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="ENGLISH" value="562" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
