@@ -82,6 +82,18 @@
           <option name="url" value="https://github.com/kivensolo/GreekMythologyRep.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="sihang.zhao@naveast.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/chengduqingyun/HaierSmartCityUser_Android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/chengduqingyun/HaierSmartCityStreet_Android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
