@@ -1,7 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Selects a set of keys whose corresponding channels are ready for I/O * operations." />
+      <item value="special case: user's onTick took more than interval to // complete, skip to next interval" />
+      <item value="take into account user's onTick taking time to execute" />
+      <item value="tick" />
+      <item value="Merchant" />
+      <item value="buttom" />
+      <item value="on Make Emergency Degree" />
+      <item value="emargen" />
+      <item value="independent" />
       <item value="is Player Invalid" />
       <item value="Special" />
       <item value="check Exist Play Bill Request" />
@@ -44,28 +51,22 @@
       <item value="Each Fragment can acquire the ViewModel using the same key via their Activity. This allows * communication between Fragments in a de-coupled fashion such that they never need to talk to * the other Fragment directly." />
       <item value="ViewModels can also be used as a communication layer between different Fragments of an Activity." />
       <item value="Typical usage from an Activity standpoint would be:" />
-      <item value="ViewModel's only responsibility is to manage the data for the UI. It &lt;b&gt;should never&lt;/b&gt; access * your view hierarchy or hold a reference back to the Activity or the Fragment." />
-      <item value="You can also use any observability construct from you favorite framework." />
-      <item value="The purpose of the ViewModel is to acquire and keep the information that is necessary for an * Activity or a Fragment" />
-      <item value="In other words, this means that a ViewModel will not be destroyed if its owner is destroyed for a * configuration change (e.g. rotation). The new instance of the owner will just re-connected to the * existing ViewModel." />
-      <item value="A ViewModel is always created in association with a scope (an fragment or an activity) and will * be retained as long as the scope is alive. E.g. if it is an Activity, until it is * finished." />
-      <item value="responsible for preparing and managing the data" />
-      <item value="ViewModel is a class that is responsible for preparing and managing the data for * an {@link android.app.Activity Activity} or a {@link androidx.fragment.app.Fragment Fragment}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="581" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="3" />
+        <entry key="DUTCH" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="TURKISH" value="3" />
         <entry key="SPANISH" value="2" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
