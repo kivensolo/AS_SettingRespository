@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use other means to handle this functionality. This widget is merely a * simple wrapper around a long-press handler." />
+      <item value="ACCURACY" />
+      <item value="Gai Ease Cubic Interpolator" />
+      <item value="Gai Ease Cubic" />
+      <item value="abstract" />
+      <item value="Lut In" />
+      <item value="Path" />
+      <item value="Anticipate" />
+      <item value="DEFAULT MID SCALE" />
+      <item value="DEFAULT MAX SCALE" />
       <item value="Does the player have this status" />
       <item value="like an Activity in the back stack" />
       <item value="This means that an {@link Observer} can be added in a pair with a {@link LifecycleOwner}, and * this observer will be notified about modifications of the wrapped data only if the paired * LifecycleOwner is in active state. LifecycleOwner is considered as active, if its state is * {@link Lifecycle.State#STARTED} or {@link Lifecycle.State#RESUMED}. An observer added via * {@link #observeForever(Observer)} is considered as always active and thus will be always notified * about modifications. For those observers, you should manually call * {@link #removeObserver(Observer)}." />
@@ -41,21 +51,11 @@
       <item value="The name of the service tells the user what they'd be // connecting to. It could be &quot;Bob's Chat App" />
       <item value="Service type is the string containing the protocol and // transport layer for this service." />
       <item value="Called as soon as service discovery begins." />
-      <item value="populate" />
-      <item value="original" />
-      <item value="if the key exceeds 32 characters" />
-      <item value="normal" />
-      <item value="a new string which is the concatenation of this string and the * specified string." />
-      <item value="mask only can manual operation" />
-      <item value="manual image" />
-      <item value="proto" />
-      <item value="INSTALL FAILED SHARED USER INCOMPATIBLE" />
-      <item value="video Clarity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="CHINESE" value="469" />
+        <entry key="ENGLISH" value="617" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
