@@ -78,6 +78,7 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="showWordsOnStartup" value="true" />
     <option name="translator" value="ai.youdao" />
     <option name="ttsSource" value="TRANSLATION" />
     <option name="youdaoTranslateSettings">
