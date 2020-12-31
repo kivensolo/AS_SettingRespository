@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Switching" />
       <item value="flod" />
       <item value="flodder" />
       <item value="harmony" />
@@ -50,12 +51,11 @@
       <item value="Forcibly closes all connections that are open" />
       <item value="Forcibly" />
       <item value="Forcibly closes all connections that are open." />
-      <item value="Nano HTTPD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="556" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="702" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
