@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configures the build script classpath for this project." />
+      <item value="Convention Task" />
+      <item value="This method executes the given closure against this project and its sub-projects. The target {@link Project} * is passed to the closure as the closure's delegate." />
+      <item value="Configures this project and each of its sub-projects" />
+      <item value="the closure to use to configure the dependencies" />
+      <item value="Executes the given closure against the {@link DependencyHandler} for * this handler. The {@link DependencyHandler} is passed to the closure as the closure's delegate." />
+      <item value="Configures the dependencies for the script" />
       <item value="disaster" />
       <item value="Size Determiner" />
       <item value="Gallery" />
@@ -44,18 +51,11 @@
       <item value="attach" />
       <item value="Return true if the specified rectangle, after being transformed by the * current matrix, would lie completely outside of the current clip. Call * this to check if an area you intend to draw into is clipped out (and * therefore you can skip making the draw calls)." />
       <item value="/data/app/" />
-      <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
-      <item value="This is more advanced version of {@link Factory} that receives a key specified for requested" />
-      <item value="INVERSE INTERVAL" />
-      <item value="forward Cache Time" />
-      <item value="set Anchor View" />
-      <item value="Binds this server socket to the given local socket address with a maximum * backlog of 50 unaccepted connections. If the {@code localAddr} is set to * {@code null} the socket will be bound to an available local address on * any free port of the system." />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="729" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
