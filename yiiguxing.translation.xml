@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wind" />
+      <item value="contrary" />
+      <item value="contrarywind" />
+      <item value="paint Outer Text" />
+      <item value="paint Center Text" />
+      <item value="paint Indicator" />
+      <item value="CIRCLE" />
       <item value="Wheel View" />
       <item value="Immersion" />
       <item value="If it isn't it throws an * {@link AssertionError} without a message." />
@@ -44,18 +51,11 @@
       <item value="Maps to ProgressBar.Large style" />
       <item value="Squishes the interpolation curve into the second half of the animation." />
       <item value="Switching" />
-      <item value="flod" />
-      <item value="flodder" />
-      <item value="harmony" />
-      <item value="saveFlags see _SAVE_FLAG constants, generally {@link #ALL_SAVE_FLAG} is recommended * for performance reasons." />
-      <item value="Saves the current matrix and clip onto a private stack." />
-      <item value="Restore the current clip when restore() is called." />
-      <item value="flagless" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="602" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="610" />
+        <entry key="ENGLISH" value="753" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
@@ -64,7 +64,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="TURKISH" value="3" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="4" />
       </map>
