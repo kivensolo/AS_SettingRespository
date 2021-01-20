@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="async" />
       <item value="user balance" />
       <item value="PORTRAIT" />
       <item value="SCREEN ORIENTATION PORTRAIT" />
@@ -50,12 +51,11 @@
       <item value="invocation" />
       <item value="The hierarchy separator for project and task path names." />
       <item value="Configures the build script classpath for this project." />
-      <item value="Convention Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="634" />
-        <entry key="ENGLISH" value="773" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="774" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
