@@ -9,18 +9,27 @@
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
   <template name="xle" value="XulLog.e(TAG,&quot;$MSG$&quot;);" description="error leval of xul log" toReformat="false" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
   <template name="xlw" value="XulLog.w(TAG,&quot;$MSG$&quot;);" description="warn leval of xul log" toReformat="false" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="registe_kt" value="&#10;const val TAG = $Behavior$&#10;&#10;@JvmStatic&#10;fun register(plugin: BasePlugin) {&#10;    com.starcor.xulapp.behavior.XulBehaviorManager.registerBehavior(&#10;        TAG, object : com.starcor.xulapp.behavior.XulBehaviorManager.IBehaviorFactory {&#10;            override fun createBehavior(xulPresenter: com.starcor.xulapp.XulPresenter): com.starcor.xulapp.behavior.XulUiBehavior {&#10;                return $Behavior$(xulPresenter, plugin)&#10;            }&#10;&#10;            override fun getBehaviorClass(): Class&lt;*&gt;? {&#10;                return $Behavior$::class.java&#10;            }&#10;        })&#10;}&#10;    " description="register of behavior for kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="Behavior" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>
