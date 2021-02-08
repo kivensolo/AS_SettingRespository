@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The context of this scope." />
       <item value="顺序" />
       <item value="根据频道号进行频道数据排序" />
       <item value="进行频道数据排序" />
@@ -50,7 +51,6 @@
       <item value="删除已经选择的key，防止重复处理" />
       <item value="Returns an operation set identifying this channel's supported * operations." />
       <item value="async" />
-      <item value="user balance" />
     </histories>
     <option name="languageScores">
       <map>
