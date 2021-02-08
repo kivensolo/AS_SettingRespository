@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncaught exceptions in this coroutine cancel the parent job in the context by default * (unless [CoroutineExceptionHandler] is explicitly specified), which means that when `launch` is used with * the context of another coroutine, then any uncaught exception leads to the cancellation of the parent coroutine." />
+      <item value="In this case, * the coroutine [Job] is created in _new_ state. It can be explicitly started with [start][Job.start] function * and will be started implicitly on the first invocation of [join][Job.join]." />
+      <item value="An optional [start] parameter can be set to [CoroutineStart.LAZY] to start coroutine _lazily_" />
+      <item value="By default, the coroutine is immediately scheduled for execution." />
+      <item value="By default, the coroutine is immediately scheduled for execution. * Other start options can be specified via `start` parameter. See [CoroutineStart] for details. * An optional [start] parameter can be set to [CoroutineStart.LAZY] to start coroutine _lazily_. In this case, * the coroutine [Job] is created in _new_ state. It can be explicitly started with [start][Job.start] function * and will be started implicitly on the first invocation of [join][Job.join]." />
+      <item value="but it can also be overridden * with a corresponding [coroutineContext] element." />
+      <item value="The coroutine context is inherited from a [CoroutineScope]. Additional context elements can be specified with [context] argument. * If the context does not have any dispatcher nor any other [ContinuationInterceptor], then [Dispatchers.Default] is used. * The parent job is inherited from a [CoroutineScope] as well, but it can also be overridden * with a corresponding [coroutineContext] element." />
+      <item value="The coroutine context is inherited from a [CoroutineScope]" />
+      <item value="Launches a new coroutine without blocking the current thread and returns a reference to the coroutine as a [Job]. * The coroutine is cancelled when the resulting job is [cancelled][Job.cancel]." />
+      <item value="invoked in the context of the provided scope" />
+      <item value="he coroutine code" />
+      <item value="the coroutine code which will be invoked in the context of the provided scope" />
+      <item value="coroutine start option. The default value is [CoroutineStart.DEFAULT]." />
+      <item value="additional to [CoroutineScope.coroutineContext] context of the coroutine" />
       <item value="The context of this scope." />
       <item value="顺序" />
       <item value="根据频道号进行频道数据排序" />
@@ -37,25 +51,11 @@
       <item value="The stream type to adjust." />
       <item value="减少媒体音量" />
       <item value="减少" />
-      <item value="增加媒体音量" />
-      <item value="增加" />
-      <item value="The maximum valid volume index for the stream" />
-      <item value="The audio stream for phone calls" />
-      <item value="The audio stream for system sounds" />
-      <item value="Adjusts the volume of a particular stream by one step in a direction." />
-      <item value="no '?', so no query params" />
-      <item value="Causes" />
-      <item value="Causes the first selection operation that has not yet returned to return * immediately" />
-      <item value="attached" />
-      <item value="获得selector中选中的项的迭代器，选中的项为注册的事件" />
-      <item value="删除已经选择的key，防止重复处理" />
-      <item value="Returns an operation set identifying this channel's supported * operations." />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="824" />
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="840" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
