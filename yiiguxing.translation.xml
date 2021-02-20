@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Color Space" />
+      <item value="The transformation saturates the output" />
       <item value="The four ARGB components can be individually extracted from a color int * using the following expressions:" />
       <item value="manipulating" />
       <item value="Returns the relative luminance of a color" />
@@ -49,13 +51,11 @@
       <item value="attached" />
       <item value="获得selector中选中的项的迭代器，选中的项为注册的事件" />
       <item value="删除已经选择的key，防止重复处理" />
-      <item value="Returns an operation set identifying this channel's supported * operations." />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="827" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
