@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Symmetry" />
       <item value="范围" />
       <item value="扩散范围" />
       <item value="Surface Flinger" />
@@ -50,12 +51,11 @@
       <item value="portrait Params" />
       <item value="Suppressed during upgrade to AGP 3.6" />
       <item value="BEHAVIOR RESUME ONLY CURRENT FRAGMENT" />
-      <item value="Fragment Pager Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="818" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="819" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
