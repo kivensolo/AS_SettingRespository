@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="awaken" />
+      <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal * range. This value is used to compute the length of the thumb within the scrollbar's track." />
       <item value="inside Overlay" />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content" />
       <item value="artical newlest" />
@@ -49,13 +51,11 @@
       <item value="The audio stream for system sounds" />
       <item value="Adjusts the volume of a particular stream by one step in a direction." />
       <item value="no '?', so no query params" />
-      <item value="Causes" />
-      <item value="Causes the first selection operation that has not yet returned to return * immediately" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="694" />
-        <entry key="ENGLISH" value="831" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="833" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
