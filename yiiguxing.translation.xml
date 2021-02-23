@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is the legacy behavior * prior to N." />
+      <item value="Returns displayable styled text from the provided HTML string. Any &amp;lt;img&amp;gt; tags in the * HTML will display as a generic replacement image which your program can then go through and * replace with real images. *" />
       <item value="consumed" />
       <item value="dy Unconsumed" />
       <item value="dx Unconsumed" />
@@ -49,13 +51,11 @@
       <item value="Day Night" />
       <item value="ADJUST RAISE" />
       <item value="ADJUST LOWER" />
-      <item value="ADJUST SAME" />
-      <item value="The direction to adjust the volume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="CHINESE" value="710" />
+        <entry key="ENGLISH" value="847" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
