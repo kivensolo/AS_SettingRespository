@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Release To Refresh" />
+      <item value="Pull Down" />
       <item value="This method will animate the button hide if the view has already been laid out." />
       <item value="Hides the button." />
       <item value="dodge Inset Edges" />
@@ -49,13 +51,11 @@
       <item value="Join Declaration And Assignment" />
       <item value="Round Lines Indicator" />
       <item value="Tab Layout Mediator" />
-      <item value="Indicates whether this View is currently in edit mode. A View is usually * in edit mode when displayed within a developer tool. For instance, if * this View is being drawn by a visual user interface builder, this method * should return true. * * Subclasses should check the return value of this method to provide * different behaviors if their normal behavior might interfere with the * host environment. For instance: the class spawns a thread in its * constructor, the drawing code relies on device-specific features, etc. * * This method is usually checked in the drawing code of custom widgets. * * @return True if this View is in edit mode, false otherwise." />
-      <item value="Footer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="860" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
