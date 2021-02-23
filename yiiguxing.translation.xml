@@ -1,12 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="600" />
-      <item value="Coordinator" />
-      <item value="Standard gravity constant that a child supplies to its parent." />
-      <item value="tandard gravity constant that a child supplies to its parent." />
-      <item value="Scroll Aware" />
-      <item value="Aware" />
+      <item value="This method will animate the button hide if the view has already been laid out." />
+      <item value="Hides the button." />
+      <item value="dodge Inset Edges" />
+      <item value="Get the behavior governing the layout and interaction of the child view within * a parent CoordinatorLayout." />
+      <item value="Returns the visibility of this view and all of its ancestors" />
+      <item value="horizontal pixels consumed by the target's own scrolling operation" />
+      <item value="vertical pixels consumed by the target's own scrolling operation" />
+      <item value="Default constructor for instantiating Behaviors." />
+      <item value="Default constructor for inflating Behaviors from layout. The Behavior will have * the opportunity to parse specially defined layout parameters. These parameters will * appear on the child view tag. *" />
+      <item value="This is the legacy behavior * prior to N." />
+      <item value="Returns displayable styled text from the provided HTML string. Any &amp;lt;img&amp;gt; tags in the * HTML will display as a generic replacement image which your program can then go through and * replace with real images. *" />
+      <item value="consumed" />
+      <item value="dy Unconsumed" />
+      <item value="dx Unconsumed" />
+      <item value="dx Consumed" />
+      <item value="meaningfully" />
+      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
+      <item value="Prefix" />
+      <item value="campaigns" />
+      <item value="marketing campaigns" />
       <item value="Indicates scrolling along the vertical axis." />
       <item value="Overrides the id of the inflated View with this v" />
       <item value="Overrides the id of the inflated View with this value" />
@@ -37,25 +51,11 @@
       <item value="Tab Layout Mediator" />
       <item value="Indicates whether this View is currently in edit mode. A View is usually * in edit mode when displayed within a developer tool. For instance, if * this View is being drawn by a visual user interface builder, this method * should return true. * * Subclasses should check the return value of this method to provide * different behaviors if their normal behavior might interfere with the * host environment. For instance: the class spawns a thread in its * constructor, the drawing code relies on device-specific features, etc. * * This method is usually checked in the drawing code of custom widgets. * * @return True if this View is in edit mode, false otherwise." />
       <item value="Footer" />
-      <item value="Contract" />
-      <item value="在数据异常情况下显示错误提示框" />
-      <item value="channel" />
-      <item value="Channle" />
-      <item value="Clause" />
-      <item value="failure" />
-      <item value="Day Night" />
-      <item value="ADJUST RAISE" />
-      <item value="ADJUST LOWER" />
-      <item value="ADJUST SAME" />
-      <item value="The direction to adjust the volume" />
-      <item value="The audio stream for music playback" />
-      <item value="Decrease the ringer volume." />
-      <item value="The stream type to adjust." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="705" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="857" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
