@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meaningfully" />
+      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
+      <item value="Prefix" />
+      <item value="campaigns" />
+      <item value="marketing campaigns" />
       <item value="Indicates scrolling along the vertical axis." />
       <item value="Overrides the id of the inflated View with this v" />
       <item value="Overrides the id of the inflated View with this value" />
@@ -46,16 +51,11 @@
       <item value="Decrease the ringer volume." />
       <item value="The stream type to adjust." />
       <item value="减少媒体音量" />
-      <item value="减少" />
-      <item value="增加媒体音量" />
-      <item value="增加" />
-      <item value="The maximum valid volume index for the stream" />
-      <item value="The audio stream for phone calls" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="836" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="841" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
