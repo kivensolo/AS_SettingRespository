@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blend ARGB" />
       <item value="Or, if you prefer, you can continue to check for errors in release builds," />
       <item value="To proceed, either fix the issues identified by lint, or modify your build script as follows:" />
       <item value="on Destroy View" />
@@ -50,12 +51,11 @@
       <item value="扩散范围" />
       <item value="Surface Flinger" />
       <item value="Flinger" />
-      <item value="information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="866" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="867" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
