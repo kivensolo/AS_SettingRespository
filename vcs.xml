@@ -84,7 +84,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitee.com" />
-          <option name="userName" value="sihang.zhao@naveast.com" />
+          <option name="userName" value="760553478@qq.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitee.com/chengduqingyun/HaierSmartCityUser_Android" />
@@ -124,6 +124,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/android/sunflower.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/KenshinTang/manbingyisheng.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
