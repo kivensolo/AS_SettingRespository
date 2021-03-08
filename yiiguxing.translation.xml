@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with other services advertised on the same network." />
+      <item value="The name is subject to change based on conflicts" />
+      <item value="Maintain a list to track * discovered services" />
+      <item value="Register any local services / * to be advertised with \ * registerService()" />
+      <item value="* Application context aware {@link ViewModel}. * &lt;p&gt; * Subclasses must have a constructor which accepts {@link Application} as the only parameter. * &lt;p&gt;" />
+      <item value="canonical Name" />
+      <item value="Coroutine" />
+      <item value="subscriptposition" />
       <item value="is Batch Auth Index" />
       <item value="Elevation for the action bar itself" />
       <item value="The id of an anchor view that this view should position relative to" />
@@ -43,19 +51,11 @@
       <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
       <item value="Prefix" />
       <item value="campaigns" />
-      <item value="marketing campaigns" />
-      <item value="Indicates scrolling along the vertical axis." />
-      <item value="Overrides the id of the inflated View with this v" />
-      <item value="Overrides the id of the inflated View with this value" />
-      <item value="awaken" />
-      <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal * range. This value is used to compute the length of the thumb within the scrollbar's track." />
-      <item value="inside Overlay" />
-      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="747" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="892" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
