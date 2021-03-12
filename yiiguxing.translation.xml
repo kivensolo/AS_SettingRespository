@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Reentrance" />
+      <item value="using WeakHashMap over List&lt;WeakReference&gt;, so we don't have to manually remove // WeakReferences that have null in them." />
+      <item value="Fast Safe Iterable Map" />
+      <item value="put If Absent" />
       <item value="Marshalled data to be received from the target. May be * null if you are not interested in the return value." />
       <item value="find Item By Id Recursively" />
       <item value="with other services advertised on the same network." />
@@ -47,15 +51,11 @@
       <item value="Returns displayable styled text from the provided HTML string. Any &amp;lt;img&amp;gt; tags in the * HTML will display as a generic replacement image which your program can then go through and * replace with real images. *" />
       <item value="consumed" />
       <item value="dy Unconsumed" />
-      <item value="dx Unconsumed" />
-      <item value="dx Consumed" />
-      <item value="meaningfully" />
-      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="894" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="898" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
