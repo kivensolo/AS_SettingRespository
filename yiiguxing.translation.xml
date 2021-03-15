@@ -1,15 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Rellary" />
-      <item value="t Rellary" />
-      <item value="The bounds of oval defining the shape and size of the arc" />
-      <item value="The Path class encapsulates compound (multiple contour) geometric paths * consisting of straight line segments, quadratic curves, and cubic curves. * It can be drawn with canvas.drawPath(path, paint), either filled or stroked * (based on the paint's Style), or it can be used for clipping or to draw * text on a path." />
-      <item value="Add the specified arc to the path as a new contour." />
-      <item value="hasTransientState decremented below 0" />
-      <item value="return an iterator with additions." />
-      <item value="m Dispatch Invalidated" />
-      <item value="when setData is called, we set the pending data and actual data swap happens on the main // thread" />
+      <item value="Internal class to handle lifecycle conversion etc." />
+      <item value="Registry" />
+      <item value="backward Pass" />
+      <item value="New Event Occurred" />
+      <item value="m New Event Occurred" />
+      <item value="newest" />
+      <item value="eldest" />
+      <item value="happens only on the top of stack (never in reentrance), // so it doesn't have to take in account parents" />
+      <item value="we will figure out what to do on upper level." />
+      <item value="The ordinal of this enumeration constant (its position * in the enum declaration, where the initial constant is assigned * an ordinal of zero)." />
+      <item value="Compares this enum with the specified object for order. Returns a * negative integer, zero, or a positive integer as this object is less * than, equal to, or greater than the specified object." />
+      <item value="is At Least" />
+      <item value="Compares if this State is greater or equal to the given {@code state}." />
+      <item value="Invalidated" />
+      <item value="is Reentrance" />
+      <item value="using WeakHashMap over List&lt;WeakReference&gt;, so we don't have to manually remove // WeakReferences that have null in them." />
+      <item value="Fast Safe Iterable Map" />
+      <item value="put If Absent" />
+      <item value="Marshalled data to be received from the target. May be * null if you are not interested in the return value." />
+      <item value="find Item By Id Recursively" />
       <item value="with other services advertised on the same network." />
       <item value="The name is subject to change based on conflicts" />
       <item value="Maintain a list to track * discovered services" />
@@ -40,22 +51,11 @@
       <item value="If you are manually calling this method" />
       <item value="FLAG APPEARED IN PRE LAYOUT" />
       <item value="Release To Refresh" />
-      <item value="Pull Down" />
-      <item value="This method will animate the button hide if the view has already been laid out." />
-      <item value="Hides the button." />
-      <item value="dodge Inset Edges" />
-      <item value="Get the behavior governing the layout and interaction of the child view within * a parent CoordinatorLayout." />
-      <item value="Returns the visibility of this view and all of its ancestors" />
-      <item value="horizontal pixels consumed by the target's own scrolling operation" />
-      <item value="vertical pixels consumed by the target's own scrolling operation" />
-      <item value="Default constructor for instantiating Behaviors." />
-      <item value="Default constructor for inflating Behaviors from layout. The Behavior will have * the opportunity to parse specially defined layout parameters. These parameters will * appear on the child view tag. *" />
-      <item value="This is the legacy behavior * prior to N." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="900" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="912" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="SPANISH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
-        <entry key="INDONESIAN" value="6" />
+        <entry key="INDONESIAN" value="5" />
       </map>
     </option>
   </component>
