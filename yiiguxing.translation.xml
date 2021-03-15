@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The ordinal of this enumeration constant (its position * in the enum declaration, where the initial constant is assigned * an ordinal of zero)." />
+      <item value="Compares this enum with the specified object for order. Returns a * negative integer, zero, or a positive integer as this object is less * than, equal to, or greater than the specified object." />
       <item value="is At Least" />
       <item value="Compares if this State is greater or equal to the given {@code state}." />
       <item value="Invalidated" />
@@ -49,13 +51,11 @@
       <item value="horizontal pixels consumed by the target's own scrolling operation" />
       <item value="vertical pixels consumed by the target's own scrolling operation" />
       <item value="Default constructor for instantiating Behaviors." />
-      <item value="Default constructor for inflating Behaviors from layout. The Behavior will have * the opportunity to parse specially defined layout parameters. These parameters will * appear on the child view tag. *" />
-      <item value="This is the legacy behavior * prior to N." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="767" />
+        <entry key="ENGLISH" value="903" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
