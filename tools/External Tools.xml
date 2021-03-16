@@ -22,7 +22,7 @@
   </tool>
   <tool name="ndk_build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="D:\android-sdk\ndk\20.0.5594570\ndk-build.cmd" />
+      <option name="COMMAND" value="D:\android-sdk\ndk\22.0.7026061\ndk-build.cmd" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="E:/work/XUL/trunk/xul_all/library_xul/native/starcor_xul/jni" />
     </exec>
