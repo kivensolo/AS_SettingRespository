@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies the name of the NDK library that # you want CMake to locate." />
+      <item value="Specifies" />
+      <item value="Provides a relative path to your source file(s)" />
       <item value="Internal class to handle lifecycle conversion etc." />
       <item value="Registry" />
       <item value="backward Pass" />
@@ -48,14 +51,11 @@
       <item value="To proceed, either fix the issues identified by lint, or modify your build script as follows:" />
       <item value="on Destroy View" />
       <item value="@deprecated If you are manually calling this method, use * {@link FragmentTransaction#setMaxLifecycle(Fragment, Lifecycle.State)} instead. If * overriding this method, behavior implemented when passing in &lt;code&gt;true&lt;/code&gt; should be * moved to {@link Fragment#onResume()}, and behavior implemented when passing in * &lt;code&gt;false&lt;/code&gt; should be moved to {@link Fragment#onPause()}." />
-      <item value="If you are manually calling this method" />
-      <item value="FLAG APPEARED IN PRE LAYOUT" />
-      <item value="Release To Refresh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="912" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="915" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
