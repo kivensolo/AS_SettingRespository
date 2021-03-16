@@ -24,7 +24,7 @@
     <exec>
       <option name="COMMAND" value="D:\android-sdk\ndk\20.0.5594570\ndk-build.cmd" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="E:/work/XUL/trunk/xul_all/library_xul/native/starcor_xul" />
+      <option name="WORKING_DIRECTORY" value="E:/work/XUL/trunk/xul_all/library_xul/native/starcor_xul/jni" />
     </exec>
   </tool>
 </toolSet>
