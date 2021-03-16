@@ -11,6 +11,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="unity default resources" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
@@ -21,6 +22,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping pattern="globalgamemanagers" type="XHTML" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
     </extensionMap>
   </component>
 </application>
