@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pthread sem" />
       <item value="extern" />
       <item value="pass" />
       <item value="do Fast Blur Parallel" />
@@ -50,11 +51,10 @@
       <item value="Children can specify {@link LayoutParams#insetEdge} to describe how the * view insets the CoordinatorLayout. Any child views which are set to dodge the same inset edges by * {@link LayoutParams#dodgeInsetEdges} will be moved appropriately so that the * views do not overlap" />
       <item value="This view id must correspond * to an arbitrary descendant of the CoordinatorLayout, but it may not be the anchored child itself * or a descendant of the anchored child. This can be used to place floating views relative to * other arbitrary content panes.&lt;/p&gt;" />
       <item value="Children of a CoordinatorLayout may have an * {@link LayoutParams#setAnchorId(int) anchor}." />
-      <item value="Behaviors may be used to implement a variety of interactions and additional layout * modifications ranging from sliding drawers and panels to swipe-dismissable elements and buttons * that stick to other elements as they move and animate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
+        <entry key="CHINESE" value="791" />
         <entry key="ENGLISH" value="925" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
@@ -62,6 +62,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="4" />
         <entry key="DUTCH" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="TURKISH" value="4" />
         <entry key="SPANISH" value="4" />
