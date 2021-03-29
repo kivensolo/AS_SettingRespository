@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="eturns a string representation of the contents of the specified array as if it is [List]" />
+      <item value="Handle onto a raw buffer that is being managed by the screen compositor." />
+      <item value="Too many Flogger logs received before configuration. Dropping old logs." />
+      <item value="has Room Master Table" />
+      <item value="m Identity Hash" />
+      <item value="Room v1 had a bug where the hash was not consistent if fields are reordered. * The new has fixes it but we still need to accept the legacy hash." />
+      <item value="pthread sem" />
+      <item value="extern" />
       <item value="pass" />
       <item value="do Fast Blur Parallel" />
       <item value="Preferred NDK version is '20.0.5594570'" />
@@ -45,23 +51,18 @@
       <item value="is Batch Auth Index" />
       <item value="Elevation for the action bar itself" />
       <item value="The id of an anchor view that this view should position relative to" />
-      <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
-      <item value="Specifies how an object should position relative to an anchor, on both the X and Y axes, within its parent's bounds." />
-      <item value="Children can specify {@link LayoutParams#insetEdge} to describe how the * view insets the CoordinatorLayout. Any child views which are set to dodge the same inset edges by * {@link LayoutParams#dodgeInsetEdges} will be moved appropriately so that the * views do not overlap" />
-      <item value="This view id must correspond * to an arbitrary descendant of the CoordinatorLayout, but it may not be the anchored child itself * or a descendant of the anchored child. This can be used to place floating views relative to * other arbitrary content panes.&lt;/p&gt;" />
-      <item value="Children of a CoordinatorLayout may have an * {@link LayoutParams#setAnchorId(int) anchor}." />
-      <item value="Behaviors may be used to implement a variety of interactions and additional layout * modifications ranging from sliding drawers and panels to swipe-dismissable elements and buttons * that stick to other elements as they move and animate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
-        <entry key="ENGLISH" value="925" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="930" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="4" />
         <entry key="DUTCH" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="TURKISH" value="4" />
         <entry key="SPANISH" value="4" />
