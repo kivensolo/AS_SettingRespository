@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Identity" />
       <item value="affinity" />
       <item value="Migration didn't properly handle" />
       <item value="Collection" />
@@ -50,12 +51,11 @@
       <item value="The name is subject to change based on conflicts" />
       <item value="Maintain a list to track * discovered services" />
       <item value="Register any local services / * to be advertised with \ * registerService()" />
-      <item value="* Application context aware {@link ViewModel}. * &lt;p&gt; * Subclasses must have a constructor which accepts {@link Application} as the only parameter. * &lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="936" />
+        <entry key="CHINESE" value="804" />
+        <entry key="ENGLISH" value="937" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
