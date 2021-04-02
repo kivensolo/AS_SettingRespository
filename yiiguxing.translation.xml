@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the enabled setting for a package component (activity, receiver, service, provider). * This setting will override any enabled state which may have been set by the component in its * manifest." />
       <item value="Enable" />
       <item value="Disable" />
       <item value="Property" />
@@ -50,12 +51,11 @@
       <item value="backward Pass" />
       <item value="New Event Occurred" />
       <item value="m New Event Occurred" />
-      <item value="newest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="959" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
