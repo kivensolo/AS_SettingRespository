@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The primary branding color for the app. By default, this is the color applied to the action bar background." />
       <item value="Artical" />
       <item value="Article" />
       <item value="Province" />
@@ -50,12 +51,11 @@
       <item value="Internal class to handle lifecycle conversion etc." />
       <item value="Registry" />
       <item value="backward Pass" />
-      <item value="New Event Occurred" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="962" />
+        <entry key="CHINESE" value="830" />
+        <entry key="ENGLISH" value="963" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
