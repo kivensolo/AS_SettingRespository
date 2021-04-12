@@ -1,72 +1,75 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Size Determiner" />
-      <item value="Gallery" />
-      <item value="Result Listener" />
-      <item value="real" />
-      <item value="The default vibration strength of the device." />
-      <item value="The strength of the vibration. This must be a value between 1 and 255, or" />
-      <item value="amplitude" />
-      <item value="Prebaked" />
-      <item value="These effects may be any number of things, from single shot vibrations to complex waveforms" />
-      <item value="Vibrate constantly for the specified period of time." />
-      <item value="Annotation type declaration" />
-      <item value="Secondary" />
-      <item value="on Secondary Pointer Up" />
-      <item value="circle Diameter" />
-      <item value="Radial Gradient" />
-      <item value="Don't bother getting the parent height if the parent hasn't been laid // out yet." />
-      <item value="Maps to ProgressBar.Large style" />
-      <item value="Squishes the interpolation curve into the second half of the animation." />
-      <item value="Switching" />
-      <item value="flod" />
-      <item value="flodder" />
-      <item value="harmony" />
-      <item value="saveFlags see _SAVE_FLAG constants, generally {@link #ALL_SAVE_FLAG} is recommended * for performance reasons." />
-      <item value="Saves the current matrix and clip onto a private stack." />
-      <item value="Restore the current clip when restore() is called." />
-      <item value="flagless" />
-      <item value="@deprecated Use the flagless version of {@link #save()}, {@link #saveLayer(RectF, Paint)} or * {@link #saveLayerAlpha(RectF, int)}. For saveLayer() calls the clip * was always restored for {@link #isHardwareAccelerated() Hardware accelerated} * canvases and as of API level {@value Build.VERSION_CODES#O} that is the default * behavior for all canvas types." />
-      <item value="mask only can manual operation" />
-      <item value="The ready set is an operation set that shows the operations that a * {@code channel} is ready to execute." />
-      <item value="An operation set is represented by an integer value" />
-      <item value="An operation set is represented by an integer value. The bits of an operation * set represent categories of operations for a key's channel: Accepting socket * connections ({@code OP_ACCEPT}), connecting with a socket ({@code OP_CONNECT}), * reading ({@code OP_READ}) and writing ({@code OP_WRITE})." />
-      <item value="The interest set is an operation set that defines the operations that a * {@link SelectableChannel channel} is interested in performing." />
-      <item value="Interest set" />
-      <item value="Operation set" />
-      <item value="represents the relationship between a channel and a * selector for which the channel is registered." />
-      <item value="A {@code SelectionKey} represents the relationship between a channel and a * selector for which the channel is registered." />
-      <item value="the attached object or {@code null} if no object has been * attached." />
-      <item value="Gets the attached object." />
-      <item value="Selection Key" />
-      <item value="attach" />
-      <item value="Return true if the specified rectangle, after being transformed by the * current matrix, would lie completely outside of the current clip. Call * this to check if an area you intend to draw into is clipped out (and * therefore you can skip making the draw calls)." />
-      <item value="/data/app/" />
-      <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
-      <item value="This is more advanced version of {@link Factory} that receives a key specified for requested" />
-      <item value="INVERSE INTERVAL" />
-      <item value="forward Cache Time" />
-      <item value="set Anchor View" />
-      <item value="Binds this server socket to the given local socket address with a maximum * backlog of 50 unaccepted connections. If the {@code localAddr} is set to * {@code null} the socket will be bound to an available local address on * any free port of the system." />
-      <item value="accept" />
-      <item value="守护线程" />
+      <item value="Preconditions" />
+      <item value="The primary branding color for the app. By default, this is the color applied to the action bar background." />
+      <item value="Artical" />
+      <item value="Article" />
+      <item value="Province" />
+      <item value="Set the enabled setting for a package component (activity, receiver, service, provider). * This setting will override any enabled state which may have been set by the component in its * manifest." />
+      <item value="Enable" />
+      <item value="Disable" />
+      <item value="Property" />
+      <item value="Self Property" />
+      <item value="Collection" />
+      <item value="Collection Artical" />
+      <item value="if one us is missing index information, seems like we couldn't acquire the // information so we better skip." />
+      <item value="indices" />
+      <item value="foreign Key" />
+      <item value="_info Collect Artical" />
+      <item value="existing Collect Artical" />
+      <item value="if we cannot read the indices due to older sqlite implementations." />
+      <item value="null if we cannot read the indices due to older sqlite implementations." />
+      <item value="read Indices" />
+      <item value="Returns an unmodifiable view of the specified set. This method allows * modules to provide users with &quot;read-only&quot; access to internal sets. * Query operations on the returned set &quot;read through&quot; to the specified * set, and attempts to modify the returned set, whether direct or via its * iterator, result in an &lt;tt&gt;UnsupportedOperationException&lt;/tt&gt;.&lt;p&gt; * * The returned set will be serializable if the specified set * is serializable." />
+      <item value="unmodifiable Set" />
+      <item value="_indices Collect Artical" />
+      <item value="It directly maps to the result of {@code PRAGMA table_info(&lt;table_name&gt;)}. Check the * &lt;a href=&quot;http://www.sqlite.org/pragma.html#pragma_table_info&quot;&gt;PRAGMA table_info&lt;/a&gt; * documentation for more details. * &lt;p&gt; * Even though SQLite column names are case insensitive, this class uses case sensitive matching." />
+      <item value="update Identity" />
+      <item value="affinity" />
+      <item value="Migration didn't properly handle" />
+      <item value="Articals" />
+      <item value="The position of the item within the adapter's data set" />
+      <item value="Handle onto a raw buffer that is being managed by the screen compositor." />
+      <item value="Too many Flogger logs received before configuration. Dropping old logs." />
+      <item value="has Room Master Table" />
+      <item value="m Identity Hash" />
+      <item value="Room v1 had a bug where the hash was not consistent if fields are reordered. * The new has fixes it but we still need to accept the legacy hash." />
+      <item value="pthread sem" />
+      <item value="extern" />
+      <item value="pass" />
+      <item value="do Fast Blur Parallel" />
+      <item value="Preferred NDK version is '20.0.5594570'" />
+      <item value="use of undeclared identifier" />
+      <item value="use of undeclared identifier 'exp'" />
+      <item value="Your APP_BUILD_SCRIPT points to an unknown file:" />
+      <item value="APP_PLATFORM not set. Defaulting to minimum supported version android-16." />
+      <item value="and CMake builds them for you. When you build your app, Gradle # automatically packages shared libraries with your APK." />
+      <item value="You can define multiple libraries by adding multiple add_library() commands" />
+      <item value="Specifies the name of the NDK library that # you want CMake to locate." />
+      <item value="Specifies" />
+      <item value="Provides a relative path to your source file(s)" />
+      <item value="Internal class to handle lifecycle conversion etc." />
+      <item value="Registry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="831" />
+        <entry key="ENGLISH" value="964" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="4" />
+        <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="MALAY" value="2" />
-        <entry key="TURKISH" value="3" />
-        <entry key="SPANISH" value="2" />
-        <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="4" />
+        <entry key="TURKISH" value="4" />
+        <entry key="SPANISH" value="4" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="2" />
+        <entry key="INDONESIAN" value="6" />
       </map>
     </option>
   </component>
