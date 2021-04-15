@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
+      <item value="opration" />
+      <item value="kkkk refresh category selected state" />
       <item value="The activity must handle the {@link Intent#CATEGORY_DEFAULT} Intent * category to be considered" />
       <item value="Add a new category to the intent. Categories provide additional detail * about the action the intent performs. When resolving an intent, only * activities that provide &lt;em&gt;all&lt;/em&gt; of the requested categories will be * used. * * @param category The desired category. This can be either one of the * predefined Intent categories, or a custom category in your own * namespace. * * @return Returns the same Intent object, for chaining multiple calls * into a single statement." />
       <item value="Invisible activity to receive intents. * To show Files app for the UsbManager.ACTION_USB_DEVICE_ATTACHED intent, the intent should be * received by activity. The activity has NoDisplay theme and immediately terminate after routing * intent to DocumentsUI." />
@@ -48,18 +51,15 @@
       <item value="Preferred NDK version is '20.0.5594570'" />
       <item value="use of undeclared identifier" />
       <item value="use of undeclared identifier 'exp'" />
-      <item value="Your APP_BUILD_SCRIPT points to an unknown file:" />
-      <item value="APP_PLATFORM not set. Defaulting to minimum supported version android-16." />
-      <item value="and CMake builds them for you. When you build your app, Gradle # automatically packages shared libraries with your APK." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="838" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="841" />
+        <entry key="ENGLISH" value="973" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
