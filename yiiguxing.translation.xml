@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="These directly match native" />
+      <item value="IN FRONT" />
+      <item value="MONO" />
+      <item value="CHANNEL IN FRONT" />
+      <item value="CHANNEL IN MONO" />
+      <item value="CHANNEL IN STEREO" />
       <item value="microseconds" />
       <item value="Dequeue an output buffer, block at most &quot;timeoutUs&quot; microseconds." />
       <item value="Dequeue an output buffer, block at most &quot;timeoutUs&quot; microseconds. * Returns the index of an output buffer that has been successfully * decoded or one of the INFO_* constants. * @param info Will be filled with buffer meta data. * @param timeoutUs The timeout in microseconds, a negative timeout indicates &quot;infinite&quot;. * @throws IllegalStateException if not in the Executing state, * or codec is configured in asynchronous mode. * @throws MediaCodec.CodecException upon codec error." />
@@ -45,22 +51,16 @@
       <item value="_indices Collect Artical" />
       <item value="It directly maps to the result of {@code PRAGMA table_info(&lt;table_name&gt;)}. Check the * &lt;a href=&quot;http://www.sqlite.org/pragma.html#pragma_table_info&quot;&gt;PRAGMA table_info&lt;/a&gt; * documentation for more details. * &lt;p&gt; * Even though SQLite column names are case insensitive, this class uses case sensitive matching." />
       <item value="update Identity" />
-      <item value="affinity" />
-      <item value="Migration didn't properly handle" />
-      <item value="Articals" />
-      <item value="The position of the item within the adapter's data set" />
-      <item value="Handle onto a raw buffer that is being managed by the screen compositor." />
-      <item value="Too many Flogger logs received before configuration. Dropping old logs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="987" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
-        <entry key="FILIPINO" value="4" />
+        <entry key="FILIPINO" value="5" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
