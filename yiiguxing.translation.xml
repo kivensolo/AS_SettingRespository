@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Call this after start() returns and whenever dequeueOutputBuffer * signals an output buffer change by returning" />
+      <item value="The output format has changed, subsequent data will follow the new * format. {@link #getOutputFormat} returns the new format." />
+      <item value="The output buffers have changed, the client must refer to the new * set of output buffers returned by {@link #getOutputBuffers} from * this point on." />
+      <item value="MediaCodec class can be used to access low-level media codec, i.e. * encoder/decoder components." />
       <item value="the number of bytes to read in audioData after the offset." />
       <item value="the format in which the audio data is represented. * See {@link AudioFormat#ENCODING_PCM_16BIT} and * {@link AudioFormat#ENCODING_PCM_8BIT}" />
       <item value="MONO" />
@@ -47,15 +51,11 @@
       <item value="The primary branding color for the app. By default, this is the color applied to the action bar background." />
       <item value="Artical" />
       <item value="Article" />
-      <item value="Province" />
-      <item value="Set the enabled setting for a package component (activity, receiver, service, provider). * This setting will override any enabled state which may have been set by the component in its * manifest." />
-      <item value="Enable" />
-      <item value="Disable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="877" />
-        <entry key="ENGLISH" value="1007" />
+        <entry key="CHINESE" value="881" />
+        <entry key="ENGLISH" value="1011" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
