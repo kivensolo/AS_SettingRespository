@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the attribute describing what is the intended use of the the audio signal, * such as alarm or ringtone." />
+      <item value="Audio data format: PCM 16 bit per sample. Guaranteed to be supported by devices" />
+      <item value="Non-null only for heap buffers" />
       <item value="the output buffer, or null if the index is not a dequeued * output buffer, or the codec is configured with an output surface." />
       <item value="After calling this method, any * ByteBuffers previously returned by an earlier call to this * method MUST no longer be used." />
       <item value="Retrieve the set of output buffers. Call this after start() * returns and whenever dequeueOutputBuffer signals an output * buffer change by returning {@link * #INFO_OUTPUT_BUFFERS_CHANGED}. After calling this method, any * ByteBuffers previously returned by an earlier call to this * method MUST no longer be used. * * @deprecated Use the new {@link #getOutputBuffer} method instead * each time an output buffer is dequeued. This method is not * supported if codec is configured in asynchronous mode. * * &lt;b&gt;Note:&lt;/b&gt; As of API 21, the position and limit of output * buffers that are dequeued will be set to the valid data * range. * * &lt;em&gt;Do not use this method if using an output surface.&lt;/em&gt; * * @throws IllegalStateException if not in the Executing state, * or codec is configured in asynchronous mode. * @throws MediaCodec.CodecException upon codec error." />
@@ -48,14 +51,11 @@
       <item value="Add a new category to the intent. Categories provide additional detail * about the action the intent performs. When resolving an intent, only * activities that provide &lt;em&gt;all&lt;/em&gt; of the requested categories will be * used. * * @param category The desired category. This can be either one of the * predefined Intent categories, or a custom category in your own * namespace. * * @return Returns the same Intent object, for chaining multiple calls * into a single statement." />
       <item value="Invisible activity to receive intents. * To show Files app for the UsbManager.ACTION_USB_DEVICE_ATTACHED intent, the intent should be * received by activity. The activity has NoDisplay theme and immediately terminate after routing * intent to DocumentsUI." />
       <item value="Set if the activity should be an option for the default action * (center press) to perform on a piece of data. Setting this will * hide from the user any activities without it set when performing an * action on some data. Note that this is normally -not- set in the * Intent when initiating an action -- it is for use in intent filters * specified in packages." />
-      <item value="Unable to resolve dependency for ':app@ChengDuDebug/compileClasspath': Could not resolve androidx.room:room-common:[2.2.1]." />
-      <item value="Multiple Compilation Errors Exception" />
-      <item value="Preconditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="884" />
-        <entry key="ENGLISH" value="1014" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
