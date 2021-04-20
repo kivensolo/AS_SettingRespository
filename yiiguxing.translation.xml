@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Online Prev Mono Usec" />
       <item value="Sets the attribute describing what is the intended use of the the audio signal, * such as alarm or ringtone." />
       <item value="Audio data format: PCM 16 bit per sample. Guaranteed to be supported by devices" />
       <item value="Non-null only for heap buffers" />
@@ -50,12 +51,11 @@
       <item value="The activity must handle the {@link Intent#CATEGORY_DEFAULT} Intent * category to be considered" />
       <item value="Add a new category to the intent. Categories provide additional detail * about the action the intent performs. When resolving an intent, only * activities that provide &lt;em&gt;all&lt;/em&gt; of the requested categories will be * used. * * @param category The desired category. This can be either one of the * predefined Intent categories, or a custom category in your own * namespace. * * @return Returns the same Intent object, for chaining multiple calls * into a single statement." />
       <item value="Invisible activity to receive intents. * To show Files app for the UsbManager.ACTION_USB_DEVICE_ATTACHED intent, the intent should be * received by activity. The activity has NoDisplay theme and immediately terminate after routing * intent to DocumentsUI." />
-      <item value="Set if the activity should be an option for the default action * (center press) to perform on a piece of data. Setting this will * hide from the user any activities without it set when performing an * action on some data. Note that this is normally -not- set in the * Intent when initiating an action -- it is for use in intent filters * specified in packages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="887" />
-        <entry key="ENGLISH" value="1017" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="1018" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
