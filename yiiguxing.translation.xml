@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAXIMUM HLS LIVE SILCES" />
+      <item value="MODE HLS UPDATE SUB LIST" />
+      <item value="MODE HLS SUB LIST" />
+      <item value="MODE HLS LIST" />
+      <item value="MODE HLS SLICE" />
+      <item value="MODE HTTP TS" />
+      <item value="MODE PROBE" />
+      <item value="http client working mode" />
+      <item value="_update Data Rate Task" />
       <item value="_do Pump Event" />
       <item value="_event Pumper" />
       <item value="on Pumper Created" />
@@ -42,20 +51,11 @@
       <item value="The output buffers have changed, the client must refer to the new * set of output buffers returned by {@link #getOutputBuffers} from * this point on." />
       <item value="MediaCodec class can be used to access low-level media codec, i.e. * encoder/decoder components." />
       <item value="the number of bytes to read in audioData after the offset." />
-      <item value="the format in which the audio data is represented. * See {@link AudioFormat#ENCODING_PCM_16BIT} and * {@link AudioFormat#ENCODING_PCM_8BIT}" />
-      <item value="MONO" />
-      <item value="CHANNEL OUT MONO" />
-      <item value="describes the configuration of the audio channels. * See {@link AudioFormat#CHANNEL_OUT_MONO} and * {@link AudioFormat#CHANNEL_OUT_STEREO}" />
-      <item value="The AudioFormat class is used to access a number of audio format and * channel configuration constants. They are for instance used * in {@link AudioTrack} and {@link AudioRecord}." />
-      <item value="dequeue" />
-      <item value="the input buffer, or null if the index is not a dequeued * input buffer, or if the codec is configured for surface input." />
-      <item value="After calling this method any ByteBuffer or Image object * previously returned for the same input index MUST no longer * be used." />
-      <item value="The index of a client-owned input buffer previously * returned from a call to {@link #dequeueInputBuffer}, * or received via an onInputBufferAvailable callback." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="1051" />
+        <entry key="CHINESE" value="932" />
+        <entry key="ENGLISH" value="1062" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
