@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect hls playlist" />
+      <item value="slice Path" />
+      <item value="slice Duration" />
       <item value="PROBE" />
       <item value="remaining" />
       <item value="Datagram" />
@@ -48,14 +51,11 @@
       <item value="Audio data format: PCM 16 bit per sample. Guaranteed to be supported by devices" />
       <item value="announce" />
       <item value="Teardown" />
-      <item value="Returns the value of a string key." />
-      <item value="_alignment" />
-      <item value="initial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="956" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="959" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
