@@ -4,7 +4,7 @@
     <property name="created">2020-09-01T12:54:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2021-03-19T10:38:04</property>
+    <property name="modified">2021-04-27T15:11:23</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -608,6 +608,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c156c0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INTELLIJ_LOCAL_CHANGE">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -844,7 +850,7 @@
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="2a9adb" />
+        <option name="FOREGROUND" value="c156c0" />
       </value>
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
