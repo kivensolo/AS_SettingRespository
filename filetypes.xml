@@ -18,6 +18,7 @@
       <mapping pattern="unity_builtin_extra" type="PLAIN_TEXT" />
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
       <mapping pattern="level0" type="PLAIN_TEXT" />
+      <mapping ext="rxml" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
