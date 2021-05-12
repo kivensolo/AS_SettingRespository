@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEBUG AUXILIARY LINE" />
+      <item value="Aux" />
       <item value="m Allow Main Thread Queries" />
       <item value="Disables the main thread query check for Room." />
       <item value="com.gitvhbgd.video.action.ACTION DETAIL" />
@@ -49,17 +51,15 @@
       <item value="sync Interest Op" />
       <item value="reserved" />
       <item value="Stamp" />
-      <item value="可选通道的Handler操作接口" />
-      <item value="on Heart Beat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="CHINESE" value="1000" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
