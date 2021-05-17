@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clear massive data and make massive's parent view scroll to 0(if is slider)" />
+      <item value="Clear massive data and make massive's parent view(if is slider) scroll to 0." />
+      <item value="Clear massive data and make massive parent slider() view scroll to 0." />
       <item value="Authentication polling checker for normal product package (non base product) of player." />
       <item value="Http Data Source$Invalid Response Code Exception" />
       <item value="@Field parameters can only be used with form encoding. (parameter #1) for method YinYueTaiApiService.getVideoInfo" />
@@ -48,14 +51,11 @@
       <item value="RECHECK COUNTS" />
       <item value="sometimes we store linked lists of these things" />
       <item value="Handler to assign to the returned Message object's &lt;em&gt;target&lt;/em&gt; member" />
-      <item value="_consume Frames" />
-      <item value="The Auto status bar dark mode enable" />
-      <item value="navigation Bar Color Transform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1032" />
-        <entry key="ENGLISH" value="1152" />
+        <entry key="CHINESE" value="1036" />
+        <entry key="ENGLISH" value="1156" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
