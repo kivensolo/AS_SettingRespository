@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="non-protected" />
+      <item value="Sending non-protected broadcast com.tcl.userstate.keydown from system 3728:system/1000 pkg android java.lang.Throwable" />
+      <item value="from devicename is TCL_RC802Dand init devicename is" />
+      <item value="keyguard Active" />
+      <item value="interactive" />
+      <item value="spurious, event already finished or timed out" />
       <item value="Specifies flavor dimensions" />
       <item value="flavor" />
       <item value="is Multidex Capable" />
@@ -45,17 +51,11 @@
       <item value="Show this item in an action bar if there is room for it as determined by the system. Favor this option over &quot;always&quot; where possible. Mutually exclusive with &quot;never&quot; and &quot;always&quot;. --&gt;" />
       <item value="How this item should display in the Action Bar, if present" />
       <item value="on Options Item Selected" />
-      <item value="bipbop" />
-      <item value="bipbop basic master playlist" />
-      <item value="boo" />
-      <item value="should Show Request Permission Rationale" />
-      <item value="bipbop advanced" />
-      <item value="bop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1056" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1181" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
