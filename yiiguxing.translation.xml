@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finally make sure we reflect the new adapter" />
+      <item value="A {@link LinearLayout} containing {@link Tab} instances for use with {@link TabLayout}" />
       <item value="The one-stop shop for setting up this {@link TabLayout} with a {@link ViewPager}. * * &lt;p&gt;This is the same as calling {@link #setupWithViewPager(ViewPager, boolean)} with * auto-refresh enabled." />
       <item value="Eyepetizer" />
       <item value="metrail" />
@@ -49,13 +51,11 @@
       <item value="the source sample rate expressed in Hz. * {@link AudioFormat#SAMPLE_RATE_UNSPECIFIED} is not permitted." />
       <item value="Failed to instantiate extractor." />
       <item value="advance" />
-      <item value="cb should always be invoked whether exception occurs or not" />
-      <item value="SLICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1072" />
-        <entry key="ENGLISH" value="1189" />
+        <entry key="CHINESE" value="1074" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
