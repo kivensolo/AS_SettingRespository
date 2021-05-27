@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vice" />
+      <item value="load found 2 secondary dex files" />
+      <item value="secondary" />
+      <item value="Stream Corrupted Exception" />
       <item value="Call this method to remove all child views from the * ViewGroup. * * &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; do not invoke this method from * {@link #draw(android.graphics.Canvas)}, {@link #onDraw(android.graphics.Canvas)}, * {@link #dispatchDraw(android.graphics.Canvas)} or any related method.&lt;/p&gt;" />
       <item value="create Base Generic K Instance" />
       <item value="horizontal Scroll Card" />
@@ -47,15 +51,11 @@
       <item value="Instrumentation" />
       <item value="support User Action Collect" />
       <item value="intercept Key Tq" />
-      <item value="non-protected" />
-      <item value="Sending non-protected broadcast com.tcl.userstate.keydown from system 3728:system/1000 pkg android java.lang.Throwable" />
-      <item value="from devicename is TCL_RC802Dand init devicename is" />
-      <item value="keyguard Active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1112" />
-        <entry key="ENGLISH" value="1230" />
+        <entry key="CHINESE" value="1116" />
+        <entry key="ENGLISH" value="1234" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
