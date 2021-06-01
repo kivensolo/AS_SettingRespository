@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="swipe" />
+      <item value="swip" />
+      <item value="swiped" />
+      <item value="swiped or dragged" />
+      <item value="Most of the time you only need to override &lt;code&gt;onChildDraw&lt;/code&gt;." />
+      <item value="By default, ItemTouchHelper moves the items' translateX/Y properties to reposition them. You can * customize these behaviors by overriding {@link Callback#onChildDraw(Canvas, RecyclerView, * ViewHolder, float, float, int, boolean)} * or {@link Callback#onChildDrawOver(Canvas, RecyclerView, ViewHolder, float, float, int, * boolean)}." />
+      <item value="This class is designed to work with any LayoutManager but for certain situations, it can be * optimized for your custom LayoutManager by extending methods in the * {@link ItemTouchHelper.Callback} class or implementing {@link ItemTouchHelper.ViewDropHandler} * interface in your LayoutManager. * &lt;p&gt;" />
+      <item value="It works with a RecyclerView and a Callback class, which configures what type of interactions * are enabled and also receives events when user performs these actions." />
+      <item value="utility" />
+      <item value="Returns whether ItemTouchHelper should start a drag and drop operation if an item is * long pressed. * &lt;p&gt; * Default value returns true but you may want to disable this if you want to start * dragging on a custom view touch using {@link #startDrag(ViewHolder)}. * * @return True if ItemTouchHelper should start dragging an item when it is long pressed, * false otherwise. Default value is &lt;code&gt;true&lt;/code&gt;. * @see #startDrag(ViewHolder)" />
       <item value="Indicates that this list will always be drawn on top of solid, single-color opaque background. This allows the list to optimize drawing" />
       <item value="cache Color Hint" />
       <item value="parse" />
@@ -41,21 +51,11 @@
       <item value="Vice" />
       <item value="load found 2 secondary dex files" />
       <item value="secondary" />
-      <item value="Stream Corrupted Exception" />
-      <item value="Call this method to remove all child views from the * ViewGroup. * * &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; do not invoke this method from * {@link #draw(android.graphics.Canvas)}, {@link #onDraw(android.graphics.Canvas)}, * {@link #dispatchDraw(android.graphics.Canvas)} or any related method.&lt;/p&gt;" />
-      <item value="create Base Generic K Instance" />
-      <item value="horizontal Scroll Card" />
-      <item value="text Card" />
-      <item value="brief Card" />
-      <item value="Davey" />
-      <item value="Detaile" />
-      <item value="Brief" />
-      <item value="Retrieves and removes the first element of this deque, * or returns {@code null} if this deque is empty. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1156" />
-        <entry key="ENGLISH" value="1272" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1282" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
