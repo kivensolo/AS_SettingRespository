@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finalize inflating a view from XML. This is called as the last phase * of inflation, after all child views have been added." />
+      <item value="Returns the number of children in the group." />
       <item value="Specifies how closed shapes (e.g. rects, ovals) are oriented when they * are added to a path." />
       <item value="counter-clockwise" />
       <item value="clockwise" />
@@ -49,13 +51,11 @@
       <item value="Absent" />
       <item value="put If Absent" />
       <item value="Restrict To" />
-      <item value="A static class that serves as a central point to execute common tasks." />
-      <item value="Sparse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1179" />
-        <entry key="ENGLISH" value="1295" />
+        <entry key="CHINESE" value="1181" />
+        <entry key="ENGLISH" value="1297" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
