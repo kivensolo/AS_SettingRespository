@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add a closed round-rectangle contour to the path" />
       <item value="set Space Corner" />
       <item value="The x-radius of the oval used to round the corners" />
       <item value="rect F Stroke" />
@@ -50,12 +51,11 @@
       <item value="android.R.layout.list content" />
       <item value="field or method return value is expected * to be a layout resource reference (e.g. {@code android.R.layout.list_content})." />
       <item value="Denotes that an integer parameter, field or method return value is expected * to be a layout resource reference (e.g. {@code android.R.layout.list_content}). */" />
-      <item value="LIBRARY GROUP PREFIX" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1187" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="CHINESE" value="1188" />
+        <entry key="ENGLISH" value="1304" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
