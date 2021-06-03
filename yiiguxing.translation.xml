@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Turn them off manually" />
       <item value="营销活动" />
       <item value="活动" />
       <item value="usable num" />
@@ -50,12 +51,11 @@
       <item value="This is the top-level view of the window" />
       <item value="* Used by custom windows, such as Dialog, to pass the touch screen event * further down the view hierarchy. Application developers should * not need to implement or call this. *" />
       <item value="This parent should pass this call onto its parents. This parent must obey * this request for the duration of the touch (that is, only clear the flag * after this parent has received an up or a cancel." />
-      <item value="Called when a child does not want this parent and its ancestors to * intercept touch events with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
-        <entry key="ENGLISH" value="1309" />
+        <entry key="CHINESE" value="1195" />
+        <entry key="ENGLISH" value="1310" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
