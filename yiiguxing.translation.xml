@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RROR: Failed to resolve: :unspecified:" />
       <item value="specified for property" />
       <item value="insights" />
       <item value="Turn them off manually" />
@@ -50,12 +51,11 @@
       <item value="Decor" />
       <item value="Decor View" />
       <item value="This is the top-level view of the window, containing the window decor." />
-      <item value="This is the top-level view of the window" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1197" />
-        <entry key="ENGLISH" value="1312" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1313" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
