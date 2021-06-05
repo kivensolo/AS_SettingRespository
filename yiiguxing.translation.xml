@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Called when a new child is added to this ViewGroup. Overrides should always * call super.onViewAdded." />
       <item value="Window flag: allow window to extend outside of the screen" />
       <item value="Returns a new request body that transmits {@code content}. If {@code contentType} is non-null * and lacks a charset, this will use UTF-8." />
       <item value="Returns a specific media subtype," />
@@ -50,7 +51,6 @@
       <item value="click Able False Drawable" />
       <item value="if the attribute is not defined or could * not be coerced to a string" />
       <item value="stroke" />
-      <item value="escape ampersand" />
     </histories>
     <option name="languageScores">
       <map>
