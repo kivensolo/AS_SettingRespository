@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process header params inject" />
+      <item value="Create a cache of at most {@code maxSize} bytes in {@code directory}" />
+      <item value="&lt;p&gt;Sometimes you'll want to show resources if they are available immediately, but not otherwise. * This can be used so your application can show &lt;i&gt;something&lt;/i&gt; while waiting for the latest data * to be downloaded. To restrict a request to locally-cached resources, add the {@code * only-if-cached} directive: &lt;pre&gt; {@code *" />
+      <item value="If it is only necessary to force a cached response to be validated by the server, use the more * efficient {@code max-age=0} directive instead: &lt;pre&gt; {@code" />
       <item value="interface is a loopback interface." />
       <item value="Assertions" />
       <item value="Assignable" />
@@ -47,15 +51,11 @@
       <item value="Most of the time you only need to override &lt;code&gt;onChildDraw&lt;/code&gt;." />
       <item value="By default, ItemTouchHelper moves the items' translateX/Y properties to reposition them. You can * customize these behaviors by overriding {@link Callback#onChildDraw(Canvas, RecyclerView, * ViewHolder, float, float, int, boolean)} * or {@link Callback#onChildDrawOver(Canvas, RecyclerView, ViewHolder, float, float, int, * boolean)}." />
       <item value="This class is designed to work with any LayoutManager but for certain situations, it can be * optimized for your custom LayoutManager by extending methods in the * {@link ItemTouchHelper.Callback} class or implementing {@link ItemTouchHelper.ViewDropHandler} * interface in your LayoutManager. * &lt;p&gt;" />
-      <item value="It works with a RecyclerView and a Callback class, which configures what type of interactions * are enabled and also receives events when user performs these actions." />
-      <item value="utility" />
-      <item value="Returns whether ItemTouchHelper should start a drag and drop operation if an item is * long pressed. * &lt;p&gt; * Default value returns true but you may want to disable this if you want to start * dragging on a custom view touch using {@link #startDrag(ViewHolder)}. * * @return True if ItemTouchHelper should start dragging an item when it is long pressed, * false otherwise. Default value is &lt;code&gt;true&lt;/code&gt;. * @see #startDrag(ViewHolder)" />
-      <item value="Indicates that this list will always be drawn on top of solid, single-color opaque background. This allows the list to optimize drawing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1206" />
-        <entry key="ENGLISH" value="1321" />
+        <entry key="CHINESE" value="1210" />
+        <entry key="ENGLISH" value="1325" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
