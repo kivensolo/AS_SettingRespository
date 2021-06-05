@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a new request body that transmits {@code content}. If {@code contentType} is non-null * and lacks a charset, this will use UTF-8." />
+      <item value="Returns a specific media subtype," />
       <item value="This is `public val` so that it is private on JVM and cannot be modified by untrusted code, yet // it has a public getter (since even untrusted code is allowed to inspect its call stack). pu" />
       <item value="continuation" />
       <item value="fail fast when trying to resume continuation without completion" />
@@ -49,13 +51,11 @@
       <item value="stroke" />
       <item value="escape ampersand" />
       <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
-      <item value="synthetic" />
-      <item value="transparent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1218" />
-        <entry key="ENGLISH" value="1333" />
+        <entry key="CHINESE" value="1220" />
+        <entry key="ENGLISH" value="1335" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
