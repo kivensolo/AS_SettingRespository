@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recent Do Play Timestamp" />
       <item value="enumeration values 'XNT_NONE', 'XNT_END', and 'XNT_ROOT' not handled in switch [-Wswitch]" />
       <item value="The color applied to framework buttons in their normal state." />
       <item value="he color applied to framework buttons in their normal sta" />
@@ -50,12 +51,11 @@
       <item value="Overrides the {@link com.bumptech.glide.request.target.Target}'s width and height with the * given values. This is useful for thumbnails, and should only be used for other cases when you * need a very specific image size." />
       <item value="Finalize inflating a view from XML. This is called as the last phase * of inflation, after all child views have been added." />
       <item value="Returns the number of children in the group." />
-      <item value="Specifies how closed shapes (e.g. rects, ovals) are oriented when they * are added to a path." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1229" />
+        <entry key="ENGLISH" value="1344" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
