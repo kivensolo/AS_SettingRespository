@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An offset for the thumb that allows it to extend out of the range of the track" />
+      <item value="Drawable used for the indeterminate mode." />
       <item value="TYPE RENDERER" />
       <item value="PS SURFACE LOST" />
       <item value="Put JZVideoPlayer into layout * From a JZVideoPlayer to another JZVideoPlayer * Created by Nathen on 16/7/26." />
@@ -49,13 +51,11 @@
       <item value="Scheduler" />
       <item value="is Outter Seclect Collect" />
       <item value="RROR: Failed to resolve: :unspecified:" />
-      <item value="specified for property" />
-      <item value="insights" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1244" />
-        <entry key="ENGLISH" value="1359" />
+        <entry key="CHINESE" value="1247" />
+        <entry key="ENGLISH" value="1362" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
