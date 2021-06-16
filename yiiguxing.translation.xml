@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exponent" />
+      <item value="3 element array which holds the resulting HSV components." />
+      <item value="Convert RGB components to HSV" />
+      <item value="The x-coordinate for the end of the gradient line" />
+      <item value="Create a shader that draws a linear gradient along a line." />
+      <item value="The x-coordinate for the start of the gradient line" />
+      <item value="Close the current contour. If the current point is not equal to the * first point of the contour, a line segment is automatically added." />
+      <item value="Close the current contour. If the current point is not equal to the * first point of the contour, a line segment is automatically added. */" />
+      <item value="terminal programmatic advertising id" />
+      <item value="mgtv ad sectioncat" />
+      <item value="replicate the edge color if the shader draws outside of its * original bounds" />
+      <item value="replicate" />
+      <item value="CLAMP" />
+      <item value="Returns the range of valid indices for the array." />
+      <item value="implicit Setup" />
+      <item value="This method may be called by the ViewPager to obtain a title string * to describe the specified page. This method may return null * indicating no title for this page. The default implementation returns * null." />
       <item value="Pass 0 to stroke in hairline mode" />
       <item value="Hairlines" />
       <item value="Hairlines always draws a single pixel independent of the canva's matrix" />
@@ -35,32 +51,16 @@
       <item value="* Called when a new child is added to this ViewGroup. Overrides should always * call super.onViewAdded." />
       <item value="Window flag: allow window to extend outside of the screen" />
       <item value="Returns a new request body that transmits {@code content}. If {@code contentType} is non-null * and lacks a charset, this will use UTF-8." />
-      <item value="Returns a specific media subtype," />
-      <item value="This is `public val` so that it is private on JVM and cannot be modified by untrusted code, yet // it has a public getter (since even untrusted code is allowed to inspect its call stack). pu" />
-      <item value="continuation" />
-      <item value="fail fast when trying to resume continuation without completion" />
-      <item value="UNINITIALIZED VALUE" />
-      <item value="This implementation is final. This fact is used to unroll resumeWith recursion." />
-      <item value="Could not resolve all task dependencies for configuration ':app:BeijingDebugCompileClasspath'." />
-      <item value="Could not find :unspecified:." />
-      <item value="process header params inject" />
-      <item value="Create a cache of at most {@code maxSize} bytes in {@code directory}" />
-      <item value="&lt;p&gt;Sometimes you'll want to show resources if they are available immediately, but not otherwise. * This can be used so your application can show &lt;i&gt;something&lt;/i&gt; while waiting for the latest data * to be downloaded. To restrict a request to locally-cached resources, add the {@code * only-if-cached} directive: &lt;pre&gt; {@code *" />
-      <item value="If it is only necessary to force a cached response to be validated by the server, use the more * efficient {@code max-age=0} directive instead: &lt;pre&gt; {@code" />
-      <item value="interface is a loopback interface." />
-      <item value="Assertions" />
-      <item value="Assignable" />
-      <item value="CONVOLUTION FACTOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1252" />
-        <entry key="ENGLISH" value="1367" />
+        <entry key="CHINESE" value="1270" />
+        <entry key="ENGLISH" value="1384" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
-        <entry key="FILIPINO" value="7" />
+        <entry key="FILIPINO" value="8" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
