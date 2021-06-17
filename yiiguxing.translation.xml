@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dimen" />
       <item value="可用的" />
       <item value="aviable" />
       <item value="Property" />
@@ -50,12 +51,11 @@
       <item value="The color applied to framework buttons in their normal state." />
       <item value="he color applied to framework buttons in their normal sta" />
       <item value="NOTICE" />
-      <item value="unused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1276" />
-        <entry key="ENGLISH" value="1390" />
+        <entry key="CHINESE" value="1277" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
