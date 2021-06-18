@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Send Started" />
+      <item value="Transmitter" />
+      <item value="prior Response" />
+      <item value="prior" />
+      <item value="Stops applying the timeout before the call is entirely complete. This is used for WebSockets * and duplex calls where the timeout only applies to the initial setup." />
+      <item value="timeout Early Exit" />
+      <item value="is Duplex" />
+      <item value="Attach the prior response if it exists." />
+      <item value="Attach the prior response if it exists. Such responses never have a body." />
+      <item value="The network call threw an exception. Release any resources." />
+      <item value="An attempt to communicate with a server failed. The request may have been sent" />
+      <item value="The attempt to connect via a route failed. The request will not have been sent" />
+      <item value="Bridge between OkHttp's application and network layers." />
+      <item value="follow Up" />
+      <item value="follow Up Request" />
+      <item value="MAX FOLLOW UPS" />
+      <item value="This interceptor recovers from failures and follows redirects as necessary. It may throw an * {@link IOException} if the call was canceled." />
+      <item value="Create an implementation of the API endpoints defined by the {@code service} interface." />
       <item value="divider line" />
       <item value="divide" />
       <item value="分割线" />
@@ -33,29 +51,11 @@
       <item value="Hairlines" />
       <item value="Hairlines always draws a single pixel independent of the canva's matrix" />
       <item value="set the paint's stroke width, used whenever the paint's * style is Stroke or StrokeAndFill." />
-      <item value="The path to be drawn" />
-      <item value="An offset for the thumb that allows it to extend out of the range of the track" />
-      <item value="Drawable used for the indeterminate mode." />
-      <item value="TYPE RENDERER" />
-      <item value="PS SURFACE LOST" />
-      <item value="Put JZVideoPlayer into layout * From a JZVideoPlayer to another JZVideoPlayer * Created by Nathen on 16/7/26." />
-      <item value="VIDEO IMAGE DISPLAY TYPE ADAPTER" />
-      <item value="Consumption" />
-      <item value="Run the message queue in this thread. Be sure to call" />
-      <item value="Task Barrier" />
-      <item value="channel" />
-      <item value="legacy chennel data" />
-      <item value="Barrier" />
-      <item value="confirmed" />
-      <item value="is Player Recoverable" />
-      <item value="aspect" />
-      <item value="Ratios" />
-      <item value="intelligent Do Play" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1282" />
-        <entry key="ENGLISH" value="1396" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
