@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weather" />
+      <item value="weatcher" />
+      <item value="fragemnt state edge padding" />
       <item value="运动次数" />
       <item value="Module was compiled with an incompatible version of Kotlin" />
       <item value="parse Annotations" />
@@ -48,14 +51,11 @@
       <item value="* Used by custom windows, such as Dialog, to pass the touch screen event * further down the view hierarchy. Application developers should * not need to implement or call this. *" />
       <item value="This parent should pass this call onto its parents. This parent must obey * this request for the duration of the touch (that is, only clear the flag * after this parent has received an up or a cancel." />
       <item value="Called when a child does not want this parent and its ancestors to * intercept touch events with" />
-      <item value="True if the child does not want the parent to * intercept touch events." />
-      <item value="Denotes that any overriding methods should invoke this method as well." />
-      <item value="Denotes that an integer parameter, field or method return value is expected * to be a layout resource reference (e.g. {@code android.R.layout.list_content})." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1191" />
-        <entry key="ENGLISH" value="1307" />
+        <entry key="CHINESE" value="1194" />
+        <entry key="ENGLISH" value="1310" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
