@@ -134,6 +134,10 @@
           <option name="url" value="https://github.com/1136535305/Eyepetizer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/KenshinTang/BeiDouWatch" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
