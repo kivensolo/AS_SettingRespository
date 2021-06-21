@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="时速" />
+      <item value="unit of distance kilometer" />
+      <item value=" kilometer" />
+      <item value="千米" />
+      <item value="米" />
+      <item value="unit of meter" />
+      <item value="unit of heart rate" />
+      <item value="心率" />
       <item value="unit of sport distance" />
       <item value="distance" />
       <item value="unit of energy consumption" />
@@ -43,19 +51,11 @@
       <item value="分割线" />
       <item value="divider" />
       <item value="diver" />
-      <item value="dimen" />
-      <item value="可用的" />
-      <item value="aviable" />
-      <item value="Property" />
-      <item value="carousel_" />
-      <item value="Returns the last index of the code point {@code c}, or -1. * The search for the character starts at the end and moves towards the * beginning of this string." />
-      <item value="horizontal" />
-      <item value="exponent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1325" />
-        <entry key="ENGLISH" value="1439" />
+        <entry key="CHINESE" value="1333" />
+        <entry key="ENGLISH" value="1448" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
