@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Round progress bar control with percentage of progress." />
+      <item value="Suspicious Name Combination" />
+      <item value="noinspection SuspiciousNameCombination" />
+      <item value="that represents Ethernet networks. * * This class reports a static network score of 70 when it is tracking an interface and that * interface's link is up, and a score of 0 otherwise." />
+      <item value="radius" />
+      <item value="Radius of view" />
+      <item value="mRadius of view" />
+      <item value="The x-coordinate of the center of the circle to be drawn" />
+      <item value="带有进度值和单位的横向进度条" />
+      <item value="脚步" />
+      <item value="food step" />
+      <item value="progress text unit" />
+      <item value="带进度百分比的水平进度条控件" />
+      <item value="progress reached bar height" />
+      <item value="Angle" />
+      <item value="oval" />
+      <item value="widgets" />
       <item value="is Ciphertext" />
       <item value="时速" />
       <item value="unit of distance kilometer" />
@@ -34,28 +51,11 @@
       <item value="prior Response" />
       <item value="prior" />
       <item value="Stops applying the timeout before the call is entirely complete. This is used for WebSockets * and duplex calls where the timeout only applies to the initial setup." />
-      <item value="timeout Early Exit" />
-      <item value="is Duplex" />
-      <item value="Attach the prior response if it exists." />
-      <item value="Attach the prior response if it exists. Such responses never have a body." />
-      <item value="The network call threw an exception. Release any resources." />
-      <item value="An attempt to communicate with a server failed. The request may have been sent" />
-      <item value="The attempt to connect via a route failed. The request will not have been sent" />
-      <item value="Bridge between OkHttp's application and network layers." />
-      <item value="follow Up" />
-      <item value="follow Up Request" />
-      <item value="MAX FOLLOW UPS" />
-      <item value="This interceptor recovers from failures and follows redirects as necessary. It may throw an * {@link IOException} if the call was canceled." />
-      <item value="Create an implementation of the API endpoints defined by the {@code service} interface." />
-      <item value="divider line" />
-      <item value="divide" />
-      <item value="分割线" />
-      <item value="divider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1334" />
-        <entry key="ENGLISH" value="1449" />
+        <entry key="CHINESE" value="1353" />
+        <entry key="ENGLISH" value="1468" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
