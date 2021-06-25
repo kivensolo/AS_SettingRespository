@@ -1,11 +1,41 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the color of the chart border lines." />
+      <item value="et this to true to draw the grid background, false if not" />
+      <item value="Sets a new Description object for the chart." />
+      <item value="Sets the text that informs the user that there is no data available with * which to draw the chart." />
+      <item value="Legend" />
+      <item value="Limit Lines" />
+      <item value="Legend and LimitLines have in common." />
+      <item value="Component Base" />
+      <item value="This class encapsulates everything both Axis, Legend and LimitLines have in common. * * @author Philipp Jahod" />
+      <item value="if true, y-values are drawn on the chart" />
+      <item value="Set this to true to enable drawing the grid lines for this axis." />
+      <item value="flag indicating if the grid lines for this axis should be drawn" />
+      <item value="add the legend description label" />
+      <item value="draw points as solid circles" />
+      <item value="Radius" />
+      <item value="line thickness" />
+      <item value="horizontal bar-chart" />
+      <item value="Axis" />
+      <item value="SIDED" />
+      <item value="BOTH SIDED" />
+      <item value="enum for the position of the x-labels relative to the chart" />
+      <item value="Base-class of all axes (previously called labels)." />
+      <item value="Set this to true to enable scaling (zooming in and out by gesture) for * the chart (this does not effect dragging) on both X- and Y-Axis. *" />
+      <item value="Pinch" />
+      <item value="Philpp Jahoda" />
+      <item value="Set this to true to allow drawing a hole in each data circle." />
+      <item value="thicker line == worse performance" />
+      <item value="set the line width of the chart (min = 0.2f, max = 10f); default 1f NOTE: * thinner line == better performance, thicker line == worse performance *" />
+      <item value="thickness" />
+      <item value="line thickness and point size" />
+      <item value="Sets the one and ONLY color that should be used for this DataSet. * Internally, this recreates the colors array and adds the specified color. *" />
       <item value="offset, in degrees (normally, use 0)" />
       <item value="in degrees" />
       <item value="the length of the line pieces" />
       <item value="draw dashed line" />
-      <item value="draw points as solid circles" />
       <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
       <item value="Notice" />
       <item value="Befor read data, must enable notification" />
@@ -21,41 +51,11 @@
       <item value="INDICATE" />
       <item value="Device timestamp when the result was last seen." />
       <item value="Received signal strength" />
-      <item value="Received signal strength." />
-      <item value="当前已连接的设备" />
-      <item value="查找到的设备列表" />
-      <item value="discorvery" />
-      <item value="Returns raw bytes of scan record" />
-      <item value="Callback when batch results are delivered." />
-      <item value="results" />
-      <item value="Manufacturer Specific Data" />
-      <item value="m Manufacturer Specific Data" />
-      <item value="The content of the advertisement record offered by the remote device" />
-      <item value="The resulting `Byte` value is represented by the least significant 8 bits of this `Int` value." />
-      <item value="indicate" />
-      <item value="Returns the supported features (UUIDs) of the remote device." />
-      <item value="Energy" />
-      <item value="Return the distance below (positive) the baseline (descent) based on the * current typeface and text size." />
-      <item value="margin top value of text" />
-      <item value="Horizontally centered" />
-      <item value="水平方向上居中绘制" />
-      <item value="水平居中绘制" />
-      <item value="水平居中绘制进度值" />
-      <item value="重新计算半径" />
-      <item value="Returns the error stream if the connection failed * but the server sent useful data nonetheless. The * typical example is when an HTTP server responds * with a 404, which will cause a FileNotFoundException * to be thrown in connect, but the server sent an HTML * help page with suggestions as to what to do. * * &lt;p&gt;This method will not cause a connection to be initiated. If * the connection was not connected, or if the server did not have * an error while connecting or if the server had an error but * no error data was sent, this method will return null. This is * the default. * * @return an error stream if any, null if there have been no * errors, the connection is not connected or the server sent no * useful data." />
-      <item value="allow empty string" />
-      <item value="GATT" />
-      <item value="Round progress bar control with percentage of progress." />
-      <item value="Suspicious Name Combination" />
-      <item value="noinspection SuspiciousNameCombination" />
-      <item value="that represents Ethernet networks. * * This class reports a static network score of 70 when it is tracking an interface and that * interface's link is up, and a score of 0 otherwise." />
-      <item value="radius" />
-      <item value="Radius of view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1398" />
-        <entry key="ENGLISH" value="1511" />
+        <entry key="CHINESE" value="1432" />
+        <entry key="ENGLISH" value="1544" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
@@ -71,7 +71,7 @@
         <entry key="TURKISH" value="4" />
         <entry key="SPANISH" value="5" />
         <entry key="ITALIAN" value="2" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="8" />
       </map>
     </option>
