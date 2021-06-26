@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Heart" />
+      <item value="must be set color" />
+      <item value="must be set a color" />
+      <item value="color" />
       <item value="Convenience for {@link #saveLayer(RectF, Paint)} that takes the four float coordinates of the * bounds rectangle." />
       <item value="角度" />
       <item value="The bounds of oval used to define the shape and size of the arc" />
@@ -47,15 +51,11 @@
       <item value="Set this to true to enable drawing the grid lines for this axis." />
       <item value="flag indicating if the grid lines for this axis should be drawn" />
       <item value="add the legend description label" />
-      <item value="draw points as solid circles" />
-      <item value="Radius" />
-      <item value="line thickness" />
-      <item value="horizontal bar-chart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1466" />
-        <entry key="ENGLISH" value="1577" />
+        <entry key="CHINESE" value="1470" />
+        <entry key="ENGLISH" value="1581" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
