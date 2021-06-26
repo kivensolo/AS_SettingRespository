@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sport Target Range" />
+      <item value="目标里程" />
+      <item value="训练技巧" />
+      <item value="明天" />
       <item value="TRIATHLON" />
       <item value="Cost" />
       <item value="Benefit" />
@@ -47,15 +51,11 @@
       <item value="BOTH SIDED" />
       <item value="enum for the position of the x-labels relative to the chart" />
       <item value="Base-class of all axes (previously called labels)." />
-      <item value="Set this to true to enable scaling (zooming in and out by gesture) for * the chart (this does not effect dragging) on both X- and Y-Axis. *" />
-      <item value="Pinch" />
-      <item value="Philpp Jahoda" />
-      <item value="Set this to true to allow drawing a hole in each data circle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1457" />
-        <entry key="ENGLISH" value="1568" />
+        <entry key="CHINESE" value="1461" />
+        <entry key="ENGLISH" value="1572" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
