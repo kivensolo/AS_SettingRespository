@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="elevation" />
       <item value="mock" />
       <item value="fake" />
       <item value="Heart" />
@@ -50,7 +51,6 @@
       <item value="Component Base" />
       <item value="This class encapsulates everything both Axis, Legend and LimitLines have in common. * * @author Philipp Jahod" />
       <item value="if true, y-values are drawn on the chart" />
-      <item value="Set this to true to enable drawing the grid lines for this axis." />
     </histories>
     <option name="languageScores">
       <map>
