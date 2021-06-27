@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Each corner receives * two radius values [X, Y]. The corners are ordered top-left, top-right, * bottom-right, bottom-left" />
+      <item value="Array of 8 values, 4 pairs of [X,Y] radii" />
+      <item value="clockwise" />
+      <item value="counter-clockwise" />
       <item value="Combined Chart" />
       <item value="Adds a DataSet dynamically." />
       <item value="Sets a new data object for the chart. The data object contains all values * and information needed for displaying." />
@@ -47,15 +51,11 @@
       <item value="Bubble" />
       <item value="Candle" />
       <item value="Scatter" />
-      <item value="Bar Line Scatter Candle Bubble Data Set" />
-      <item value="DATA RELATED METHODS" />
-      <item value="Returns the drawing mode for this line dataset" />
-      <item value="Returns the drawing mode for this LineDataSet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1491" />
-        <entry key="ENGLISH" value="1601" />
+        <entry key="CHINESE" value="1497" />
+        <entry key="ENGLISH" value="1607" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
