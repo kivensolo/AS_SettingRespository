@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disables the line to be drawn in dashed mode" />
+      <item value="et this to true to enable drawing the grid lines for this axis." />
+      <item value="Set this to true to enable drawing the grid lines for this axis." />
+      <item value="OUTSIDE CHART" />
+      <item value="INSIDE CHART" />
+      <item value="returns the position of the y-labels" />
+      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart. *" />
+      <item value="Init line chart of headview" />
       <item value="A non-null list of merged payloads. Can be empty list if requires full * update" />
       <item value="payloads" />
       <item value="more calls potentially to save()" />
@@ -43,19 +51,11 @@
       <item value="points Per Entry Pair" />
       <item value="m Axis Range" />
       <item value="drag Deceleration Friction Coef" />
-      <item value="flag indicating that the axis-min value has been customized" />
-      <item value="the total range of values this axis covers" />
-      <item value="don't touch this directly, use setter" />
-      <item value="ow cubic effect" />
-      <item value="sets the intensity of the cubic lines" />
-      <item value="STEPPED" />
-      <item value="CUBIC BEZIER" />
-      <item value="HORIZONTAL BEZIER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1484" />
-        <entry key="ENGLISH" value="1594" />
+        <entry key="CHINESE" value="1489" />
+        <entry key="ENGLISH" value="1599" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
