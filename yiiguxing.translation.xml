@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Draws the IMarker on the given position on the screen with the given Canvas object." />
+      <item value="Manually render this view (and all of its children) to the given Canvas. * The view must have already done a full layout before this function is * called. When implementing a view, implement * {@link #onDraw(android.graphics.Canvas)} instead of overriding this method. * If you do need to override this method, call the superclass version. * * @param canvas The Canvas to which the View is rendered." />
       <item value="The x-value to highlight" />
       <item value="the x-position (pixels) on which this highlight object was last drawn" />
       <item value="Class for describing width and height dimensions in some arbitrary * unit. Replacement for the android.Util.SizeF which is available only on API &gt;= 21. */" />
@@ -49,13 +51,11 @@
       <item value="Convenience for" />
       <item value="elevation" />
       <item value="mock" />
-      <item value="fake" />
-      <item value="Heart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1519" />
-        <entry key="ENGLISH" value="1628" />
+        <entry key="CHINESE" value="1521" />
+        <entry key="ENGLISH" value="1630" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
