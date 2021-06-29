@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="elevation" />
-      <item value="mock" />
-      <item value="fake" />
-      <item value="Heart" />
+      <item value="eturns the bottom padding of this view. If there are inset and enabled * scrollbars, this value may include the space required to display the * scrollbars as well." />
+      <item value="Draws the IMarker on the given position on the screen with the given Canvas object." />
+      <item value="Manually render this view (and all of its children) to the given Canvas. * The view must have already done a full layout before this function is * called. When implementing a view, implement * {@link #onDraw(android.graphics.Canvas)} instead of overriding this method. * If you do need to override this method, call the superclass version. * * @param canvas The Canvas to which the View is rendered." />
+      <item value="The x-value to highlight" />
+      <item value="the x-position (pixels) on which this highlight object was last drawn" />
+      <item value="Class for describing width and height dimensions in some arbitrary * unit. Replacement for the android.Util.SizeF which is available only on API &gt;= 21. */" />
+      <item value="offset.x" />
+      <item value="pos X" />
+      <item value="translate to the correct position and draw" />
+      <item value="This is the X position at which the marker wants to be drawn. * You can adjust the offset conditionally based on this argument." />
+      <item value="get Offset For Drawing At Point" />
+      <item value="The offset for drawing at the specific `point`. This allows conditional adjusting of the Marker position. * If you have no adjustments to make, return getOffset()." />
+      <item value="The desired (general) offset you wish the IMarker to have on the x- and y-axis. * By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically. */" />
+      <item value="By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically." />
+      <item value="The desired (general) offset you wish the IMarker to have on the x- and y-axis. * By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically." />
+      <item value="if true, value highlightning is enabled" />
+      <item value="用来设置marker和长按的时候的指示hignlight的距离" />
+      <item value="Contains information needed to determine the highlighted value." />
+      <item value="Extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
+      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
+      <item value="the width of the bars on the x-axis, in values (not pixels)" />
+      <item value="Sets the width each bar should have on the x-axis (in values, not pixels). * Default 0.85f" />
+      <item value="ets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
+      <item value="Each corner receives * two radius values [X, Y]. The corners are ordered top-left, top-right, * bottom-right, bottom-left" />
+      <item value="Array of 8 values, 4 pairs of [X,Y] radii" />
+      <item value="clockwise" />
+      <item value="counter-clockwise" />
+      <item value="Combined Chart" />
+      <item value="Adds a DataSet dynamically." />
+      <item value="Sets a new data object for the chart. The data object contains all values * and information needed for displaying." />
+      <item value="Disables the line to be drawn in dashed mode" />
+      <item value="et this to true to enable drawing the grid lines for this axis." />
+      <item value="Set this to true to enable drawing the grid lines for this axis." />
+      <item value="OUTSIDE CHART" />
+      <item value="INSIDE CHART" />
+      <item value="returns the position of the y-labels" />
+      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart. *" />
+      <item value="Init line chart of headview" />
+      <item value="A non-null list of merged payloads. Can be empty list if requires full * update" />
+      <item value="payloads" />
+      <item value="more calls potentially to save()" />
+      <item value="now the canvas is back in the same state it was before the initial * // call to save()." />
+      <item value="Efficient way to pop any calls to save() that happened after the save * count reached saveCount. It is an error for saveCount to be less than 1." />
+      <item value="The save level to restore to" />
+      <item value="As of API Level API level {@value Build.VERSION_CODES#P} the only valid * {@code saveFlags} is {@link #ALL_SAVE_FLAG}. All other flags are ignored." />
+      <item value="必须设置颜色" />
+      <item value="must set color" />
       <item value="must be set color" />
-      <item value="must be set a color" />
-      <item value="color" />
-      <item value="Convenience for {@link #saveLayer(RectF, Paint)} that takes the four float coordinates of the * bounds rectangle." />
-      <item value="角度" />
-      <item value="The bounds of oval used to define the shape and size of the arc" />
-      <item value="双指缩放" />
-      <item value="The drawable to be drawn to the start of the text" />
-      <item value="sport Target Range" />
-      <item value="目标里程" />
-      <item value="训练技巧" />
-      <item value="明天" />
-      <item value="TRIATHLON" />
-      <item value="Cost" />
-      <item value="Benefit" />
-      <item value="instantiate" />
-      <item value="An object pool for recycling of object instances extending Poolable." />
-      <item value="Runnable that is used for viewport modifications since they cannot be * executed at any time. This can be used to delay the execution of viewport * modifications until the onSizeChanged(...) method of the chart-view is called. * This is especially important if viewport modifying methods are called on the chart * directly after initialization. *" />
-      <item value="Bubble" />
-      <item value="Candle" />
-      <item value="Scatter" />
-      <item value="Bar Line Scatter Candle Bubble Data Set" />
-      <item value="DATA RELATED METHODS" />
-      <item value="Returns the drawing mode for this line dataset" />
-      <item value="Returns the drawing mode for this LineDataSet" />
-      <item value="points Per Entry Pair" />
-      <item value="m Axis Range" />
-      <item value="drag Deceleration Friction Coef" />
-      <item value="flag indicating that the axis-min value has been customized" />
-      <item value="the total range of values this axis covers" />
-      <item value="don't touch this directly, use setter" />
-      <item value="ow cubic effect" />
-      <item value="sets the intensity of the cubic lines" />
-      <item value="STEPPED" />
-      <item value="CUBIC BEZIER" />
-      <item value="HORIZONTAL BEZIER" />
-      <item value="Sets the color of the chart border lines." />
-      <item value="et this to true to draw the grid background, false if not" />
-      <item value="Sets a new Description object for the chart." />
-      <item value="Sets the text that informs the user that there is no data available with * which to draw the chart." />
-      <item value="Legend" />
-      <item value="Limit Lines" />
-      <item value="Legend and LimitLines have in common." />
-      <item value="Component Base" />
-      <item value="This class encapsulates everything both Axis, Legend and LimitLines have in common. * * @author Philipp Jahod" />
-      <item value="if true, y-values are drawn on the chart" />
+      <item value="Convenience for" />
+      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1472" />
-        <entry key="ENGLISH" value="1583" />
+        <entry key="CHINESE" value="1522" />
+        <entry key="ENGLISH" value="1631" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
@@ -69,7 +69,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="TURKISH" value="4" />
-        <entry key="SPANISH" value="5" />
+        <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="8" />
