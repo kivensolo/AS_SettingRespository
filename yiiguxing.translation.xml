@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tint to apply to tab icons, if present. This can be a color state list or a color." />
       <item value="eturns the bottom padding of this view. If there are inset and enabled * scrollbars, this value may include the space required to display the * scrollbars as well." />
       <item value="Draws the IMarker on the given position on the screen with the given Canvas object." />
       <item value="Manually render this view (and all of its children) to the given Canvas. * The view must have already done a full layout before this function is * called. When implementing a view, implement * {@link #onDraw(android.graphics.Canvas)} instead of overriding this method. * If you do need to override this method, call the superclass version. * * @param canvas The Canvas to which the View is rendered." />
@@ -50,12 +51,11 @@
       <item value="must set color" />
       <item value="must be set color" />
       <item value="Convenience for" />
-      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1522" />
-        <entry key="ENGLISH" value="1631" />
+        <entry key="CHINESE" value="1523" />
+        <entry key="ENGLISH" value="1632" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="2" />
