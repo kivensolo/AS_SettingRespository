@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="chart Height" />
+      <item value="first check chartHeight is valid" />
+      <item value="检查参数是否有效" />
+      <item value="first check chartHeight is validi" />
+      <item value="validi" />
+      <item value="是否有效" />
+      <item value="isvalid" />
       <item value="缓存与表格绑定的数据" />
       <item value="cache data bind with chart" />
       <item value="array that holds all DataSets the ChartData object represents" />
@@ -44,24 +51,17 @@
       <item value="OUTSIDE CHART" />
       <item value="INSIDE CHART" />
       <item value="returns the position of the y-labels" />
-      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart. *" />
-      <item value="Init line chart of headview" />
-      <item value="A non-null list of merged payloads. Can be empty list if requires full * update" />
-      <item value="payloads" />
-      <item value="more calls potentially to save()" />
-      <item value="now the canvas is back in the same state it was before the initial * // call to save()." />
-      <item value="Efficient way to pop any calls to save() that happened after the save * count reached saveCount. It is an error for saveCount to be less than 1." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1529" />
-        <entry key="ENGLISH" value="1638" />
+        <entry key="CHINESE" value="1537" />
+        <entry key="ENGLISH" value="1644" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="7" />
+        <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="8" />
-        <entry key="FINNISH" value="1" />
+        <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
