@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not * fixed (if force == false) and can only be approximated." />
       <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
       <item value="Sets the number of label entries for the y-axis" />
       <item value="BOTTOM INSIDE" />
@@ -50,12 +51,11 @@
       <item value="缓存与表格绑定的数据" />
       <item value="cache data bind with chart" />
       <item value="array that holds all DataSets the ChartData object represents" />
-      <item value="draws the y-labels on the specified x-position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1577" />
-        <entry key="ENGLISH" value="1682" />
+        <entry key="CHINESE" value="1578" />
+        <entry key="ENGLISH" value="1683" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
