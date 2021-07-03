@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Birthday" />
       <item value="credit" />
       <item value="Oval Shape" />
       <item value="Oval Shadow" />
@@ -50,12 +51,11 @@
       <item value="平均值" />
       <item value="Radius" />
       <item value="Radriu" />
-      <item value="Make sure the chart has bound data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1594" />
-        <entry key="ENGLISH" value="1699" />
+        <entry key="CHINESE" value="1595" />
+        <entry key="ENGLISH" value="1700" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
