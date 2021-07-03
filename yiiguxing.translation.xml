@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="caller View" />
+      <item value="caller" />
       <item value="Birthday" />
       <item value="credit" />
       <item value="Oval Shape" />
@@ -49,13 +51,11 @@
       <item value="the offset in pixels this component has on the x-axis" />
       <item value="set Title And Unit" />
       <item value="平均值" />
-      <item value="Radius" />
-      <item value="Radriu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1595" />
-        <entry key="ENGLISH" value="1700" />
+        <entry key="CHINESE" value="1597" />
+        <entry key="ENGLISH" value="1702" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
