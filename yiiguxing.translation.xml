@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the value used to set the &lt;code&gt;MONTH&lt;/code&gt; calendar field. * Month value is 0-based. e.g., 0 for January." />
       <item value="xiaosongzeem" />
       <item value="The simple Array wheel adapter" />
       <item value="set Lunar" />
@@ -50,12 +51,11 @@
       <item value="axis space from the smallest value to the bottom in percent of the total axis range" />
       <item value="flag indicating that auto scale min restriction should be used" />
       <item value="flag that indicates if the axis is inverted or not" />
-      <item value="indicates if the top y-label entry is drawn or not" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
-        <entry key="ENGLISH" value="1712" />
+        <entry key="CHINESE" value="1609" />
+        <entry key="ENGLISH" value="1713" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
