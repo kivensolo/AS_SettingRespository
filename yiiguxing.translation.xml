@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="three Letters" />
       <item value="NUM OF PAGES" />
       <item value="swipe Back" />
       <item value="Day Decorator" />
@@ -50,12 +51,11 @@
       <item value="returns the maximum y-value this DataSet holds" />
       <item value="Uses the provided [format] as a format string and returns a string obtained by substituting the specified arguments, * using the specified locale." />
       <item value="Component" />
-      <item value="QUADRANT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1603" />
-        <entry key="ENGLISH" value="1708" />
+        <entry key="CHINESE" value="1604" />
+        <entry key="ENGLISH" value="1709" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
