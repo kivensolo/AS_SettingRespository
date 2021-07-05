@@ -131,11 +131,23 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/1136535305/Eyepetizer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/KenshinTang/prison.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://gitee.com/KenshinTang/BeiDouWatch" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/huanghaibin-dev/CalendarView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nomanr/WeekCalendar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -153,6 +165,6 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="E:/临时数据" />
+    <option name="PATCH_STORAGE_LOCATION" value="E:/GitHubProjects/BeiDouWatch" />
   </component>
 </application>
