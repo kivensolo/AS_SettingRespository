@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="运动训练" />
+      <item value="训练" />
       <item value="calendar" />
       <item value="the value used to set the &lt;code&gt;MONTH&lt;/code&gt; calendar field. * Month value is 0-based. e.g., 0 for January." />
       <item value="xiaosongzeem" />
@@ -49,13 +51,11 @@
       <item value="the minimum width that the axis should take (in dp)." />
       <item value="Sets the top axis space in percent of the full range. Default 10f" />
       <item value="axis space from the largest value to the top in percent of the total axis range" />
-      <item value="axis space from the smallest value to the bottom in percent of the total axis range" />
-      <item value="flag indicating that auto scale min restriction should be used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1611" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="CHINESE" value="1613" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
