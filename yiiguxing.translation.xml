@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="training Plan" />
+      <item value="train Plan" />
+      <item value="train" />
       <item value="运动训练" />
       <item value="训练" />
       <item value="calendar" />
@@ -48,14 +51,11 @@
       <item value="set Axis Maximum" />
       <item value="set Axis Minimum" />
       <item value="If this is set to true, the y-axis is inverted which means that low values are on top of * the chart, high values * on bottom." />
-      <item value="the minimum width that the axis should take (in dp)." />
-      <item value="Sets the top axis space in percent of the full range. Default 10f" />
-      <item value="axis space from the largest value to the top in percent of the total axis range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1613" />
-        <entry key="ENGLISH" value="1717" />
+        <entry key="CHINESE" value="1616" />
+        <entry key="ENGLISH" value="1720" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
