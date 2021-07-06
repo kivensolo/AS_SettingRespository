@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The view to search for a containing Fragment or Activity from." />
       <item value="Distance" />
       <item value="Locus" />
       <item value="cloud locus" />
@@ -50,12 +51,11 @@
       <item value="flag that indicates if the zero-line should be drawn regardless of other grid lines" />
       <item value="set Space Min" />
       <item value="the total range of values this axis covers" />
-      <item value="set Axis Maximum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1618" />
-        <entry key="ENGLISH" value="1722" />
+        <entry key="CHINESE" value="1619" />
+        <entry key="ENGLISH" value="1723" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
