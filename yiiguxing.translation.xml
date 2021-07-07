@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Immediate exit requested" />
       <item value="_DRAWABLE ITEM LIMIT" />
       <item value="Private class created to work around issues with AnimationListeners being * called before the animation is actually complete and support shadows on older * platforms." />
       <item value="The view to search for a containing Fragment or Activity from." />
@@ -50,12 +51,11 @@
       <item value="步数频率" />
       <item value="步频" />
       <item value="Set a custom minimum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMinValue() to undo this. Do not forget to call * setStartAtZero(false) if you use * this method. Otherwise, the axis-minimum value will still be forced to 0. *" />
-      <item value="flag that indicates if the zero-line should be drawn regardless of other grid lines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1621" />
-        <entry key="ENGLISH" value="1725" />
+        <entry key="CHINESE" value="1622" />
+        <entry key="ENGLISH" value="1726" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
