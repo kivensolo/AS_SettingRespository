@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Authentication polling checker for normal product package (non base product) of player" />
-      <item value="Successfully purchased callback interface" />
-      <item value="training Plan" />
-      <item value="train Plan" />
-      <item value="train" />
-      <item value="运动训练" />
-      <item value="训练" />
+      <item value="Private class created to work around issues with AnimationListeners being * called before the animation is actually complete and support shadows on older * platforms." />
+      <item value="The view to search for a containing Fragment or Activity from." />
+      <item value="Distance" />
+      <item value="Locus" />
+      <item value="cloud locus" />
+      <item value="Position index of the first page currently being displayed." />
+      <item value="Page position+1 will be visible if positionOffset is nonzero." />
+      <item value="Position index of the first page currently being displayed" />
+      <item value="Value in pixels indicating the offset from position" />
       <item value="calendar" />
       <item value="the value used to set the &lt;code&gt;MONTH&lt;/code&gt; calendar field. * Month value is 0-based. e.g., 0 for January." />
       <item value="xiaosongzeem" />
@@ -49,13 +51,11 @@
       <item value="Set a custom minimum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMinValue() to undo this. Do not forget to call * setStartAtZero(false) if you use * this method. Otherwise, the axis-minimum value will still be forced to 0. *" />
       <item value="flag that indicates if the zero-line should be drawn regardless of other grid lines" />
       <item value="set Space Min" />
-      <item value="the total range of values this axis covers" />
-      <item value="set Axis Maximum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1618" />
-        <entry key="ENGLISH" value="1722" />
+        <entry key="CHINESE" value="1620" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
