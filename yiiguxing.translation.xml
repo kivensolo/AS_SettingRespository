@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rounds the given number to the next significant number" />
+      <item value="interval Sig Digit" />
+      <item value="the number of decimal digits to use" />
+      <item value="force label count" />
+      <item value="the number of entries the legend contains" />
+      <item value="Use one order of magnitude higher, to avoid intervals like 0.9 or // 90" />
+      <item value="interval" />
+      <item value="Normalize interval" />
+      <item value="If granularity is enabled, then do not allow the interval to go below specified granularity. // This is used to avoid repeated values when rounding values for display." />
+      <item value="is Granularity Enabled" />
+      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values */" />
+      <item value="if true, the set number of y-labels will be forced" />
+      <item value="be aware * that this number is not fixed." />
+      <item value="Sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not fixed." />
+      <item value="raw Interval" />
+      <item value="Find out how much spacing (in y value space) between axis values" />
       <item value="trailing commas" />
       <item value="crop" />
       <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
@@ -35,27 +51,11 @@
       <item value="caget" />
       <item value="Unable to load optional library ffmpeg-linphone" />
       <item value="Verifier rejected class org.linphone.contact.ContactsManager: void org.linphone.contact.ContactsManager.storePresenceInNativeContact(org.linphone.contact.NativeContact) failed to verify" />
-      <item value="Verifier rejected class org.linphone.contact.ContactsManager:" />
-      <item value="insufficient" />
-      <item value="There is insufficient memory for the Java Runtime Environment to continue. # Native memory allocation (malloc) failed to allocate 1388336 bytes for Chunk::new # Possible reasons:" />
-      <item value="Deprecated" />
-      <item value="翻页" />
-      <item value="flip" />
-      <item value="Slip" />
-      <item value="The checked index of massive’s child view." />
-      <item value="The checked index of massive child view" />
-      <item value="The checked index of child view" />
-      <item value="Clear massive data and make massive's parent view scroll to 0(if is slider)" />
-      <item value="Clear massive data and make massive's parent view(if is slider) scroll to 0." />
-      <item value="Clear massive data and make massive parent slider() view scroll to 0." />
-      <item value="Authentication polling checker for normal product package (non base product) of player." />
-      <item value="Http Data Source$Invalid Response Code Exception" />
-      <item value="@Field parameters can only be used with form encoding. (parameter #1) for method YinYueTaiApiService.getVideoInfo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1084" />
-        <entry key="ENGLISH" value="1201" />
+        <entry key="CHINESE" value="1101" />
+        <entry key="ENGLISH" value="1218" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
