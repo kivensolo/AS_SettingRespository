@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connected" />
+      <item value="初始化流程是否成功执行完毕" />
+      <item value="Indicates" />
+      <item value="开机" />
+      <item value="turned on" />
+      <item value="DVB设备第一次开机,默认未连接" />
+      <item value="开机第一次,DVB设备默认未连接" />
+      <item value="开机第一次,DVB设备默认为未连接" />
+      <item value="网络是否已连接标识" />
       <item value="Const" />
       <item value="An instance from the pool if such, null otherwise" />
       <item value="An" />
@@ -42,20 +51,11 @@
       <item value="The view to search for a containing Fragment or Activity from." />
       <item value="Distance" />
       <item value="Locus" />
-      <item value="cloud locus" />
-      <item value="Position index of the first page currently being displayed." />
-      <item value="Page position+1 will be visible if positionOffset is nonzero." />
-      <item value="Position index of the first page currently being displayed" />
-      <item value="Value in pixels indicating the offset from position" />
-      <item value="calendar" />
-      <item value="the value used to set the &lt;code&gt;MONTH&lt;/code&gt; calendar field. * Month value is 0-based. e.g., 0 for January." />
-      <item value="xiaosongzeem" />
-      <item value="The simple Array wheel adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1658" />
-        <entry key="ENGLISH" value="1761" />
+        <entry key="CHINESE" value="1667" />
+        <entry key="ENGLISH" value="1770" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
