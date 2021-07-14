@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="long period of time" />
       <item value="App品牌" />
       <item value="用户隐私协议" />
       <item value="good reputation" />
@@ -50,12 +51,11 @@
       <item value="like" />
       <item value="around" />
       <item value="If we're restarted after we're complete (usually via something like a notifyDataSetChanged // that starts an identical request into the same Target or View), we can simply use the // resource and size we retrieved the last time around and skip obtaining a new size, starting // a new load etc. This does mean that users who want to restart a load because they expect // that the view size has changed will need to explicitly clear the View or Target before // starting the new load." />
-      <item value="state Verifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1697" />
-        <entry key="ENGLISH" value="1800" />
+        <entry key="CHINESE" value="1698" />
+        <entry key="ENGLISH" value="1801" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
