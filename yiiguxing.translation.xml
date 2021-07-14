@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="App品牌" />
+      <item value="用户隐私协议" />
+      <item value="good reputation" />
+      <item value="好评" />
       <item value="文字中心到base Line的距离" />
       <item value="The x-coordinate of the origin of the text being drawn" />
       <item value="垂直居中" />
@@ -47,15 +51,11 @@
       <item value="around" />
       <item value="If we're restarted after we're complete (usually via something like a notifyDataSetChanged // that starts an identical request into the same Target or View), we can simply use the // resource and size we retrieved the last time around and skip obtaining a new size, starting // a new load etc. This does mean that users who want to restart a load because they expect // that the view size has changed will need to explicitly clear the View or Target before // starting the new load." />
       <item value="state Verifier" />
-      <item value="Variables mutated during a request." />
-      <item value="Prevents any bitmaps being loaded from previous requests, releases any resources held by this * request, displays the current placeholder if one was provided, and marks the request as having * been cancelled." />
-      <item value="Starts tracking the given request." />
-      <item value="is Skip Memory Cache With Complete Previous Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1693" />
-        <entry key="ENGLISH" value="1795" />
+        <entry key="CHINESE" value="1697" />
+        <entry key="ENGLISH" value="1800" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
