@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="半透明" />
       <item value="最新" />
       <item value="SHUT DOWN" />
       <item value="SHOUT DOWN" />
@@ -50,12 +51,11 @@
       <item value="COLLECT ACTION ON EVENT RECOMMEND" />
       <item value="Implementations should return {@code false} after they and their dependencies have migrated * to Glide's annotation processor." />
       <item value="mplementations should return {@code false}" />
-      <item value="Returns {@code true} if Glide should check the AndroidManifest for {@link GlideModule}s. * * &lt;p&gt;Implementations should return {@code false} after they and their dependencies have migrated * to Glide's annotation processor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1685" />
-        <entry key="ENGLISH" value="1787" />
+        <entry key="CHINESE" value="1686" />
+        <entry key="ENGLISH" value="1788" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
