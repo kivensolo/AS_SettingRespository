@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平均" />
       <item value="冻结" />
       <item value="停机" />
       <item value="已欠费" />
@@ -50,12 +51,11 @@
       <item value="Const" />
       <item value="An instance from the pool if such, null otherwise" />
       <item value="An" />
-      <item value="An instance from the pool if such" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1707" />
-        <entry key="ENGLISH" value="1810" />
+        <entry key="CHINESE" value="1708" />
+        <entry key="ENGLISH" value="1811" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
