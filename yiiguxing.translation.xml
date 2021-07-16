@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quadrant" />
       <item value="retry Start Up" />
       <item value="Sets the one and ONLY color that should be used for this DataSet. * Internally, this recreates the colors array and adds the specified color." />
       <item value="sets the alpha value (transparency) that is used for filling the line * surface (0-255), default: 85" />
@@ -50,12 +51,11 @@
       <item value="Data of tag param" />
       <item value="Data of special tag" />
       <item value="mid Local Cache" />
-      <item value="connected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1719" />
-        <entry key="ENGLISH" value="1822" />
+        <entry key="CHINESE" value="1720" />
+        <entry key="ENGLISH" value="1823" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
