@@ -1,76 +1,78 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="the set number of y-labels will be forced" />
-      <item value="axis label entries only used for centered labels" />
-      <item value="the actual array of entries" />
-      <item value="rounds the given number to the next significant number" />
-      <item value="interval Sig Digit" />
-      <item value="the number of decimal digits to use" />
-      <item value="force label count" />
-      <item value="the number of entries the legend contains" />
-      <item value="Use one order of magnitude higher, to avoid intervals like 0.9 or // 90" />
-      <item value="interval" />
-      <item value="Normalize interval" />
-      <item value="If granularity is enabled, then do not allow the interval to go below specified granularity. // This is used to avoid repeated values when rounding values for display." />
-      <item value="is Granularity Enabled" />
-      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values */" />
-      <item value="if true, the set number of y-labels will be forced" />
-      <item value="be aware * that this number is not fixed." />
-      <item value="Sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not fixed." />
-      <item value="raw Interval" />
-      <item value="Find out how much spacing (in y value space) between axis values" />
-      <item value="trailing commas" />
-      <item value="crop" />
-      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
-      <item value="pgc video" />
-      <item value="route metas" />
-      <item value="Completion" />
-      <item value="postcard" />
-      <item value="Completion the postcard by route metas" />
-      <item value="Facade patten" />
-      <item value="ARouter core (Facade patten)" />
-      <item value="zhilong.liu" />
-      <item value="has already been loaded" />
-      <item value="trigger by" />
-      <item value="When set to true, layouts from end to start." />
-      <item value="set Span Size Lookup" />
-      <item value="AUDIOFOCUS GAIN TRANSIENT" />
-      <item value="Instrumentation" />
-      <item value="support User Action Collect" />
-      <item value="intercept Key Tq" />
-      <item value="non-protected" />
-      <item value="Sending non-protected broadcast com.tcl.userstate.keydown from system 3728:system/1000 pkg android java.lang.Throwable" />
-      <item value="from devicename is TCL_RC802Dand init devicename is" />
-      <item value="keyguard Active" />
-      <item value="interactive" />
-      <item value="spurious, event already finished or timed out" />
-      <item value="Specifies flavor dimensions" />
-      <item value="flavor" />
-      <item value="is Multidex Capable" />
-      <item value="Rejecting re-init on previously-failed class java.lang.Class" />
-      <item value="Granted" />
-      <item value="on Read Contacts Permission Granted" />
+      <item value="Quadrant" />
+      <item value="retry Start Up" />
+      <item value="Sets the one and ONLY color that should be used for this DataSet. * Internally, this recreates the colors array and adds the specified color." />
+      <item value="sets the alpha value (transparency) that is used for filling the line * surface (0-255), default: 85" />
+      <item value="ransparency used for filling line surface" />
+      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
+      <item value="object that manages the bounds and drawing constraints of the chart" />
+      <item value="Extra offsets to be appended to the viewport" />
+      <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
+      <item value="offset, in degrees (normally, use 0)" />
+      <item value="List representing all colors that are used for the circles" />
+      <item value="CHART" />
+      <item value="平均" />
+      <item value="冻结" />
+      <item value="停机" />
+      <item value="已欠费" />
+      <item value="欠费" />
+      <item value="Still refresh main page data" />
+      <item value="Still" />
+      <item value="refresh Order Box" />
+      <item value="is Init Local Data" />
+      <item value="See about" />
+      <item value="long period of time" />
+      <item value="App品牌" />
+      <item value="用户隐私协议" />
+      <item value="good reputation" />
+      <item value="好评" />
+      <item value="文字中心到base Line的距离" />
+      <item value="The x-coordinate of the origin of the text being drawn" />
+      <item value="垂直居中" />
+      <item value="Horizontally centered" />
+      <item value="radius" />
+      <item value="Adding or removing a field requires an app restart" />
+      <item value="Back-end (JVM) Internal error: Couldn't transform method node" />
+      <item value="半透明" />
+      <item value="最新" />
+      <item value="SHUT DOWN" />
+      <item value="SHOUT DOWN" />
+      <item value="用户已停机" />
+      <item value="EXIST" />
+      <item value="Prevent big data page reporting" />
+      <item value="Prevent" />
+      <item value="防止进行大数据页面上报" />
+      <item value="Locus" />
+      <item value="Locu" />
+      <item value="gray" />
+      <item value="fake" />
+      <item value="Data of tag param" />
+      <item value="Data of special tag" />
+      <item value="mid Local Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1102" />
-        <entry key="ENGLISH" value="1219" />
+        <entry key="CHINESE" value="1720" />
+        <entry key="ENGLISH" value="1823" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="7" />
-        <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="DANISH" value="8" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="8" />
-        <entry key="FINNISH" value="1" />
+        <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="1" />
-        <entry key="CZECH" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="CZECH" value="2" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MALAY" value="2" />
-        <entry key="TURKISH" value="4" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
-        <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="3" />
-        <entry key="INDONESIAN" value="7" />
+        <entry key="ITALIAN" value="3" />
+        <entry key="HINDI" value="4" />
+        <entry key="INDONESIAN" value="8" />
       </map>
     </option>
   </component>

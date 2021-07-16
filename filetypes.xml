@@ -11,13 +11,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
-      <mapping pattern="secretPropFile" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="unity default resources" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
-      <mapping pattern="unity_builtin_extra" type="PLAIN_TEXT" />
+      <mapping pattern="secretPropFile" type="PLAIN_TEXT" />
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
+      <mapping pattern="unity_builtin_extra" type="PLAIN_TEXT" />
       <mapping pattern="level0" type="PLAIN_TEXT" />
       <mapping ext="rxml" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
