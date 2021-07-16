@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Negative" />
       <item value="neutral" />
       <item value="Negativ" />
       <item value="Negative Btn" />
@@ -50,12 +51,11 @@
       <item value="开机" />
       <item value="turned on" />
       <item value="DVB设备第一次开机,默认未连接" />
-      <item value="开机第一次,DVB设备默认未连接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1715" />
-        <entry key="ENGLISH" value="1817" />
+        <entry key="CHINESE" value="1716" />
+        <entry key="ENGLISH" value="1818" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="2" />
