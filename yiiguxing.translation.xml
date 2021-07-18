@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a recyclable MPPointF instance. * Returns the center of the chart taking offsets under consideration. * (returns the center of the content rectangle)" />
+      <item value="this rectangle defines the area in which graph values can be drawn" />
+      <item value="draw a path because lines don't support dashing on lower android versions" />
+      <item value="Transform an array of points with all matrices. VERY IMPORTANT: Keep * matrix order &quot;value-touch-offset&quot; when transforming." />
       <item value="Set Marker and HignLight distance when long pressed" />
       <item value="Class for describing width and height dimensions in some arbitrary * unit. Replacement for the android.Util.SizeF which is available only on API &gt;= 21." />
       <item value="first check chartHeight is valid" />
@@ -47,15 +51,11 @@
       <item value="Prevent big data page reporting" />
       <item value="Prevent" />
       <item value="防止进行大数据页面上报" />
-      <item value="Locus" />
-      <item value="Locu" />
-      <item value="gray" />
-      <item value="fake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1724" />
-        <entry key="ENGLISH" value="1827" />
+        <entry key="CHINESE" value="1729" />
+        <entry key="ENGLISH" value="1832" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
