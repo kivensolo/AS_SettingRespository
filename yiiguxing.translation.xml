@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Draws all highlight indicators for the values that are currently highlighted." />
       <item value="if true, value highlightning is enabled" />
       <item value="根据X的值找对应数据集的Y值" />
       <item value="component" />
@@ -50,7 +51,6 @@
       <item value="Horizontally centered" />
       <item value="radius" />
       <item value="Adding or removing a field requires an app restart" />
-      <item value="Back-end (JVM) Internal error: Couldn't transform method node" />
     </histories>
     <option name="languageScores">
       <map>
