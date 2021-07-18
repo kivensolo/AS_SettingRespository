@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set Marker and HignLight distance when long pressed" />
+      <item value="Class for describing width and height dimensions in some arbitrary * unit. Replacement for the android.Util.SizeF which is available only on API &gt;= 21." />
+      <item value="first check chartHeight is valid" />
+      <item value="get Offset For Drawing At Point" />
       <item value="X Axis" />
       <item value="Sets the one and ONLY color that should be used for this DataSet. * Internally, this recreates the colors array and adds the specified color." />
       <item value="sets the alpha value (transparency) that is used for filling the line * surface (0-255), default: 85" />
@@ -47,15 +51,11 @@
       <item value="Locu" />
       <item value="gray" />
       <item value="fake" />
-      <item value="Data of tag param" />
-      <item value="Data of special tag" />
-      <item value="mid Local Cache" />
-      <item value="connected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1719" />
-        <entry key="ENGLISH" value="1822" />
+        <entry key="CHINESE" value="1724" />
+        <entry key="ENGLISH" value="1827" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
