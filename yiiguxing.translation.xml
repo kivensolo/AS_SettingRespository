@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether or not this View draw on its own" />
       <item value="Sets the used x-axis offset for the labels on this axis." />
       <item value="the offset in pixels this component has on the x-axis" />
       <item value="Sets the top axis space in percent of the full range. Default 10f" />
@@ -50,12 +51,11 @@
       <item value="is Init Local Data" />
       <item value="See about" />
       <item value="long period of time" />
-      <item value="App品牌" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1747" />
-        <entry key="ENGLISH" value="1850" />
+        <entry key="CHINESE" value="1748" />
+        <entry key="ENGLISH" value="1851" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
