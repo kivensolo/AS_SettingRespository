@@ -1,6 +1,39 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allows for an adjustment of the Z ordering of the content being animated for the duration of the animation. The default value is normal." />
+      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart" />
+      <item value="超出Y轴,偏移量为x Offset的一半" />
+      <item value="左侧与Y轴持平" />
+      <item value="Cross" />
+      <item value="Cross Yaxis" />
+      <item value="越界" />
+      <item value="偏移量超出Y轴,但不超出文本" />
+      <item value="偏移量超过Y轴,但不超过文本" />
+      <item value="x Offset Exceed Y Axis" />
+      <item value="offset Exceed Y Axis" />
+      <item value="Exceed" />
+      <item value="exceeds" />
+      <item value="偏移量超过Y轴" />
+      <item value="Over Y Axis" />
+      <item value="Over" />
+      <item value="offset Over Y Axis" />
+      <item value="若居中偏移时, 超过绘制区域左侧,则重新计算偏移量" />
+      <item value="若居中偏移时, 超过绘制区域左侧" />
+      <item value="居中偏移时" />
+      <item value="whether or not this View draw on its own" />
+      <item value="Sets the used x-axis offset for the labels on this axis." />
+      <item value="the offset in pixels this component has on the x-axis" />
+      <item value="Sets the top axis space in percent of the full range. Default 10f" />
+      <item value="restrain" />
+      <item value="restrain View Port" />
+      <item value="don't forget calling setChartDimens(...)" />
+      <item value="View Port" />
+      <item value="Port" />
+      <item value="object that manages the bounds and drawing constraints of the chart" />
+      <item value="Returns the rectangle that defines the borders of the chart-value surface * (into which the actual values are drawn)." />
+      <item value="Draws all highlight indicators for the values that are currently highlighted." />
+      <item value="if true, value highlightning is enabled" />
       <item value="根据X的值找对应数据集的Y值" />
       <item value="component" />
       <item value="Suppress sign extension for the low bytes" />
@@ -18,44 +51,11 @@
       <item value="ANNOTATION TYPE" />
       <item value="Quadrant" />
       <item value="retry Start Up" />
-      <item value="Sets the one and ONLY color that should be used for this DataSet. * Internally, this recreates the colors array and adds the specified color." />
-      <item value="sets the alpha value (transparency) that is used for filling the line * surface (0-255), default: 85" />
-      <item value="ransparency used for filling line surface" />
-      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
-      <item value="object that manages the bounds and drawing constraints of the chart" />
-      <item value="Extra offsets to be appended to the viewport" />
-      <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
-      <item value="offset, in degrees (normally, use 0)" />
-      <item value="List representing all colors that are used for the circles" />
-      <item value="CHART" />
-      <item value="平均" />
-      <item value="冻结" />
-      <item value="停机" />
-      <item value="已欠费" />
-      <item value="欠费" />
-      <item value="Still refresh main page data" />
-      <item value="Still" />
-      <item value="refresh Order Box" />
-      <item value="is Init Local Data" />
-      <item value="See about" />
-      <item value="long period of time" />
-      <item value="App品牌" />
-      <item value="用户隐私协议" />
-      <item value="good reputation" />
-      <item value="好评" />
-      <item value="文字中心到base Line的距离" />
-      <item value="The x-coordinate of the origin of the text being drawn" />
-      <item value="垂直居中" />
-      <item value="Horizontally centered" />
-      <item value="radius" />
-      <item value="Adding or removing a field requires an app restart" />
-      <item value="Back-end (JVM) Internal error: Couldn't transform method node" />
-      <item value="半透明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1736" />
-        <entry key="ENGLISH" value="1839" />
+        <entry key="CHINESE" value="1768" />
+        <entry key="ENGLISH" value="1872" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
