@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="立即" />
+      <item value="立即更新" />
       <item value="Allows for an adjustment of the Z ordering of the content being animated for the duration of the animation. The default value is normal." />
       <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart" />
       <item value="超出Y轴,偏移量为x Offset的一半" />
@@ -49,13 +51,11 @@
       <item value="Generic type parameter (unsupported yet)" />
       <item value="Value parameter of a function or a constructor" />
       <item value="ANNOTATION TYPE" />
-      <item value="Quadrant" />
-      <item value="retry Start Up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1768" />
-        <entry key="ENGLISH" value="1872" />
+        <entry key="CHINESE" value="1770" />
+        <entry key="ENGLISH" value="1874" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
