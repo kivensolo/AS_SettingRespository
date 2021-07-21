@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Step Frecquence" />
       <item value="极限区间" />
       <item value="无氧耐力" />
       <item value="有氧耐力" />
@@ -50,12 +51,11 @@
       <item value="X position for this window. With the default gravity it is ignored. * When using {@link Gravity#LEFT} or {@link Gravity#START} or {@link Gravity#RIGHT} or * {@link Gravity#END} it provides an offset from the given edge. */" />
       <item value="The actual measurement work of a view is performed in * {@link #onMeasure(int, int)}, called by this method. Therefore, only * {@link #onMeasure(int, int)} can and must be overridden by subclasses." />
       <item value="Horizontal space requirements as imposed by the * parent" />
-      <item value="create a new path, this is bad for performance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1778" />
-        <entry key="ENGLISH" value="1882" />
+        <entry key="CHINESE" value="1779" />
+        <entry key="ENGLISH" value="1883" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
