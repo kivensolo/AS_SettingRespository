@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We're switching to relative, discard absolute." />
+      <item value="We're switching to absolute, discard relative." />
+      <item value="Relative" />
       <item value="The Drawables must already have had {@link Drawable#setBounds} * called." />
       <item value="Calling this method will overwrite any Drawables previously set using * {@link #setCompoundDrawablesRelative} or related methods." />
       <item value="The Drawables must already have had * {@link Drawable#setBounds} called." />
@@ -48,14 +51,11 @@
       <item value="Draws all highlight indicators for the values that are currently highlighted." />
       <item value="if true, value highlightning is enabled" />
       <item value="根据X的值找对应数据集的Y值" />
-      <item value="component" />
-      <item value="Suppress sign extension for the low bytes" />
-      <item value="X position for this window. With the default gravity it is ignored. * When using {@link Gravity#LEFT} or {@link Gravity#START} or {@link Gravity#RIGHT} or * {@link Gravity#END} it provides an offset from the given edge. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1781" />
-        <entry key="ENGLISH" value="1885" />
+        <entry key="CHINESE" value="1784" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
