@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STEP FRECQUENCE" />
       <item value="Returns a color state list associated with a particular resource ID. The * resource may contain either a single raw color value or a complex * {@link ColorStateList} holding multiple possible colors." />
       <item value="State Spec" />
       <item value="This defines a set of state spec / color pairs where each state spec specifies a set of * states that a view must either be in or not be in and the color specifies the color associated * with that spec." />
@@ -50,12 +51,11 @@
       <item value="exceeds" />
       <item value="偏移量超过Y轴" />
       <item value="Over Y Axis" />
-      <item value="Over" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1805" />
-        <entry key="ENGLISH" value="1909" />
+        <entry key="CHINESE" value="1806" />
+        <entry key="ENGLISH" value="1910" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
