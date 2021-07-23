@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Highlights the values at the given indices in the given DataSets. Provide * null or an empty array to undo all highlighting. This should be used to * programmatically highlight values. * This method *will not* call the listener." />
+      <item value="Contains information needed to determine the highlighted value." />
+      <item value="是否绘制高亮圆点" />
+      <item value="计算" />
+      <item value="caculate" />
       <item value="Clear any lines and curves from the path, making it empty. * This does NOT change the fill-type setting." />
       <item value="Add a closed round-rectangle contour to the path. Each corner receives * two radius values [X, Y]. The corners are ordered top-left, top-right, * bottom-right, bottom-left" />
       <item value="Rewinds the path: clears any lines and curves from the path but * keeps the internal data structure for faster reuse." />
@@ -46,16 +51,11 @@
       <item value="Exceed" />
       <item value="exceeds" />
       <item value="偏移量超过Y轴" />
-      <item value="Over Y Axis" />
-      <item value="Over" />
-      <item value="offset Over Y Axis" />
-      <item value="若居中偏移时, 超过绘制区域左侧,则重新计算偏移量" />
-      <item value="若居中偏移时, 超过绘制区域左侧" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1802" />
-        <entry key="ENGLISH" value="1906" />
+        <entry key="CHINESE" value="1807" />
+        <entry key="ENGLISH" value="1911" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
