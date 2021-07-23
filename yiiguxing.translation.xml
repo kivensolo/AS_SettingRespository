@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算Marker绘制时，相对于高亮点(选中点)的x 居中绘制偏移量" />
       <item value="是否从最小高亮值绘制垂直线" />
       <item value="Cross" />
       <item value="十字路口" />
@@ -50,12 +51,11 @@
       <item value="update" />
       <item value="Allows for an adjustment of the Z ordering of the content being animated for the duration of the animation. The default value is normal." />
       <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart" />
-      <item value="超出Y轴,偏移量为x Offset的一半" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1819" />
-        <entry key="ENGLISH" value="1923" />
+        <entry key="CHINESE" value="1820" />
+        <entry key="ENGLISH" value="1924" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
