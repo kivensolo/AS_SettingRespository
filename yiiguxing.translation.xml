@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Always allow a user to over-scroll this view, provided it is a * view that can scroll." />
+      <item value="Xul Recycle Strategy" />
+      <item value="_cache Domain" />
+      <item value="Xul Expire Strategy" />
       <item value="计算Marker绘制时，相对于高亮点(选中点)的x 居中绘制偏移量" />
       <item value="是否从最小高亮值绘制垂直线" />
       <item value="Cross" />
@@ -47,15 +51,11 @@
       <item value="stats" />
       <item value="EPSILON" />
       <item value="Radial" />
-      <item value="downloading" />
-      <item value="update" />
-      <item value="Allows for an adjustment of the Z ordering of the content being animated for the duration of the animation. The default value is normal." />
-      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1820" />
-        <entry key="ENGLISH" value="1924" />
+        <entry key="CHINESE" value="1828" />
+        <entry key="ENGLISH" value="1932" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
