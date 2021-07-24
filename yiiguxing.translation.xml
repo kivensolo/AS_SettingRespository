@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw Curve Chart" />
       <item value="Always allow a user to over-scroll this view, provided it is a * view that can scroll." />
       <item value="Xul Recycle Strategy" />
       <item value="_cache Domain" />
@@ -50,7 +51,6 @@
       <item value="set Progress Tint List" />
       <item value="stats" />
       <item value="EPSILON" />
-      <item value="Radial" />
     </histories>
     <option name="languageScores">
       <map>
