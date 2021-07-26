@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unit step frequence" />
       <item value="Method of request" />
       <item value="Must be uppercase" />
       <item value="uppercase" />
@@ -50,12 +51,11 @@
       <item value="Sets the start and end color for gradient color, ONLY color that should be used for this DataSet." />
       <item value="medal View" />
       <item value="RELATIVE TO SELF" />
-      <item value="The specified dimension holds a float and should be multiplied by the * height or width of the object being animated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1847" />
-        <entry key="ENGLISH" value="1951" />
+        <entry key="CHINESE" value="1848" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
