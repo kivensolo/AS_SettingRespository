@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;" />
+      <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;." />
       <item value="List representing all colors that are used for this DataSet" />
       <item value="Internally, this recreates the colors array and adds the specified color." />
       <item value="Sets the one and ONLY color that should be used for this DataSet." />
@@ -49,13 +51,11 @@
       <item value="must match enum in SkPath.h" />
       <item value="wise" />
       <item value="clockwise" />
-      <item value="Specifies how closed shapes (e.g. rects, ovals) are oriented when they * are added to a path." />
-      <item value="Sets the start and end color for gradient color, ONLY color that should be used for this DataSet." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1851" />
-        <entry key="ENGLISH" value="1955" />
+        <entry key="CHINESE" value="1853" />
+        <entry key="ENGLISH" value="1957" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
