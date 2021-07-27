@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="create a new path, this is bad for performance" />
-      <item value="if true, the data will also be drawn filled" />
-      <item value="If set to true, value highlighting is enabled which means that values can * be highlighted programmatically or by touch gesture." />
-      <item value="path Value To Pixel" />
-      <item value="Sets the drawable to be used to fill the area below the line." />
-      <item value="Annotation type declaration" />
-      <item value="Generic type parameter (unsupported yet)" />
-      <item value="Value parameter of a function or a constructor" />
-      <item value="ANNOTATION TYPE" />
-      <item value="Quadrant" />
-      <item value="retry Start Up" />
-      <item value="Sets the one and ONLY color that should be used for this DataSet. * Internally, this recreates the colors array and adds the specified color." />
-      <item value="sets the alpha value (transparency) that is used for filling the line * surface (0-255), default: 85" />
-      <item value="ransparency used for filling line surface" />
-      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
-      <item value="object that manages the bounds and drawing constraints of the chart" />
-      <item value="Extra offsets to be appended to the viewport" />
-      <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
-      <item value="offset, in degrees (normally, use 0)" />
-      <item value="List representing all colors that are used for the circles" />
-      <item value="CHART" />
-      <item value="平均" />
-      <item value="冻结" />
-      <item value="停机" />
-      <item value="已欠费" />
-      <item value="欠费" />
-      <item value="Still refresh main page data" />
-      <item value="Still" />
-      <item value="refresh Order Box" />
-      <item value="is Init Local Data" />
-      <item value="See about" />
-      <item value="long period of time" />
-      <item value="App品牌" />
-      <item value="用户隐私协议" />
-      <item value="good reputation" />
-      <item value="好评" />
-      <item value="文字中心到base Line的距离" />
-      <item value="The x-coordinate of the origin of the text being drawn" />
-      <item value="垂直居中" />
-      <item value="Horizontally centered" />
+      <item value="Dimension" />
+      <item value="jump To Current State" />
+      <item value="Helper for accessing features in {@link android.graphics.drawable.Drawable}." />
+      <item value="Potentially wrap {@code drawable} so that it may be used for tinting across the * different API levels, via the tinting methods in this class." />
+      <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;" />
+      <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;." />
+      <item value="List representing all colors that are used for this DataSet" />
+      <item value="Internally, this recreates the colors array and adds the specified color." />
+      <item value="Sets the one and ONLY color that should be used for this DataSet." />
+      <item value="unit step frequence" />
+      <item value="Method of request" />
+      <item value="Must be uppercase" />
+      <item value="uppercase" />
+      <item value="自定义设置方法" />
+      <item value="小写" />
+      <item value="landscape" />
+      <item value="Rewinds the path" />
+      <item value="Rewinds the path: clears any lines and curves from the path but * keeps the internal data structure for faster reuse." />
+      <item value="We promised not to change this, so preserve it around the native // call, which does now reset fill type." />
+      <item value="Clear any lines and curves from the path, making it empty. * This does NOT change the fill-type setting." />
+      <item value="radii" />
       <item value="radius" />
-      <item value="Adding or removing a field requires an app restart" />
-      <item value="Back-end (JVM) Internal error: Couldn't transform method node" />
-      <item value="半透明" />
-      <item value="最新" />
-      <item value="SHUT DOWN" />
-      <item value="SHOUT DOWN" />
-      <item value="用户已停机" />
-      <item value="EXIST" />
-      <item value="Prevent big data page reporting" />
+      <item value="Array of 8 values, 4 pairs of [X,Y] radii" />
+      <item value="The x-radius of the rounded corners on the round-rectangle" />
+      <item value="Add a closed round-rectangle contour to the path" />
+      <item value="最高" />
+      <item value="draw Curve Chart" />
+      <item value="Always allow a user to over-scroll this view, provided it is a * view that can scroll." />
+      <item value="Xul Recycle Strategy" />
+      <item value="_cache Domain" />
+      <item value="Xul Expire Strategy" />
+      <item value="计算Marker绘制时，相对于高亮点(选中点)的x 居中绘制偏移量" />
+      <item value="是否从最小高亮值绘制垂直线" />
+      <item value="Cross" />
+      <item value="十字路口" />
+      <item value="Accross" />
+      <item value="Across" />
+      <item value="Draw Accross Vertical Line" />
+      <item value="贯穿" />
+      <item value="the x-position (pixels) on which this highlight object was last drawn" />
+      <item value="m Draw X" />
+      <item value="Transforms the given array of touch positions (pixels) (x, y, x, y, ...) * into values on the chart." />
+      <item value="take any transformer to determine the x-axis value" />
+      <item value="Highlights the values at the given indices in the given DataSets. Provide * null or an empty array to undo all highlighting. This should be used to * programmatically highlight values. * This method *will not* call the listener." />
+      <item value="Contains information needed to determine the highlighted value." />
+      <item value="是否绘制高亮圆点" />
+      <item value="计算" />
+      <item value="caculate" />
+      <item value="Add a closed round-rectangle contour to the path. Each corner receives * two radius values [X, Y]. The corners are ordered top-left, top-right, * bottom-right, bottom-left" />
+      <item value="should" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1730" />
-        <entry key="ENGLISH" value="1833" />
+        <entry key="CHINESE" value="1857" />
+        <entry key="ENGLISH" value="1961" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
