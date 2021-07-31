@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shows immersive image viewer" />
+      <item value="Window Insets Controller" />
       <item value="MUTE TRUE" />
       <item value="mutate" />
       <item value="Set up a multi-function listener." />
@@ -49,13 +51,11 @@
       <item value="Transforms the given array of touch positions (pixels) (x, y, x, y, ...) * into values on the chart." />
       <item value="take any transformer to determine the x-axis value" />
       <item value="Highlights the values at the given indices in the given DataSets. Provide * null or an empty array to undo all highlighting. This should be used to * programmatically highlight values. * This method *will not* call the listener." />
-      <item value="Contains information needed to determine the highlighted value." />
-      <item value="是否绘制高亮圆点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1861" />
-        <entry key="ENGLISH" value="1965" />
+        <entry key="CHINESE" value="1863" />
+        <entry key="ENGLISH" value="1967" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
