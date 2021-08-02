@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The amount to scale in X" />
       <item value="Attribute dimension value multiplied by the appropriate * metric, or defValue if not defined." />
       <item value="Proper" />
       <item value="Propar" />
@@ -50,12 +51,11 @@
       <item value="Xul Expire Strategy" />
       <item value="计算Marker绘制时，相对于高亮点(选中点)的x 居中绘制偏移量" />
       <item value="是否从最小高亮值绘制垂直线" />
-      <item value="Cross" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1874" />
-        <entry key="ENGLISH" value="1975" />
+        <entry key="CHINESE" value="1876" />
+        <entry key="ENGLISH" value="1977" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
