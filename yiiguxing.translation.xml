@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="radii Arraymode" />
+      <item value="radii" />
+      <item value="radii Mode" />
       <item value="set Underline Text" />
       <item value="set Strike Thru Text" />
       <item value="Lat Lng" />
@@ -32,7 +35,6 @@
       <item value="Rewinds the path: clears any lines and curves from the path but * keeps the internal data structure for faster reuse." />
       <item value="We promised not to change this, so preserve it around the native // call, which does now reset fill type." />
       <item value="Clear any lines and curves from the path, making it empty. * This does NOT change the fill-type setting." />
-      <item value="radii" />
       <item value="radius" />
       <item value="Array of 8 values, 4 pairs of [X,Y] radii" />
       <item value="The x-radius of the rounded corners on the round-rectangle" />
@@ -49,13 +51,11 @@
       <item value="十字路口" />
       <item value="Accross" />
       <item value="Across" />
-      <item value="Draw Accross Vertical Line" />
-      <item value="贯穿" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1868" />
-        <entry key="ENGLISH" value="1970" />
+        <entry key="CHINESE" value="1871" />
+        <entry key="ENGLISH" value="1973" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
