@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="New value for this characteristic" />
       <item value="Callback indicating the MTU for a given device connection has changed." />
       <item value="MTU" />
       <item value="The amount to scale in X" />
@@ -50,12 +51,11 @@
       <item value="Always allow a user to over-scroll this view, provided it is a * view that can scroll." />
       <item value="Xul Recycle Strategy" />
       <item value="_cache Domain" />
-      <item value="Xul Expire Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1878" />
-        <entry key="ENGLISH" value="1978" />
+        <entry key="CHINESE" value="1879" />
+        <entry key="ENGLISH" value="1979" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
