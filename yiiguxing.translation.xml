@@ -1,7 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Immersion" />
+      <item value="The amount to scale in X" />
+      <item value="Attribute dimension value multiplied by the appropriate * metric, or defValue if not defined." />
+      <item value="Proper" />
+      <item value="Propar" />
+      <item value="radii Arraymode" />
+      <item value="radii" />
+      <item value="radii Mode" />
+      <item value="set Underline Text" />
+      <item value="set Strike Thru Text" />
+      <item value="Lat Lng" />
+      <item value="latlng" />
+      <item value="downloading" />
+      <item value="Shows immersive image viewer" />
+      <item value="Window Insets Controller" />
       <item value="MUTE TRUE" />
       <item value="mutate" />
       <item value="Set up a multi-function listener." />
@@ -26,7 +39,6 @@
       <item value="Rewinds the path: clears any lines and curves from the path but * keeps the internal data structure for faster reuse." />
       <item value="We promised not to change this, so preserve it around the native // call, which does now reset fill type." />
       <item value="Clear any lines and curves from the path, making it empty. * This does NOT change the fill-type setting." />
-      <item value="radii" />
       <item value="radius" />
       <item value="Array of 8 values, 4 pairs of [X,Y] radii" />
       <item value="The x-radius of the rounded corners on the round-rectangle" />
@@ -39,23 +51,11 @@
       <item value="Xul Expire Strategy" />
       <item value="计算Marker绘制时，相对于高亮点(选中点)的x 居中绘制偏移量" />
       <item value="是否从最小高亮值绘制垂直线" />
-      <item value="Cross" />
-      <item value="十字路口" />
-      <item value="Accross" />
-      <item value="Across" />
-      <item value="Draw Accross Vertical Line" />
-      <item value="贯穿" />
-      <item value="the x-position (pixels) on which this highlight object was last drawn" />
-      <item value="m Draw X" />
-      <item value="Transforms the given array of touch positions (pixels) (x, y, x, y, ...) * into values on the chart." />
-      <item value="take any transformer to determine the x-axis value" />
-      <item value="Highlights the values at the given indices in the given DataSets. Provide * null or an empty array to undo all highlighting. This should be used to * programmatically highlight values. * This method *will not* call the listener." />
-      <item value="Contains information needed to determine the highlighted value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1862" />
-        <entry key="ENGLISH" value="1966" />
+        <entry key="CHINESE" value="1876" />
+        <entry key="ENGLISH" value="1977" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
@@ -71,8 +71,9 @@
         <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="4" />
-        <entry key="INDONESIAN" value="8" />
+        <entry key="HINDI" value="5" />
+        <entry key="INDONESIAN" value="10" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
