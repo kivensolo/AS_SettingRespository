@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Open notification channle." />
+      <item value="enable Notification" />
+      <item value="扫描超时的时间" />
+      <item value="扫描时间" />
       <item value="Returns the remote Bluetooth device identified by the Bluetooth device address. */" />
       <item value="Instead, use an {@link java.util.concurrent.Executor} or specify the Looper * explicitly, using {@link Looper#getMainLooper}, {link android.view.View#getHandler}, or * similar. If the implicit thread local behavior is required for compatibility, use * {@code new Handler(Looper.myLooper())} to make it clear to readers." />
       <item value="mplicitly choosing a Looper during Handler construction can lead to bugs * where operations are silently lost" />
@@ -47,15 +51,11 @@
       <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;." />
       <item value="List representing all colors that are used for this DataSet" />
       <item value="Internally, this recreates the colors array and adds the specified color." />
-      <item value="Sets the one and ONLY color that should be used for this DataSet." />
-      <item value="unit step frequence" />
-      <item value="Method of request" />
-      <item value="Must be uppercase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1896" />
-        <entry key="ENGLISH" value="1996" />
+        <entry key="CHINESE" value="1900" />
+        <entry key="ENGLISH" value="2000" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
