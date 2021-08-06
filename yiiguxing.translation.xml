@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use &lt;code&gt;maxLines&lt;/code&gt; instead to change the layout of a static text, and use the &lt;code&gt;textMultiLine&lt;/code&gt; flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine)." />
+      <item value="* Sets whether this dialog is canceled when touched outside the window's * bounds. If setting to true, the dialog is set to be cancelable if not * already set." />
       <item value="cancle" />
       <item value="INCONSISTENT" />
       <item value="array of ON and OFF distances" />
@@ -49,13 +51,11 @@
       <item value="Proper" />
       <item value="Propar" />
       <item value="radii Arraymode" />
-      <item value="radii" />
-      <item value="radii Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1919" />
-        <entry key="ENGLISH" value="2015" />
+        <entry key="CHINESE" value="1921" />
+        <entry key="ENGLISH" value="2017" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
