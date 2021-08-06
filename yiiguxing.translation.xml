@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancle" />
       <item value="INCONSISTENT" />
       <item value="array of ON and OFF distances" />
       <item value="offset into the intervals array" />
@@ -50,16 +51,15 @@
       <item value="radii Arraymode" />
       <item value="radii" />
       <item value="radii Mode" />
-      <item value="set Underline Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1918" />
+        <entry key="CHINESE" value="1919" />
         <entry key="ENGLISH" value="2015" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="8" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="1" />
