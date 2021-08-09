@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When opening an activity in a new task, this is the animation that is run on the activity of the new task (which is entering the screen)" />
+      <item value="Standard animations for a full-screen window or activity" />
+      <item value="When opening an activity in a new task using Intent.FLAG_ACTIVITY_LAUNCH_BEHIND, this is the animation that is run on the activity of the old task (which is already on the screen and then stays on)" />
+      <item value="When opening an activity in a new task using Intent/FLAG_ACTIVITY_LAUNCH_BEHIND, this is the animation that is run on the activity of the new task (which is entering the screen and then leaving). --&gt;" />
+      <item value="When bringing an existing task to the foreground, this is the animation that is run on the top activity of the task being brought to the foreground (which is entering the screen)" />
+      <item value="When closing the last activity of a task, this is the animation that is run on the activity of the next task (which is entering the screen)." />
+      <item value="When opening an activity in a new task, this is the animation that is run on the activity of the old task (which is exiting the screen)." />
+      <item value="task Close Enter Animation" />
+      <item value="task To Front Exit Animation" />
+      <item value="launch Task Behind Source Animation" />
+      <item value="launch Task Behind Target Animation" />
+      <item value="activity Open Enter Animation" />
       <item value="watch skin detail content title" />
       <item value="When closing the current activity, this is the animation that is run on the current activity (which is exiting the screen)" />
       <item value="When closing the current activity, this is the animation that is run on the next activity (which is entering the screen" />
@@ -39,23 +51,11 @@
       <item value="Control Command" />
       <item value="Conmand" />
       <item value="手动" />
-      <item value="manunal" />
-      <item value="Open notification channle." />
-      <item value="enable Notification" />
-      <item value="扫描超时的时间" />
-      <item value="扫描时间" />
-      <item value="Returns the remote Bluetooth device identified by the Bluetooth device address. */" />
-      <item value="Instead, use an {@link java.util.concurrent.Executor} or specify the Looper * explicitly, using {@link Looper#getMainLooper}, {link android.view.View#getHandler}, or * similar. If the implicit thread local behavior is required for compatibility, use * {@code new Handler(Looper.myLooper())} to make it clear to readers." />
-      <item value="mplicitly choosing a Looper during Handler construction can lead to bugs * where operations are silently lost" />
-      <item value="在连接设备之前要停止搜索蓝牙" />
-      <item value="扫描搜索蓝牙设备" />
-      <item value="Rationale" />
-      <item value="收到BLE从机写入数据回调" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1941" />
-        <entry key="ENGLISH" value="2034" />
+        <entry key="CHINESE" value="1958" />
+        <entry key="ENGLISH" value="2051" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
