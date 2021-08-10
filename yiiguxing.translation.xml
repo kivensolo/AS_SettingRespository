@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The offset in milliseconds between this zone and GMT. Negative offsets * are to the west of Greenwich. To obtain local &lt;em&gt;standard&lt;/em&gt; time, * add the offset to GMT time. To obtain local wall time it may also be * necessary to add &lt;code&gt;dstSavings&lt;/code&gt;. * @serial" />
       <item value="double-precision" />
       <item value="register a subscriber into the _subscriberMap, the key is subscriber's method's name and tag * which annotated with {@see Subcriber}, the value is a list of XulSubscription. *" />
       <item value="_sys Decode" />
@@ -50,12 +51,11 @@
       <item value="在连接设备之前要停止搜索蓝牙" />
       <item value="扫描搜索蓝牙设备" />
       <item value="Rationale" />
-      <item value="收到BLE从机写入数据回调" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1940" />
-        <entry key="ENGLISH" value="2033" />
+        <entry key="CHINESE" value="1942" />
+        <entry key="ENGLISH" value="2035" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
