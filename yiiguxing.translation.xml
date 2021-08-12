@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCAN PERIOD" />
+      <item value="Service for managing connection and data communication with a GATT server hosted on a * given Bluetooth LE device." />
+      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="the amount of time in milliseconds to add to UTC to get local time." />
       <item value="The offset in milliseconds between this zone and GMT. Negative offsets * are to the west of Greenwich. To obtain local &lt;em&gt;standard&lt;/em&gt; time, * add the offset to GMT time. To obtain local wall time it may also be * necessary to add &lt;code&gt;dstSavings&lt;/code&gt;. * @serial" />
       <item value="double-precision" />
@@ -48,14 +51,11 @@
       <item value="扫描时间" />
       <item value="Returns the remote Bluetooth device identified by the Bluetooth device address. */" />
       <item value="Instead, use an {@link java.util.concurrent.Executor} or specify the Looper * explicitly, using {@link Looper#getMainLooper}, {link android.view.View#getHandler}, or * similar. If the implicit thread local behavior is required for compatibility, use * {@code new Handler(Looper.myLooper())} to make it clear to readers." />
-      <item value="mplicitly choosing a Looper during Handler construction can lead to bugs * where operations are silently lost" />
-      <item value="在连接设备之前要停止搜索蓝牙" />
-      <item value="扫描搜索蓝牙设备" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="2036" />
+        <entry key="CHINESE" value="1947" />
+        <entry key="ENGLISH" value="2040" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
