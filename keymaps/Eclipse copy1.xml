@@ -1,6 +1,36 @@
 <keymap version="1" name="Eclipse copy1" parent="Eclipse">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Editor Copy">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="Editor Paste">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="ExternalSystem.RunTask">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
