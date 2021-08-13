@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Slice" />
       <item value="Reverses elements in the list in-place." />
       <item value="slice Data" />
       <item value="data Slice Count" />
-      <item value="Slice" />
       <item value="Delegate" />
       <item value="I Ble Manager Delegate" />
       <item value="ILLEGAL" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1955" />
-        <entry key="ENGLISH" value="2047" />
+        <entry key="CHINESE" value="1956" />
+        <entry key="ENGLISH" value="2048" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
