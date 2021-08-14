@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicate" />
       <item value="Set split Writ eNum" />
       <item value="Callback triggered as a result of a remote characteristic notification. * * @param gatt GATT client the characteristic is associated with * @param characteristic Characteristic that has been updated as a result of a remote * notification event." />
       <item value="Write type for this characteristic. * See WRITE_TYPE_* constants." />
@@ -50,12 +51,11 @@
       <item value="贯穿" />
       <item value="the x-position (pixels) on which this highlight object was last drawn" />
       <item value="m Draw X" />
-      <item value="Transforms the given array of touch positions (pixels) (x, y, x, y, ...) * into values on the chart." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1865" />
-        <entry key="ENGLISH" value="1969" />
+        <entry key="CHINESE" value="1866" />
+        <entry key="ENGLISH" value="1970" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
