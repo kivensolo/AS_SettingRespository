@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Next When Last Success" />
+      <item value="interval Between Two Package" />
+      <item value="slice" />
+      <item value="Ensure MTU higher than 23" />
+      <item value="Ensure" />
       <item value="FAIL" />
       <item value="indicate" />
       <item value="Set split Writ eNum" />
@@ -46,16 +51,11 @@
       <item value="是否从最小高亮值绘制垂直线" />
       <item value="Cross" />
       <item value="十字路口" />
-      <item value="Accross" />
-      <item value="Across" />
-      <item value="Draw Accross Vertical Line" />
-      <item value="贯穿" />
-      <item value="the x-position (pixels) on which this highlight object was last drawn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1867" />
-        <entry key="ENGLISH" value="1971" />
+        <entry key="CHINESE" value="1873" />
+        <entry key="ENGLISH" value="1977" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
