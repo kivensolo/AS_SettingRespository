@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
+      <item value="{@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
+      <item value="which can fail to insert an element only * by throwing an exception." />
+      <item value="When using a capacity-restricted queue, this method is generally * preferable to {@link #add}" />
       <item value="send Next When Last Success" />
       <item value="interval Between Two Package" />
       <item value="slice" />
@@ -47,15 +51,11 @@
       <item value="Xul Recycle Strategy" />
       <item value="_cache Domain" />
       <item value="Xul Expire Strategy" />
-      <item value="计算Marker绘制时，相对于高亮点(选中点)的x 居中绘制偏移量" />
-      <item value="是否从最小高亮值绘制垂直线" />
-      <item value="Cross" />
-      <item value="十字路口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1873" />
-        <entry key="ENGLISH" value="1977" />
+        <entry key="CHINESE" value="1877" />
+        <entry key="ENGLISH" value="1981" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
