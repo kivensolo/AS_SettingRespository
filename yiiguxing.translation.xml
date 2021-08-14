@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conver" />
+      <item value="转化" />
+      <item value="corver" />
+      <item value="cover" />
       <item value="slice" />
       <item value="slice Mode" />
       <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
@@ -47,15 +51,11 @@
       <item value="The x-radius of the rounded corners on the round-rectangle" />
       <item value="Add a closed round-rectangle contour to the path" />
       <item value="最高" />
-      <item value="draw Curve Chart" />
-      <item value="Always allow a user to over-scroll this view, provided it is a * view that can scroll." />
-      <item value="Xul Recycle Strategy" />
-      <item value="_cache Domain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1880" />
-        <entry key="ENGLISH" value="1984" />
+        <entry key="CHINESE" value="1885" />
+        <entry key="ENGLISH" value="1988" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
@@ -70,7 +70,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="8" />
       </map>
