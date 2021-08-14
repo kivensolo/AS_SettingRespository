@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FAIL" />
       <item value="indicate" />
       <item value="Set split Writ eNum" />
       <item value="Callback triggered as a result of a remote characteristic notification. * * @param gatt GATT client the characteristic is associated with * @param characteristic Characteristic that has been updated as a result of a remote * notification event." />
@@ -50,12 +51,11 @@
       <item value="Draw Accross Vertical Line" />
       <item value="贯穿" />
       <item value="the x-position (pixels) on which this highlight object was last drawn" />
-      <item value="m Draw X" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1866" />
-        <entry key="ENGLISH" value="1970" />
+        <entry key="CHINESE" value="1867" />
+        <entry key="ENGLISH" value="1971" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
