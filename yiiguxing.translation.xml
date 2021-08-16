@@ -1,79 +1,78 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="encode Hex" />
-      <item value="Illegal hexadecimal character" />
-      <item value="digit" />
-      <item value="to Digit" />
-      <item value="hight" />
-      <item value="heigh" />
-      <item value="extract Data" />
+      <item value="Judge data mode" />
+      <item value="Judge" />
+      <item value="conver" />
       <item value="转化" />
-      <item value="Cover" />
-      <item value="a character (Unicode code point)." />
-      <item value="Flashlight" />
-      <item value="initialization" />
-      <item value="utils about initialization" />
-      <item value="Send-worker is wake" />
-      <item value="wake" />
-      <item value="Write characteristic, requesting acknoledgement by the remote device" />
-      <item value="进行数据分片处理" />
-      <item value="Shard data" />
-      <item value="进行数据分片" />
-      <item value="通常情况下为true,分片模式下，除了最后一个数据，其他为false" />
-      <item value="Example Add a data sending task to the queue" />
-      <item value="Example" />
-      <item value="添加数据发送任务到队列中" />
+      <item value="corver" />
+      <item value="cover" />
       <item value="slice" />
-      <item value="Slice" />
-      <item value="Reverses elements in the list in-place." />
-      <item value="slice Data" />
-      <item value="data Slice Count" />
-      <item value="Delegate" />
-      <item value="I Ble Manager Delegate" />
-      <item value="ILLEGAL" />
-      <item value="Befor" />
-      <item value="SCAN PERIOD" />
-      <item value="Service for managing connection and data communication with a GATT server hosted on a * given Bluetooth LE device." />
-      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
-      <item value="the amount of time in milliseconds to add to UTC to get local time." />
-      <item value="The offset in milliseconds between this zone and GMT. Negative offsets * are to the west of Greenwich. To obtain local &lt;em&gt;standard&lt;/em&gt; time, * add the offset to GMT time. To obtain local wall time it may also be * necessary to add &lt;code&gt;dstSavings&lt;/code&gt;. * @serial" />
-      <item value="double-precision" />
-      <item value="register a subscriber into the _subscriberMap, the key is subscriber's method's name and tag * which annotated with {@see Subcriber}, the value is a list of XulSubscription. *" />
-      <item value="_sys Decode" />
-      <item value="forbid fps update" />
-      <item value="illegal" />
-      <item value="可以尝试重连" />
-      <item value="可以重连尝试" />
-      <item value="可进行重连尝试" />
-      <item value="可进行重来尝试" />
-      <item value="自动重连上一次已经绑定过的设备" />
-      <item value="自动重连已经绑定过的设备" />
-      <item value="auto Re Connect" />
-      <item value="has Bound" />
+      <item value="slice Mode" />
+      <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
+      <item value="{@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
+      <item value="which can fail to insert an element only * by throwing an exception." />
+      <item value="When using a capacity-restricted queue, this method is generally * preferable to {@link #add}" />
+      <item value="send Next When Last Success" />
+      <item value="interval Between Two Package" />
+      <item value="Ensure MTU higher than 23" />
+      <item value="Ensure" />
+      <item value="FAIL" />
+      <item value="indicate" />
+      <item value="Set split Writ eNum" />
+      <item value="Callback triggered as a result of a remote characteristic notification. * * @param gatt GATT client the characteristic is associated with * @param characteristic Characteristic that has been updated as a result of a remote * notification event." />
+      <item value="Write type for this characteristic. * See WRITE_TYPE_* constants." />
+      <item value="Write characteristic, requesting acknoledgement by the remote device" />
+      <item value="Write characteristic including authentication signature" />
+      <item value="在非UI线程中回调" />
+      <item value="在子线程中回调" />
+      <item value="The source pixels replace the destination pixels" />
+      <item value="Dimension" />
+      <item value="jump To Current State" />
+      <item value="Helper for accessing features in {@link android.graphics.drawable.Drawable}." />
+      <item value="Potentially wrap {@code drawable} so that it may be used for tinting across the * different API levels, via the tinting methods in this class." />
+      <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;" />
+      <item value="Defines which scroll indicators should be displayed when the view can be scrolled. Multiple values may be combined using logical OR, for example &quot;top|bottom&quot;." />
+      <item value="List representing all colors that are used for this DataSet" />
+      <item value="Internally, this recreates the colors array and adds the specified color." />
+      <item value="Sets the one and ONLY color that should be used for this DataSet." />
+      <item value="unit step frequence" />
+      <item value="Method of request" />
+      <item value="Must be uppercase" />
+      <item value="uppercase" />
+      <item value="自定义设置方法" />
+      <item value="小写" />
+      <item value="landscape" />
+      <item value="Rewinds the path" />
+      <item value="Rewinds the path: clears any lines and curves from the path but * keeps the internal data structure for faster reuse." />
+      <item value="We promised not to change this, so preserve it around the native // call, which does now reset fill type." />
+      <item value="Clear any lines and curves from the path, making it empty. * This does NOT change the fill-type setting." />
+      <item value="radii" />
+      <item value="radius" />
+      <item value="Array of 8 values, 4 pairs of [X,Y] radii" />
+      <item value="The x-radius of the rounded corners on the round-rectangle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1984" />
-        <entry key="ENGLISH" value="2076" />
+        <entry key="CHINESE" value="1887" />
+        <entry key="ENGLISH" value="1990" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="9" />
-        <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="9" />
+        <entry key="DANISH" value="8" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="8" />
-        <entry key="FINNISH" value="3" />
+        <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="1" />
-        <entry key="CZECH" value="3" />
+        <entry key="CZECH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
-        <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="6" />
-        <entry key="INDONESIAN" value="11" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="ITALIAN" value="4" />
+        <entry key="HINDI" value="4" />
+        <entry key="INDONESIAN" value="8" />
       </map>
     </option>
   </component>
