@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hint" />
+      <item value="daily Advice" />
       <item value="conduct" />
       <item value="计划进行中" />
       <item value="公里数" />
@@ -49,13 +51,11 @@
       <item value="{@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
       <item value="which can fail to insert an element only * by throwing an exception." />
       <item value="When using a capacity-restricted queue, this method is generally * preferable to {@link #add}" />
-      <item value="send Next When Last Success" />
-      <item value="interval Between Two Package" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1926" />
-        <entry key="ENGLISH" value="2026" />
+        <entry key="CHINESE" value="1928" />
+        <entry key="ENGLISH" value="2028" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
