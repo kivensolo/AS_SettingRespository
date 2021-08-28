@@ -1,21 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ARouter facade" />
-      <item value="LifecycleCallback for autowired." />
-      <item value="stitute" />
-      <item value="substitute" />
-      <item value="inject" />
-      <item value="Syringe" />
-      <item value="Template of syringe" />
-      <item value="Compiler An exception is encountered" />
-      <item value="encountered" />
-      <item value="If required, app will be crash when value is null. // Primitive type wont be check!" />
-      <item value="Mark param's name or service name." />
-      <item value="Returns a reversed mutable view of the original mutable List. * All changes made in the original list will be reflected in the reversed one and vice versa." />
-      <item value="like Changing" />
-      <item value="Check if the given tag able to do next event using setting interval" />
-      <item value="praise" />
+      <item value="容量" />
+      <item value="接收" />
+      <item value="recevie" />
+      <item value="recevied" />
+      <item value="is last slice" />
+      <item value="Left tasks count" />
+      <item value="daily weather loop end" />
+      <item value="hint" />
+      <item value="daily Advice" />
+      <item value="conduct" />
+      <item value="计划进行中" />
+      <item value="公里数" />
+      <item value="mileage" />
+      <item value="expect {, actual [" />
+      <item value="user Plan Create Time" />
+      <item value="Percent" />
+      <item value="Precent" />
+      <item value="Sport Plan Service" />
+      <item value="The property annotated with [IgnoredOnParcel] will not be stored into parcel." />
+      <item value="collided" />
+      <item value="Reqres" />
+      <item value="Should be several times the number of visible items onscreen." />
+      <item value="Defines the number of items loaded at once from the [PagingSource]" />
+      <item value="Cost" />
+      <item value="Befree" />
+      <item value="dial" />
+      <item value="Praise" />
+      <item value="dial Praisecount" />
+      <item value="dial Befree" />
+      <item value="remark" />
+      <item value="Repository" />
+      <item value="eturns a new array which is a copy of the specified range of the original array." />
+      <item value="The new byte order, * either {@link ByteOrder#BIG_ENDIAN BIG_ENDIAN} * or {@link ByteOrder#LITTLE_ENDIAN LITTLE_ENDIAN}" />
+      <item value="Modifies this buffer's byte order." />
+      <item value="Wraps a byte array into a buffer." />
+      <item value="Usage of this interface may look like this:" />
+      <item value="Another use of the global scope is operators running in [Dispatchers.Unconfined], which don't have any job associated with them. *" />
       <item value="Global scope is used to launch top-level coroutines which are operating on the whole application lifetime * and are not cancelled prematurely." />
       <item value="PERFORMANCE BENCH" />
       <item value="确保MTU大于23" />
@@ -29,33 +51,11 @@
       <item value="conver" />
       <item value="转化" />
       <item value="corver" />
-      <item value="cover" />
-      <item value="slice" />
-      <item value="slice Mode" />
-      <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
-      <item value="{@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
-      <item value="which can fail to insert an element only * by throwing an exception." />
-      <item value="When using a capacity-restricted queue, this method is generally * preferable to {@link #add}" />
-      <item value="send Next When Last Success" />
-      <item value="interval Between Two Package" />
-      <item value="Ensure MTU higher than 23" />
-      <item value="Ensure" />
-      <item value="FAIL" />
-      <item value="indicate" />
-      <item value="Set split Writ eNum" />
-      <item value="Callback triggered as a result of a remote characteristic notification. * * @param gatt GATT client the characteristic is associated with * @param characteristic Characteristic that has been updated as a result of a remote * notification event." />
-      <item value="Write type for this characteristic. * See WRITE_TYPE_* constants." />
-      <item value="Write characteristic, requesting acknoledgement by the remote device" />
-      <item value="Write characteristic including authentication signature" />
-      <item value="在非UI线程中回调" />
-      <item value="在子线程中回调" />
-      <item value="The source pixels replace the destination pixels" />
-      <item value="Dimension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1912" />
-        <entry key="ENGLISH" value="2014" />
+        <entry key="CHINESE" value="1935" />
+        <entry key="ENGLISH" value="2033" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
@@ -64,14 +64,14 @@
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="2" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="NORWEGIAN" value="3" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
-        <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="4" />
+        <entry key="ITALIAN" value="4" />
+        <entry key="HINDI" value="5" />
         <entry key="INDONESIAN" value="8" />
       </map>
     </option>
