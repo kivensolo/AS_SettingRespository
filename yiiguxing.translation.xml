@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hen timeout occurs, the internal controller will automatically send subsequent data." />
+      <item value="实现了I Ble Data接口的数据" />
+      <item value="Write data through the Gatt object" />
+      <item value="通过Gatt对象进行数据写入" />
+      <item value="Member Visibility Can Be Private" />
       <item value="racteristic" />
       <item value="Characteristic" />
       <item value="Denotes that the request body will use form URL encoding. Fields should be declared as parameters * and annotated with {@link Field @Field}." />
@@ -46,16 +51,11 @@
       <item value="Befree" />
       <item value="dial" />
       <item value="Praise" />
-      <item value="dial Praisecount" />
-      <item value="dial Befree" />
-      <item value="remark" />
-      <item value="Repository" />
-      <item value="eturns a new array which is a copy of the specified range of the original array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1954" />
-        <entry key="ENGLISH" value="2052" />
+        <entry key="CHINESE" value="1959" />
+        <entry key="ENGLISH" value="2057" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
