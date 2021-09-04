@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bytes" />
+      <item value="The number of bytes used to represent a {@code int} value in two's * complement binary form." />
       <item value="bulk" />
       <item value="获取当前的MTU值" />
       <item value="Must be invoke [flashErase] at first" />
@@ -49,13 +51,11 @@
       <item value="dial Befree" />
       <item value="remark" />
       <item value="Repository" />
-      <item value="eturns a new array which is a copy of the specified range of the original array." />
-      <item value="The new byte order, * either {@link ByteOrder#BIG_ENDIAN BIG_ENDIAN} * or {@link ByteOrder#LITTLE_ENDIAN LITTLE_ENDIAN}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1953" />
-        <entry key="ENGLISH" value="2051" />
+        <entry key="CHINESE" value="1955" />
+        <entry key="ENGLISH" value="2053" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
