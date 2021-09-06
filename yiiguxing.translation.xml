@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The offset within the array of the first byte to be * written; must be non-negative and no larger than * &lt;tt&gt;dst.length&lt;/tt&gt;" />
+      <item value="航迹" />
       <item value="enable-accurate-seek" />
       <item value="Link Down" />
       <item value="candidate codec" />
@@ -49,13 +51,11 @@
       <item value="Reqres" />
       <item value="Should be several times the number of visible items onscreen." />
       <item value="Defines the number of items loaded at once from the [PagingSource]" />
-      <item value="Cost" />
-      <item value="Befree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1961" />
-        <entry key="ENGLISH" value="2059" />
+        <entry key="CHINESE" value="1964" />
+        <entry key="ENGLISH" value="2062" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
