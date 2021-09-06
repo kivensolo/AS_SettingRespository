@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="longitude" />
+      <item value="latitude" />
+      <item value="航迹数据结构" />
+      <item value="共享轨迹头数据" />
+      <item value="The number of bits used to represent an instance of Int in a binary form." />
       <item value="Returns a string representation of the contents of the specified array as if it is" />
       <item value="The offset within the array of the first byte to be * written; must be non-negative and no larger than * &lt;tt&gt;dst.length&lt;/tt&gt;" />
       <item value="航迹" />
@@ -46,16 +51,11 @@
       <item value="expect {, actual [" />
       <item value="user Plan Create Time" />
       <item value="Percent" />
-      <item value="Sport Plan Service" />
-      <item value="The property annotated with [IgnoredOnParcel] will not be stored into parcel." />
-      <item value="collided" />
-      <item value="Reqres" />
-      <item value="Should be several times the number of visible items onscreen." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1965" />
-        <entry key="ENGLISH" value="2063" />
+        <entry key="CHINESE" value="1973" />
+        <entry key="ENGLISH" value="2071" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
