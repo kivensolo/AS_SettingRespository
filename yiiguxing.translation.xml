@@ -1,19 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Must be multiple of 4k" />
-      <item value="It must be multiple of 4k" />
-      <item value="必须是4 k的倍数" />
-      <item value="earse" />
-      <item value="过开始地址和长度来擦除数据，" />
-      <item value="Data size to erase" />
-      <item value="hen timeout occurs, the internal controller will automatically send subsequent data." />
-      <item value="实现了I Ble Data接口的数据" />
-      <item value="Write data through the Gatt object" />
-      <item value="通过Gatt对象进行数据写入" />
-      <item value="Member Visibility Can Be Private" />
-      <item value="racteristic" />
-      <item value="Characteristic" />
+      <item value="enable-accurate-seek" />
+      <item value="Link Down" />
+      <item value="candidate codec" />
+      <item value="Unrecognized" />
+      <item value="candidate" />
+      <item value="闪存写入失败" />
+      <item value="蓝牙传输失败" />
+      <item value="The array that will back the new buffer" />
+      <item value="共享轨迹存放地址查询CMD" />
       <item value="Denotes that the request body will use form URL encoding. Fields should be declared as parameters * and annotated with {@link Field @Field}." />
       <item value="bind" />
       <item value="bounded" />
@@ -51,11 +47,15 @@
       <item value="The property annotated with [IgnoredOnParcel] will not be stored into parcel." />
       <item value="collided" />
       <item value="Reqres" />
+      <item value="Should be several times the number of visible items onscreen." />
+      <item value="Defines the number of items loaded at once from the [PagingSource]" />
+      <item value="Cost" />
+      <item value="Befree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1965" />
-        <entry key="ENGLISH" value="2063" />
+        <entry key="CHINESE" value="1961" />
+        <entry key="ENGLISH" value="2059" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
