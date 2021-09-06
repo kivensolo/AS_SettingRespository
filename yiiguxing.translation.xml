@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OPERATOR" />
       <item value="longitude" />
       <item value="latitude" />
       <item value="航迹数据结构" />
@@ -50,12 +51,11 @@
       <item value="mileage" />
       <item value="expect {, actual [" />
       <item value="user Plan Create Time" />
-      <item value="Percent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1973" />
-        <entry key="ENGLISH" value="2071" />
+        <entry key="CHINESE" value="1974" />
+        <entry key="ENGLISH" value="2072" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
