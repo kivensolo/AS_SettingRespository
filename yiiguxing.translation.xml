@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The offset within the array of the first byte to be read; * must be non-negative and no larger than &lt;tt&gt;array.length&lt;/tt&gt;" />
+      <item value="容量" />
+      <item value="capacity" />
       <item value="Capacity" />
       <item value="get Capacity" />
       <item value="Modifies this buffer's byte order" />
@@ -39,7 +42,6 @@
       <item value="actual" />
       <item value="Encrypt Tools" />
       <item value="Result value use lower case" />
-      <item value="容量" />
       <item value="接收" />
       <item value="recevie" />
       <item value="recevied" />
@@ -49,13 +51,11 @@
       <item value="hint" />
       <item value="daily Advice" />
       <item value="conduct" />
-      <item value="计划进行中" />
-      <item value="公里数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1977" />
-        <entry key="ENGLISH" value="2075" />
+        <entry key="CHINESE" value="1981" />
+        <entry key="ENGLISH" value="2078" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
