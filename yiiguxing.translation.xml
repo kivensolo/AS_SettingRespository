@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancellable continuations" />
+      <item value="Continuation" />
       <item value="Suspends the coroutine until this job is complete" />
       <item value="e need it inline to save us an entry on the stack" />
       <item value="Dispatched Continuation" />
@@ -49,13 +51,11 @@
       <item value="时间戳" />
       <item value="actual" />
       <item value="Encrypt Tools" />
-      <item value="Result value use lower case" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1991" />
-        <entry key="ENGLISH" value="2087" />
+        <entry key="CHINESE" value="1993" />
+        <entry key="ENGLISH" value="2089" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
