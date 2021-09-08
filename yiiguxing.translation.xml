@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="App回传命令的字节数组" />
+      <item value="写入回调响应" />
+      <item value="容量" />
+      <item value="容器" />
+      <item value="capcity" />
+      <item value="每次擦除以4k为基础单位, 擦除的长度为4k的倍数" />
+      <item value="Flash擦除的数据封装" />
+      <item value="enlarge" />
+      <item value="增长" />
+      <item value="扩容" />
       <item value="conduct" />
       <item value="Denotes that the request body will use form URL encoding. Fields should be declared as parameters * and annotated with {@link Field @Field}." />
       <item value="bind" />
@@ -19,7 +29,6 @@
       <item value="actual" />
       <item value="Encrypt Tools" />
       <item value="Result value use lower case" />
-      <item value="容量" />
       <item value="接收" />
       <item value="recevie" />
       <item value="recevied" />
@@ -42,20 +51,11 @@
       <item value="Defines the number of items loaded at once from the [PagingSource]" />
       <item value="Cost" />
       <item value="Befree" />
-      <item value="dial" />
-      <item value="Praise" />
-      <item value="dial Praisecount" />
-      <item value="dial Befree" />
-      <item value="remark" />
-      <item value="Repository" />
-      <item value="eturns a new array which is a copy of the specified range of the original array." />
-      <item value="The new byte order, * either {@link ByteOrder#BIG_ENDIAN BIG_ENDIAN} * or {@link ByteOrder#LITTLE_ENDIAN LITTLE_ENDIAN}" />
-      <item value="Modifies this buffer's byte order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1953" />
-        <entry key="ENGLISH" value="2051" />
+        <entry key="CHINESE" value="1963" />
+        <entry key="ENGLISH" value="2060" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
@@ -72,7 +72,7 @@
         <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="8" />
+        <entry key="INDONESIAN" value="9" />
       </map>
     </option>
   </component>
