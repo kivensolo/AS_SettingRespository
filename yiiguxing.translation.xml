@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="e need it inline to save us an entry on the stack" />
+      <item value="Dispatched Continuation" />
+      <item value="intercepted" />
+      <item value="intercepte" />
+      <item value="create Coroutine Unintercepted" />
+      <item value="/** * Runs given block and completes completion with its exception if it occurs. * Rationale: [startCoroutineCancellable] is invoked when we are about to run coroutine asynchronously in its own dispatcher. * Thus if dispatcher throws an exception during coroutine start, coroutine never completes, so we should treat dispatcher exception * as its cause and resume completion. */" />
       <item value="Channel Controller" />
       <item value="The offset within the array of the first byte to be read; * must be non-negative and no larger than &lt;tt&gt;array.length&lt;/tt&gt;" />
       <item value="容量" />
@@ -45,24 +51,18 @@
       <item value="Result value use lower case" />
       <item value="接收" />
       <item value="recevie" />
-      <item value="recevied" />
-      <item value="is last slice" />
-      <item value="Left tasks count" />
-      <item value="daily weather loop end" />
-      <item value="hint" />
-      <item value="daily Advice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1982" />
-        <entry key="ENGLISH" value="2079" />
+        <entry key="CHINESE" value="1990" />
+        <entry key="ENGLISH" value="2086" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="8" />
         <entry key="FINNISH" value="2" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="2" />
