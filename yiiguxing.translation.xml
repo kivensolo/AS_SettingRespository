@@ -1,17 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="App回传命令的字节数组" />
-      <item value="写入回调响应" />
+      <item value="e need it inline to save us an entry on the stack" />
+      <item value="Dispatched Continuation" />
+      <item value="intercepted" />
+      <item value="intercepte" />
+      <item value="create Coroutine Unintercepted" />
+      <item value="/** * Runs given block and completes completion with its exception if it occurs. * Rationale: [startCoroutineCancellable] is invoked when we are about to run coroutine asynchronously in its own dispatcher. * Thus if dispatcher throws an exception during coroutine start, coroutine never completes, so we should treat dispatcher exception * as its cause and resume completion. */" />
+      <item value="Channel Controller" />
+      <item value="The offset within the array of the first byte to be read; * must be non-negative and no larger than &lt;tt&gt;array.length&lt;/tt&gt;" />
       <item value="容量" />
-      <item value="容器" />
-      <item value="capcity" />
-      <item value="每次擦除以4k为基础单位, 擦除的长度为4k的倍数" />
-      <item value="Flash擦除的数据封装" />
-      <item value="enlarge" />
-      <item value="增长" />
-      <item value="扩容" />
-      <item value="conduct" />
+      <item value="capacity" />
+      <item value="Capacity" />
+      <item value="get Capacity" />
+      <item value="Modifies this buffer's byte order" />
+      <item value="OPERATOR" />
+      <item value="longitude" />
+      <item value="latitude" />
+      <item value="航迹数据结构" />
+      <item value="共享轨迹头数据" />
+      <item value="The number of bits used to represent an instance of Int in a binary form." />
+      <item value="Returns a string representation of the contents of the specified array as if it is" />
+      <item value="The offset within the array of the first byte to be * written; must be non-negative and no larger than * &lt;tt&gt;dst.length&lt;/tt&gt;" />
+      <item value="航迹" />
+      <item value="enable-accurate-seek" />
+      <item value="Link Down" />
+      <item value="candidate codec" />
+      <item value="Unrecognized" />
+      <item value="candidate" />
+      <item value="闪存写入失败" />
+      <item value="蓝牙传输失败" />
+      <item value="The array that will back the new buffer" />
+      <item value="共享轨迹存放地址查询CMD" />
       <item value="Denotes that the request body will use form URL encoding. Fields should be declared as parameters * and annotated with {@link Field @Field}." />
       <item value="bind" />
       <item value="bounded" />
@@ -31,38 +51,18 @@
       <item value="Result value use lower case" />
       <item value="接收" />
       <item value="recevie" />
-      <item value="recevied" />
-      <item value="is last slice" />
-      <item value="Left tasks count" />
-      <item value="daily weather loop end" />
-      <item value="hint" />
-      <item value="daily Advice" />
-      <item value="计划进行中" />
-      <item value="公里数" />
-      <item value="mileage" />
-      <item value="expect {, actual [" />
-      <item value="user Plan Create Time" />
-      <item value="Percent" />
-      <item value="Sport Plan Service" />
-      <item value="The property annotated with [IgnoredOnParcel] will not be stored into parcel." />
-      <item value="collided" />
-      <item value="Reqres" />
-      <item value="Should be several times the number of visible items onscreen." />
-      <item value="Defines the number of items loaded at once from the [PagingSource]" />
-      <item value="Cost" />
-      <item value="Befree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1963" />
-        <entry key="ENGLISH" value="2060" />
+        <entry key="CHINESE" value="1990" />
+        <entry key="ENGLISH" value="2086" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="8" />
         <entry key="FINNISH" value="2" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="2" />
@@ -72,7 +72,7 @@
         <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="9" />
+        <entry key="INDONESIAN" value="8" />
       </map>
     </option>
   </component>
