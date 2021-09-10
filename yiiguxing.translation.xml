@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="standby" />
       <item value="The byte order is used when reading or writing multibyte values, and * when creating buffers that are views of this byte buffer. The order of * a newly-created byte buffer is always {@link ByteOrder#BIG_ENDIAN * BIG_ENDIAN}." />
       <item value="BEGIN Android-changed: Android is always little-endian." />
       <item value="Android-removed: Android is always little-endian." />
@@ -50,12 +51,11 @@
       <item value="Default Field Deserializer" />
       <item value="enqueue Origin" />
       <item value="The scope to which usage should be restricted" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2003" />
-        <entry key="ENGLISH" value="2099" />
+        <entry key="CHINESE" value="2004" />
+        <entry key="ENGLISH" value="2100" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
