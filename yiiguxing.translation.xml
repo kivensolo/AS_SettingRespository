@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precent" />
+      <item value="Removes all listeners from the set listening to frame updates for this animation" />
+      <item value="fraction" />
+      <item value="The elapsed fraction of the animation." />
+      <item value="The animation which was repeated." />
+      <item value="Notifies the occurrence of another frame of the animation" />
+      <item value="Notifies the occurrence of another frame of the animation." />
+      <item value="the year minus 1900" />
+      <item value="获取某天在该月的第几周" />
+      <item value="Expanable" />
+      <item value="Creater" />
+      <item value="封包数据最大容量" />
+      <item value="auto Enlarge" />
+      <item value="Enlarge" />
+      <item value="自动扩容" />
+      <item value="扩容" />
       <item value="片段" />
       <item value="calculate" />
       <item value="计算" />
@@ -35,27 +51,11 @@
       <item value="create Coroutine Unintercepted" />
       <item value="/** * Runs given block and completes completion with its exception if it occurs. * Rationale: [startCoroutineCancellable] is invoked when we are about to run coroutine asynchronously in its own dispatcher. * Thus if dispatcher throws an exception during coroutine start, coroutine never completes, so we should treat dispatcher exception * as its cause and resume completion. */" />
       <item value="Channel Controller" />
-      <item value="The offset within the array of the first byte to be read; * must be non-negative and no larger than &lt;tt&gt;array.length&lt;/tt&gt;" />
-      <item value="容量" />
-      <item value="capacity" />
-      <item value="Capacity" />
-      <item value="get Capacity" />
-      <item value="Modifies this buffer's byte order" />
-      <item value="OPERATOR" />
-      <item value="longitude" />
-      <item value="latitude" />
-      <item value="航迹数据结构" />
-      <item value="共享轨迹头数据" />
-      <item value="The number of bits used to represent an instance of Int in a binary form." />
-      <item value="Returns a string representation of the contents of the specified array as if it is" />
-      <item value="航迹" />
-      <item value="enable-accurate-seek" />
-      <item value="Link Down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2021" />
-        <entry key="ENGLISH" value="2116" />
+        <entry key="CHINESE" value="2039" />
+        <entry key="ENGLISH" value="2134" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="2" />
