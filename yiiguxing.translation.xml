@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提醒" />
+      <item value="nofity" />
       <item value="PRETTY LOGGER" />
       <item value="JSON INDENT" />
       <item value="Skip headers from the request body as they are explicitly logged above." />
@@ -49,16 +51,14 @@
       <item value="assignment" />
       <item value="发现手表的请求数据" />
       <item value="APP获取手机训练计划UUID有效时才可调用" />
-      <item value="standby" />
-      <item value="The byte order is used when reading or writing multibyte values, and * when creating buffers that are views of this byte buffer. The order of * a newly-created byte buffer is always {@link ByteOrder#BIG_ENDIAN * BIG_ENDIAN}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2056" />
-        <entry key="ENGLISH" value="2151" />
+        <entry key="CHINESE" value="2058" />
+        <entry key="ENGLISH" value="2152" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
