@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Palette" />
+      <item value="Vibrant" />
       <item value="vibrant" />
       <item value="mute" />
       <item value="muted" />
@@ -49,13 +51,11 @@
       <item value="片段" />
       <item value="calculate" />
       <item value="计算" />
-      <item value="caculate" />
-      <item value="The offset within the array of the first byte to be * written; must be non-negative and no larger than * &lt;tt&gt;dst.length&lt;/tt&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2068" />
-        <entry key="ENGLISH" value="2161" />
+        <entry key="CHINESE" value="2070" />
+        <entry key="ENGLISH" value="2163" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
