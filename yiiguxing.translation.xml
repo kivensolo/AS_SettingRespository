@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SportPlanDao is part of com.kapplication.beidou.watch.database.AppDatabase but this entity is not in the database. Maybe you forgot to add com.kapplication.beidou.watch.data.model.SportPlanDetailInfoOfPlanId to the entities section of the @Database?" />
+      <item value="Available" />
       <item value="is Assignable From" />
       <item value="cable" />
       <item value="播放的资源rtsp串" />
@@ -49,13 +51,11 @@
       <item value="Expanable" />
       <item value="Creater" />
       <item value="封包数据最大容量" />
-      <item value="auto Enlarge" />
-      <item value="Enlarge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2076" />
-        <entry key="ENGLISH" value="2169" />
+        <entry key="CHINESE" value="2078" />
+        <entry key="ENGLISH" value="2171" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
