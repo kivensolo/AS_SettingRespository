@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Assignable From" />
+      <item value="cable" />
+      <item value="播放的资源rtsp串" />
+      <item value="设置播放资源" />
+      <item value="播放的资源ID" />
       <item value="Palette" />
       <item value="Vibrant" />
       <item value="vibrant" />
@@ -46,16 +51,11 @@
       <item value="封包数据最大容量" />
       <item value="auto Enlarge" />
       <item value="Enlarge" />
-      <item value="自动扩容" />
-      <item value="扩容" />
-      <item value="片段" />
-      <item value="calculate" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2070" />
-        <entry key="ENGLISH" value="2163" />
+        <entry key="CHINESE" value="2076" />
+        <entry key="ENGLISH" value="2169" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
