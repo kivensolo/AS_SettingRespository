@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Article" />
+      <item value="artical" />
       <item value="Server" />
       <item value="Davey" />
       <item value="landscape" />
@@ -49,13 +51,11 @@
       <item value="The animation which was repeated." />
       <item value="Notifies the occurrence of another frame of the animation" />
       <item value="Notifies the occurrence of another frame of the animation." />
-      <item value="the year minus 1900" />
-      <item value="获取某天在该月的第几周" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2081" />
-        <entry key="ENGLISH" value="2174" />
+        <entry key="CHINESE" value="2083" />
+        <entry key="ENGLISH" value="2176" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
