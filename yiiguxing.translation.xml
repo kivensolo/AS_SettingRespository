@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="befor" />
       <item value="suspend Coroutine Unintercepted Or Return" />
       <item value="Resumes the execution of the corresponding coroutine passing a successful or failed [result] as the * return value of the last suspension point" />
       <item value="last suspension point" />
@@ -50,11 +51,10 @@
       <item value="Rellary" />
       <item value="百分比" />
       <item value="precent" />
-      <item value="Removes all listeners from the set listening to frame updates for this animation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2090" />
+        <entry key="CHINESE" value="2091" />
         <entry key="ENGLISH" value="2183" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
@@ -66,7 +66,7 @@
         <entry key="CZECH" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
