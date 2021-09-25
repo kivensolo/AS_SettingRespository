@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For example, Bluetooth has been turned on or off." />
       <item value="Indicates the local Bluetooth adapter is in LE only mode." />
       <item value="ndicates the local Bluetooth adapter is in LE only mode." />
       <item value="冲突" />
@@ -50,12 +51,11 @@
       <item value="Only cancel if the animation is actually running or has been started and is about // to run // Only notify listeners if the animator has actually started" />
       <item value="This method must be called on the thread that is running the animation" />
       <item value="This causes the animation to assign the end value of the property being * animated" />
-      <item value="Called internally to end an animation by removing it from the animations list. Must be * called on the UI thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2095" />
-        <entry key="ENGLISH" value="2187" />
+        <entry key="CHINESE" value="2096" />
+        <entry key="ENGLISH" value="2188" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
