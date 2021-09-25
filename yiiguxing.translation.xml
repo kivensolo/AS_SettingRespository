@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates the local Bluetooth adapter is in LE only mode." />
+      <item value="ndicates the local Bluetooth adapter is in LE only mode." />
       <item value="冲突" />
       <item value="Indicates the local Bluetooth adapter is turning on. However local * clients should wait for {@link #STATE_ON} before attempting to * use the adapter." />
       <item value="befor" />
@@ -49,13 +51,11 @@
       <item value="This method must be called on the thread that is running the animation" />
       <item value="This causes the animation to assign the end value of the property being * animated" />
       <item value="Called internally to end an animation by removing it from the animations list. Must be * called on the UI thread." />
-      <item value="Relary" />
-      <item value="Rellary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2093" />
-        <entry key="ENGLISH" value="2185" />
+        <entry key="CHINESE" value="2095" />
+        <entry key="ENGLISH" value="2187" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
