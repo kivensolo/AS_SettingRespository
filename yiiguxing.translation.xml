@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not permitted" />
       <item value="is Loading" />
       <item value="Loading" />
       <item value="Batc" />
@@ -50,12 +51,11 @@
       <item value="the exponent." />
       <item value="度数" />
       <item value="角度" />
-      <item value="m Animation End Requested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2099" />
-        <entry key="ENGLISH" value="2190" />
+        <entry key="CHINESE" value="2100" />
+        <entry key="ENGLISH" value="2191" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
