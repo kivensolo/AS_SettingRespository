@@ -4,7 +4,7 @@
     <property name="created">2020-09-01T12:54:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2021-08-18T14:04:45</property>
+    <property name="modified">2021-09-28T10:09:27</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -949,7 +949,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="3cb9cc" />
+        <option name="FOREGROUND" value="9aa11b" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
