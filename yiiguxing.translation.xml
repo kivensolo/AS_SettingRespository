@@ -1,12 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="are SQLite virtual table modules * that allows full-text searches to be performed on a set of documents" />
+      <item value="products Fts" />
+      <item value="on Delete" />
+      <item value="child Columns" />
+      <item value="parent Columns" />
+      <item value="Comment" />
+      <item value="foreign Keys" />
       <item value="The SQLite database is only created when it's accessed for the first time" />
       <item value="The SQLite database is only created when it's accessed for the first time." />
       <item value="Build the database. {@link Builder#build()} only sets up the database configuration and * creates a new instance of the database. * The SQLite database is only created when it's accessed for the first time." />
       <item value="Visible For Testing" />
       <item value="notify that the database was created and it's ready to be used" />
-      <item value="products Fts" />
       <item value="VIRTUAL" />
       <item value="If you called this method multiple times before a main thread executed a posted task, only * the last value would be dispatched." />
       <item value="EXCLUSIVE" />
@@ -17,7 +23,6 @@
       <item value="Begins a transaction in EXCLUSIVE mode." />
       <item value="Generate the data for pre-population" />
       <item value="Generates data to pre-populate the database" />
-      <item value="Comment" />
       <item value="Save the user's query into the SavedStateHandle. // This ensures that we retain the value across process death // and is used as the input into the Transformations.switchMap above" />
       <item value="subscribe Ui" />
       <item value="espresso does not know how to wait for data binding's loop so we execute changes // sync." />
@@ -46,16 +51,11 @@
       <item value="Loading" />
       <item value="Batc" />
       <item value="For example, Bluetooth has been turned on or off." />
-      <item value="Indicates the local Bluetooth adapter is in LE only mode." />
-      <item value="ndicates the local Bluetooth adapter is in LE only mode." />
-      <item value="冲突" />
-      <item value="Indicates the local Bluetooth adapter is turning on. However local * clients should wait for {@link #STATE_ON} before attempting to * use the adapter." />
-      <item value="befor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2143" />
-        <entry key="ENGLISH" value="2233" />
+        <entry key="CHINESE" value="2150" />
+        <entry key="ENGLISH" value="2240" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
