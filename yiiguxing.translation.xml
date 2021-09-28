@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The SQLite database is only created when it's accessed for the first time" />
+      <item value="The SQLite database is only created when it's accessed for the first time." />
+      <item value="Build the database. {@link Builder#build()} only sets up the database configuration and * creates a new instance of the database. * The SQLite database is only created when it's accessed for the first time." />
+      <item value="Visible For Testing" />
+      <item value="notify that the database was created and it's ready to be used" />
+      <item value="products Fts" />
+      <item value="VIRTUAL" />
+      <item value="If you called this method multiple times before a main thread executed a posted task, only * the last value would be dispatched." />
+      <item value="EXCLUSIVE" />
+      <item value="Exclusive" />
+      <item value="begin Transaction Non Exclusive" />
+      <item value="Support SQ Lite Database" />
+      <item value="Begins a transaction in EXCLUSIVE mode. * &lt;p&gt; * Transactions can be nested. * When the outer transaction is ended all of * the work done in that transaction and all of the nested transactions will be committed or * rolled back. The changes will be rolled back if any transaction is ended without being * marked as clean (by calling setTransactionSuccessful). Otherwise they will be committed. * &lt;/p&gt; * &lt;p&gt;Here is the standard idiom for transactions:" />
+      <item value="Begins a transaction in EXCLUSIVE mode." />
+      <item value="Generate the data for pre-population" />
+      <item value="Generates data to pre-populate the database" />
+      <item value="Comment" />
+      <item value="Save the user's query into the SavedStateHandle. // This ensures that we retain the value across process death // and is used as the input into the Transformations.switchMap above" />
+      <item value="subscribe Ui" />
+      <item value="espresso does not know how to wait for data binding's loop so we execute changes // sync." />
       <item value="are Contents The Same" />
       <item value="Repository handling the work with products and comments." />
       <item value="Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind * webservice requests)" />
@@ -31,31 +51,11 @@
       <item value="冲突" />
       <item value="Indicates the local Bluetooth adapter is turning on. However local * clients should wait for {@link #STATE_ON} before attempting to * use the adapter." />
       <item value="befor" />
-      <item value="suspend Coroutine Unintercepted Or Return" />
-      <item value="Resumes the execution of the corresponding coroutine passing a successful or failed [result] as the * return value of the last suspension point" />
-      <item value="last suspension point" />
-      <item value="Resumes the execution of the corresponding coroutine passing a successful or failed [result] as the * return value of the last suspension point." />
-      <item value="Resumes the execution of the corresponding coroutine passing [value] as the return value of the last suspension point." />
-      <item value="Article" />
-      <item value="artical" />
-      <item value="Server" />
-      <item value="Davey" />
-      <item value="landscape" />
-      <item value="SportPlanDao is part of com.kapplication.beidou.watch.database.AppDatabase but this entity is not in the database. Maybe you forgot to add com.kapplication.beidou.watch.data.model.SportPlanDetailInfoOfPlanId to the entities section of the @Database?" />
-      <item value="Available" />
-      <item value="is Assignable From" />
-      <item value="cable" />
-      <item value="播放的资源rtsp串" />
-      <item value="设置播放资源" />
-      <item value="播放的资源ID" />
-      <item value="Palette" />
-      <item value="Vibrant" />
-      <item value="vibrant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2121" />
-        <entry key="ENGLISH" value="2212" />
+        <entry key="CHINESE" value="2143" />
+        <entry key="ENGLISH" value="2233" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
@@ -70,7 +70,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="TURKISH" value="5" />
         <entry key="SPANISH" value="6" />
-        <entry key="ITALIAN" value="4" />
+        <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="8" />
       </map>
