@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use the savedStateHandle.getLiveData() as the input to switchMap, // allowing us to recalculate what LiveData to get from the DataRepository // based on what query the user has entered" />
+      <item value="Get the list of products from the database and get notified when the data changes." />
+      <item value="add Source" />
       <item value="are SQLite virtual table modules * that allows full-text searches to be performed on a set of documents" />
       <item value="products Fts" />
       <item value="on Delete" />
@@ -48,14 +51,11 @@
       <item value="server" />
       <item value="not permitted" />
       <item value="is Loading" />
-      <item value="Loading" />
-      <item value="Batc" />
-      <item value="For example, Bluetooth has been turned on or off." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2150" />
-        <entry key="ENGLISH" value="2240" />
+        <entry key="CHINESE" value="2154" />
+        <entry key="ENGLISH" value="2244" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
