@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jvm Suppress Wildcards" />
       <item value="Train" />
       <item value="end Inclusive" />
       <item value="Return the full path to this context's primary Android package. * The Android package is a ZIP file which contains the application's * primary resources. * * &lt;p&gt;Note: this is not generally useful for applications, since they should * not be directly accessing the file system. * * @return String Path to the resources." />
@@ -50,7 +51,6 @@
       <item value="Palette" />
       <item value="Vibrant" />
       <item value="vibrant" />
-      <item value="mute" />
     </histories>
     <option name="languageScores">
       <map>
