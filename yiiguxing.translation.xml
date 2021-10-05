@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Embedded" />
       <item value="conduct" />
       <item value="mileage Progress" />
       <item value="Jvm Suppress Wildcards" />
@@ -50,12 +51,11 @@
       <item value="播放的资源rtsp串" />
       <item value="设置播放资源" />
       <item value="播放的资源ID" />
-      <item value="Palette" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2122" />
-        <entry key="ENGLISH" value="2213" />
+        <entry key="CHINESE" value="2123" />
+        <entry key="ENGLISH" value="2214" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
