@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incremental annotation processing requested, but support is disabled because the following processors are not incremental: androidx.room.RoomProcessor" />
+      <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it." />
+      <item value="Primary key constraint on infoId is ignored when being merged into com.kingz.database.entity.ProductEntity" />
       <item value="fuzzy words" />
       <item value="_scene" />
       <item value="is the best sold product on Mêlée Island" />
@@ -48,14 +51,11 @@
       <item value="is Loading" />
       <item value="Loading" />
       <item value="Batc" />
-      <item value="For example, Bluetooth has been turned on or off." />
-      <item value="Indicates the local Bluetooth adapter is in LE only mode." />
-      <item value="ndicates the local Bluetooth adapter is in LE only mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2146" />
-        <entry key="ENGLISH" value="2236" />
+        <entry key="CHINESE" value="2149" />
+        <entry key="ENGLISH" value="2239" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
