@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dial File" />
       <item value="log with border" />
       <item value="Whether we have enabled/disabled border" />
       <item value="Whether we should log with border." />
@@ -50,12 +51,11 @@
       <item value="Add a delay to simulate a long-running operation" />
       <item value="Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind * webservice requests" />
       <item value="Global executor pools for the whole application." />
-      <item value="Embedded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2176" />
-        <entry key="ENGLISH" value="2264" />
+        <entry key="CHINESE" value="2179" />
+        <entry key="ENGLISH" value="2267" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
