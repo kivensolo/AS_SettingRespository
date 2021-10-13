@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="因为数据小于" />
+      <item value="训练结果数据与服务器数据相同" />
+      <item value="米" />
+      <item value="Mile" />
+      <item value="Miles" />
       <item value="need Upload" />
       <item value="dial File" />
       <item value="log with border" />
@@ -46,16 +51,11 @@
       <item value="Special edition" />
       <item value="Generates data to pre-populate the database" />
       <item value="Generate the data for pre-population" />
-      <item value="persistence" />
-      <item value="Comment" />
-      <item value="Comment Dao" />
-      <item value="Add a delay to simulate a long-running operation" />
-      <item value="Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind * webservice requests" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2180" />
-        <entry key="ENGLISH" value="2268" />
+        <entry key="CHINESE" value="2185" />
+        <entry key="ENGLISH" value="2273" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
