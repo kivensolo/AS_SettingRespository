@@ -1,9 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="// Generated code from Butter Knife. Do not modify!" />
-      <item value="Generated code from Butter Knife. Do not modify!" />
-      <item value="banner" />
+      <item value="robolectric" />
+      <item value="unmarshal file failed" />
+      <item value="unmarshal" />
+      <item value="因为数据小于" />
+      <item value="训练结果数据与服务器数据相同" />
+      <item value="米" />
+      <item value="Mile" />
+      <item value="Miles" />
+      <item value="need Upload" />
+      <item value="dial File" />
+      <item value="log with border" />
+      <item value="Whether we have enabled/disabled border" />
+      <item value="Whether we should log with border." />
+      <item value="数据合法" />
+      <item value="legal" />
+      <item value="llegal" />
+      <item value="is Available" />
+      <item value="is Result Data Available" />
+      <item value="sampling" />
+      <item value="coverage" />
+      <item value="Error occurred during initialization of VM agent library failed to init: instrument" />
+      <item value="Encode byteArray to CharArray" />
+      <item value="encode Hex" />
+      <item value="正确" />
+      <item value="合法" />
+      <item value="archive Base Name" />
+      <item value="Represented as part of archiveFile" />
+      <item value="dump" />
+      <item value="reqeust" />
+      <item value="server" />
       <item value="lamda" />
       <item value="don't use Block replace this lamda" />
       <item value="confirm" />
@@ -24,38 +51,11 @@
       <item value="Pint of Grog" />
       <item value="Rubber Chicken" />
       <item value="Three-headed Monkey" />
-      <item value="Special edition" />
-      <item value="Generates data to pre-populate the database" />
-      <item value="Generate the data for pre-population" />
-      <item value="persistence" />
-      <item value="Comment" />
-      <item value="Comment Dao" />
-      <item value="Add a delay to simulate a long-running operation" />
-      <item value="Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind * webservice requests" />
-      <item value="Global executor pools for the whole application." />
-      <item value="Embedded" />
-      <item value="conduct" />
-      <item value="mileage Progress" />
-      <item value="Jvm Suppress Wildcards" />
-      <item value="Train" />
-      <item value="end Inclusive" />
-      <item value="Return the full path to this context's primary Android package. * The Android package is a ZIP file which contains the application's * primary resources. * * &lt;p&gt;Note: this is not generally useful for applications, since they should * not be directly accessing the file system. * * @return String Path to the resources." />
-      <item value="Calory" />
-      <item value="reserve" />
-      <item value="WRITE TYPE NO RESPONSE" />
-      <item value="Write characteristic without requiring a response by the remote device" />
-      <item value="all Daos and Entities in that database will be able to * use it." />
-      <item value="Repository Handler" />
-      <item value="The closure of use to configure the build script classpath begin run." />
-      <item value="The closure to use to configure the build script classpath begin run." />
-      <item value="Shared file between builds so that they can all use the same dependencies and * maven repositories." />
-      <item value="Copies the master versions.gradle file to each sample, to make them # compatible with Android Studio's &quot;Import sample&quot; feature." />
-      <item value="This declaration is experimental and its usage should be marked with '@kotlin.ExperimentalUnsignedTypes' or '@OptIn(kotlin.ExperimentalUnsignedTypes::class)'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2158" />
-        <entry key="ENGLISH" value="2249" />
+        <entry key="CHINESE" value="2188" />
+        <entry key="ENGLISH" value="2275" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
@@ -63,13 +63,13 @@
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
-        <entry key="CZECH" value="2" />
+        <entry key="CZECH" value="3" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TURKISH" value="5" />
-        <entry key="SPANISH" value="6" />
+        <entry key="SPANISH" value="7" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="8" />
