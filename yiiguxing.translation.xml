@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Defines the UID/GID for the NFC service process." />
+      <item value="Defines the UID/GID under which the telephony code runs." />
       <item value="starting position in the source array." />
       <item value="artical" />
       <item value="robolectric" />
@@ -49,13 +51,11 @@
       <item value="New" />
       <item value="Quality" />
       <item value="s recommended by Stan S. Stanman" />
-      <item value="is finally here" />
-      <item value="Pint of Grog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2190" />
-        <entry key="ENGLISH" value="2277" />
+        <entry key="CHINESE" value="2192" />
+        <entry key="ENGLISH" value="2279" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
