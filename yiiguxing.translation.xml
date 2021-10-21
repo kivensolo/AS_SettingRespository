@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Single Network Call" />
       <item value="persist Seek Pos" />
       <item value="present" />
       <item value="whether" />
@@ -50,12 +51,11 @@
       <item value="Mile" />
       <item value="Miles" />
       <item value="need Upload" />
-      <item value="dial File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2231" />
-        <entry key="ENGLISH" value="2318" />
+        <entry key="CHINESE" value="2232" />
+        <entry key="ENGLISH" value="2319" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
