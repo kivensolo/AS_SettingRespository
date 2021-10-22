@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="DFU BLE PREVALIDATE" />
       <item value="PREVALIDATE" />
       <item value="dir isn't a directory then return false" />
@@ -50,12 +51,11 @@
       <item value="START CURVE INTERPOLATOR" />
       <item value="MATERIAL INTERPOLATOR" />
       <item value="is Valid" />
-      <item value="In Valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2251" />
-        <entry key="ENGLISH" value="2337" />
+        <entry key="CHINESE" value="2252" />
+        <entry key="ENGLISH" value="2338" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
