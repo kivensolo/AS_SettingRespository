@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String segments wrapped with borders look like" />
       <item value="Represents" />
       <item value="print Chunk" />
       <item value="DEFAULT PATTERN" />
@@ -50,12 +51,11 @@
       <item value="This is done to optimize the compiled bytecode for size and performance." />
       <item value="The body of this method is generated in a way you would not otherwise write. // This is done to optimize the compiled bytecode for size and performance." />
       <item value="robolectric" />
-      <item value="unmarshal file failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2240" />
-        <entry key="ENGLISH" value="2327" />
+        <entry key="CHINESE" value="2241" />
+        <entry key="ENGLISH" value="2328" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
