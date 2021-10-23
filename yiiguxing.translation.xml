@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This makes the transition animation smoother." />
+      <item value="Specify the portion of the screen that turns into the picture-in-picture mode. // This makes the transition animation smoother." />
+      <item value="Remote Action" />
+      <item value="Rational" />
+      <item value="Represents a set of parameters used to initialize and update an Activity in picture-in-picture * mode. */" />
       <item value="If called while in PIP mode, do not pause playback" />
       <item value="Global logger for all direct logging via" />
       <item value="The log printer used to print the logs" />
@@ -46,16 +51,11 @@
       <item value="old-frame" />
       <item value="Super Swipe Refresh Layout" />
       <item value="Curve" />
-      <item value="Squishes" />
-      <item value="Squishes the interpolation curve into the first half of the animation." />
-      <item value="Fancy" />
-      <item value="Fancy progress indicator for Material theme. *" />
-      <item value="EASE INTERPOLATOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2255" />
-        <entry key="ENGLISH" value="2341" />
+        <entry key="CHINESE" value="2260" />
+        <entry key="ENGLISH" value="2346" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
