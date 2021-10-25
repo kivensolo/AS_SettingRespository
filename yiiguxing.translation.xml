@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The coordinates of the library" />
+      <item value="The coordinates of the library, being set from variables that // we'll set up in a moment" />
+      <item value="credentials" />
+      <item value="Configures the username and password credentials for this repository using the supplied actio" />
+      <item value="You only need this if you want to publish snapshots, otherwise just set the URL to the release repo directly" />
+      <item value="Configures the content of this Maven repository. * @param configureAction the configuration action" />
+      <item value="This is an arbitrary name, you may also use &quot;mavencentral&quot; or any other name that's descriptive for you" />
+      <item value="you may also use &quot;mavencentral&quot; or // any other name that's descriptive for you" />
+      <item value="This is an arbitrary name," />
+      <item value="The repository to publish to, Sonatype/MavenCentral" />
       <item value="A slightly hacky fix so that your POM will include any transitive dependencies that your library builds upon" />
       <item value="otherwise just set the URL // to the release repo directly" />
       <item value="You only need this if you want to publish snapshots" />
@@ -41,21 +51,11 @@
       <item value="PREVALIDATE" />
       <item value="dir isn't a directory then return false" />
       <item value="dir doesn't exist then return true" />
-      <item value="file exists and unsuccessfully delete then return false" />
-      <item value="Create a file if it doesn't exist, otherwise delete old file before creatin" />
-      <item value="Return the time that the file was last modified" />
-      <item value="Return the charset of file simply" />
-      <item value="is Space" />
-      <item value="String segments wrapped with borders look like" />
-      <item value="Represents" />
-      <item value="print Chunk" />
-      <item value="DEFAULT PATTERN" />
-      <item value="Classic Flattener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2292" />
-        <entry key="ENGLISH" value="2376" />
+        <entry key="CHINESE" value="2303" />
+        <entry key="ENGLISH" value="2387" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
