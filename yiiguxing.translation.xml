@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Frequency Data Helper" />
       <item value="Handle events from the action icons on the picture-in-picture mode" />
       <item value="Awaits the next animation frame and returns frame time in nanoseconds." />
       <item value="because it has no configured signatory" />
@@ -50,12 +51,11 @@
       <item value="Represents a set of parameters used to initialize and update an Activity in picture-in-picture * mode. */" />
       <item value="If called while in PIP mode, do not pause playback" />
       <item value="Global logger for all direct logging via" />
-      <item value="The log printer used to print the logs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2310" />
-        <entry key="ENGLISH" value="2394" />
+        <entry key="CHINESE" value="2311" />
+        <entry key="ENGLISH" value="2395" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
