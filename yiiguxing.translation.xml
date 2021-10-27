@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="starvation" />
+      <item value="avoids the effects of task starvation" />
+      <item value="Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind * webservice requests)." />
+      <item value="Global executor pools for the whole application." />
       <item value="Frequency Data Helper" />
       <item value="Handle events from the action icons on the picture-in-picture mode" />
       <item value="Awaits the next animation frame and returns frame time in nanoseconds." />
@@ -47,15 +51,11 @@
       <item value="denominator" />
       <item value="Specify the portion of the screen that turns into the picture-in-picture mode. // This makes the transition animation smoother." />
       <item value="Remote Action" />
-      <item value="Rational" />
-      <item value="Represents a set of parameters used to initialize and update an Activity in picture-in-picture * mode. */" />
-      <item value="If called while in PIP mode, do not pause playback" />
-      <item value="Global logger for all direct logging via" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2311" />
-        <entry key="ENGLISH" value="2395" />
+        <entry key="CHINESE" value="2315" />
+        <entry key="ENGLISH" value="2399" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
