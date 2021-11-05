@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Branch" />
       <item value="api Exclude Map" />
       <item value="Restores all previous channel data from static memory cache" />
       <item value="从所有频道数据map容器中,获取频道数据" />
@@ -50,12 +51,11 @@
       <item value="mid" />
       <item value="Parser" />
       <item value="文字字体" />
-      <item value="get Template Data Node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2386" />
-        <entry key="ENGLISH" value="2470" />
+        <entry key="CHINESE" value="2387" />
+        <entry key="ENGLISH" value="2471" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
