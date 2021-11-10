@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="special; see below" />
+      <item value="The initial int32 in a Binder call's reply Parcel header" />
+      <item value="The initial int32 in a Binder call's reply Parcel header:" />
       <item value="Read an integer value from the parcel at the current dataPosition()." />
       <item value="Used to determine which exception class to throw." />
       <item value="Test if the given URI represents a {@link Document} backed by a * {@link DocumentsProvider}." />
@@ -48,14 +51,11 @@
       <item value="从静态内存缓存中恢复上一次的全部频道数据" />
       <item value="restore" />
       <item value="channel id with json format" />
-      <item value="频道详细数据的格式" />
-      <item value="Be careful with cervical spondylosis" />
-      <item value="Fast Flip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2417" />
-        <entry key="ENGLISH" value="2501" />
+        <entry key="CHINESE" value="2421" />
+        <entry key="ENGLISH" value="2505" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
