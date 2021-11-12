@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The area of the source to copy from. If this is null * the copy area will be the entire surface. The rect will be clamped to * the bounds of the Surface." />
       <item value="For screenshots of the UI for feedback * reports or unit testing" />
       <item value="For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
       <item value="such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping." />
@@ -50,12 +51,11 @@
       <item value="Used to merger routes, the group name MUST BE USE THE COMMON WORDS !!!" />
       <item value="trigger by" />
       <item value="UI Action Const" />
-      <item value="高优先级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2444" />
-        <entry key="ENGLISH" value="2528" />
+        <entry key="CHINESE" value="2445" />
+        <entry key="ENGLISH" value="2529" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
