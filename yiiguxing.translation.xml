@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For screenshots of the UI for feedback * reports or unit testing" />
+      <item value="For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
+      <item value="such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping." />
+      <item value="discouraged" />
+      <item value="In the rare cases where caching layers are useful, * such as for alpha animations" />
+      <item value="can easily result in a net loss in performance due to the * cost of creating and updating the layer." />
+      <item value="intermediate cache * layers are largely unnecessary" />
+      <item value="intermediate" />
+      <item value="deprecated The view drawing cache was largely made obsolete with the introduction of * hardware-accelerated rendering in API 11" />
+      <item value="For software-rendered snapshots of a small part of the View hierarchy" />
       <item value="UI截取" />
       <item value="view Shot" />
       <item value="纯文本" />
@@ -41,21 +51,11 @@
       <item value="trigger by" />
       <item value="UI Action Const" />
       <item value="高优先级" />
-      <item value="Hight Level" />
-      <item value="hit" />
-      <item value="Extend" />
-      <item value="Branch" />
-      <item value="api Exclude Map" />
-      <item value="Restores all previous channel data from static memory cache" />
-      <item value="从所有频道数据map容器中,获取频道数据" />
-      <item value="目前这里只负责频道列表数据的缓存至全局静态内存" />
-      <item value="主要数据处理逻辑还是由base层实现" />
-      <item value="Inner channelMap is empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2434" />
-        <entry key="ENGLISH" value="2518" />
+        <entry key="CHINESE" value="2444" />
+        <entry key="ENGLISH" value="2528" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
