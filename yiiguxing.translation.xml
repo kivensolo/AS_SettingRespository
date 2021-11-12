@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sacrificing a bit of efficiency" />
+      <item value="IRouteRoot implementation class in the package: com.alibaba.android.arouter.core.routers" />
+      <item value="Completion the postcard by route metas" />
+      <item value="Logistics Center" />
       <item value="faild" />
       <item value="special; see below" />
       <item value="The initial int32 in a Binder call's reply Parcel header" />
@@ -21,7 +25,6 @@
       <item value="Cache route and metas" />
       <item value="Group element." />
       <item value="completion" />
-      <item value="Logistics Center" />
       <item value="facade" />
       <item value="ARouter facade" />
       <item value="ARouter core (Facade patten)" />
@@ -48,14 +51,11 @@
       <item value="submission" />
       <item value="Check the code submission record for specific reasons" />
       <item value="具体原因请查看代码提交记录" />
-      <item value="具体原因请查看提交记录" />
-      <item value="从静态内存缓存中恢复上一次的全部频道数据" />
-      <item value="restore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2422" />
-        <entry key="ENGLISH" value="2506" />
+        <entry key="CHINESE" value="2426" />
+        <entry key="ENGLISH" value="2510" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
