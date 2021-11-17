@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Span" />
+      <item value="take the span in milliseconds" />
       <item value="RESTART" />
       <item value="REVERSE" />
       <item value="Illegal" />
@@ -49,13 +51,11 @@
       <item value="The destination of the copy. The source will be scaled to * match the width, height, and format of this bitmap." />
       <item value="As its name" />
       <item value="billy" />
-      <item value="Sacrificing a bit of efficiency" />
-      <item value="IRouteRoot implementation class in the package: com.alibaba.android.arouter.core.routers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2479" />
-        <entry key="ENGLISH" value="2561" />
+        <entry key="CHINESE" value="2483" />
+        <entry key="ENGLISH" value="2565" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
