@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The most significant bits of the {@code UUID}" />
+      <item value="most Sig Bits" />
       <item value="Flashlight Utils" />
       <item value="UTIL" />
       <item value="UTIL POOL" />
@@ -49,13 +51,11 @@
       <item value="For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
       <item value="such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping." />
       <item value="discouraged" />
-      <item value="In the rare cases where caching layers are useful, * such as for alpha animations" />
-      <item value="can easily result in a net loss in performance due to the * cost of creating and updating the layer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2496" />
-        <entry key="ENGLISH" value="2574" />
+        <entry key="CHINESE" value="2498" />
+        <entry key="ENGLISH" value="2576" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
