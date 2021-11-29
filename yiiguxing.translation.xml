@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bound" />
+      <item value="BOND" />
+      <item value="bond" />
+      <item value="bonding" />
       <item value="Cancel an in-progress bonding request started with {@link #createBond}." />
       <item value="Start the bonding (pairing) process with the remote device" />
       <item value="false on immediate error, true if bonding will begin" />
@@ -47,15 +51,11 @@
       <item value="Recorded main thread's stack info when the app is not running smoothly" />
       <item value="set Freeze Frame" />
       <item value="forecast Play By Id" />
-      <item value="Temporarily not support more than two dimensional Array" />
-      <item value="make this a native method to avoid the extra copy" />
-      <item value="reply" />
-      <item value="Received signal strength." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2505" />
-        <entry key="ENGLISH" value="2583" />
+        <entry key="CHINESE" value="2509" />
+        <entry key="ENGLISH" value="2587" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
