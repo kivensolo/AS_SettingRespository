@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="translucent Color" />
+      <item value="shift Color Down" />
+      <item value="shift Color" />
       <item value="is Value" />
       <item value="Obsolete Sdk Int" />
-      <item value="shift Color" />
       <item value="Preference" />
       <item value="Stamp" />
       <item value="允许" />
@@ -49,13 +51,11 @@
       <item value="take the span in milliseconds" />
       <item value="RESTART" />
       <item value="REVERSE" />
-      <item value="Illegal" />
-      <item value="is Action Illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2532" />
-        <entry key="ENGLISH" value="2609" />
+        <entry key="CHINESE" value="2537" />
+        <entry key="ENGLISH" value="2614" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
