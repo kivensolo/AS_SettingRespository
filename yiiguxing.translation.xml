@@ -1,13 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="0 xffffffff" />
+      <item value="-1 (&quot;not set&quot;) from the 0xffffffff CRC32" />
+      <item value="distinguish" />
+      <item value="Needs to be a long to distinguish -1" />
+      <item value="most alternatives should be single byte per // character." />
+      <item value="UTF-8 is probably a worst-case" />
+      <item value="This check is not perfect: the character encoding is determined when the entry is // written out. UTF-8 is probably a worst-case: most alternatives should be single byte per // character." />
       <item value="com.starcor.ui.performanc" />
       <item value="Counts" />
       <item value="This is reflected in the name of the local cached file directory" />
       <item value="The result is the name of the locally cached file directory" />
       <item value="locally" />
       <item value="Used to distinguish ui data types" />
-      <item value="distinguish" />
       <item value="Xul数据结构的UI数据" />
       <item value="Launcher Data Caching Process" />
       <item value="首页数据缓存流程处理" />
@@ -45,17 +51,11 @@
       <item value="mult" />
       <item value="spacingmult" />
       <item value="Preference should place its actual preference widget here. --" />
-      <item value="instead of creating its own main layout" />
-      <item value="consisting of just the CheckBox" />
-      <item value="Tint to apply to tab icons, if present. This can be a color state list or a color." />
-      <item value="translucent Color" />
-      <item value="shift Color Down" />
-      <item value="shift Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2585" />
-        <entry key="ENGLISH" value="2661" />
+        <entry key="CHINESE" value="2592" />
+        <entry key="ENGLISH" value="2667" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -71,7 +71,7 @@
         <entry key="TURKISH" value="6" />
         <entry key="SPANISH" value="8" />
         <entry key="ITALIAN" value="4" />
-        <entry key="HINDI" value="8" />
+        <entry key="HINDI" value="9" />
         <entry key="INDONESIAN" value="10" />
       </map>
     </option>
