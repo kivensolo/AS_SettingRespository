@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Displays a holo-themed color picker." />
+      <item value="Thickness" />
+      <item value="The width of the color wheel thickness." />
       <item value="光晕" />
       <item value="halo Paint" />
       <item value="halo" />
@@ -48,14 +51,11 @@
       <item value="非法" />
       <item value="不同于进度值" />
       <item value="精确计算文本大小的画笔" />
-      <item value="Text size measure paint of progress text" />
-      <item value="Calculate content width according to the text align mode" />
-      <item value="根据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2614" />
-        <entry key="ENGLISH" value="2688" />
+        <entry key="CHINESE" value="2617" />
+        <entry key="ENGLISH" value="2691" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
