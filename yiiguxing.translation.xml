@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查询动作是否执行" />
+      <item value="Call back of query action" />
       <item value="Tuner" />
       <item value="Invalidates the activity's options menu." />
       <item value="Invalidates" />
@@ -49,13 +51,11 @@
       <item value="Ratio" />
       <item value="分割比例" />
       <item value="Scroll" />
-      <item value="恭喜,固件升级成功" />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2621" />
-        <entry key="ENGLISH" value="2695" />
+        <entry key="CHINESE" value="2623" />
+        <entry key="ENGLISH" value="2697" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
