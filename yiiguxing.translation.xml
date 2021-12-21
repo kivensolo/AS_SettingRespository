@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When this item is shown as an action in the action bar, show a text label with it even if it has an icon representation." />
+      <item value="Show this item in an action bar if there is room for it as determined by the system. Favor this option over &quot;always&quot; where possible. Mutually exclusive with &quot;never&quot; and &quot;always&quot;" />
+      <item value="How this item should display in the Action Bar, if present" />
       <item value="最新的" />
       <item value="pack Request" />
       <item value="datatype mismatch" />
@@ -48,14 +51,11 @@
       <item value="most alternatives should be single byte per // character." />
       <item value="UTF-8 is probably a worst-case" />
       <item value="This check is not perfect: the character encoding is determined when the entry is // written out. UTF-8 is probably a worst-case: most alternatives should be single byte per // character." />
-      <item value="com.starcor.ui.performanc" />
-      <item value="Counts" />
-      <item value="This is reflected in the name of the local cached file directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2637" />
-        <entry key="ENGLISH" value="2711" />
+        <entry key="CHINESE" value="2640" />
+        <entry key="ENGLISH" value="2714" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
