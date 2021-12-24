@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="����: �Ҳ�������" />
       <item value="Items are user-supplied secondary (infrequently used)" />
       <item value="Items are provided by the system" />
       <item value="Items are part of a container" />
@@ -50,12 +51,11 @@
       <item value="When this item is shown as an action in the action bar, show a text label with it even if it has an icon representation." />
       <item value="Show this item in an action bar if there is room for it as determined by the system. Favor this option over &quot;always&quot; where possible. Mutually exclusive with &quot;never&quot; and &quot;always&quot;" />
       <item value="How this item should display in the Action Bar, if present" />
-      <item value="最新的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2690" />
-        <entry key="ENGLISH" value="2759" />
+        <entry key="CHINESE" value="2691" />
+        <entry key="ENGLISH" value="2760" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
