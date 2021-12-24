@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The position of the pointer on the bar" />
+      <item value="The radius of the halo of the pointer." />
+      <item value="thumb" />
+      <item value="The radius of the pointer." />
+      <item value="The length of the bar." />
+      <item value="Bar" />
+      <item value="thickness" />
+      <item value="The thickness of the bar" />
+      <item value="Constants used to identify orientation" />
+      <item value="Constants used to save/restore the instance state" />
       <item value="正在加载中" />
       <item value="该表盘不支持该手表型号" />
       <item value="手表端已经存在该表盘" />
@@ -16,7 +26,6 @@
       <item value="The colors to be distributed along the gradient line" />
       <item value="Calculate the center of the pointer" />
       <item value="Update variables that depend of mBarLength" />
-      <item value="Constants used to identify orientation" />
       <item value="ORIENTATION HORIZONTAL" />
       <item value="Don't change the color picker. it is done already when the bar * is added to the ColorPicker" />
       <item value="Add a Opacity bar to the color wheel." />
@@ -42,20 +51,11 @@
       <item value="可能频点表为空" />
       <item value="可能数据表为空" />
       <item value="subtract" />
-      <item value="不可用" />
-      <item value="service" />
-      <item value="Permision" />
-      <item value="警告" />
-      <item value="warring" />
-      <item value="waring" />
-      <item value="with Yield Allowed" />
-      <item value="查询动作是否执行" />
-      <item value="Call back of query action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2675" />
-        <entry key="ENGLISH" value="2744" />
+        <entry key="CHINESE" value="2685" />
+        <entry key="ENGLISH" value="2754" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
