@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This interface is the main API you use to interact with Gradle from your build file. From a &lt;code&gt;Project&lt;/code&gt;, * you have programmatic access to all of Gradle's features" />
+      <item value="example" />
       <item value="The LLVM Compiler Infrastructure" />
       <item value="Copyright (C) 2008 The Android Open Source Project * All rights reserved. * * Redistribution and use in source and binary forms, with or without * modification, are permitted provided that the following conditions * are met: * * Redistributions of source code must retain the above copyright * notice, this list of conditions and the following disclaimer. * * Redistributions in binary form must reproduce the above copyright * notice, this list of conditions and the following disclaimer in * the documentation and/or other materials provided with the * distribution. * * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS * &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE * COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, * BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS * OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF * SUCH DAMAGE." />
       <item value="Parameter specified as non-null is null" />
@@ -49,13 +51,11 @@
       <item value="An array of floats that can be build into a {@code Color} &lt;br&gt; * Where we can extract the color from." />
       <item value="m Bar Pointer Halo Radius" />
       <item value="coord" />
-      <item value="The colors to be distributed along the gradient line" />
-      <item value="Calculate the center of the pointer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2713" />
-        <entry key="ENGLISH" value="2783" />
+        <entry key="CHINESE" value="2715" />
+        <entry key="ENGLISH" value="2785" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
