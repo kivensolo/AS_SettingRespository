@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coerce the value to the type accepted by the property setter and invoke the setter directly" />
+      <item value="segment" />
       <item value="Observed package id" />
       <item value="in inconsistent location" />
       <item value="字段" />
@@ -49,13 +51,11 @@
       <item value="Bar" />
       <item value="thickness" />
       <item value="The thickness of the bar" />
-      <item value="Constants used to identify orientation" />
-      <item value="Constants used to save/restore the instance state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2727" />
-        <entry key="ENGLISH" value="2797" />
+        <entry key="CHINESE" value="2729" />
+        <entry key="ENGLISH" value="2799" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
