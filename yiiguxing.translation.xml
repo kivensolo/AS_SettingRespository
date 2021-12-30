@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="append Vertical Border" />
       <item value="this sometimes occurs after a network connection timeout" />
       <item value="The setting is particularly useful for tweaking memory settings." />
       <item value="When configured, Gradle will run in incubating parallel mode. # This option should only be used with decoupled projects. More details, visit # http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects" />
@@ -50,12 +51,11 @@
       <item value="正在加载中" />
       <item value="该表盘不支持该手表型号" />
       <item value="手表端已经存在该表盘" />
-      <item value="Color Wheel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2723" />
-        <entry key="ENGLISH" value="2793" />
+        <entry key="CHINESE" value="2724" />
+        <entry key="ENGLISH" value="2794" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
