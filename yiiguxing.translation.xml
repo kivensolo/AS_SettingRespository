@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字段" />
       <item value="append Vertical Border" />
       <item value="this sometimes occurs after a network connection timeout" />
       <item value="The setting is particularly useful for tweaking memory settings." />
@@ -50,12 +51,11 @@
       <item value="Constants used to save/restore the instance state" />
       <item value="正在加载中" />
       <item value="该表盘不支持该手表型号" />
-      <item value="手表端已经存在该表盘" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2724" />
-        <entry key="ENGLISH" value="2794" />
+        <entry key="CHINESE" value="2725" />
+        <entry key="ENGLISH" value="2795" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
