@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Observed package id" />
+      <item value="in inconsistent location" />
       <item value="字段" />
       <item value="append Vertical Border" />
       <item value="this sometimes occurs after a network connection timeout" />
@@ -49,13 +51,11 @@
       <item value="The thickness of the bar" />
       <item value="Constants used to identify orientation" />
       <item value="Constants used to save/restore the instance state" />
-      <item value="正在加载中" />
-      <item value="该表盘不支持该手表型号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2725" />
-        <entry key="ENGLISH" value="2795" />
+        <entry key="CHINESE" value="2727" />
+        <entry key="ENGLISH" value="2797" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
