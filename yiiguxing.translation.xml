@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="random" />
       <item value="Adds a new row to the end with the given column values. Not safe * for concurrent use. * * @throws IllegalArgumentException if {@code columnValues.length != * columnNames.length} * @param columnValues in the same order as the the column names specified * at cursor construction time" />
       <item value="relativize" />
       <item value="Time of build manager jar" />
@@ -50,12 +51,11 @@
       <item value="Items are part of a container" />
       <item value="The category applied to all items within this group. (This will be or'ed with the orderInCategory attribute" />
       <item value="present" />
-      <item value="The position of the pointer on the bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2736" />
-        <entry key="ENGLISH" value="2806" />
+        <entry key="CHINESE" value="2737" />
+        <entry key="ENGLISH" value="2807" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
