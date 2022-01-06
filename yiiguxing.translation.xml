@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="倒计时" />
+      <item value="boot time count" />
       <item value="EPG app has installed" />
       <item value="installed" />
       <item value="Mock" />
@@ -49,13 +51,11 @@
       <item value="Change the color of the center which indicates the new color" />
       <item value="the array mHSV will be filled with the HSV values of the color." />
       <item value="Opacity" />
-      <item value="Factor used to calculate the position to the Opacity on the bar" />
-      <item value="Hue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2746" />
-        <entry key="ENGLISH" value="2816" />
+        <entry key="CHINESE" value="2748" />
+        <entry key="ENGLISH" value="2818" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
