@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="menu Cancel Collect With Fast Flip View" />
+      <item value="menu Cancel Collect With Volume View" />
       <item value="If set, this intent will always match any components in packages that * are currently stopped" />
       <item value="intent" />
       <item value="FLAG EXCLUDE STOPPED PACKAGES" />
@@ -49,13 +51,11 @@
       <item value="Observed package id" />
       <item value="in inconsistent location" />
       <item value="字段" />
-      <item value="append Vertical Border" />
-      <item value="this sometimes occurs after a network connection timeout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2774" />
-        <entry key="ENGLISH" value="2843" />
+        <entry key="CHINESE" value="2776" />
+        <entry key="ENGLISH" value="2845" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
