@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单向" />
+      <item value="one-way program" />
       <item value="倒计时" />
       <item value="boot time count" />
       <item value="EPG app has installed" />
@@ -49,13 +51,11 @@
       <item value="Saturation of the latest entry of the onSaturationChangedListener" />
       <item value="Convert coordinates to our internal coordinate system" />
       <item value="Change the color of the center which indicates the new color" />
-      <item value="the array mHSV will be filled with the HSV values of the color." />
-      <item value="Opacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2748" />
-        <entry key="ENGLISH" value="2818" />
+        <entry key="CHINESE" value="2750" />
+        <entry key="ENGLISH" value="2820" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
