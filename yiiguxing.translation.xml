@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abord" />
       <item value="menu Cancel Collect With Fast Flip View" />
       <item value="menu Cancel Collect With Volume View" />
       <item value="If set, this intent will always match any components in packages that * are currently stopped" />
@@ -50,7 +51,6 @@
       <item value="segment" />
       <item value="Observed package id" />
       <item value="in inconsistent location" />
-      <item value="字段" />
     </histories>
     <option name="languageScores">
       <map>
