@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BroadcastQueue: Failure [background] sending broadcast result of Intent" />
       <item value="abord" />
       <item value="menu Cancel Collect With Fast Flip View" />
       <item value="menu Cancel Collect With Volume View" />
@@ -50,7 +51,6 @@
       <item value="Coerce the value to the type accepted by the property setter and invoke the setter directly" />
       <item value="segment" />
       <item value="Observed package id" />
-      <item value="in inconsistent location" />
     </histories>
     <option name="languageScores">
       <map>
