@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="XulItem element that holds the render" />
+      <item value="XulItem element" />
+      <item value="画布的实例" />
       <item value="持有渲染器的视图元素" />
       <item value="The XulItem that holds render" />
       <item value="承载render的容器" />
@@ -49,13 +51,11 @@
       <item value="警告" />
       <item value="Waring" />
       <item value="Warring" />
-      <item value="信号" />
-      <item value="SINGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2805" />
-        <entry key="ENGLISH" value="2871" />
+        <entry key="CHINESE" value="2808" />
+        <entry key="ENGLISH" value="2874" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
