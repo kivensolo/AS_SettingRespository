@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please use &lt;item&gt; for" />
+      <item value="请使用指定的item UI元素类型" />
+      <item value="请使用指定UI元素类型" />
+      <item value="常量" />
+      <item value="渲染器的属性定义" />
+      <item value="ATTR FOR RENDER" />
+      <item value="子视图" />
+      <item value="Just for object reuse only" />
+      <item value="creation" />
+      <item value="Prevents repeated creation of list objects" />
+      <item value="防止反复创建数据对象" />
+      <item value="防止反复创建Array List对象" />
+      <item value="_temp Cache仅为了对象复用" />
+      <item value="列表元素渲染组件的回收栈" />
+      <item value="Recycle of List item render." />
+      <item value="渲染回收区" />
+      <item value="渲染回收区域" />
       <item value="XulItem element that holds the render" />
       <item value="XulItem element" />
       <item value="画布的实例" />
@@ -34,28 +51,11 @@
       <item value="menu Cancel Collect With Volume View" />
       <item value="If set, this intent will always match any components in packages that * are currently stopped" />
       <item value="intent" />
-      <item value="FLAG EXCLUDE STOPPED PACKAGES" />
-      <item value="RESPOND DATA AD" />
-      <item value="suffix" />
-      <item value="enhance" />
-      <item value="扩容" />
-      <item value="监控&quot;" />
-      <item value="Then Clear Lv-1 buffer" />
-      <item value="cover Buffer" />
-      <item value="Next stack data exceeds container range" />
-      <item value="Heap Byte Buffer" />
-      <item value="is Over" />
-      <item value="水桶" />
-      <item value="容量" />
-      <item value="implies" />
-      <item value="警告" />
-      <item value="Waring" />
-      <item value="Warring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2808" />
-        <entry key="ENGLISH" value="2874" />
+        <entry key="CHINESE" value="2828" />
+        <entry key="ENGLISH" value="2894" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
