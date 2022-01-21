@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BOOTSTRAP" />
+      <item value="BOOT STRAP" />
       <item value="Max Envelopes" />
       <item value="must Understand" />
       <item value="envelope" />
@@ -49,13 +51,11 @@
       <item value="ceil" />
       <item value="floor" />
       <item value="/** * An interface that uniquely identifies some put of data. Implementations must implement {@link * Object#equals(Object)} and {@link Object#hashCode()}. Implementations are generally expected to * add all uniquely identifying information used in in {@link java.lang.Object#equals(Object)}} and * {@link Object#hashCode()}} to the given {@link java.security.MessageDigest} in {@link * #updateDiskCacheKey(java.security.MessageDigest)}}, although this requirement is not as strict * for partial cache key signatures. */" />
-      <item value="inside of" />
-      <item value="Note - Using {@link java.security.MessageDigest#reset()} inside of this method will result * in undefined behavior." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2851" />
-        <entry key="ENGLISH" value="2916" />
+        <entry key="CHINESE" value="2853" />
+        <entry key="ENGLISH" value="2918" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
