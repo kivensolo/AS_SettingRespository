@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="must Understand" />
       <item value="envelope" />
       <item value="detal" />
       <item value="enable Disaster Recovery Mode" />
@@ -50,12 +51,11 @@
       <item value="inside of" />
       <item value="Note - Using {@link java.security.MessageDigest#reset()} inside of this method will result * in undefined behavior." />
       <item value="Adds all uniquely identifying information to the given digest" />
-      <item value="to Digit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2848" />
-        <entry key="ENGLISH" value="2913" />
+        <entry key="CHINESE" value="2850" />
+        <entry key="ENGLISH" value="2915" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
