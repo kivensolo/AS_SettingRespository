@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Observer" />
+      <item value="Adapter Data Observable" />
+      <item value="Observable" />
+      <item value="bail out if layout is frozen" />
+      <item value="Adapter Data Observer" />
+      <item value="since onChanged() is implemented by the app, it could do anything, including // removing itself from {@link mObservers} - and that could cause problems if // an iterator is used on the ArrayList {@link mObservers}. // to avoid such problems, just march thru the list in the reverse order." />
       <item value="Davey" />
       <item value="disallow Parent" />
       <item value="防止内部内存长久占用" />
@@ -45,17 +51,11 @@
       <item value="渲染回收区域" />
       <item value="XulItem element that holds the render" />
       <item value="XulItem element" />
-      <item value="画布的实例" />
-      <item value="持有渲染器的视图元素" />
-      <item value="The XulItem that holds render" />
-      <item value="承载render的容器" />
-      <item value="承载render的X Ulitem" />
-      <item value="向正无穷取整" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2856" />
-        <entry key="ENGLISH" value="2921" />
+        <entry key="CHINESE" value="2863" />
+        <entry key="ENGLISH" value="2928" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
