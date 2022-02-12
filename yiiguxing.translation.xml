@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outdated" />
+      <item value="expect" />
       <item value="slow Down" />
       <item value="Expecting a file or a directory" />
       <item value="Origin" />
@@ -49,13 +51,11 @@
       <item value="防止反复创建数据对象" />
       <item value="防止反复创建Array List对象" />
       <item value="_temp Cache仅为了对象复用" />
-      <item value="列表元素渲染组件的回收栈" />
-      <item value="Recycle of List item render." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2867" />
-        <entry key="ENGLISH" value="2932" />
+        <entry key="CHINESE" value="2869" />
+        <entry key="ENGLISH" value="2934" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
