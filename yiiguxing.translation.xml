@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="True to smoothly scroll to the new item, false to transition immediately" />
       <item value="Assignable" />
       <item value="Coordinator" />
       <item value="Scale Down Show Behavior" />
@@ -50,12 +51,11 @@
       <item value="数据范围是否与可视区域没有交集" />
       <item value="intersect" />
       <item value="intersection" />
-      <item value="交集" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2882" />
-        <entry key="ENGLISH" value="2948" />
+        <entry key="CHINESE" value="2883" />
+        <entry key="ENGLISH" value="2949" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
