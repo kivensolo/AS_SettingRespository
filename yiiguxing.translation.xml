@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class is responsible for manually inflating our tinted widgets. * &lt;p&gt;This class two main responsibilities: the first is to 'inject' our tinted views in place of * the framework versions in layout inflation; the second is backport the {@code android:theme} * functionality for any inflated widgets. This include theme inheritance from its parent." />
       <item value="Thrown when the &quot;verifier&quot; detects that a class file, * though well formed, contains some sort of internal inconsistency * or security problem." />
       <item value="strip" />
       <item value="Unable to strip the following libraries" />
@@ -50,12 +51,11 @@
       <item value="Death" />
       <item value="wise" />
       <item value="逆时针" />
-      <item value="顺时针" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2894" />
-        <entry key="ENGLISH" value="2960" />
+        <entry key="CHINESE" value="2895" />
+        <entry key="ENGLISH" value="2961" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
