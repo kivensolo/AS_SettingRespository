@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效的" />
+      <item value="valide" />
       <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
       <item value="Configure the shader compiler options for this product flavor." />
       <item value="ABIs [arm64-v8a,armeabi-v7a,armeabi] set by 'android.injected.build.abi' gradle flag contained 'ARMEABI' not targeted by this project." />
@@ -49,13 +51,11 @@
       <item value="since onChanged() is implemented by the app, it could do anything, including // removing itself from {@link mObservers} - and that could cause problems if // an iterator is used on the ArrayList {@link mObservers}. // to avoid such problems, just march thru the list in the reverse order." />
       <item value="Davey" />
       <item value="disallow Parent" />
-      <item value="防止内部内存长久占用" />
-      <item value="BOOTSTRAP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2910" />
-        <entry key="ENGLISH" value="2976" />
+        <entry key="CHINESE" value="2912" />
+        <entry key="ENGLISH" value="2978" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
