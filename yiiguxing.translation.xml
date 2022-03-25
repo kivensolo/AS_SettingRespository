@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WILDCARD" />
+      <item value="通配符" />
+      <item value="summary" />
+      <item value="ticatio" />
       <item value="SECTION CODE" />
       <item value="the code that is returned when a URI is matched" />
       <item value="insufficient" />
@@ -47,19 +51,15 @@
       <item value="TYPE TEXT FLAG NO SUGGESTIONS" />
       <item value="Unsatisfied Link Error" />
       <item value="VERSION SMALL PARTNER" />
-      <item value="_use System Ui Hider" />
-      <item value="网络" />
-      <item value="Net Work" />
-      <item value="multi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2928" />
-        <entry key="ENGLISH" value="2991" />
+        <entry key="CHINESE" value="2933" />
+        <entry key="ENGLISH" value="2995" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="10" />
+        <entry key="FRENCH" value="11" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
