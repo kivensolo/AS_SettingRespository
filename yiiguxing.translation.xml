@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容器" />
       <item value="set Load With Overview Mode" />
       <item value="WILDCARD" />
       <item value="通配符" />
@@ -50,12 +51,11 @@
       <item value="Coordinator" />
       <item value="Scale Down Show Behavior" />
       <item value="TYPE TEXT FLAG NO SUGGESTIONS" />
-      <item value="Unsatisfied Link Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2934" />
-        <entry key="ENGLISH" value="2996" />
+        <entry key="CHINESE" value="2935" />
+        <entry key="ENGLISH" value="2997" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
