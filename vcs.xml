@@ -190,9 +190,13 @@
           <option name="url" value="git@gitee.com:starcor-com/terminal-hangyan-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitcode.net/mirrors/anestisb/vdexExtractor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work" />
+    <option name="cloneParentDir" value="E:\GitHubProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
