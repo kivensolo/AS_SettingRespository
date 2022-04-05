@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue. * &lt;p&gt; * You may choose to immediately launch the intent if the user is actively * using your app. Otherwise, you should use a notification to guide the * user back into your app before launching. * * @see Intent#getParcelableExtra(String)" />
+      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue." />
       <item value="compat" />
       <item value="Vital" />
       <item value="容器" />
@@ -49,13 +51,11 @@
       <item value="The manufacturer of the product/hardware." />
       <item value="The consumer-visible brand with which the product/hardware will be associated, if any" />
       <item value="True to smoothly scroll to the new item, false to transition immediately" />
-      <item value="Assignable" />
-      <item value="Coordinator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2937" />
-        <entry key="ENGLISH" value="2999" />
+        <entry key="CHINESE" value="2939" />
+        <entry key="ENGLISH" value="3001" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
