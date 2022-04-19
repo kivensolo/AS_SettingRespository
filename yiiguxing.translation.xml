@@ -1,78 +1,78 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Estimated network bandwidth information (kbps) is available; currently this event fires * simultaneously as {@link #MEDIA_INFO_BUFFERING_START} and {@link #MEDIA_INFO_BUFFERING_END} * when playing network files." />
-      <item value="A size conversion involves * rounding the base value, and ensuring that a non-zero base value * is at least one pixel in size." />
-      <item value="except the returned value is converted to * integer pixels for use as a size." />
-      <item value="Retrieve a dimensional unit attribute at &lt;var&gt;index&lt;/var&gt; for use * as a size in raw pixels. This is the same as" />
-      <item value="get Dimension Pixel Size" />
-      <item value="The area of the source to copy from. If this is null * the copy area will be the entire surface. The rect will be clamped to * the bounds of the Surface." />
-      <item value="For screenshots of the UI for feedback * reports or unit testing" />
-      <item value="For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
-      <item value="such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping." />
-      <item value="discouraged" />
-      <item value="In the rare cases where caching layers are useful, * such as for alpha animations" />
-      <item value="can easily result in a net loss in performance due to the * cost of creating and updating the layer." />
-      <item value="intermediate cache * layers are largely unnecessary" />
-      <item value="intermediate" />
-      <item value="deprecated The view drawing cache was largely made obsolete with the introduction of * hardware-accelerated rendering in API 11" />
-      <item value="For software-rendered snapshots of a small part of the View hierarchy" />
-      <item value="UI截取" />
-      <item value="view Shot" />
-      <item value="纯文本" />
-      <item value="Provides a mechanisms to issue pixel copy requests to allow for copy * operations from {@link Surface} to {@link Bitmap}" />
-      <item value="Make this actually async and fast and cool and stuff" />
-      <item value="The destination of the copy. The source will be scaled to * match the width, height, and format of this bitmap." />
-      <item value="As its name" />
-      <item value="billy" />
-      <item value="Sacrificing a bit of efficiency" />
-      <item value="IRouteRoot implementation class in the package: com.alibaba.android.arouter.core.routers" />
-      <item value="Completion the postcard by route metas" />
-      <item value="Logistics Center" />
-      <item value="faild" />
-      <item value="special; see below" />
-      <item value="The initial int32 in a Binder call's reply Parcel header" />
-      <item value="The initial int32 in a Binder call's reply Parcel header:" />
-      <item value="Read an integer value from the parcel at the current dataPosition()." />
-      <item value="Used to determine which exception class to throw." />
-      <item value="Test if the given URI represents a {@link Document} backed by a * {@link DocumentsProvider}." />
-      <item value="This class provides applications access to the content model." />
-      <item value="SCHEME" />
-      <item value="Error Correction Level" />
-      <item value="assorted" />
-      <item value="utility" />
-      <item value="A collection of assorted utility classes" />
-      <item value="Utility class" />
-      <item value="The number of elements remaining in this buffer" />
-      <item value="Storage of route meta and other data." />
-      <item value="Warehouse" />
-      <item value="Cache route and metas" />
-      <item value="Group element." />
-      <item value="completion" />
-      <item value="facade" />
-      <item value="ARouter facade" />
+      <item value="Struct Timespec" />
+      <item value="Guarded By" />
+      <item value="RTP PUNCH BYTES" />
+      <item value="Simple factory for brands" />
+      <item value="Hy Brand Data" />
+      <item value="TYPE TEXT FLAG NO SUGGESTIONS" />
+      <item value="fake" />
+      <item value="FUNCTION ENABLE INSTALL INTERNAL" />
+      <item value="chips" />
+      <item value="injected" />
+      <item value="注入" />
+      <item value="batch" />
+      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue. * &lt;p&gt; * You may choose to immediately launch the intent if the user is actively * using your app. Otherwise, you should use a notification to guide the * user back into your app before launching. * * @see Intent#getParcelableExtra(String)" />
+      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue." />
+      <item value="compat" />
+      <item value="Vital" />
+      <item value="容器" />
+      <item value="set Load With Overview Mode" />
+      <item value="WILDCARD" />
+      <item value="通配符" />
+      <item value="summary" />
+      <item value="ticatio" />
+      <item value="SECTION CODE" />
+      <item value="the code that is returned when a URI is matched" />
+      <item value="insufficient" />
+      <item value="INSUFFICIENT" />
+      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
+      <item value="Directories potentially created on remote AFP share" />
+      <item value="Files that might appear in the root of a volume" />
+      <item value="Product Class" />
+      <item value="PROVIENCE" />
+      <item value="省份" />
+      <item value="complete" />
+      <item value="账户信息不完整，重新激活获取" />
+      <item value="Please check target epg-app has been installed" />
+      <item value="加密" />
+      <item value="encrpyt" />
+      <item value="encrpy" />
+      <item value="有效的" />
+      <item value="valide" />
+      <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
+      <item value="Configure the shader compiler options for this product flavor." />
+      <item value="ABIs [arm64-v8a,armeabi-v7a,armeabi] set by 'android.injected.build.abi' gradle flag contained 'ARMEABI' not targeted by this project." />
+      <item value="APP CALCULATOR" />
+      <item value="nanosic" />
+      <item value="Arch" />
+      <item value="is Real X 86 Arch" />
+      <item value="Simulated" />
+      <item value="vendor Code" />
+      <item value="Brand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2450" />
-        <entry key="ENGLISH" value="2534" />
+        <entry key="CHINESE" value="2952" />
+        <entry key="ENGLISH" value="3014" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="9" />
+        <entry key="FRENCH" value="11" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
-        <entry key="CZECH" value="4" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="CZECH" value="5" />
+        <entry key="ROMANIAN" value="8" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="4" />
+        <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="2" />
-        <entry key="TURKISH" value="5" />
-        <entry key="SPANISH" value="7" />
-        <entry key="ITALIAN" value="4" />
-        <entry key="HINDI" value="7" />
-        <entry key="INDONESIAN" value="9" />
+        <entry key="TURKISH" value="6" />
+        <entry key="SPANISH" value="9" />
+        <entry key="ITALIAN" value="5" />
+        <entry key="HINDI" value="11" />
+        <entry key="INDONESIAN" value="13" />
       </map>
     </option>
   </component>
