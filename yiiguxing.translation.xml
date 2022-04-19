@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bus" />
       <item value="Struct Timespec" />
       <item value="Guarded By" />
       <item value="RTP PUNCH BYTES" />
@@ -50,12 +51,11 @@
       <item value="is Real X 86 Arch" />
       <item value="Simulated" />
       <item value="vendor Code" />
-      <item value="Brand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2952" />
-        <entry key="ENGLISH" value="3014" />
+        <entry key="CHINESE" value="2953" />
+        <entry key="ENGLISH" value="3015" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
