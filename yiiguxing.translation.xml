@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bind Sync Bus" />
       <item value="upgrade Feedback" />
       <item value="is Assignable From" />
       <item value="Last" />
@@ -50,12 +51,11 @@
       <item value="ABIs [arm64-v8a,armeabi-v7a,armeabi] set by 'android.injected.build.abi' gradle flag contained 'ARMEABI' not targeted by this project." />
       <item value="APP CALCULATOR" />
       <item value="nanosic" />
-      <item value="Arch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2956" />
-        <entry key="ENGLISH" value="3018" />
+        <entry key="CHINESE" value="2958" />
+        <entry key="ENGLISH" value="3020" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
