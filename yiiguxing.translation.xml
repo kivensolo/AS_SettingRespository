@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse" />
       <item value="Latch" />
       <item value="Rename the current file so it may be used as a backup during the next read" />
       <item value="Typical #commit() path with fewer allocations, doing a write on // the current thread." />
@@ -50,12 +51,11 @@
       <item value="Please check target epg-app has been installed" />
       <item value="加密" />
       <item value="encrpyt" />
-      <item value="encrpy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2965" />
-        <entry key="ENGLISH" value="3027" />
+        <entry key="CHINESE" value="2966" />
+        <entry key="ENGLISH" value="3028" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
