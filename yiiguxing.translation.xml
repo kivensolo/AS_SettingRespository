@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXECUTE TRANSACTION" />
+      <item value="A part of constants in H.class" />
+      <item value="Constants for Activity lifecycle in H.class" />
+      <item value="关于视图的常量" />
+      <item value="Constants for Activity in H.class" />
+      <item value="Constants" />
+      <item value="常量" />
+      <item value="constans" />
+      <item value="Sets the field represented by this {@code Field} object on the * specified object argument to the specified new value. The new * value is automatically unwrapped if the underlying field has a * primitive type. *" />
+      <item value="directory" />
       <item value="Infinite Loop Statement" />
       <item value="Your anti-virus program might be impacting your build performance. Android Studio checked the following directories:" />
       <item value="impacting" />
@@ -41,21 +51,11 @@
       <item value="FUNCTION ENABLE INSTALL INTERNAL" />
       <item value="chips" />
       <item value="injected" />
-      <item value="注入" />
-      <item value="batch" />
-      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue. * &lt;p&gt; * You may choose to immediately launch the intent if the user is actively * using your app. Otherwise, you should use a notification to guide the * user back into your app before launching. * * @see Intent#getParcelableExtra(String)" />
-      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue." />
-      <item value="compat" />
-      <item value="Vital" />
-      <item value="容器" />
-      <item value="set Load With Overview Mode" />
-      <item value="WILDCARD" />
-      <item value="通配符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2984" />
-        <entry key="ENGLISH" value="3045" />
+        <entry key="CHINESE" value="2994" />
+        <entry key="ENGLISH" value="3054" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -63,7 +63,7 @@
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
-        <entry key="CZECH" value="5" />
+        <entry key="CZECH" value="6" />
         <entry key="ROMANIAN" value="8" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="5" />
