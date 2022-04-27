@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Infinite Loop Statement" />
       <item value="Your anti-virus program might be impacting your build performance. Android Studio checked the following directories:" />
       <item value="impacting" />
       <item value="anti-virus program" />
@@ -50,12 +51,11 @@
       <item value="set Load With Overview Mode" />
       <item value="WILDCARD" />
       <item value="通配符" />
-      <item value="summary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2983" />
-        <entry key="ENGLISH" value="3044" />
+        <entry key="CHINESE" value="2984" />
+        <entry key="ENGLISH" value="3045" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
