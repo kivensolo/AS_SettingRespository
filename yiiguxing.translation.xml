@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unsealed" />
+      <item value="unseal Native" />
       <item value="EXECUTE TRANSACTION" />
       <item value="A part of constants in H.class" />
       <item value="Constants for Activity lifecycle in H.class" />
@@ -49,13 +51,11 @@
       <item value="TYPE TEXT FLAG NO SUGGESTIONS" />
       <item value="fake" />
       <item value="FUNCTION ENABLE INSTALL INTERNAL" />
-      <item value="chips" />
-      <item value="injected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2994" />
-        <entry key="ENGLISH" value="3054" />
+        <entry key="CHINESE" value="2996" />
+        <entry key="ENGLISH" value="3056" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
