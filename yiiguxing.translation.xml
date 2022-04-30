@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="纳秒" />
+      <item value="annosecond" />
+      <item value="annoseconds" />
+      <item value="annosecondes" />
+      <item value="signature" />
+      <item value="签名信息" />
+      <item value="singature" />
+      <item value="Analysis Time" />
+      <item value="方法耗时分析" />
+      <item value="时间分析" />
       <item value="unseal" />
       <item value="Discouraged" />
       <item value="Discouraged Private Api" />
@@ -41,21 +51,11 @@
       <item value="Memory Commit Result" />
       <item value="// &quot;this&quot; is the magic value for a removal mutation. In addition, // setting a value to &quot;null&quot; for a given key is specified to be // equivalent to calling remove on that key." />
       <item value="to" />
-      <item value="Bind Sync Bus" />
-      <item value="upgrade Feedback" />
-      <item value="is Assignable From" />
-      <item value="Last" />
-      <item value="Bus" />
-      <item value="Struct Timespec" />
-      <item value="Guarded By" />
-      <item value="RTP PUNCH BYTES" />
-      <item value="Simple factory for brands" />
-      <item value="Hy Brand Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3000" />
-        <entry key="ENGLISH" value="3060" />
+        <entry key="CHINESE" value="3014" />
+        <entry key="ENGLISH" value="3073" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="12" />
-        <entry key="INDONESIAN" value="13" />
+        <entry key="INDONESIAN" value="14" />
       </map>
     </option>
   </component>
