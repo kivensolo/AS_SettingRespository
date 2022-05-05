@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Struct Timespec" />
-      <item value="Guarded By" />
-      <item value="RTP PUNCH BYTES" />
-      <item value="Simple factory for brands" />
-      <item value="Hy Brand Data" />
-      <item value="TYPE TEXT FLAG NO SUGGESTIONS" />
-      <item value="fake" />
-      <item value="FUNCTION ENABLE INSTALL INTERNAL" />
-      <item value="chips" />
-      <item value="injected" />
-      <item value="注入" />
-      <item value="batch" />
-      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue. * &lt;p&gt; * You may choose to immediately launch the intent if the user is actively * using your app. Otherwise, you should use a notification to guide the * user back into your app before launching. * * @see Intent#getParcelableExtra(String)" />
-      <item value="User action is currently required to proceed. You can launch the intent * activity described by {@link Intent#EXTRA_INTENT} to involve the user and * continue." />
-      <item value="compat" />
-      <item value="Vital" />
-      <item value="容器" />
-      <item value="set Load With Overview Mode" />
-      <item value="WILDCARD" />
-      <item value="通配符" />
-      <item value="summary" />
-      <item value="ticatio" />
-      <item value="SECTION CODE" />
-      <item value="the code that is returned when a URI is matched" />
-      <item value="insufficient" />
-      <item value="INSUFFICIENT" />
-      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
-      <item value="Directories potentially created on remote AFP share" />
-      <item value="Files that might appear in the root of a volume" />
-      <item value="Product Class" />
-      <item value="PROVIENCE" />
-      <item value="省份" />
-      <item value="complete" />
-      <item value="账户信息不完整，重新激活获取" />
-      <item value="Please check target epg-app has been installed" />
-      <item value="加密" />
-      <item value="encrpyt" />
-      <item value="encrpy" />
-      <item value="有效的" />
-      <item value="valide" />
-      <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
-      <item value="Configure the shader compiler options for this product flavor." />
-      <item value="ABIs [arm64-v8a,armeabi-v7a,armeabi] set by 'android.injected.build.abi' gradle flag contained 'ARMEABI' not targeted by this project." />
-      <item value="APP CALCULATOR" />
-      <item value="nanosic" />
-      <item value="Arch" />
-      <item value="is Real X 86 Arch" />
-      <item value="Simulated" />
-      <item value="vendor Code" />
-      <item value="Brand" />
+      <item value="The radius of the cirle to be drawn" />
+      <item value="is Anti Alias" />
+      <item value="This is copied, and is applied to the offscreen when * restore() is called." />
+      <item value="Exception from call site #0 bootstrap method" />
+      <item value="You must set an images folder before loading an image." />
+      <item value="the internal name of the method's owner class" />
+      <item value="Could not determine the dependencies of task '" />
+      <item value="INVOKESPECIAL" />
+      <item value="The name of the visited method." />
+      <item value="纳秒" />
+      <item value="annosecond" />
+      <item value="annoseconds" />
+      <item value="annosecondes" />
+      <item value="signature" />
+      <item value="签名信息" />
+      <item value="singature" />
+      <item value="Analysis Time" />
+      <item value="方法耗时分析" />
+      <item value="时间分析" />
+      <item value="unseal" />
+      <item value="Discouraged" />
+      <item value="Discouraged Private Api" />
+      <item value="bandage" />
+      <item value="unsealed" />
+      <item value="unseal Native" />
+      <item value="EXECUTE TRANSACTION" />
+      <item value="A part of constants in H.class" />
+      <item value="Constants for Activity lifecycle in H.class" />
+      <item value="关于视图的常量" />
+      <item value="Constants for Activity in H.class" />
+      <item value="Constants" />
+      <item value="常量" />
+      <item value="constans" />
+      <item value="Sets the field represented by this {@code Field} object on the * specified object argument to the specified new value. The new * value is automatically unwrapped if the underlying field has a * primitive type. *" />
+      <item value="directory" />
+      <item value="Infinite Loop Statement" />
+      <item value="Your anti-virus program might be impacting your build performance. Android Studio checked the following directories:" />
+      <item value="impacting" />
+      <item value="anti-virus program" />
+      <item value="is Occurred" />
+      <item value="是否已经有崩溃发生" />
+      <item value="Cockroach" />
+      <item value="Client Transaction" />
+      <item value="caught" />
+      <item value="uncaught Exception" />
+      <item value="The given artifact contains a string literal with a package reference 'android.support.design.widget' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
+      <item value="the class descriptor of the annotation class" />
+      <item value="Returns the descriptor corresponding to the given class." />
+      <item value="instruction" />
+      <item value="LDC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2952" />
-        <entry key="ENGLISH" value="3014" />
+        <entry key="CHINESE" value="3024" />
+        <entry key="ENGLISH" value="3083" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -63,7 +63,7 @@
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
-        <entry key="CZECH" value="5" />
+        <entry key="CZECH" value="6" />
         <entry key="ROMANIAN" value="8" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="5" />
@@ -71,8 +71,8 @@
         <entry key="TURKISH" value="6" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="11" />
-        <entry key="INDONESIAN" value="13" />
+        <entry key="HINDI" value="12" />
+        <entry key="INDONESIAN" value="14" />
       </map>
     </option>
   </component>
