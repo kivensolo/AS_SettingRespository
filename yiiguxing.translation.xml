@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="495" />
+    <option name="newTranslationDialogY" value="276" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="property" />
+      <item value="属性" />
       <item value="activity Open Enter Animation" />
       <item value="activity Open Exit Animation" />
       <item value="On Show Rationale" />
@@ -49,13 +55,11 @@
       <item value="Constants" />
       <item value="常量" />
       <item value="constans" />
-      <item value="Sets the field represented by this {@code Field} object on the * specified object argument to the specified new value. The new * value is automatically unwrapped if the underlying field has a * primitive type. *" />
-      <item value="directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3040" />
-        <entry key="ENGLISH" value="3091" />
+        <entry key="CHINESE" value="3042" />
+        <entry key="ENGLISH" value="3092" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
