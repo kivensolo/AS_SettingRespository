@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="detile" />
       <item value="Prevent Corner Overlap" />
       <item value="Iterable" />
       <item value="semester" />
@@ -53,11 +54,10 @@
       <item value="The name of the visited method." />
       <item value="纳秒" />
       <item value="annosecond" />
-      <item value="annoseconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3065" />
+        <entry key="CHINESE" value="3066" />
         <entry key="ENGLISH" value="3112" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
@@ -67,7 +67,7 @@
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="6" />
-        <entry key="ROMANIAN" value="8" />
+        <entry key="ROMANIAN" value="9" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="2" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651889390931" />
+    <option name="lastTrimTime" value="1652325838613" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
