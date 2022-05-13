@@ -17,6 +17,11 @@
                       <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="AppEngineRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="App Engine DevAppServer" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -82,6 +87,11 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TestNG">
+                    <value>
+                      <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="Tox">
                     <value>
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
@@ -120,6 +130,11 @@
                   <entry key="apk">
                     <value>
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="app-engine-gradle">
+                    <value>
+                      <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" bundled="true" />
                     </value>
                   </entry>
                   <entry key="buildout-python">
