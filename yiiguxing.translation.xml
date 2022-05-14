@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="answer" />
+      <item value="Mutiple" />
       <item value="测试" />
       <item value="问卷" />
       <item value="the unique identifier of the newly checked radio button" />
@@ -52,13 +54,11 @@
       <item value="allow Insecure Protocol" />
       <item value="Insecure" />
       <item value="Hight" />
-      <item value="floating" />
-      <item value="The radius of the cirle to be drawn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3077" />
-        <entry key="ENGLISH" value="3117" />
+        <entry key="CHINESE" value="3079" />
+        <entry key="ENGLISH" value="3119" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
