@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Questionnaire Question" />
       <item value="answer" />
       <item value="Mutiple" />
       <item value="测试" />
@@ -53,16 +54,15 @@
       <item value="引导" />
       <item value="allow Insecure Protocol" />
       <item value="Insecure" />
-      <item value="Hight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3079" />
+        <entry key="CHINESE" value="3080" />
         <entry key="ENGLISH" value="3119" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="12" />
+        <entry key="FRENCH" value="13" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
