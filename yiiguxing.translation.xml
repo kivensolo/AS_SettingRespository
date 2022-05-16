@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Autowired" />
+      <item value="Syringe" />
+      <item value="I Syringe" />
       <item value="questionnaire" />
       <item value="semester" />
       <item value="问卷题目" />
@@ -51,14 +54,11 @@
       <item value="On Show Rationale" />
       <item value="洞" />
       <item value="透明" />
-      <item value="禁止返回按键" />
-      <item value="radii" />
-      <item value="蒙版" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3086" />
-        <entry key="ENGLISH" value="3124" />
+        <entry key="CHINESE" value="3090" />
+        <entry key="ENGLISH" value="3128" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
