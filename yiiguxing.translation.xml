@@ -1,70 +1,73 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="495" />
+    <option name="newTranslationDialogY" value="276" />
     <histories>
-      <item value="Hight" />
-      <item value="floating" />
-      <item value="The radius of the cirle to be drawn" />
-      <item value="is Anti Alias" />
-      <item value="This is copied, and is applied to the offscreen when * restore() is called." />
-      <item value="Exception from call site #0 bootstrap method" />
-      <item value="You must set an images folder before loading an image." />
-      <item value="the internal name of the method's owner class" />
-      <item value="Could not determine the dependencies of task '" />
-      <item value="INVOKESPECIAL" />
-      <item value="The name of the visited method." />
-      <item value="纳秒" />
-      <item value="annosecond" />
-      <item value="annoseconds" />
-      <item value="annosecondes" />
-      <item value="signature" />
-      <item value="签名信息" />
-      <item value="singature" />
-      <item value="Analysis Time" />
-      <item value="方法耗时分析" />
-      <item value="时间分析" />
-      <item value="unseal" />
-      <item value="Discouraged" />
-      <item value="Discouraged Private Api" />
-      <item value="bandage" />
-      <item value="unsealed" />
-      <item value="unseal Native" />
-      <item value="EXECUTE TRANSACTION" />
-      <item value="A part of constants in H.class" />
-      <item value="Constants for Activity lifecycle in H.class" />
-      <item value="关于视图的常量" />
-      <item value="Constants for Activity in H.class" />
-      <item value="Constants" />
-      <item value="常量" />
-      <item value="constans" />
-      <item value="Sets the field represented by this {@code Field} object on the * specified object argument to the specified new value. The new * value is automatically unwrapped if the underlying field has a * primitive type. *" />
-      <item value="directory" />
-      <item value="Infinite Loop Statement" />
-      <item value="Your anti-virus program might be impacting your build performance. Android Studio checked the following directories:" />
-      <item value="impacting" />
-      <item value="anti-virus program" />
-      <item value="is Occurred" />
-      <item value="是否已经有崩溃发生" />
-      <item value="Cockroach" />
-      <item value="Client Transaction" />
-      <item value="caught" />
-      <item value="uncaught Exception" />
-      <item value="The given artifact contains a string literal with a package reference 'android.support.design.widget' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
-      <item value="the class descriptor of the annotation class" />
-      <item value="Returns the descriptor corresponding to the given class." />
+      <item value="Autowired" />
+      <item value="Syringe" />
+      <item value="I Syringe" />
+      <item value="questionnaire" />
+      <item value="semester" />
+      <item value="问卷题目" />
+      <item value="Semester" />
+      <item value="Ugly" />
+      <item value="tail" />
+      <item value="Questionnaire Question" />
+      <item value="answer" />
+      <item value="Mutiple" />
+      <item value="测试" />
+      <item value="问卷" />
+      <item value="the unique identifier of the newly checked radio button" />
+      <item value="Currently only the same rounded corners are supported" />
+      <item value="暂时只支持一样的圆角" />
+      <item value="teal" />
+      <item value="question" />
+      <item value="简介" />
+      <item value="重复" />
+      <item value="条目" />
+      <item value="detile" />
+      <item value="Prevent Corner Overlap" />
+      <item value="Iterable" />
+      <item value="学期" />
+      <item value="学期测试" />
+      <item value="semester " />
+      <item value="The visual x position of this view, in pixels. This is equivalent to the {@link setTranslationX(float) translationX} property plus the current {@link getLeft() left} property." />
+      <item value="The velocity of this fling measured in pixels per second along the x axis." />
+      <item value="Magnet" />
+      <item value="destination X" />
+      <item value="attach" />
+      <item value="吸附" />
+      <item value="Nearest" />
+      <item value="Portrait" />
+      <item value="flutter" />
+      <item value="飘荡" />
+      <item value="Fill the entire canvas' bitmap (restricted to the current clip) with the specified color, using srcover porterduff mode." />
+      <item value="EXACTLY" />
+      <item value="decide" />
+      <item value="Returns the original raw X coordinate of this event. For touch events on the screen, this is the original location of the event on the screen, before it had been adjusted for the containing window and views." />
+      <item value="Reflection utils to call SharedPreferencesEditor.apply when possible, falling back to commit when apply isn't available." />
+      <item value="property" />
+      <item value="属性" />
+      <item value="activity Open Enter Animation" />
+      <item value="activity Open Exit Animation" />
+      <item value="On Show Rationale" />
+      <item value="洞" />
+      <item value="透明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3026" />
-        <entry key="ENGLISH" value="3085" />
+        <entry key="CHINESE" value="3090" />
+        <entry key="ENGLISH" value="3128" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="11" />
+        <entry key="FRENCH" value="13" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="6" />
-        <entry key="ROMANIAN" value="8" />
+        <entry key="ROMANIAN" value="9" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="2" />
@@ -76,15 +79,11 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1652325838613" />
+  </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
