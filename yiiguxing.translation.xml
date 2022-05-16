@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Semester" />
       <item value="Ugly" />
       <item value="tail" />
       <item value="Questionnaire Question" />
@@ -53,12 +54,11 @@
       <item value="蒙版" />
       <item value="Transparence" />
       <item value="指导" />
-      <item value="引导" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3082" />
-        <entry key="ENGLISH" value="3121" />
+        <entry key="CHINESE" value="3083" />
+        <entry key="ENGLISH" value="3122" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
