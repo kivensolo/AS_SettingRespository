@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="In Half" />
+      <item value="notify In Half" />
+      <item value="Half" />
       <item value="当前页面所有问题都回答了" />
       <item value="Autowired" />
       <item value="Syringe" />
@@ -51,14 +54,11 @@
       <item value="property" />
       <item value="属性" />
       <item value="activity Open Enter Animation" />
-      <item value="activity Open Exit Animation" />
-      <item value="On Show Rationale" />
-      <item value="洞" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3090" />
-        <entry key="ENGLISH" value="3128" />
+        <entry key="CHINESE" value="3092" />
+        <entry key="ENGLISH" value="3130" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652325838613" />
+    <option name="lastTrimTime" value="1652771035072" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
