@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="当前页面所有问题都回答了" />
       <item value="Autowired" />
       <item value="Syringe" />
       <item value="I Syringe" />
@@ -53,7 +54,6 @@
       <item value="activity Open Exit Animation" />
       <item value="On Show Rationale" />
       <item value="洞" />
-      <item value="透明" />
     </histories>
     <option name="languageScores">
       <map>
