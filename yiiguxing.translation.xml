@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="internal Get" />
       <item value="semeter" />
       <item value="Invalid" />
       <item value="引导语" />
@@ -53,7 +54,6 @@
       <item value="Portrait" />
       <item value="flutter" />
       <item value="飘荡" />
-      <item value="Fill the entire canvas' bitmap (restricted to the current clip) with the specified color, using srcover porterduff mode." />
     </histories>
     <option name="languageScores">
       <map>
