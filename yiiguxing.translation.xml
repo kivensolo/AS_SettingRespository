@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="The move motion event that triggered the current onScroll." />
       <item value="孩子" />
       <item value="The visual x position of this view, in pixels. This is equivalent to the {@link setTranslationX(float) translationX} property plus the current {@link getLeft() left} property." />
       <item value="Returns the original raw X coordinate of this event. For touch events on the screen, this is the original location of the event on the screen, before it had been adjusted for the containing window and views." />
@@ -53,12 +54,11 @@
       <item value="Magnet" />
       <item value="destination X" />
       <item value="attach" />
-      <item value="吸附" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3106" />
-        <entry key="ENGLISH" value="3136" />
+        <entry key="CHINESE" value="3107" />
+        <entry key="ENGLISH" value="3137" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
