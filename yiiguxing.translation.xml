@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Column" />
       <item value="未定义列名称" />
       <item value="解析器" />
       <item value="criteria" />
@@ -50,7 +51,6 @@
       <item value="Mutiple" />
       <item value="测试" />
       <item value="问卷" />
-      <item value="the unique identifier of the newly checked radio button" />
     </histories>
     <option name="languageScores">
       <map>
