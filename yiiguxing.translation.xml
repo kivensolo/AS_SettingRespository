@@ -1,9 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
-    <option name="newTranslationDialogX" value="495" />
-    <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="segment" />
       <item value="preferences" />
       <item value="waring Line" />
       <item value="警告" />
@@ -53,7 +51,6 @@
       <item value="teal" />
       <item value="question" />
       <item value="简介" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
