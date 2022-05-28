@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="colors are distributed evenly between the center and edge of the circle." />
       <item value="Halo" />
       <item value="Light Halo" />
       <item value="radial" />
@@ -50,12 +51,11 @@
       <item value="semester" />
       <item value="问卷题目" />
       <item value="Semester" />
-      <item value="Ugly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3124" />
-        <entry key="ENGLISH" value="3148" />
+        <entry key="CHINESE" value="3125" />
+        <entry key="ENGLISH" value="3149" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
