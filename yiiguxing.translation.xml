@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The amount to rotate, in degrees" />
+      <item value="旋转角度" />
+      <item value="角度" />
       <item value="colors are distributed evenly between the center and edge of the circle." />
       <item value="Halo" />
       <item value="Light Halo" />
@@ -48,14 +51,11 @@
       <item value="Syringe" />
       <item value="I Syringe" />
       <item value="questionnaire" />
-      <item value="semester" />
-      <item value="问卷题目" />
-      <item value="Semester" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3125" />
-        <entry key="ENGLISH" value="3149" />
+        <entry key="CHINESE" value="3128" />
+        <entry key="ENGLISH" value="3150" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653373849317" />
+    <option name="lastTrimTime" value="1653918999476" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
