@@ -1,15 +1,38 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
-    <option name="newTranslationDialogX" value="495" />
-    <option name="newTranslationDialogY" value="276" />
     <histories>
-      <item value="Align Right" />
-      <item value="Align" />
-      <item value="比率" />
-      <item value="比例" />
-      <item value="place" />
-      <item value="We need to 'inject' our tint aware Views in place of the standard framework versions" />
+      <item value="The amount to rotate, in degrees" />
+      <item value="旋转角度" />
+      <item value="角度" />
+      <item value="colors are distributed evenly between the center and edge of the circle." />
+      <item value="Halo" />
+      <item value="Light Halo" />
+      <item value="radial" />
+      <item value="Layer" />
+      <item value="buttom" />
+      <item value="The list of columns to put into the cursor. If * {@code null} all columns are included." />
+      <item value="Column" />
+      <item value="未定义列名称" />
+      <item value="解析器" />
+      <item value="criteria" />
+      <item value="A selection criteria to apply when filtering rows. * If {@code null} then all rows are included." />
+      <item value="You may include ?s in selection, which will be replaced by * the values from selectionArgs, in order that they appear in the selection. * The values will be bound as Strings." />
+      <item value="segment" />
+      <item value="preferences" />
+      <item value="waring Line" />
+      <item value="警告" />
+      <item value="wraring Line" />
+      <item value="wraring" />
+      <item value="wrarring Line" />
+      <item value="安全线" />
+      <item value="分割线" />
+      <item value="磁铁" />
+      <item value="active" />
+      <item value="slide" />
+      <item value="The move motion event that triggered the current onScroll." />
+      <item value="孩子" />
+      <item value="The visual x position of this view, in pixels. This is equivalent to the {@link setTranslationX(float) translationX} property plus the current {@link getLeft() left} property." />
+      <item value="Returns the original raw X coordinate of this event. For touch events on the screen, this is the original location of the event on the screen, before it had been adjusted for the containing window and views." />
       <item value="non Transitive R Class" />
       <item value="Transitive" />
       <item value="internal Get" />
@@ -28,37 +51,11 @@
       <item value="Syringe" />
       <item value="I Syringe" />
       <item value="questionnaire" />
-      <item value="semester" />
-      <item value="问卷题目" />
-      <item value="Semester" />
-      <item value="Ugly" />
-      <item value="tail" />
-      <item value="Questionnaire Question" />
-      <item value="answer" />
-      <item value="Mutiple" />
-      <item value="测试" />
-      <item value="问卷" />
-      <item value="the unique identifier of the newly checked radio button" />
-      <item value="Currently only the same rounded corners are supported" />
-      <item value="暂时只支持一样的圆角" />
-      <item value="teal" />
-      <item value="question" />
-      <item value="简介" />
-      <item value="重复" />
-      <item value="条目" />
-      <item value="detile" />
-      <item value="Prevent Corner Overlap" />
-      <item value="Iterable" />
-      <item value="学期" />
-      <item value="学期测试" />
-      <item value="semester " />
-      <item value="The visual x position of this view, in pixels. This is equivalent to the {@link setTranslationX(float) translationX} property plus the current {@link getLeft() left} property." />
-      <item value="The velocity of this fling measured in pixels per second along the x axis." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3109" />
-        <entry key="ENGLISH" value="3138" />
+        <entry key="CHINESE" value="3128" />
+        <entry key="ENGLISH" value="3150" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -74,13 +71,13 @@
         <entry key="TURKISH" value="6" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="12" />
+        <entry key="HINDI" value="13" />
         <entry key="INDONESIAN" value="14" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654006038204" />
+    <option name="lastTrimTime" value="1653918999476" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
