@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="magnet" />
+      <item value="磁吸" />
+      <item value="探头张望" />
+      <item value="躲藏" />
+      <item value="探头" />
       <item value="The amount to rotate, in degrees" />
       <item value="旋转角度" />
       <item value="角度" />
@@ -46,16 +51,11 @@
       <item value="In Half" />
       <item value="notify In Half" />
       <item value="Half" />
-      <item value="当前页面所有问题都回答了" />
-      <item value="Autowired" />
-      <item value="Syringe" />
-      <item value="I Syringe" />
-      <item value="questionnaire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3128" />
-        <entry key="ENGLISH" value="3150" />
+        <entry key="CHINESE" value="3133" />
+        <entry key="ENGLISH" value="3151" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
