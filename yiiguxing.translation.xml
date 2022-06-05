@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Window flag: a special mode where the layout parameters are used to perform scaling of the surface when it is composited to the screen." />
+      <item value="The intention of this flag is to leave the touch to be handled by some window below this window" />
+      <item value="allow any pointer events outside of the window to be sent to the windows behind it" />
+      <item value="even when this window is focusable" />
+      <item value="Window flag: even when this window is focusable (its {@link FLAG_NOT_FOCUSABLE} is not set), allow any pointer events outside of the window to be sent to the windows behind it. Otherwise it will consume all pointer events itself, regardless of whether they are inside of the window." />
+      <item value="allow any pointer events outside of the window to be sent to the windows behind it. Otherwise it will consume all pointer events itself, regardless of whether they are inside of the window." />
+      <item value="allow window to extend outside of the screen" />
       <item value="FRONT" />
       <item value="Synthesizer" />
       <item value="比率" />
@@ -44,18 +51,11 @@
       <item value="孩子" />
       <item value="The visual x position of this view, in pixels. This is equivalent to the {@link setTranslationX(float) translationX} property plus the current {@link getLeft() left} property." />
       <item value="Returns the original raw X coordinate of this event. For touch events on the screen, this is the original location of the event on the screen, before it had been adjusted for the containing window and views." />
-      <item value="non Transitive R Class" />
-      <item value="Transitive" />
-      <item value="internal Get" />
-      <item value="semeter" />
-      <item value="Invalid" />
-      <item value="引导语" />
-      <item value="透明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3141" />
-        <entry key="ENGLISH" value="3157" />
+        <entry key="CHINESE" value="3150" />
+        <entry key="ENGLISH" value="3166" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653918999476" />
+    <option name="lastTrimTime" value="1654395855821" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
