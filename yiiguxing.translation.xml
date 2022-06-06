@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pattern" />
       <item value="The amount to rotate, in degrees" />
       <item value="旋转角度" />
       <item value="角度" />
@@ -50,7 +51,6 @@
       <item value="Autowired" />
       <item value="Syringe" />
       <item value="I Syringe" />
-      <item value="questionnaire" />
     </histories>
     <option name="languageScores">
       <map>
