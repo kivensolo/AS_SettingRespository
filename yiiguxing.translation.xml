@@ -1,8 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="province" />
-      <item value="pattern" />
+      <item value="比率" />
+      <item value="比例" />
+      <item value="dy Radio" />
+      <item value="检测" />
+      <item value="A Itoast没有初始化，清先调用init AI Toast" />
+      <item value="Must be invoke initAIToast() befor showAiToast()" />
+      <item value="The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
+      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
+      <item value="Sets the degrees that the view is rotated around the pivot point. Increasing values result in clockwise rotation." />
       <item value="The amount to rotate, in degrees" />
       <item value="旋转角度" />
       <item value="角度" />
@@ -44,24 +51,18 @@
       <item value="透明" />
       <item value="有效" />
       <item value="可用" />
-      <item value="结合的" />
-      <item value="In Half" />
-      <item value="notify In Half" />
-      <item value="Half" />
-      <item value="当前页面所有问题都回答了" />
-      <item value="Autowired" />
-      <item value="Syringe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3129" />
-        <entry key="ENGLISH" value="3151" />
+        <entry key="CHINESE" value="3139" />
+        <entry key="ENGLISH" value="3155" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="13" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
+        <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="6" />
         <entry key="ROMANIAN" value="9" />
@@ -80,9 +81,7 @@
     <option name="lastTrimTime" value="1653918999476" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
