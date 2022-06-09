@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The return column of QUERY is not defined!" />
+      <item value="查询数据的返回列没有定义" />
+      <item value="Return column name of QUERY hasn't define!" />
+      <item value="No return column name of query has define" />
+      <item value="No query return column name has define" />
+      <item value="projection" />
       <item value="Cortana" />
       <item value="科塔娜" />
       <item value="Dakota" />
@@ -45,17 +51,11 @@
       <item value="criteria" />
       <item value="A selection criteria to apply when filtering rows. * If {@code null} then all rows are included." />
       <item value="You may include ?s in selection, which will be replaced by * the values from selectionArgs, in order that they appear in the selection. * The values will be bound as Strings." />
-      <item value="segment" />
-      <item value="preferences" />
-      <item value="waring Line" />
-      <item value="警告" />
-      <item value="wraring Line" />
-      <item value="wraring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3161" />
-        <entry key="ENGLISH" value="3178" />
+        <entry key="CHINESE" value="3167" />
+        <entry key="ENGLISH" value="3184" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
