@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="selection" />
       <item value="The return column of QUERY is not defined!" />
       <item value="查询数据的返回列没有定义" />
       <item value="Return column name of QUERY hasn't define!" />
@@ -50,12 +51,11 @@
       <item value="解析器" />
       <item value="criteria" />
       <item value="A selection criteria to apply when filtering rows. * If {@code null} then all rows are included." />
-      <item value="You may include ?s in selection, which will be replaced by * the values from selectionArgs, in order that they appear in the selection. * The values will be bound as Strings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3167" />
-        <entry key="ENGLISH" value="3184" />
+        <entry key="CHINESE" value="3168" />
+        <entry key="ENGLISH" value="3185" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
