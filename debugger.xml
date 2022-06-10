@@ -139,7 +139,9 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
@@ -149,11 +151,6 @@
       <debugger id="groovy_debugger">
         <configuration>
           <option name="ENABLE_GROOVY_HOTSWAP" value="false" />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
