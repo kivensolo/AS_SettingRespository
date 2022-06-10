@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Positive numbers will scroll the content to the left." />
       <item value="alias" />
       <item value="alia" />
       <item value="nick" />
@@ -54,12 +55,11 @@
       <item value="You may include ?s in selection, which will be replaced by * the values from selectionArgs, in order that they appear in the selection. * The values will be bound as Strings." />
       <item value="segment" />
       <item value="preferences" />
-      <item value="waring Line" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3163" />
-        <entry key="ENGLISH" value="3174" />
+        <entry key="CHINESE" value="3165" />
+        <entry key="ENGLISH" value="3176" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654395855821" />
+    <option name="lastTrimTime" value="1654857173503" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
