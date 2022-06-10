@@ -32,6 +32,10 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="Gsonformat">
+    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
