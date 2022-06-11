@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="立刻" />
       <item value="User-defined message code so that the recipient can identify what this message is about. Each {@link Handler} has its own name-space for message codes, so you do not need to worry about yours conflicting with other handlers." />
       <item value="随机" />
       <item value="radom" />
@@ -50,11 +51,10 @@
       <item value="Light Halo" />
       <item value="radial" />
       <item value="Layer" />
-      <item value="buttom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3175" />
+        <entry key="CHINESE" value="3176" />
         <entry key="ENGLISH" value="3189" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="9" />
