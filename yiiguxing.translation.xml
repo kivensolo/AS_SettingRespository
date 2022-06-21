@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cursor" />
+      <item value="match" />
       <item value="artifacts" />
       <item value="conditions" />
       <item value="条件" />
@@ -53,13 +55,11 @@
       <item value="FRONT" />
       <item value="Synthesizer" />
       <item value="比率" />
-      <item value="比例" />
-      <item value="dy Radio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3189" />
-        <entry key="ENGLISH" value="3204" />
+        <entry key="CHINESE" value="3192" />
+        <entry key="ENGLISH" value="3207" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655274021461" />
+    <option name="lastTrimTime" value="1655779213079" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
