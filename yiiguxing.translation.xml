@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="3695" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Downsample" />
+      <item value="Canvas and Drawables" />
+      <item value="primitive" />
+      <item value="a drawing primitive" />
+      <item value="Construct an empty raster canvas." />
+      <item value="Construct an empty raster canvas" />
+      <item value="Specifies a mutable bitmap for the canvas to draw into" />
+      <item value="The initial target density of the canvas is the same as the given bitmap's density." />
+      <item value="Construct a canvas with the specified bitmap to draw into. The bitmap must be mutable." />
       <item value="to the given Canvas" />
       <item value="and all of its children" />
       <item value="Manually render this view" />
@@ -45,20 +54,11 @@
       <item value="注释" />
       <item value="create Utility" />
       <item value="commit Animation Frame" />
-      <item value="Pulsing" />
-      <item value="start Without Pulsing" />
-      <item value="reverse" />
-      <item value="Whether the ValueAnimator should start playing in reverse" />
-      <item value="play Backwards" />
-      <item value="The time, in milliseconds, to which the animation is advanced or rewound." />
-      <item value="The time elapsed since the previous frame, in milliseconds." />
-      <item value="delta Time" />
-      <item value="Positive numbers will scroll the * content to the left." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3234" />
-        <entry key="ENGLISH" value="3245" />
+        <entry key="CHINESE" value="3243" />
+        <entry key="ENGLISH" value="3254" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
