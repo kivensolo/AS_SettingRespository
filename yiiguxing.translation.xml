@@ -1,8 +1,46 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="3695" />
+    <option name="newTranslationDialogY" value="457" />
     <histories>
-      <item value="mean" />
-      <item value="_mean Difference" />
+      <item value="artifacts" />
+      <item value="RenderScript artifacts" />
+      <item value="以下操作是为了避免边缘出现一些 RenderScript 伪影。" />
+      <item value="The following manipulation is to avoid some RenderScript artifacts at the edge." />
+      <item value="m Downsample Factor" />
+      <item value="ceil" />
+      <item value="Manually render this view (and all of its children) to the given Canvas. The view must have already done a full layout before this function is called. When implementing a view, implement {@link onDraw(android.graphics.Canvas)} instead of overriding this method. If you do need to override this method, call the superclass version. @param canvas The Canvas to which the View is rendered." />
+      <item value="Sets up this AnimatorSet to play all of the supplied animations at the same time. This is equivalent to calling {@link play(Animator)} with the first animator in the set and then {@link Builderwith(Animator)} with each of the other animators. Note that an Animator with a {@link AnimatorsetStartDelay(long) startDelay} will not actually start until that delay elapses, which means that if the first animator in the list supplied to this constructor has a startDelay, none of the other animators will start until that first animator's startDelay has elapsed. @param items The animations that will be started simultaneously." />
+      <item value="Randomly pick a different start in the array of available images." />
+      <item value="Demonstrates" />
+      <item value="Demonstrates the use of the blurring view." />
+      <item value="shuffle" />
+      <item value="proposed alternatives" />
+      <item value="设置blur Script对象的输入内存" />
+      <item value="Fills the bitmap's pixels with the specified {@link Color}." />
+      <item value="erase Color" />
+      <item value="Script Intrinsic Blur" />
+      <item value="Use {@link setBlurredView(android.view.View)} to set up the reference to the view to be blurred." />
+      <item value="trigger" />
+      <item value="A custom view for presenting a dynamically blurred version of another view's content." />
+      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
+      <item value="All rights reserved" />
+      <item value="条件" />
+      <item value="exist" />
+      <item value="contains" />
+      <item value="include" />
+      <item value="不存在" />
+      <item value="exclude" />
+      <item value="operations" />
+      <item value="cursor" />
+      <item value="match" />
+      <item value="conditions" />
+      <item value="Extension method to provide simpler access to" />
+      <item value="Column" />
+      <item value="commentary" />
+      <item value="注释" />
+      <item value="create Utility" />
       <item value="commit Animation Frame" />
       <item value="Pulsing" />
       <item value="start Without Pulsing" />
@@ -16,46 +54,11 @@
       <item value="Horizontal distance to travel" />
       <item value="Positive * numbers will scroll the content to the left." />
       <item value="Starting horizontal scroll offset in pixels" />
-      <item value="selection" />
-      <item value="The return column of QUERY is not defined!" />
-      <item value="查询数据的返回列没有定义" />
-      <item value="Return column name of QUERY hasn't define!" />
-      <item value="No return column name of query has define" />
-      <item value="No query return column name has define" />
-      <item value="projection" />
-      <item value="Cortana" />
-      <item value="科塔娜" />
-      <item value="Dakota" />
-      <item value="宏替换" />
-      <item value="宏" />
-      <item value="Method parse in android.net.Uri not mocked" />
-      <item value="alternate Names" />
-      <item value="get Actual Type Arguments" />
-      <item value="Indicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true." />
-      <item value="Whether to split the track and leave a gap for the thumb drawable" />
-      <item value="Window flag: a special mode where the layout parameters are used to perform scaling of the surface when it is composited to the screen." />
-      <item value="The intention of this flag is to leave the touch to be handled by some window below this window" />
-      <item value="allow any pointer events outside of the window to be sent to the windows behind it" />
-      <item value="even when this window is focusable" />
-      <item value="Window flag: even when this window is focusable (its {@link FLAG_NOT_FOCUSABLE} is not set), allow any pointer events outside of the window to be sent to the windows behind it. Otherwise it will consume all pointer events itself, regardless of whether they are inside of the window." />
-      <item value="allow any pointer events outside of the window to be sent to the windows behind it. Otherwise it will consume all pointer events itself, regardless of whether they are inside of the window." />
-      <item value="allow window to extend outside of the screen" />
-      <item value="FRONT" />
-      <item value="Synthesizer" />
-      <item value="比率" />
-      <item value="比例" />
-      <item value="dy Radio" />
-      <item value="检测" />
-      <item value="A Itoast没有初始化，清先调用init AI Toast" />
-      <item value="Must be invoke initAIToast() befor showAiToast()" />
-      <item value="The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
-      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
-      <item value="Sets the degrees that the view is rotated around the pivot point. Increasing values result in clockwise rotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3184" />
-        <entry key="ENGLISH" value="3201" />
+        <entry key="CHINESE" value="3231" />
+        <entry key="ENGLISH" value="3242" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -78,12 +81,10 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654395855821" />
+    <option name="lastTrimTime" value="1655779213079" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
