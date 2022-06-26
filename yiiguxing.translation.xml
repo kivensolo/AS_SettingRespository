@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SAMPLING" />
       <item value="If you are using this algorithm in your code please add the following line:" />
       <item value="I called it Stack Blur because this describes best how this filter works internally: it creates a kind of moving stack of colors whilst scanning through the image. Thereby it just has to add one new block of color to the right side of the stack and remove the leftmost color. The remaining colors on the topmost layer of the stack are either added on or reduced by one, depending on if they are on the right or on the left side of the stack." />
       <item value="This is a compromise between Gaussian Blur and Box blur It creates much better looking blurs than Box Blur, but is 7x faster than my Gaussian Blur implementation." />
@@ -50,12 +51,11 @@
       <item value="create Utility" />
       <item value="commit Animation Frame" />
       <item value="Pulsing" />
-      <item value="start Without Pulsing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3241" />
-        <entry key="ENGLISH" value="3251" />
+        <entry key="CHINESE" value="3242" />
+        <entry key="ENGLISH" value="3252" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
