@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portrait" />
       <item value="Only applies if the matrix contains more than just translation." />
       <item value="true if the source should be filtered" />
       <item value="radius" />
@@ -50,12 +51,11 @@
       <item value="operations" />
       <item value="cursor" />
       <item value="match" />
-      <item value="conditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3249" />
-        <entry key="ENGLISH" value="3259" />
+        <entry key="CHINESE" value="3250" />
+        <entry key="ENGLISH" value="3260" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
