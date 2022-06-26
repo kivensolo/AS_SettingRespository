@@ -1,42 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="3695" />
-    <option name="newTranslationDialogY" value="457" />
     <histories>
-      <item value="Image Composer" />
-      <item value="Composer" />
-      <item value="wait For Existing Or Start New Job" />
-      <item value="Determines the size of the view by first checking {@link android.view.ViewgetWidth()} and {@link android.view.ViewgetHeight()}. If one or both are zero, it then checks the view's {@link LayoutParams}. If one or both of the params width and height are less than or equal to zero, it then adds an {@link android.view.ViewTreeObserver.OnPreDrawListener} which waits until the view has been measured before calling the callback with the view's drawn width and height." />
-      <item value="Determines the size of the view by first checking {@link android.view.ViewgetWidth()} and {@link android.view.ViewgetHeight()}. If one or both are zero, it then checks the view's {@link LayoutParams}." />
-      <item value="Prevents any bitmaps being loaded from previous requests, releases any resources held by this request, displays the current placeholder if one was provided, and marks the request as having been cancelled." />
-      <item value="Stops any in progress requests" />
-      <item value="A class for managing and starting requests for Glide." />
-      <item value="A class for managing and starting requests for Glide. Can use activity, fragment and connectivity lifecycle events to intelligently stop, start, and restart requests. Retrieve either by instantiating a new object, or to take advantage built in Activity and Fragment lifecycle handling, use the static Glide.load methods with your Fragment or Activity." />
-      <item value="loads a resource for an {@link com.bumptech.glide.request.target.Target}" />
-      <item value="Retrieves the current request for this target, should not be called outside of Glide." />
-      <item value="The type of resource the target can display" />
-      <item value="An interface that Glide can load a resource into and notify of relevant lifecycle events during a load." />
-      <item value="relevant" />
-      <item value="Set the target the resource will be loaded into" />
-      <item value="loads a resource for an" />
-      <item value="A request that loads a resource for an {@link com.bumptech.glide.request.target.Target}." />
-      <item value="is Equivalent To" />
-      <item value="build Request Recursive" />
-      <item value="Gaussian Blur" />
-      <item value="百" />
-      <item value="Downsample" />
-      <item value="Canvas and Drawables" />
-      <item value="primitive" />
-      <item value="a drawing primitive" />
-      <item value="Construct an empty raster canvas." />
-      <item value="Construct an empty raster canvas" />
-      <item value="Specifies a mutable bitmap for the canvas to draw into" />
-      <item value="The initial target density of the canvas is the same as the given bitmap's density." />
-      <item value="Construct a canvas with the specified bitmap to draw into. The bitmap must be mutable." />
-      <item value="to the given Canvas" />
-      <item value="and all of its children" />
-      <item value="Manually render this view" />
+      <item value="天气" />
+      <item value="weatcher" />
       <item value="artifacts" />
       <item value="RenderScript artifacts" />
       <item value="以下操作是为了避免边缘出现一些 RenderScript 伪影。" />
@@ -54,11 +20,42 @@
       <item value="Fills the bitmap's pixels with the specified {@link Color}." />
       <item value="erase Color" />
       <item value="Script Intrinsic Blur" />
+      <item value="Use {@link setBlurredView(android.view.View)} to set up the reference to the view to be blurred." />
+      <item value="trigger" />
+      <item value="A custom view for presenting a dynamically blurred version of another view's content." />
+      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
+      <item value="All rights reserved" />
+      <item value="条件" />
+      <item value="exist" />
+      <item value="contains" />
+      <item value="include" />
+      <item value="不存在" />
+      <item value="exclude" />
+      <item value="operations" />
+      <item value="cursor" />
+      <item value="match" />
+      <item value="conditions" />
+      <item value="Extension method to provide simpler access to" />
+      <item value="Column" />
+      <item value="commentary" />
+      <item value="注释" />
+      <item value="create Utility" />
+      <item value="commit Animation Frame" />
+      <item value="Pulsing" />
+      <item value="start Without Pulsing" />
+      <item value="reverse" />
+      <item value="Whether the ValueAnimator should start playing in reverse" />
+      <item value="play Backwards" />
+      <item value="The time, in milliseconds, to which the animation is advanced or rewound." />
+      <item value="The time elapsed since the previous frame, in milliseconds." />
+      <item value="delta Time" />
+      <item value="Positive numbers will scroll the * content to the left." />
+      <item value="Horizontal distance to travel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3266" />
-        <entry key="ENGLISH" value="3276" />
+        <entry key="CHINESE" value="3232" />
+        <entry key="ENGLISH" value="3243" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -81,10 +78,12 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656211826386" />
+    <option name="lastTrimTime" value="1655779213079" />
   </component>
   <component name="Settings">
+    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
