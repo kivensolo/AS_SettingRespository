@@ -81,9 +81,7 @@
     <option name="lastTrimTime" value="1655779213079" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
