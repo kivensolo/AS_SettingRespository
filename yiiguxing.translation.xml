@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create drawable from a bitmap, setting initial target density based on the display metrics of the resources." />
       <item value="Initializes local dynamic properties from state. This should be called after significant state changes, e.g. from the One True Constructor and after inflating or applying a theme." />
       <item value="mutate" />
       <item value="portrait" />
@@ -50,12 +51,11 @@
       <item value="include" />
       <item value="不存在" />
       <item value="exclude" />
-      <item value="operations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3252" />
-        <entry key="ENGLISH" value="3262" />
+        <entry key="CHINESE" value="3253" />
+        <entry key="ENGLISH" value="3263" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
