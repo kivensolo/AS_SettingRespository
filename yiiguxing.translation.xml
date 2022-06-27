@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bilinear" />
+      <item value="Paint flag that enables bilinear sampling on scaled bitmaps. * * &lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor * sampling, likely resulting in artifacts. This should generally be on * when drawing bitmaps, unless performance-bound (rendering to software * canvas) or preferring pixelation artifacts to blurriness when scaling * significantly.&lt;/p&gt; * * &lt;p&gt;If bitmaps are scaled for device density at creation time (as * resource bitmaps often are) the filtering will already have been * done.&lt;/p&gt; * * @see #Paint(int) * @see #setFlags(int)" />
       <item value="Stack Blur Algorithm by Mario Klingemann" />
       <item value="stack" />
       <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
@@ -49,8 +51,6 @@
       <item value="start Without Pulsing" />
       <item value="reverse" />
       <item value="Whether the ValueAnimator should start playing in reverse" />
-      <item value="play Backwards" />
-      <item value="The time, in milliseconds, to which the animation is advanced or rewound." />
     </histories>
     <option name="languageScores">
       <map>
