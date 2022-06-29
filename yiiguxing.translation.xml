@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If this isn't an image, or BitmapFactory was unable to parse the size, width and height will be -1 here." />
+      <item value="decode From Retrieved Data" />
       <item value="acceleration" />
       <item value="A transform algorithm defines the rate of change of an animation. This allows animations * to have non-linear motion, such as acceleration and deceleration." />
       <item value="The interpolator used by the animation to smooth the movement." />
@@ -49,13 +51,11 @@
       <item value="Paint flag that enables bilinear sampling on scaled bitmaps. * * &lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor * sampling, likely resulting in artifacts. This should generally be on * when drawing bitmaps, unless performance-bound (rendering to software * canvas) or preferring pixelation artifacts to blurriness when scaling * significantly.&lt;/p&gt; * * &lt;p&gt;If bitmaps are scaled for device density at creation time (as * resource bitmaps often are) the filtering will already have been * done.&lt;/p&gt; * * @see #Paint(int) * @see #setFlags(int)" />
       <item value="Stack Blur Algorithm by Mario Klingemann" />
       <item value="stack" />
-      <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="Wasabeef" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3281" />
-        <entry key="ENGLISH" value="3291" />
+        <entry key="CHINESE" value="3283" />
+        <entry key="ENGLISH" value="3293" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -83,9 +83,7 @@
     <option name="lastTrimTime" value="1656213039730" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
