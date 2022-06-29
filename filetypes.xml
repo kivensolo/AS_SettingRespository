@@ -13,6 +13,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="asdasd" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
