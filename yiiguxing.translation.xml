@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="motion" />
+      <item value="This allows animations * to have non-linear motion, such as acceleration and deceleration." />
+      <item value="defines the rate of change of an animation." />
+      <item value="get Interpolation" />
+      <item value="A value between 0 and 1.0 indicating our current point * in the animation where 0 represents the start and 1.0 represents * the end" />
+      <item value="A time interpolator defines the rate of change of an animation. This allows animations * to have non-linear motion, such as acceleration and deceleration." />
+      <item value="Interpolator" />
+      <item value="Algorithm name" />
+      <item value="Set the algorithm for parameter calculation" />
+      <item value="Set transform parameters" />
+      <item value="float array of parameters" />
       <item value="current always true" />
       <item value="current is always true" />
       <item value="current" />
@@ -40,22 +51,11 @@
       <item value="天气" />
       <item value="weatcher" />
       <item value="artifacts" />
-      <item value="RenderScript artifacts" />
-      <item value="以下操作是为了避免边缘出现一些 RenderScript 伪影。" />
-      <item value="The following manipulation is to avoid some RenderScript artifacts at the edge." />
-      <item value="m Downsample Factor" />
-      <item value="ceil" />
-      <item value="Manually render this view (and all of its children) to the given Canvas. The view must have already done a full layout before this function is called. When implementing a view, implement {@link onDraw(android.graphics.Canvas)} instead of overriding this method. If you do need to override this method, call the superclass version. @param canvas The Canvas to which the View is rendered." />
-      <item value="Sets up this AnimatorSet to play all of the supplied animations at the same time. This is equivalent to calling {@link play(Animator)} with the first animator in the set and then {@link Builderwith(Animator)} with each of the other animators. Note that an Animator with a {@link AnimatorsetStartDelay(long) startDelay} will not actually start until that delay elapses, which means that if the first animator in the list supplied to this constructor has a startDelay, none of the other animators will start until that first animator's startDelay has elapsed. @param items The animations that will be started simultaneously." />
-      <item value="Randomly pick a different start in the array of available images." />
-      <item value="Demonstrates" />
-      <item value="Demonstrates the use of the blurring view." />
-      <item value="shuffle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3266" />
-        <entry key="ENGLISH" value="3276" />
+        <entry key="CHINESE" value="3278" />
+        <entry key="ENGLISH" value="3288" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
