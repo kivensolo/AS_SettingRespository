@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use the flagless version." />
+      <item value="flagless" />
+      <item value="Most flags is invalid" />
+      <item value="Most flags is ignored. Use the flagless version. only ALL_SAVE_FLAG is allowed!" />
+      <item value="Use the flagless version" />
+      <item value="Use the flagless version of" />
       <item value="If this isn't an image, or BitmapFactory was unable to parse the size, width and height will be -1 here." />
       <item value="decode From Retrieved Data" />
       <item value="acceleration" />
@@ -45,17 +51,11 @@
       <item value="Paint flag that enables dithering when blitting." />
       <item value="DITHER" />
       <item value="DITHER FLAG" />
-      <item value="Paint flag that enables bilinear sampling on scaled bitmaps. *" />
-      <item value="Paint flag that enables bilinear sampling on scaled bitmaps." />
-      <item value="bilinear" />
-      <item value="Paint flag that enables bilinear sampling on scaled bitmaps. * * &lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor * sampling, likely resulting in artifacts. This should generally be on * when drawing bitmaps, unless performance-bound (rendering to software * canvas) or preferring pixelation artifacts to blurriness when scaling * significantly.&lt;/p&gt; * * &lt;p&gt;If bitmaps are scaled for device density at creation time (as * resource bitmaps often are) the filtering will already have been * done.&lt;/p&gt; * * @see #Paint(int) * @see #setFlags(int)" />
-      <item value="Stack Blur Algorithm by Mario Klingemann" />
-      <item value="stack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3283" />
-        <entry key="ENGLISH" value="3293" />
+        <entry key="CHINESE" value="3288" />
+        <entry key="ENGLISH" value="3298" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
