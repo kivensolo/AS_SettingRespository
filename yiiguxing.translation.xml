@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MainPage's memory data load failed! Try to load default data from app." />
+      <item value="MainPage's memory data load failed! Try to load default data in app." />
+      <item value="MainPage's memory data get failed! Try to load default data in app." />
+      <item value="Constant Conditions" />
       <item value="Use the flagless version." />
       <item value="flagless" />
       <item value="Most flags is invalid" />
@@ -47,15 +51,11 @@
       <item value="Quiver" />
       <item value="peek" />
       <item value="get Anim Rect" />
-      <item value="Alphe" />
-      <item value="Paint flag that enables dithering when blitting." />
-      <item value="DITHER" />
-      <item value="DITHER FLAG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3288" />
-        <entry key="ENGLISH" value="3298" />
+        <entry key="CHINESE" value="3292" />
+        <entry key="ENGLISH" value="3302" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
