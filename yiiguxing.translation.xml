@@ -1,14 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="3562" />
-    <option name="newTranslationDialogY" value="689" />
     <histories>
-      <item value="SHIFT BITS" />
-      <item value="row Bytes" />
-      <item value="COUNT SCALAR" />
-      <item value="原生库名称" />
-      <item value="原生代码文件" />
+      <item value="Write remaining data" />
+      <item value="Rewinds this buffer. The position is set to zero and the mark is * discarded." />
+      <item value="rewind" />
+      <item value="pass" />
+      <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
       <item value="consult" />
       <item value="is Assignable From" />
       <item value="More than one file was found with OS independent path" />
@@ -58,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3312" />
-        <entry key="ENGLISH" value="3318" />
+        <entry key="ENGLISH" value="3320" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -83,10 +80,12 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657262130086" />
+    <option name="lastTrimTime" value="1656662879821" />
   </component>
   <component name="Settings">
+    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
