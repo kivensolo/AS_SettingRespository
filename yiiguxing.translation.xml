@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="495" />
+    <option name="newTranslationDialogY" value="276" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="receive" />
+      <item value="接收" />
       <item value="Something terrible happened" />
       <item value="海报上绑定的数据" />
       <item value="start Intent Compat" />
@@ -49,13 +55,11 @@
       <item value="Interpolator" />
       <item value="Algorithm name" />
       <item value="Set the algorithm for parameter calculation" />
-      <item value="Set transform parameters" />
-      <item value="float array of parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3320" />
-        <entry key="ENGLISH" value="3325" />
+        <entry key="CHINESE" value="3322" />
+        <entry key="ENGLISH" value="3326" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
