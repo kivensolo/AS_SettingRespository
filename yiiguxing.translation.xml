@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Load path of input file" />
+      <item value="输入文件加载路径" />
+      <item value="加载路径" />
       <item value="手动" />
       <item value="receive" />
       <item value="接收" />
@@ -52,14 +55,11 @@
       <item value="defines the rate of change of an animation." />
       <item value="get Interpolation" />
       <item value="A value between 0 and 1.0 indicating our current point * in the animation where 0 represents the start and 1.0 represents * the end" />
-      <item value="A time interpolator defines the rate of change of an animation. This allows animations * to have non-linear motion, such as acceleration and deceleration." />
-      <item value="Interpolator" />
-      <item value="Algorithm name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3323" />
-        <entry key="ENGLISH" value="3326" />
+        <entry key="CHINESE" value="3326" />
+        <entry key="ENGLISH" value="3327" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
