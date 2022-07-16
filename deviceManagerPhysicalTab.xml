@@ -99,10 +99,21 @@
             <value value="192.168.41.185:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-16T03:37:44.755686100Z" />
         <name value="SKYWORTH E910V10C-YH" />
         <target value="Android 4.4" />
         <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:49890" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-16T07:46:07.550622400Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
