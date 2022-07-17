@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.185:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-17T05:47:40.541268300Z" />
+        <name value="SKYWORTH E910V10C-YH" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.31.10.236:5555" />
           </Key>
         </key>
@@ -91,17 +103,6 @@
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 7.1.1" />
         <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.41.185:5555" />
-          </Key>
-        </key>
-        <name value="SKYWORTH E910V10C-YH" />
-        <target value="Android 4.4" />
-        <api value="19" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
