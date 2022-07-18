@@ -234,6 +234,14 @@
           <option name="url" value="https://gitee.com/starcor-com/terminal-aaa-sdk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:starcor-com/CloundBoxLauncher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/starcor-com/cloudBoxWithxul.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work" />
