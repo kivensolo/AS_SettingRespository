@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Focus Lost" />
+      <item value="on Focus Gain" />
       <item value="fade In" />
       <item value="keep the old fade in bkg" />
       <item value="Fade" />
@@ -53,13 +55,11 @@
       <item value="注释" />
       <item value="commits" />
       <item value="INSTALL PARSE FAILED UNEXPECTED EXCEPTION" />
-      <item value="尝试从内部加载默认数据" />
-      <item value="Try to load default data from inner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3344" />
-        <entry key="ENGLISH" value="3345" />
+        <entry key="CHINESE" value="3346" />
+        <entry key="ENGLISH" value="3347" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
