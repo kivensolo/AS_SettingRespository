@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="观看行为" />
+      <item value="Referral" />
+      <item value="get Referral Report" />
       <item value="and then increments the position" />
       <item value="the buffer into which the data is read" />
       <item value="Decode Webp" />
@@ -22,7 +25,6 @@
       <item value="streth" />
       <item value="拉伸" />
       <item value="Processor" />
-      <item value="get Referral Report" />
       <item value="gath Source Id" />
       <item value="on Focus Lost" />
       <item value="on Focus Gain" />
@@ -53,13 +55,11 @@
       <item value="receive" />
       <item value="接收" />
       <item value="Something terrible happened" />
-      <item value="海报上绑定的数据" />
-      <item value="start Intent Compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3360" />
-        <entry key="ENGLISH" value="3361" />
+        <entry key="CHINESE" value="3363" />
+        <entry key="ENGLISH" value="3363" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
