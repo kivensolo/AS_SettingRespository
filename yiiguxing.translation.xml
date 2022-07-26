@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="首页模板数据的本地缓存文件名" />
+      <item value="MainPage template data local cache file name." />
       <item value="Space for VP8" />
       <item value="Last Space" />
       <item value="空格" />
@@ -53,13 +55,11 @@
       <item value="get Antileech List" />
       <item value="Antileech" />
       <item value="Load path of input file" />
-      <item value="输入文件加载路径" />
-      <item value="加载路径" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3365" />
-        <entry key="ENGLISH" value="3366" />
+        <entry key="CHINESE" value="3367" />
+        <entry key="ENGLISH" value="3367" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
