@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.186:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-29T05:20:20.587088600Z" />
+        <name value="ZTE Corporation B863AV3.1-T2" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:49311" />
           </Key>
         </key>
