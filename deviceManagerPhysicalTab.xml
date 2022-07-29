@@ -8,7 +8,6 @@
             <value value="192.168.41.186:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-29T05:20:20.587088600Z" />
         <name value="ZTE Corporation B863AV3.1-T2" />
         <target value="Android 9.0" />
         <api value="28" />
@@ -150,6 +149,18 @@
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 7.1.1" />
         <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.6:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-29T12:02:57.096799200Z" />
+        <name value="YOUHUA MT5021" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
