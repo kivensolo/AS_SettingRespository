@@ -169,10 +169,21 @@
             <value value="192.168.41.7:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-30T07:54:06.395390400Z" />
         <name value="YOUHUA MT5021" />
         <target value="Android 9.0" />
         <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.8:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-30T09:19:28.991949Z" />
+        <name value="YOUHUA M512" />
+        <target value="Android 4.4" />
+        <api value="19" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
