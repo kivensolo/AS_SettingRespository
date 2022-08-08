@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Usability Changed" />
       <item value="Legacy" />
       <item value="voice" />
       <item value="column Name For Voice Awaken" />
@@ -54,12 +55,11 @@
       <item value="decode Webp Size" />
       <item value="是否是webp文件格式" />
       <item value="Is webp file format" />
-      <item value="复仇者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3395" />
-        <entry key="ENGLISH" value="3396" />
+        <entry key="CHINESE" value="3396" />
+        <entry key="ENGLISH" value="3397" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659407257184" />
+    <option name="lastTrimTime" value="1659923803144" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
