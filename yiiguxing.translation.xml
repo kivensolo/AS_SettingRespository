@@ -92,6 +92,7 @@
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
