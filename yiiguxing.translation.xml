@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="The activity component at the top of the history stack of the task. This is what the user is currently doing." />
+      <item value="The component launched as the first activity in the task. This can be considered the &quot;application&quot; of this task." />
+      <item value="The component launched as the first activity in the task" />
+      <item value="com.awe.dev.pro.tv" />
       <item value="Exist" />
       <item value="虚拟" />
       <item value="the alternative names of the field when it is deserialized" />
@@ -50,15 +54,11 @@
       <item value="UNITY SCAN QRCODE SUCCESS" />
       <item value="Replace" />
       <item value="trim Margin" />
-      <item value="ANIM RATION" />
-      <item value="首页模板数据的本地缓存文件名" />
-      <item value="MainPage template data local cache file name." />
-      <item value="Space for VP8" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3410" />
-        <entry key="ENGLISH" value="3411" />
+        <entry key="CHINESE" value="3416" />
+        <entry key="ENGLISH" value="3417" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
