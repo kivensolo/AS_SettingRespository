@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Serializer Feature" />
+      <item value="serialze Features" />
       <item value="联通" />
       <item value="演示" />
       <item value="UNICOM" />
@@ -52,13 +54,11 @@
       <item value="直接拉起封套页面" />
       <item value="行业" />
       <item value="获取Launcher相关业务数据" />
-      <item value="获取Launcher相关数据" />
-      <item value="UNITY LOGIN OUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3420" />
-        <entry key="ENGLISH" value="3421" />
+        <entry key="CHINESE" value="3423" />
+        <entry key="ENGLISH" value="3424" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
