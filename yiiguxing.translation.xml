@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Multi-interface encapsulation" />
       <item value="FAILSTR" />
       <item value="Serializer Feature" />
       <item value="serialze Features" />
@@ -53,12 +54,11 @@
       <item value="TRADE" />
       <item value="Start cover epg web page directly" />
       <item value="直接拉起封套页面" />
-      <item value="行业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3424" />
-        <entry key="ENGLISH" value="3424" />
+        <entry key="CHINESE" value="3425" />
+        <entry key="ENGLISH" value="3425" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
