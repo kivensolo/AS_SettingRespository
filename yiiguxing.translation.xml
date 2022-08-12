@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="FAILSTR" />
       <item value="Serializer Feature" />
       <item value="serialze Features" />
       <item value="联通" />
@@ -53,11 +54,10 @@
       <item value="Start cover epg web page directly" />
       <item value="直接拉起封套页面" />
       <item value="行业" />
-      <item value="获取Launcher相关业务数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3423" />
+        <entry key="CHINESE" value="3424" />
         <entry key="ENGLISH" value="3424" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
@@ -82,7 +82,7 @@
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="13" />
-        <entry key="INDONESIAN" value="14" />
+        <entry key="INDONESIAN" value="15" />
       </map>
     </option>
   </component>
