@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <histories>
       <item value="multiple artifacts with the identical extension and classifier ('aar', 'null')." />
+      <item value="publication" />
       <item value="multiple artifacts" />
       <item value="multiple artifacts with the identical extension and classifier" />
       <item value="Whether it is a webp file format" />
@@ -53,12 +54,11 @@
       <item value="industry" />
       <item value="打开行业封套页面" />
       <item value="Composite" />
-      <item value="启动定时刷新首页数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3432" />
-        <entry key="ENGLISH" value="3432" />
+        <entry key="CHINESE" value="3434" />
+        <entry key="ENGLISH" value="3434" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
