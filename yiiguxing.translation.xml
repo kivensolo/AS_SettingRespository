@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="PROPFIND" />
       <item value="schedule" />
       <item value="schedul" />
       <item value="Schedule" />
@@ -53,14 +54,13 @@
       <item value="to accept malformed JSON at line 1 column 135223" />
       <item value="android.util.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 135223" />
       <item value="coerce At Most" />
-      <item value="Performing Streamed Install" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3439" />
+        <entry key="CHINESE" value="3440" />
         <entry key="ENGLISH" value="3438" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="9" />
+        <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="13" />
