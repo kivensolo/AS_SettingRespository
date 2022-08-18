@@ -1,10 +1,52 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ott Api Request Compensator" />
+      <item value="Schedule Http request based on the request mode" />
+      <item value="根据请求方式发起Http网络请求" />
+      <item value="根据请求方式触发Http网络请求" />
+      <item value="Custom schedule http task" />
+      <item value="PROPFIND" />
+      <item value="schedule" />
+      <item value="schedul" />
+      <item value="Schedule" />
+      <item value="auto Schedule" />
+      <item value="multiple artifacts with the identical extension and classifier ('aar', 'null')." />
+      <item value="publication" />
+      <item value="multiple artifacts" />
+      <item value="multiple artifacts with the identical extension and classifier" />
+      <item value="Whether it is a webp file format" />
+      <item value="Multi-interface encapsulation" />
+      <item value="FAILSTR" />
+      <item value="Serializer Feature" />
+      <item value="serialze Features" />
+      <item value="联通" />
+      <item value="演示" />
+      <item value="UNICOM" />
+      <item value="Blackening" />
+      <item value="The activity component at the top of the history stack of the task. This is what the user is currently doing." />
+      <item value="The component launched as the first activity in the task. This can be considered the &quot;application&quot; of this task." />
+      <item value="The component launched as the first activity in the task" />
+      <item value="com.awe.dev.pro.tv" />
+      <item value="Exist" />
+      <item value="虚拟" />
+      <item value="the alternative names of the field when it is deserialized" />
+      <item value="alternative" />
+      <item value="alternate Names" />
+      <item value="冒号" />
+      <item value="colon" />
+      <item value="Semicolon" />
+      <item value="Percent" />
+      <item value="百分比" />
+      <item value="steps Precent" />
+      <item value="System.exit returned normally, while it was supposed to halt JVM." />
+      <item value="it means that it never returns (always throws an exception)." />
+      <item value="System.exit returned normally, while it was supposed to halt JVM" />
+      <item value="This method never returns normally." />
+      <item value="on Usability Changed" />
       <item value="Legacy" />
       <item value="voice" />
       <item value="column Name For Voice Awaken" />
@@ -12,56 +54,13 @@
       <item value="Compress Format" />
       <item value="监听到天翼云盘授权成功" />
       <item value="unity" />
-      <item value="Commond" />
-      <item value="Clound" />
-      <item value="to accept malformed JSON at line 1 column 135223" />
-      <item value="android.util.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 135223" />
-      <item value="coerce At Most" />
-      <item value="Performing Streamed Install" />
-      <item value="无使用价值" />
-      <item value="industry" />
-      <item value="打开行业封套页面" />
-      <item value="Composite" />
-      <item value="启动定时刷新首页数据" />
-      <item value="定时刷新首页数据" />
-      <item value="TRADE" />
-      <item value="Start cover epg web page directly" />
-      <item value="直接拉起封套页面" />
-      <item value="行业" />
-      <item value="获取Launcher相关业务数据" />
-      <item value="获取Launcher相关数据" />
-      <item value="UNITY LOGIN OUT" />
-      <item value="To request user info" />
-      <item value="UNITY SCAN QRCODE SUCCESS" />
-      <item value="Replace" />
-      <item value="trim Margin" />
-      <item value="ANIM RATION" />
-      <item value="首页模板数据的本地缓存文件名" />
-      <item value="MainPage template data local cache file name." />
-      <item value="Space for VP8" />
-      <item value="Last Space" />
-      <item value="空格" />
-      <item value="Blank Space" />
-      <item value="观看行为" />
-      <item value="Referral" />
-      <item value="get Referral Report" />
-      <item value="and then increments the position" />
-      <item value="the buffer into which the data is read" />
-      <item value="Decode Webp" />
-      <item value="Value is Canvas Width Minus One." />
-      <item value="dimension" />
-      <item value="尺寸" />
-      <item value="decode Webp Size" />
-      <item value="是否是webp文件格式" />
-      <item value="Is webp file format" />
-      <item value="复仇者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3395" />
-        <entry key="ENGLISH" value="3396" />
+        <entry key="CHINESE" value="3445" />
+        <entry key="ENGLISH" value="3443" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="9" />
+        <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="13" />
@@ -83,15 +82,16 @@
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="13" />
-        <entry key="INDONESIAN" value="14" />
+        <entry key="INDONESIAN" value="16" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659407257184" />
+    <option name="lastTrimTime" value="1660461491935" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
