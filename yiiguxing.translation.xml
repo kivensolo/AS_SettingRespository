@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Bytes to hexString use string format;" />
+      <item value="DIGITS" />
+      <item value="一般情况下，被加密的文本中都有随机数" />
+      <item value="解密后的字符串" />
+      <item value="decrypt" />
+      <item value="3 des解码" />
+      <item value="原始密钥" />
+      <item value="key必须是长度大于等于 38 = 24 位" />
+      <item value="加密后结果需要转为16进制字符串" />
+      <item value="DES加密前需要将待加密串转为byte数组" />
+      <item value="原始密钥字符串" />
+      <item value="加密字符串" />
+      <item value="待加密字符串" />
       <item value="ASCALL" />
       <item value="DIGITS LOWER" />
       <item value="Key Spec" />
@@ -41,24 +54,11 @@
       <item value="Whether it is a webp file format" />
       <item value="Multi-interface encapsulation" />
       <item value="FAILSTR" />
-      <item value="Serializer Feature" />
-      <item value="serialze Features" />
-      <item value="联通" />
-      <item value="演示" />
-      <item value="UNICOM" />
-      <item value="Blackening" />
-      <item value="The activity component at the top of the history stack of the task. This is what the user is currently doing." />
-      <item value="The component launched as the first activity in the task. This can be considered the &quot;application&quot; of this task." />
-      <item value="The component launched as the first activity in the task" />
-      <item value="com.awe.dev.pro.tv" />
-      <item value="Exist" />
-      <item value="虚拟" />
-      <item value="the alternative names of the field when it is deserialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3467" />
-        <entry key="ENGLISH" value="3459" />
+        <entry key="CHINESE" value="3480" />
+        <entry key="ENGLISH" value="3472" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
