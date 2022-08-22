@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="分发" />
       <item value="Multi-interface encapsulation" />
       <item value="Bytes to hexString use string format;" />
       <item value="DIGITS" />
@@ -53,12 +54,11 @@
       <item value="multiple artifacts" />
       <item value="multiple artifacts with the identical extension and classifier" />
       <item value="Whether it is a webp file format" />
-      <item value="FAILSTR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3481" />
-        <entry key="ENGLISH" value="3473" />
+        <entry key="CHINESE" value="3482" />
+        <entry key="ENGLISH" value="3474" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
