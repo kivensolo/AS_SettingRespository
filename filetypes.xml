@@ -13,6 +13,7 @@
     <extensionMap>
       <mapping pattern="itvLauncher" type="AUTO_DETECTED" />
       <mapping pattern="activity_ai_testxml" type="AUTO_DETECTED" />
+      <mapping pattern="OrderConstans.java" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="README" type="PLAIN_TEXT" />
