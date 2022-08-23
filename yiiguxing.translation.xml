@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="单点权益" />
+      <item value="is Once Interest" />
       <item value="create Pay Order" />
       <item value="Clause Info" />
       <item value="分发" />
@@ -52,13 +54,11 @@
       <item value="Schedule" />
       <item value="auto Schedule" />
       <item value="multiple artifacts with the identical extension and classifier ('aar', 'null')." />
-      <item value="publication" />
-      <item value="multiple artifacts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3484" />
-        <entry key="ENGLISH" value="3476" />
+        <entry key="CHINESE" value="3486" />
+        <entry key="ENGLISH" value="3478" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
