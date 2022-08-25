@@ -34,4 +34,18 @@
       <option name="WORKING_DIRECTORY" value="E:/work/terminal-xul/library_xul/native/starcor_xul/jni" />
     </exec>
   </tool>
+  <tool name="ndk_build_xul_v8_gitee" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\android-sdk\ndk\22.0.7026061\ndk-build.cmd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/work/terminal-xul/library_xul/native/starcor_xul-v8/jni" />
+    </exec>
+  </tool>
+  <tool name="javah-jni-xul-v8" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk1.8.0_201\bin\javah.exe" />
+      <option name="PARAMETERS" value="-jni -encoding UTF-8 -d E:\work\XUL\trunk\xul_all\library_xul\native\starcor_xul-v8\jni $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="E:/work/XUL/trunk/xul_all/library_xul/src/main/java" />
+    </exec>
+  </tool>
 </toolSet>
