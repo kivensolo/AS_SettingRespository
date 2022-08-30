@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="支持运行时类型识别" />
+      <item value="Information" />
+      <item value="使用c++14标准" />
+      <item value="deduced" />
+      <item value="error: 'auto' return without trailing return type; deduced return types are a C++14 extension" />
+      <item value="deduced return types are a C++14 extension" />
       <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade" />
       <item value="raised" />
       <item value="Aapt 2 Exception" />
@@ -48,17 +54,11 @@
       <item value="Key Spec" />
       <item value="DE Sede Key Spec" />
       <item value="key Spec" />
-      <item value="DECRYPT MODE" />
-      <item value="encrypt By Rsa" />
-      <item value="unite Bytes" />
-      <item value="digest" />
-      <item value="TRANSFORMATION DES" />
-      <item value="环境" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3506" />
-        <entry key="ENGLISH" value="3498" />
+        <entry key="CHINESE" value="3513" />
+        <entry key="ENGLISH" value="3505" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
