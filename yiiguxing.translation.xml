@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="BASELESS KEYS" />
+      <item value="Guice" />
+      <item value="Guice binding annotations" />
+      <item value="unmodifiable Map" />
+      <item value="A resource, typically a @{link Chunk}, that can be converted to an array of bytes." />
+      <item value="Blame" />
+      <item value="Blame resource configurations" />
+      <item value="Blame resource" />
+      <item value="Blamer" />
       <item value="The Class object that represents the runtime class of this object." />
       <item value="get dyyx pay qr" />
       <item value="统一支付" />
@@ -45,20 +54,11 @@
       <item value="balance order" />
       <item value="ONCE" />
       <item value="常量" />
-      <item value="单点权益" />
-      <item value="is Once Interest" />
-      <item value="create Pay Order" />
-      <item value="Clause Info" />
-      <item value="分发" />
-      <item value="Multi-interface encapsulation" />
-      <item value="Bytes to hexString use string format;" />
-      <item value="DIGITS" />
-      <item value="一般情况下，被加密的文本中都有随机数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3529" />
-        <entry key="ENGLISH" value="3521" />
+        <entry key="CHINESE" value="3539" />
+        <entry key="ENGLISH" value="3531" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
