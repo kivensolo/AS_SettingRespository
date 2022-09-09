@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Generates blame mappings" />
       <item value="Represents a generic chunk." />
       <item value="Converts this resource into an array of bytes representation." />
       <item value="True if, when converting to a byte array, this resource can modify the returned bytes in an effort to reduce the size." />
@@ -53,12 +54,11 @@
       <item value="Compiles resources to be linked into an apk" />
       <item value="Preforms" />
       <item value="Preforms resource optimizations on an apk" />
-      <item value="支持运行时类型识别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3567" />
-        <entry key="ENGLISH" value="3559" />
+        <entry key="CHINESE" value="3568" />
+        <entry key="ENGLISH" value="3560" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
