@@ -4,12 +4,36 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Represents a generic chunk." />
+      <item value="Converts this resource into an array of bytes representation." />
+      <item value="True if, when converting to a byte array, this resource can modify the returned bytes in an effort to reduce the size." />
+      <item value="shrink" />
+      <item value="A resource, typically a @{link Chunk}, that can be converted to an array of bytes." />
+      <item value="Represents an XML attribute and value." />
+      <item value="IOException Thrown if there's a matching file, but it cannot be read from the apk." />
+      <item value="Utilities for working with apk files." />
+      <item value="Given an arsc file, maps the contents of the file." />
+      <item value="xml files in resraw are not compact XML" />
+      <item value="Extract apk" />
+      <item value="Returns all files in an apk that match a given regular expression." />
+      <item value="注释" />
+      <item value="commits" />
+      <item value="google的通用工具库" />
+      <item value="轻量级的依赖注入类库" />
+      <item value="java命令行参数处理库" />
+      <item value="Internal Injector Creator" />
+      <item value="Provides the resources.arsc resource table in the {@code apk}" />
+      <item value="provides Resource Table Chunk" />
+      <item value="Gwt Compatible" />
+      <item value="Preconditions" />
+      <item value="dds class(es) containing one or more fields with a {@link Parameter} annotation." />
+      <item value="Columns for the CSV returned for resource configs" />
+      <item value="Columns for the CSV returned for resource configs." />
       <item value="actual" />
       <item value="BASELESS KEYS" />
       <item value="Guice" />
       <item value="Guice binding annotations" />
       <item value="unmodifiable Map" />
-      <item value="A resource, typically a @{link Chunk}, that can be converted to an array of bytes." />
       <item value="Blame" />
       <item value="Blame resource configurations" />
       <item value="Blame resource" />
@@ -30,35 +54,11 @@
       <item value="Preforms" />
       <item value="Preforms resource optimizations on an apk" />
       <item value="支持运行时类型识别" />
-      <item value="Information" />
-      <item value="使用c++14标准" />
-      <item value="deduced" />
-      <item value="error: 'auto' return without trailing return type; deduced return types are a C++14 extension" />
-      <item value="deduced return types are a C++14 extension" />
-      <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade" />
-      <item value="raised" />
-      <item value="Aapt 2 Exception" />
-      <item value="Gala Pay" />
-      <item value="tv Brand" />
-      <item value="The consumer-visible brand with which the producthardware will be associated, if any." />
-      <item value="NEON" />
-      <item value="参数不可为空" />
-      <item value="Result of single time order in interest mode" />
-      <item value="Result of single time order" />
-      <item value="Result of interest once time order" />
-      <item value="单片按次订购返回结果" />
-      <item value="检查有无id" />
-      <item value="检查是否有id" />
-      <item value="Check exist interest id" />
-      <item value="检查是否有权益id" />
-      <item value="balance" />
-      <item value="balance order" />
-      <item value="ONCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3540" />
-        <entry key="ENGLISH" value="3532" />
+        <entry key="CHINESE" value="3567" />
+        <entry key="ENGLISH" value="3559" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
