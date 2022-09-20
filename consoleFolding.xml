@@ -3,9 +3,10 @@
     <option name="addedPositive">
       <list>
         <option value="06-15 14:15:31.716      160-216/? I/CompCommunication﹕ [mcspcfg] receive [AP_C_MC] Service operation. cmd[4243460],input len[196],ret len[4]!" />
+        <option value="D/STCLOG-REQUEST:" />
         <option value="I/dsminfo:" />
         <option value="I/XulMessageCenter:" />
-        <option value="D/STCLOG-REQUEST:" />
+        <option value="Calling a method" />
       </list>
     </option>
   </component>
