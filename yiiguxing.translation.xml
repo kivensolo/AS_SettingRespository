@@ -4,10 +4,13 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="clean phase" />
+      <item value="erase" />
+      <item value="Fills the bitmap's pixels with the specified {@link Color}." />
+      <item value="gc reuse phase" />
       <item value="Reuse Statistic Info" />
       <item value="是否开启位图重用" />
       <item value="build Brief Info" />
-      <item value="clean phase" />
       <item value="in Just Decode Bounds" />
       <item value="Returns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
       <item value="fix Maximum Same Dimension" />
@@ -51,14 +54,11 @@
       <item value="Gwt Compatible" />
       <item value="Preconditions" />
       <item value="dds class(es) containing one or more fields with a {@link Parameter} annotation." />
-      <item value="Columns for the CSV returned for resource configs" />
-      <item value="Columns for the CSV returned for resource configs." />
-      <item value="actual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3591" />
-        <entry key="ENGLISH" value="3583" />
+        <entry key="CHINESE" value="3595" />
+        <entry key="ENGLISH" value="3587" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
