@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.9.251:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-28T08:48:41.314544500Z" />
+        <name value="newland EVM TVOS 2.0" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.41.186:5555" />
           </Key>
         </key>
