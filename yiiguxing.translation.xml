@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="没有有效的序列号数据,请检查stb Ids.txt文件" />
       <item value="VERBOSE" />
       <item value="前缀" />
       <item value="校验" />
@@ -54,12 +55,11 @@
       <item value="IOException Thrown if there's a matching file, but it cannot be read from the apk." />
       <item value="Utilities for working with apk files." />
       <item value="Given an arsc file, maps the contents of the file." />
-      <item value="xml files in resraw are not compact XML" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3610" />
-        <entry key="ENGLISH" value="3602" />
+        <entry key="CHINESE" value="3611" />
+        <entry key="ENGLISH" value="3603" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
