@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Priority constant for the println method; use Log.v." />
       <item value="minitor" />
       <item value="舞者" />
       <item value="Whac-A-Mole" />
@@ -50,12 +51,11 @@
       <item value="Reserved for the DVB" />
       <item value="对于DVB设备预留使用" />
       <item value="Reserved for DVB" />
-      <item value="预留" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3647" />
-        <entry key="ENGLISH" value="3642" />
+        <entry key="CHINESE" value="3648" />
+        <entry key="ENGLISH" value="3643" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664262650545" />
+    <option name="lastTrimTime" value="1665404262019" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
