@@ -1,10 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
-    <option name="newTranslationDialogX" value="495" />
-    <option name="newTranslationDialogY" value="276" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="按键序列匹配帮助类" />
+      <item value="金手指" />
       <item value="请检查“stbid .txt”文件!" />
       <item value="Please check the 'stbIds.txt' file!" />
       <item value="Please check 'stbIds.txt' file!" />
@@ -53,8 +51,6 @@
       <item value="Converts this resource into an array of bytes representation." />
       <item value="True if, when converting to a byte array, this resource can modify the returned bytes in an effort to reduce the size." />
       <item value="shrink" />
-      <item value="A resource, typically a @{link Chunk}, that can be converted to an array of bytes." />
-      <item value="Represents an XML attribute and value." />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,8 +89,9 @@
     <option name="lastTrimTime" value="1664262650545" />
   </component>
   <component name="Settings">
+    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
