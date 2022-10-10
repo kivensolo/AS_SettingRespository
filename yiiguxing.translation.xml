@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minitor" />
       <item value="舞者" />
       <item value="Whac-A-Mole" />
       <item value="mole" />
@@ -50,7 +51,6 @@
       <item value="对于DVB设备预留使用" />
       <item value="Reserved for DVB" />
       <item value="预留" />
-      <item value="verification" />
     </histories>
     <option name="languageScores">
       <map>
@@ -89,9 +89,8 @@
     <option name="lastTrimTime" value="1664262650545" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="ai.youdao" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
