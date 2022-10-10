@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialzation" />
+      <item value="monitoring" />
+      <item value="按键序列监控类" />
+      <item value="conform to rules" />
+      <item value="符合规则" />
+      <item value="不符合规则" />
+      <item value="是否不满足处理规则" />
+      <item value="检查按键事件是否在当前定义的规则之外" />
+      <item value="排除" />
+      <item value="永远没有机会" />
+      <item value="是否有价值处理" />
       <item value="DURATION" />
       <item value="Threshold" />
       <item value="m Threshold" />
@@ -40,22 +51,11 @@
       <item value="是否开启位图重用" />
       <item value="build Brief Info" />
       <item value="in Just Decode Bounds" />
-      <item value="Returns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
-      <item value="fix Maximum Same Dimension" />
-      <item value="所有字节码文件" />
-      <item value="删除临时目录" />
-      <item value="Clear temp dir befor build" />
-      <item value="Clear" />
-      <item value="Clear befor build" />
-      <item value="Clear first" />
-      <item value="智家播放器代码复制至当前封住播放器项目中" />
-      <item value="Second" />
-      <item value="Second Pack SDK Auto Tool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3626" />
-        <entry key="ENGLISH" value="3618" />
+        <entry key="CHINESE" value="3637" />
+        <entry key="ENGLISH" value="3630" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
