@@ -5,7 +5,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="include_custom" value="// setting.gradle文件中配置子模块&#10;include ':$MODULE_NAME$'&#10;project(':$MODULE_NAME$').projectDir = new File('$MODULE_PATH$')&#10;&#10;// 使用的module（一般是:app）以依赖本地module的方式依赖&#10;implementation project(':$MODULE_NAME$')" description="include local module to current module." toReformat="false" toShortenFQNames="true">
+  <template name="include_custom" value="// setting.gradle文件中配置子模块&#10;include ':$MODULE_NAME$'&#10;project(':$MODULE_NAME$').projectDir = new File('$MODULE_PATH$')&#10;&#10;//Copy以下代码至目标module&#10;implementation project(':$MODULE_NAME$')" description="include local module to current module." toReformat="false" toShortenFQNames="true">
     <variable name="MODULE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MODULE_PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
