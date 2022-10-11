@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A formatter is used for format the data that is not a string, or that is a string but not well formatted, we should format the data to a well formatted string so printers can print them." />
+      <item value="Low-level logging call." />
+      <item value="Compatible class" />
+      <item value="Represents a group of Printers that should used to print logs in the same time, each printer may probably print the log to different place." />
+      <item value="Flattener" />
       <item value="DEFAULT MAX CHUNK SIZE" />
       <item value="打印日志数据" />
       <item value="日志级别" />
@@ -46,16 +51,11 @@
       <item value="监控" />
       <item value="按键序列匹配帮助类" />
       <item value="金手指" />
-      <item value="请检查“stbid .txt”文件!" />
-      <item value="Please check the 'stbIds.txt' file!" />
-      <item value="Please check 'stbIds.txt' file!" />
-      <item value="没有有效的序列号数据,请检查stb Ids.txt文件" />
-      <item value="VERBOSE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3657" />
-        <entry key="ENGLISH" value="3652" />
+        <entry key="CHINESE" value="3663" />
+        <entry key="ENGLISH" value="3658" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
