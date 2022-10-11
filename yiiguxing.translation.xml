@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="打印日志数据" />
+      <item value="日志级别" />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="Convenience method to append the specified text to the TextView's display buffer, upgrading it to {@link android.widget.TextView.BufferTypeEDITABLE} if it was not already editable." />
       <item value="Xul Circle Queue" />
@@ -49,13 +51,11 @@
       <item value="没有有效的序列号数据,请检查stb Ids.txt文件" />
       <item value="VERBOSE" />
       <item value="前缀" />
-      <item value="校验" />
-      <item value="complex Level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3654" />
-        <entry key="ENGLISH" value="3649" />
+        <entry key="CHINESE" value="3656" />
+        <entry key="ENGLISH" value="3651" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
