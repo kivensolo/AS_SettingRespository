@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this." />
+      <item value="if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent." />
+      <item value="compatibility version of {@link START_STICKY} that does not guarantee that {@link onStartCommand} will be called again after being killed." />
+      <item value="The return value indicates what semantics the system should use for the service's current started state." />
+      <item value="Compatibility" />
+      <item value="The return value indicates what semantics the system should use for the service's current started state. It may be one of the constants associated with the {@link START_CONTINUATION_MASK} bits." />
+      <item value="which the system calls when the IntentService receives a start request." />
+      <item value="Redelivery" />
+      <item value="If multiple Intents have been sent, only the most recent one is guaranteed to be redelivered." />
+      <item value="Sets intent redelivery preferences. Usually called from the constructor with your preferred semantics." />
+      <item value="Sets intent redelivery preferences" />
+      <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}." />
       <item value="which uses jobs instead of services when running on Android 8.0 or higher." />
       <item value="IntentService is subject" />
       <item value="background execution limits" />
@@ -43,23 +55,11 @@
       <item value="通常情况下是字符串" />
       <item value="Char Sequence" />
       <item value="默认的镜像日志观察者" />
-      <item value="Key Monitor" />
-      <item value="enable Mirror Log" />
-      <item value="How to use in a dynamically customizing way after initializing the log system:" />
-      <item value="a best place to do the initialization is {@link ApplicationonCreate()" />
-      <item value="Also, XLog is very flexible, almost every component is replaceable" />
-      <item value="A log tool which can be used in android or java, the most important feature is it can print the logs to multiple place in the same time, such as android shell, console and file, you can even print the log to the remote server if you want, all of these can be done just within one" />
-      <item value="misleading" />
-      <item value="按键序列" />
-      <item value="镜像日志读取服务" />
-      <item value="镜像的日志读取服务" />
-      <item value="jumbo" />
-      <item value="The log configuration which you should respect to when logging." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3733" />
-        <entry key="ENGLISH" value="3728" />
+        <entry key="CHINESE" value="3745" />
+        <entry key="ENGLISH" value="3740" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
