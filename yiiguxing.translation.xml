@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If the thread has been started, wait until the looper has been created." />
+      <item value="A {@link Thread} that has a {@link Looper}. The {@link Looper} can then be used to create {@link Handler}s. &lt;p&gt;" />
+      <item value="m Redelivery" />
+      <item value="All requests are handled on a single worker thread -- they may take as long as necessary (and will not block the application's main loop), but only one request will be processed at a time." />
+      <item value="IntentService will receive the Intents, launch a worker thread, and stop the service as appropriate." />
+      <item value="This &quot;work queue processor&quot; pattern is commonly used to offload tasks from an application's main thread." />
+      <item value="pattern" />
+      <item value="handles each Intent in turn using a worker thread, and stops itself when it runs out of work." />
+      <item value="Clients send requests through {@link android.content.ContextstartService(Intent)} calls;" />
+      <item value="expressed as" />
+      <item value="IntentService is a base class for {@link Service}s that handle asynchronous requests (expressed as {@link Intent}s) on demand." />
+      <item value="which uses jobs instead of services when running on Android 8.0 or higher." />
+      <item value="IntentService is subject to all the &lt;a href=&quot;previewfeaturesbackground.html&quot;&gt;background execution limits&lt;a&gt; imposed with Android 8.0 (API level 26)." />
       <item value="Defined" />
       <item value="exclusive" />
       <item value="缩短" />
@@ -42,24 +55,11 @@
       <item value="minitor" />
       <item value="A formatter is used for format the data that is not a string, or that is a string but not well formatted, we should format the data to a well formatted string so printers can print them." />
       <item value="Low-level logging call." />
-      <item value="Compatible class" />
-      <item value="Represents a group of Printers that should used to print logs in the same time, each printer may probably print the log to different place." />
-      <item value="Flattener" />
-      <item value="DEFAULT MAX CHUNK SIZE" />
-      <item value="打印日志数据" />
-      <item value="日志级别" />
-      <item value="Only the original thread that created a view hierarchy can touch its views" />
-      <item value="Convenience method to append the specified text to the TextView's display buffer, upgrading it to {@link android.widget.TextView.BufferTypeEDITABLE} if it was not already editable." />
-      <item value="Xul Circle Queue" />
-      <item value="Inserts the specified element into the queue represented by this deque (in other words, at the tail of this deque) if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available. When using a capacity-restricted deque, it is generally preferable to use {@link offer(Object) offer}." />
-      <item value="When using a capacity-restricted deque, it is generally preferable to use {@link offer(Object) offer}." />
-      <item value="offer" />
-      <item value="Priority constant for the println method; use Log.v." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3700" />
-        <entry key="ENGLISH" value="3695" />
+        <entry key="CHINESE" value="3713" />
+        <entry key="ENGLISH" value="3708" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
