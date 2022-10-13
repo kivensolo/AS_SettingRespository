@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ZLog print mirror log failed. Cause mirror log is disable now" />
+      <item value="Catch" />
+      <item value="Mirror log reading service" />
+      <item value="Alive" />
       <item value="conform to rules" />
       <item value="Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this." />
       <item value="if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent." />
@@ -51,15 +55,11 @@
       <item value="缩短" />
       <item value="compress" />
       <item value="压缩" />
-      <item value="大多数情况下是字符串" />
-      <item value="Usually" />
-      <item value="通常情况下是字符串" />
-      <item value="Char Sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3746" />
-        <entry key="ENGLISH" value="3741" />
+        <entry key="CHINESE" value="3750" />
+        <entry key="ENGLISH" value="3745" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
