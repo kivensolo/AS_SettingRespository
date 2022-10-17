@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="allow Insecure Protocol" />
-      <item value="业务" />
       <item value="省份" />
       <item value="provience" />
+      <item value="processor" />
+      <item value="Fire next processor run." />
+      <item value="Process" />
+      <item value="Fire next bus run." />
+      <item value="allow Insecure Protocol" />
+      <item value="业务" />
       <item value="George" />
       <item value="disruptive" />
       <item value="By default started services are background, meaning that their process won't be given foreground CPU scheduling" />
@@ -47,21 +51,17 @@
       <item value="pattern" />
       <item value="work queue processor" />
       <item value="the service is started as needed, handles each Intent in turn using a worker thread, and stops itself when it runs out of work." />
-      <item value="Work Enqueuer" />
-      <item value="If the thread has been started, wait until the looper has been created." />
-      <item value="A {@link Thread} that has a {@link Looper}. The {@link Looper} can then be used to create {@link Handler}s. &lt;p&gt;" />
-      <item value="m Redelivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3760" />
-        <entry key="ENGLISH" value="3754" />
+        <entry key="CHINESE" value="3768" />
+        <entry key="ENGLISH" value="3761" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="5" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="14" />
+        <entry key="FRENCH" value="15" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
