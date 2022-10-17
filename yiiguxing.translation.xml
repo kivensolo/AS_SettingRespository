@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Start Up Configer" />
       <item value="使用默认参数可以满足大部分场景" />
       <item value="通常来说使用默认值可满足大部分需求" />
       <item value="通常来说使用默认值即可" />
@@ -50,12 +51,11 @@
       <item value="Sets intent redelivery preferences. Usually called from the constructor with your preferred semantics." />
       <item value="Sets intent redelivery preferences" />
       <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}." />
-      <item value="which uses jobs instead of services when running on Android 8.0 or higher." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3786" />
-        <entry key="ENGLISH" value="3779" />
+        <entry key="CHINESE" value="3787" />
+        <entry key="ENGLISH" value="3780" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
