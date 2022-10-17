@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check whether need skip exec bus." />
+      <item value="whether" />
+      <item value="wether" />
+      <item value="是否" />
+      <item value="weather" />
+      <item value="Check weather need skip exec bus." />
+      <item value="execute current bus" />
       <item value="Start Up Configer" />
       <item value="使用默认参数可以满足大部分场景" />
       <item value="通常来说使用默认值可满足大部分需求" />
@@ -44,18 +51,11 @@
       <item value="compatibility version of {@link START_STICKY} that does not guarantee that {@link onStartCommand} will be called again after being killed." />
       <item value="The return value indicates what semantics the system should use for the service's current started state." />
       <item value="Compatibility" />
-      <item value="The return value indicates what semantics the system should use for the service's current started state. It may be one of the constants associated with the {@link START_CONTINUATION_MASK} bits." />
-      <item value="which the system calls when the IntentService receives a start request." />
-      <item value="Redelivery" />
-      <item value="If multiple Intents have been sent, only the most recent one is guaranteed to be redelivered." />
-      <item value="Sets intent redelivery preferences. Usually called from the constructor with your preferred semantics." />
-      <item value="Sets intent redelivery preferences" />
-      <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3787" />
-        <entry key="ENGLISH" value="3780" />
+        <entry key="CHINESE" value="3794" />
+        <entry key="ENGLISH" value="3787" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
