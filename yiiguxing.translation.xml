@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用默认参数可以满足大部分场景" />
+      <item value="通常来说使用默认值可满足大部分需求" />
+      <item value="通常来说使用默认值即可" />
+      <item value="The default file path in the assets directory." />
+      <item value="在资源目录下的文件路径" />
+      <item value="Start up config file of every app" />
+      <item value="Change to start up from first" />
+      <item value="从初始开始启动流程" />
+      <item value="从头开始启动流程" />
+      <item value="从头开始触发启动流程" />
+      <item value="目标业务线的Class对象" />
+      <item value="从指定业务线启动流程" />
+      <item value="从指定业务线触发启动流程" />
+      <item value="get Canonical Name" />
+      <item value="用于高版本启动前台服务" />
+      <item value="用于后续版本系统启动前台服务" />
+      <item value="用于高版本系统启动前台服务" />
       <item value="省份" />
       <item value="provience" />
       <item value="processor" />
@@ -34,28 +51,11 @@
       <item value="Sets intent redelivery preferences" />
       <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}." />
       <item value="which uses jobs instead of services when running on Android 8.0 or higher." />
-      <item value="IntentService is subject" />
-      <item value="background execution limits" />
-      <item value="imposed with" />
-      <item value="imposed with Android 8.0 (API level 26)" />
-      <item value="IntentService is subject to all the &lt;a href=&quot;previewfeaturesbackground.html&quot;&gt;background execution limits&lt;a&gt; imposed with Android 8.0 (API level 26)" />
-      <item value="IntentService is subject to all the" />
-      <item value="All requests are handled on a single worker thread -- they may take as long as necessary (and will not block the application's main loop), but only one request will be processed at a time." />
-      <item value="and stop the service as appropriate" />
-      <item value="appropriate" />
-      <item value="take care of the mechanics." />
-      <item value="take care of" />
-      <item value="The IntentService class exists to simplify this pattern and take care of the mechanics." />
-      <item value="offload" />
-      <item value="This &quot;work queue processor&quot; pattern is commonly used to offload tasks from an application's main thread." />
-      <item value="pattern" />
-      <item value="work queue processor" />
-      <item value="the service is started as needed, handles each Intent in turn using a worker thread, and stops itself when it runs out of work." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3768" />
-        <entry key="ENGLISH" value="3761" />
+        <entry key="CHINESE" value="3786" />
+        <entry key="ENGLISH" value="3779" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
