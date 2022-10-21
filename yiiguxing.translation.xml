@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="环境" />
       <item value="加载消耗的时间大约20毫秒" />
       <item value="加载消耗的时间20毫秒左右" />
       <item value="performance time" />
@@ -54,12 +55,11 @@
       <item value="使用默认参数可以满足大部分场景" />
       <item value="通常来说使用默认值可满足大部分需求" />
       <item value="通常来说使用默认值即可" />
-      <item value="The default file path in the assets directory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3837" />
-        <entry key="ENGLISH" value="3829" />
+        <entry key="CHINESE" value="3838" />
+        <entry key="ENGLISH" value="3830" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
