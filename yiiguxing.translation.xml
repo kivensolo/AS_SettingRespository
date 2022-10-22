@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the invocation handler for this proxy instance." />
+      <item value="invocation" />
       <item value="环境" />
       <item value="加载消耗的时间大约20毫秒" />
       <item value="加载消耗的时间20毫秒左右" />
@@ -53,13 +55,11 @@
       <item value="execute current bus" />
       <item value="Start Up Configer" />
       <item value="使用默认参数可以满足大部分场景" />
-      <item value="通常来说使用默认值可满足大部分需求" />
-      <item value="通常来说使用默认值即可" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3838" />
-        <entry key="ENGLISH" value="3830" />
+        <entry key="CHINESE" value="3840" />
+        <entry key="ENGLISH" value="3832" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
@@ -90,7 +90,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665973873443" />
+    <option name="lastTrimTime" value="1666432026174" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
