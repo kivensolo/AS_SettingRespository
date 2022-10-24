@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the value of the field represented by this {@code Field}, on the specified object. The value is automatically wrapped in an object if it has a primitive type." />
       <item value="EXECUTE TRANSACTION" />
       <item value="Enforcement Policy" />
       <item value="unseal" />
@@ -54,12 +55,11 @@
       <item value="wether" />
       <item value="是否" />
       <item value="weather" />
-      <item value="Check weather need skip exec bus." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3844" />
-        <entry key="ENGLISH" value="3836" />
+        <entry key="CHINESE" value="3845" />
+        <entry key="ENGLISH" value="3837" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
