@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="RMS process is success" />
       <item value="IP Ping Diagnostics" />
       <item value="is Support Method" />
       <item value="Need Http Digest Authenticate" />
@@ -54,12 +55,11 @@
       <item value="性能耗时大于20毫秒" />
       <item value="性能消耗大于20毫秒" />
       <item value="is Match" />
-      <item value="Enumeration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3881" />
-        <entry key="ENGLISH" value="3873" />
+        <entry key="CHINESE" value="3882" />
+        <entry key="ENGLISH" value="3874" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
