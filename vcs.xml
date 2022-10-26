@@ -250,9 +250,13 @@
           <option name="url" value="https://gitee.com/starcor-com/terminal-evsclient.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/chengdu-custom/terminal-evsclient.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work" />
+    <option name="cloneParentDir" value="E:\work\qsy" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
