@@ -5,12 +5,15 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Need Http Digest Authenticate" />
+      <item value="nonce" />
+      <item value="opaque" />
+      <item value="Need Http Basic Authenticate" />
+      <item value="Authenticate" />
       <item value="RMS process is success" />
       <item value="IP Ping Diagnostics" />
       <item value="is Support Method" />
-      <item value="Need Http Digest Authenticate" />
       <item value="Exist" />
-      <item value="Authenticate" />
       <item value="poll" />
       <item value="Send Event params to ACS" />
       <item value="定义" />
@@ -52,20 +55,17 @@
       <item value="加载消耗的时间20毫秒左右" />
       <item value="performance time" />
       <item value="性能耗时大约20毫秒" />
-      <item value="性能耗时大于20毫秒" />
-      <item value="性能消耗大于20毫秒" />
-      <item value="is Match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3882" />
-        <entry key="ENGLISH" value="3874" />
+        <entry key="CHINESE" value="3888" />
+        <entry key="ENGLISH" value="3878" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="5" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="15" />
+        <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="9" />
         <entry key="FINNISH" value="2" />
         <entry key="FRISIAN" value="1" />
