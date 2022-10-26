@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ott Api Request Restful Adapter" />
       <item value="Need Http Digest Authenticate" />
       <item value="nonce" />
       <item value="opaque" />
@@ -54,12 +55,11 @@
       <item value="加载消耗的时间大约20毫秒" />
       <item value="加载消耗的时间20毫秒左右" />
       <item value="performance time" />
-      <item value="性能耗时大约20毫秒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3888" />
-        <entry key="ENGLISH" value="3878" />
+        <entry key="CHINESE" value="3889" />
+        <entry key="ENGLISH" value="3879" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
