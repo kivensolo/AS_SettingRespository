@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DUUM" />
+      <item value="DUMMP" />
+      <item value="环境" />
+      <item value="RMS Handler Delegate" />
       <item value="Captive Portal Login Activity" />
       <item value="Prompting WebView proxy reload" />
       <item value="revert Proxy KK Plus" />
@@ -51,19 +55,15 @@
       <item value="Send Event params to ACS" />
       <item value="定义" />
       <item value="Kicked" />
-      <item value="A RPC Methods data structure assembly abstract class." />
-      <item value="assembly" />
-      <item value="RPC方法数据结构组装类" />
-      <item value="RFC Methods parameters encapsulate abstract classes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3927" />
-        <entry key="ENGLISH" value="3915" />
+        <entry key="CHINESE" value="3931" />
+        <entry key="ENGLISH" value="3917" />
         <entry key="POLISH" value="1" />
-        <entry key="AFRIKAANS" value="1" />
+        <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="10" />
-        <entry key="GERMAN" value="6" />
+        <entry key="GERMAN" value="7" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="9" />
