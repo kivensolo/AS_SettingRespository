@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Maybe make ACS response 204 code directly" />
+      <item value="Maybe make ACS response 204 directly!" />
+      <item value="It's a height risk of tr069 failure" />
+      <item value="height" />
+      <item value="这是极大风险导致数据通信失败" />
+      <item value="极大风险导致数据通信失败" />
+      <item value="极大可能导致数据通信失败" />
+      <item value="极大可能导致tr 069通信失败" />
+      <item value="可能导致tr 069通信失败" />
       <item value="数据值" />
       <item value="数据类型" />
       <item value="更新RMS用户数据" />
@@ -46,20 +55,11 @@
       <item value="Business Collapsed" />
       <item value="collapse" />
       <item value="业务垮掉" />
-      <item value="Business Error Event Happend" />
-      <item value="on Business Error Event Happend" />
-      <item value="Happend" />
-      <item value="PROPERTY" />
-      <item value="Xul Property Cache Domain" />
-      <item value="Cache domain optimized for property storing" />
-      <item value="PROPERTY)" />
-      <item value="CACHE FLAG PROPERTY" />
-      <item value="无效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3959" />
-        <entry key="ENGLISH" value="3945" />
+        <entry key="CHINESE" value="3969" />
+        <entry key="ENGLISH" value="3955" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="10" />
