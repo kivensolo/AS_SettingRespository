@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dimension" />
+      <item value="Dimensions" />
+      <item value="尺寸" />
       <item value="Thrown when control information that was read from an object stream violates internal consistency checks." />
       <item value="Corrupted" />
       <item value="Stream Corrupted Exception" />
@@ -52,14 +55,11 @@
       <item value="数据参数名称" />
       <item value="获取RMS流程需要的指定数据" />
       <item value="省份" />
-      <item value="环境" />
-      <item value="虚拟" />
-      <item value="RMS Params Diplomats" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3993" />
-        <entry key="ENGLISH" value="3979" />
+        <entry key="CHINESE" value="3995" />
+        <entry key="ENGLISH" value="3981" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="10" />
