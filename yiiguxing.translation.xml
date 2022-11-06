@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Such as" />
+      <item value="A printer is used for printing the mirror log to somewhere,Such as debugView" />
+      <item value="respect to" />
+      <item value="The log configuration which you should respect to when logging." />
+      <item value="This logger is with print-out control" />
+      <item value="带有打印输出控制的Logger" />
+      <item value="monitoring" />
+      <item value="The custom behavior of the command-event that is triggered" />
+      <item value="触发的事件行为(可由外部自定义扩展)" />
+      <item value="事件命令序列" />
+      <item value="当指定cmd Key匹配的回调" />
+      <item value="指定cmd Key的回调" />
+      <item value="匹配到指定cmd Key的回调" />
+      <item value="日志捕捉标记" />
+      <item value="日志捕捉监听对象" />
+      <item value="安全的" />
+      <item value="Saftly" />
+      <item value="创建 Logcat 日志缓冲区" />
+      <item value="Mirror" />
+      <item value="Start log mirror servie" />
+      <item value="mirror" />
       <item value="条目" />
       <item value="Reserved for the DVB, Used for the ip" />
       <item value="Dimension" />
@@ -34,32 +55,11 @@
       <item value="software middleware" />
       <item value="sw middleware" />
       <item value="Maybe make ACS response 204 code directly" />
-      <item value="Maybe make ACS response 204 directly!" />
-      <item value="It's a height risk of tr069 failure" />
-      <item value="height" />
-      <item value="这是极大风险导致数据通信失败" />
-      <item value="极大风险导致数据通信失败" />
-      <item value="极大可能导致数据通信失败" />
-      <item value="极大可能导致tr 069通信失败" />
-      <item value="可能导致tr 069通信失败" />
-      <item value="数据值" />
-      <item value="数据类型" />
-      <item value="更新RMS用户数据" />
-      <item value="临时过渡API" />
-      <item value="通知业务层做重启标识的修改" />
-      <item value="修改reboot Flag" />
-      <item value="Get the specified data required by the RMS" />
-      <item value="Get the specified data required by the RMS process" />
-      <item value="RMS业务上下文委托" />
-      <item value="业务层返回的业务参数" />
-      <item value="数据参数名称,由{@link RmsParamsKey}定义" />
-      <item value="数据参数名称,由{@link RmsParamsKey}决定" />
-      <item value="数据参数名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3997" />
-        <entry key="ENGLISH" value="3983" />
+        <entry key="CHINESE" value="4018" />
+        <entry key="ENGLISH" value="4003" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="10" />
@@ -85,7 +85,7 @@
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="13" />
         <entry key="INDONESIAN" value="17" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
