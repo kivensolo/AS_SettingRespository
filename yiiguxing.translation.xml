@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="property" />
+      <item value="属性" />
       <item value="fake" />
       <item value="Mock a fake deviceId" />
       <item value="brand" />
@@ -53,13 +55,11 @@
       <item value="通常情况下是返回204时被调用" />
       <item value="可能由网络异常导致" />
       <item value="可能由204导致" />
-      <item value="可能是204导致的" />
-      <item value="当远程服务返回空方法时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4033" />
-        <entry key="ENGLISH" value="4018" />
+        <entry key="CHINESE" value="4035" />
+        <entry key="ENGLISH" value="4020" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="10" />
