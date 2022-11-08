@@ -267,6 +267,7 @@
     <option name="cloneParentDir" value="E:\work" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
