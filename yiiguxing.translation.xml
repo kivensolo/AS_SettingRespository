@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Logcat Window Entrance" />
       <item value="必要参数为空" />
       <item value="activate state" />
       <item value="激活" />
@@ -54,12 +55,11 @@
       <item value="Reserved for the DVB, Used for the ip" />
       <item value="Dimension" />
       <item value="Dimensions" />
-      <item value="尺寸" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4044" />
-        <entry key="ENGLISH" value="4029" />
+        <entry key="CHINESE" value="4045" />
+        <entry key="ENGLISH" value="4030" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="10" />
