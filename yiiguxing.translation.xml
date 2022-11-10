@@ -5,8 +5,13 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="enable Thread Info" />
+      <item value="Mirror log state" />
       <item value="enable Mirror Log" />
+      <item value="则使用自身的打印输出数据" />
+      <item value="formatters" />
+      <item value="init with default config" />
+      <item value="always attached to a {@link Logger}, will affect all logs logged by the {@link Logger}." />
+      <item value="enable Thread Info" />
       <item value="reject" />
       <item value="spannable" />
       <item value="bnable" />
@@ -50,16 +55,11 @@
       <item value="The custom behavior of the command-event that is triggered" />
       <item value="触发的事件行为(可由外部自定义扩展)" />
       <item value="事件命令序列" />
-      <item value="当指定cmd Key匹配的回调" />
-      <item value="指定cmd Key的回调" />
-      <item value="匹配到指定cmd Key的回调" />
-      <item value="日志捕捉标记" />
-      <item value="日志捕捉监听对象" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4055" />
-        <entry key="ENGLISH" value="4038" />
+        <entry key="CHINESE" value="4064" />
+        <entry key="ENGLISH" value="4047" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
