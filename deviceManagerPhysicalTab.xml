@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.11.141:5555" />
+          </Key>
+        </key>
+        <name value="TCL Multimedia x32a0" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:64386" />
           </Key>
         </key>
