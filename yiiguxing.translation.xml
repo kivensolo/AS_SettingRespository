@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Window type: phone. These are non-application windows providing user interaction with the phone (in particular incoming calls). These windows are normally placed above all applications, but behind the status bar." />
+      <item value="End of types of application windows." />
+      <item value="Window type: an application window that serves as the &quot;base&quot; window of the overall application; all other application windows will appear on top of it." />
       <item value="Window type: an application window that serves as the &quot;base&quot; window of the overall application; all other application windows will appear on top of it. In multiuser systems shows only on the owning user's window." />
       <item value="This annotation can be used to mark fields and methods to be dumped by the view server. Only non-void methods with no arguments can be annotated by this annotation." />
       <item value="Exported Property" />
@@ -52,14 +55,11 @@
       <item value="Mock a fake deviceId" />
       <item value="brand" />
       <item value="救生" />
-      <item value="兜底" />
-      <item value="When stack from bottom is set to true, the list fills its content starting from the bottom of the view." />
-      <item value="set Stack From End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4080" />
-        <entry key="ENGLISH" value="4062" />
+        <entry key="CHINESE" value="4083" />
+        <entry key="ENGLISH" value="4065" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
