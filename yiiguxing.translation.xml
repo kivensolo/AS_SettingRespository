@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="尺寸比例" />
+      <item value="The width or height flag" />
+      <item value="屏幕的宽或者高" />
+      <item value="屏幕的宽度还是高度" />
+      <item value="基于屏幕宽度或高度的比例，设置window的宽度" />
+      <item value="设置window的宽度" />
       <item value="Init window type and add debugView to window." />
       <item value="Init windowManager type and add debugView to window." />
       <item value="初始化debug View,将其添加至window中" />
@@ -49,17 +55,11 @@
       <item value="active state" />
       <item value="license状态为已激活" />
       <item value="重复激活" />
-      <item value="虚拟" />
-      <item value="水平分割线" />
-      <item value="frozen" />
-      <item value="property" />
-      <item value="属性" />
-      <item value="fake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4086" />
-        <entry key="ENGLISH" value="4068" />
+        <entry key="CHINESE" value="4092" />
+        <entry key="ENGLISH" value="4074" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
