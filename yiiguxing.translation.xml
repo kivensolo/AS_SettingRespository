@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="与序列命令匹配的行为" />
+      <item value="The custom behavior of the command-event which is triggered" />
+      <item value="The custom behavior of the command-event that is triggered" />
+      <item value="The sequence string" />
       <item value="日志输出格式" />
       <item value="命令下" />
       <item value="停止logcat获取" />
@@ -51,15 +55,11 @@
       <item value="is Conform" />
       <item value="Print a log in a new line internally." />
       <item value="Bundle Formatter" />
-      <item value="容器" />
-      <item value="判断当前是否是竖屏" />
-      <item value="Such as" />
-      <item value="A printer is used for printing the mirror log to somewhere,Such as debugView" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4072" />
-        <entry key="ENGLISH" value="4054" />
+        <entry key="CHINESE" value="4076" />
+        <entry key="ENGLISH" value="4058" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
