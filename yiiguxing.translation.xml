@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="按键序列值" />
+      <item value="build Cmd By Event Code" />
       <item value="zlog default gold finger" />
       <item value="金手指命令" />
       <item value="Priority" />
@@ -53,13 +55,11 @@
       <item value="When tension equals 0.0f, there is no overshoot and the interpolator becomes a simple deceleration interpolator." />
       <item value="tension" />
       <item value="Amount of overshoot" />
-      <item value="Amount of overshoot. When tension equals 0.0f, there is no overshoot and the interpolator becomes a simple deceleration interpolator." />
-      <item value="is Popup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4149" />
-        <entry key="ENGLISH" value="4131" />
+        <entry key="CHINESE" value="4151" />
+        <entry key="ENGLISH" value="4133" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
