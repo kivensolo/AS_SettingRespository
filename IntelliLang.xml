@@ -1,9 +1,12 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="JSON" injector-id="java">
+      <display-name>ZLog.json (com.zeke.zlog)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("json").withParameters("java.lang.String").definedInClass("com.zeke.zlog.ZLog"))]]></place>
+    </injection>
+    <injection language="XML" injector-id="java">
+      <display-name>ZLog.xml (com.zeke.zlog)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("xml").withParameters("java.lang.String").definedInClass("com.zeke.zlog.ZLog"))]]></place>
+    </injection>
   </component>
 </application>
