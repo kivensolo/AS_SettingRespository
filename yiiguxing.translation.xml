@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="kill failed" />
+      <item value="Auto dismiss mirror log debug view." />
+      <item value="Just dismiss mirror log debug view." />
+      <item value="If the mirror service is not started, the service will be started at first." />
       <item value="Typically this means only the process running the caller's packagesapplication and any additional processes created by that app; packages sharing a common UID will also be able to kill each other's processes." />
       <item value="the kernel will still impose standard restrictions on which PIDs you are actually able to kill." />
       <item value="Note that, though this API allows us to request to kill any process based on its PID" />
@@ -51,15 +55,11 @@
       <item value="发送镜像日志失败，请现在配置里开启该功能" />
       <item value="按键序列值" />
       <item value="build Cmd By Event Code" />
-      <item value="zlog default gold finger" />
-      <item value="金手指命令" />
-      <item value="Priority" />
-      <item value="Used to identify the source of a log message." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4200" />
-        <entry key="ENGLISH" value="4182" />
+        <entry key="CHINESE" value="4204" />
+        <entry key="ENGLISH" value="4186" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
