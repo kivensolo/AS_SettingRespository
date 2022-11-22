@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Android log will eat ‘\n’ in the message header" />
+      <item value="Android log eaten ‘\n’ in the message header" />
+      <item value="eaten" />
+      <item value="Android log will eats ‘\n’ in message header" />
+      <item value="Android log will eats ‘\n’ in the message header" />
+      <item value="Android log will eaten ‘\n’ in the message header" />
+      <item value="日志会吃掉消息头部的换行符" />
+      <item value="所以增加一个空白字符，实现第一行换行效果" />
+      <item value="Android log will eaten ‘\n’ before message" />
       <item value="Pls enable mirror log in the configuration at first" />
       <item value="Unterminated object at character 50" />
       <item value="kill failed" />
@@ -46,20 +55,11 @@
       <item value="Utility for formatting object to string" />
       <item value="Utility for formatting object to string." />
       <item value="将对象转化为String" />
-      <item value="Format an any hash object to a string" />
-      <item value="Format an any object with hashCode to a string" />
-      <item value="自定义日志测试" />
-      <item value="全局tag日志打印" />
-      <item value="镜像日志数据读取" />
-      <item value="开启logcat获取" />
-      <item value="Support chunk log print." />
-      <item value="Pls enable mirror log in the configuration at first!" />
-      <item value="发送镜像日志失败，请现在配置里开启该功能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4206" />
-        <entry key="ENGLISH" value="4188" />
+        <entry key="CHINESE" value="4215" />
+        <entry key="ENGLISH" value="4197" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
