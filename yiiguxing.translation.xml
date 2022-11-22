@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MODIFY SETTINGS OVERRIDEABLE BY RESTORE" />
       <item value="Z Log Accessibility" />
       <item value="Input Event Accessibility Service" />
       <item value="accessibility" />
@@ -54,12 +55,11 @@
       <item value="kill已存在logcat进程" />
       <item value="The logcat process has been discovered" />
       <item value="发现logcat进程" />
-      <item value="Extra Translation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4235" />
-        <entry key="ENGLISH" value="4217" />
+        <entry key="CHINESE" value="4236" />
+        <entry key="ENGLISH" value="4218" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
