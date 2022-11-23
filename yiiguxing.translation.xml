@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="elvishew" />
       <item value="MODIFY SETTINGS OVERRIDEABLE BY RESTORE" />
       <item value="Z Log Accessibility" />
       <item value="Input Event Accessibility Service" />
@@ -54,12 +55,12 @@
       <item value="Kill the process with the given PID. Note that, though this API allows us to request to kill any process based on its PID, the kernel will still impose standard restrictions on which PIDs you are actually able to kill. Typically this means only the process running the caller's packagesapplication and any additional processes created by that app; packages sharing a common UID will also be able to kill each other's processes." />
       <item value="kill已存在logcat进程" />
       <item value="The logcat process has been discovered" />
-      <item value="发现logcat进程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4236" />
+        <entry key="CHINESE" value="4237" />
         <entry key="ENGLISH" value="4218" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="10" />
