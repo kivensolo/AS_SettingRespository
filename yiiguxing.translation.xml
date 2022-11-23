@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The folder path of log file" />
+      <item value="The file name generator for log file." />
       <item value="the changeless file name" />
       <item value="Generate a file name that is changeless." />
       <item value="Generate file name according to the timestamp, different dates will lead to different file names." />
@@ -53,13 +55,11 @@
       <item value="kill failed" />
       <item value="Auto dismiss mirror log debug view." />
       <item value="Just dismiss mirror log debug view." />
-      <item value="If the mirror service is not started, the service will be started at first." />
-      <item value="Typically this means only the process running the caller's packagesapplication and any additional processes created by that app; packages sharing a common UID will also be able to kill each other's processes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4249" />
-        <entry key="ENGLISH" value="4230" />
+        <entry key="CHINESE" value="4251" />
+        <entry key="ENGLISH" value="4232" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
