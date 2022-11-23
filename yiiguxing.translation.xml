@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the changeless file name" />
+      <item value="Generate a file name that is changeless." />
+      <item value="Generate file name according to the timestamp, different dates will lead to different file names." />
+      <item value="Generate a file name which represent a specific log level." />
+      <item value="Generate file name according to the log level, different levels lead to different file names." />
+      <item value="changeless" />
+      <item value="Changeless File Name Generator" />
+      <item value="The folder path of log file." />
+      <item value="Most subclasses, however, will override some of the methods defined here in order to provide higher efficiency, additional functionality, or both." />
+      <item value="The only methods that a subclass must implement are write(char[], int, int), flush(), and close()." />
+      <item value="Abstract class for writing to character streams." />
       <item value="asynchronously" />
       <item value="elvishew" />
       <item value="MODIFY SETTINGS OVERRIDEABLE BY RESTORE" />
@@ -44,22 +55,11 @@
       <item value="Just dismiss mirror log debug view." />
       <item value="If the mirror service is not started, the service will be started at first." />
       <item value="Typically this means only the process running the caller's packagesapplication and any additional processes created by that app; packages sharing a common UID will also be able to kill each other's processes." />
-      <item value="the kernel will still impose standard restrictions on which PIDs you are actually able to kill." />
-      <item value="Note that, though this API allows us to request to kill any process based on its PID" />
-      <item value="Kill the process with the given PID." />
-      <item value="Try to" />
-      <item value="terminate" />
-      <item value="TERMINATED" />
-      <item value="终止" />
-      <item value="the service will be started first" />
-      <item value="如果服务没启动，则会先启动服务" />
-      <item value="Kill the process with the given PID. Note that, though this API allows us to request to kill any process based on its PID, the kernel will still impose standard restrictions on which PIDs you are actually able to kill. Typically this means only the process running the caller's packagesapplication and any additional processes created by that app; packages sharing a common UID will also be able to kill each other's processes." />
-      <item value="kill已存在logcat进程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4238" />
-        <entry key="ENGLISH" value="4219" />
+        <entry key="CHINESE" value="4249" />
+        <entry key="ENGLISH" value="4230" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
