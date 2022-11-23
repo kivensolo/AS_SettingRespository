@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Log writer" />
+      <item value="The folder path of log file." />
+      <item value="asynchronously" />
+      <item value="it will print log to the specified file asynchronously" />
+      <item value="it will print it to the specified file asynchronously" />
+      <item value="The flattener when print a log" />
+      <item value="Simply join the timestamp, log level, tag and message together." />
+      <item value="Flattener" />
+      <item value="the formatted final log Charsequence" />
+      <item value="Flatten the log" />
+      <item value="Flatten the log." />
+      <item value="capacity" />
+      <item value="容量" />
+      <item value="Factory for providing default implementation." />
+      <item value="Shift existed backups if needed, and backup the logging file." />
+      <item value="the max backup index" />
+      <item value="the max size the file can reach" />
+      <item value="Limit the file size of a max length." />
       <item value="Wrap a {@link BackupStrategy} to fit the {@link BackupStrategy2} interface, and perform like a {@link BackupStrategy} with the old logic before v1.9.0." />
       <item value="true is we should backup the log file" />
       <item value="Whether we should backup a specified log file." />
@@ -33,33 +51,15 @@
       <item value="Generate file name according to the log level, different levels lead to different file names." />
       <item value="changeless" />
       <item value="Changeless File Name Generator" />
-      <item value="The folder path of log file." />
       <item value="Most subclasses, however, will override some of the methods defined here in order to provide higher efficiency, additional functionality, or both." />
       <item value="The only methods that a subclass must implement are write(char[], int, int), flush(), and close()." />
       <item value="Abstract class for writing to character streams." />
-      <item value="asynchronously" />
       <item value="elvishew" />
-      <item value="MODIFY SETTINGS OVERRIDEABLE BY RESTORE" />
-      <item value="Z Log Accessibility" />
-      <item value="Input Event Accessibility Service" />
-      <item value="accessibility" />
-      <item value="Ignore logcat process witch ppid is same as app pid." />
-      <item value="Kill the legacy logcat process whose ppid is 1" />
-      <item value="杀掉父进程id已经为1的遗留locat进程" />
-      <item value="杀掉父进程id为1的遗留locat进程" />
-      <item value="Kill legacy logcat process witch ppid is 1" />
-      <item value="Ignore logcat process witch ppid is same as app pid" />
-      <item value="Ignore logcat process when ppid is same as app pid." />
-      <item value="The kill strategy is ignore logcat process when ppid is same as app pid." />
-      <item value="The strategy is ignore logcat process when ppid is same as app pid." />
-      <item value="策略" />
-      <item value="The current policy is ignore logcat process when ppid is same as app pid" />
-      <item value="The current policy is ignore logcat process whitch ppid is same as app pid." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4273" />
-        <entry key="ENGLISH" value="4254" />
+        <entry key="CHINESE" value="4293" />
+        <entry key="ENGLISH" value="4274" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
