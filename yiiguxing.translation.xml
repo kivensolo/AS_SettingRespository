@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unexpected log found" />
       <item value="Fill the original pattern string with the value of parameter." />
       <item value="For future usage" />
       <item value="partial usage in MainActivity" />
@@ -54,12 +55,11 @@
       <item value="Clean log files if should clean follow strategy" />
       <item value="The folder path of log file" />
       <item value="The file name generator for log file." />
-      <item value="the changeless file name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4303" />
-        <entry key="ENGLISH" value="4284" />
+        <entry key="CHINESE" value="4305" />
+        <entry key="ENGLISH" value="4286" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
