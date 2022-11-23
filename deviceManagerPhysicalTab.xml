@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.10.236:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-11-23T10:28:01.513790500Z" />
+        <name value="ZTE Corporation B860A" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:50660" />
           </Key>
         </key>
@@ -103,18 +115,6 @@
         </key>
         <lastOnlineTime value="2022-07-17T05:47:40.541268300Z" />
         <name value="SKYWORTH E910V10C-YH" />
-        <target value="Android 4.4" />
-        <api value="19" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="172.31.10.236:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-11-10T10:15:45.451933200Z" />
-        <name value="ZTE Corporation B860A" />
         <target value="Android 4.4" />
         <api value="19" />
       </PhysicalDevice>
