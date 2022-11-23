@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="a log record would go from 'log' to 'log.bak.1'" />
+      <item value="as the log grows" />
+      <item value="Get the max index of backup." />
       <item value="Log writer" />
       <item value="The folder path of log file." />
       <item value="asynchronously" />
@@ -52,14 +55,11 @@
       <item value="changeless" />
       <item value="Changeless File Name Generator" />
       <item value="Most subclasses, however, will override some of the methods defined here in order to provide higher efficiency, additional functionality, or both." />
-      <item value="The only methods that a subclass must implement are write(char[], int, int), flush(), and close()." />
-      <item value="Abstract class for writing to character streams." />
-      <item value="elvishew" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4293" />
-        <entry key="ENGLISH" value="4274" />
+        <entry key="CHINESE" value="4296" />
+        <entry key="ENGLISH" value="4277" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
