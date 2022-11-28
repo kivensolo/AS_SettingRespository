@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the internal name of the given class. The internal name of a class is its fully qualified name, as returned by Class.getName(), where '.' are replaced by ''." />
       <item value="the internal name of the method's owner class" />
       <item value="COMPUTE MAXS" />
       <item value="Rejecting re-init on previously-failed class java.lang.Class" />
@@ -54,12 +55,11 @@
       <item value="Shift existed backups if needed, and backup the logging file." />
       <item value="the max backup index" />
       <item value="the max size the file can reach" />
-      <item value="Limit the file size of a max length." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4329" />
-        <entry key="ENGLISH" value="4309" />
+        <entry key="CHINESE" value="4330" />
+        <entry key="ENGLISH" value="4310" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
