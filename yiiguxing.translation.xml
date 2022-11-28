@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Visits the nest host class of the class. A nest is a set of classes of the same package that share access to their private members. One of these classes, called the host, lists the other members of the nest, which in turn should link to the host of their nest. This method must be called only once and only if the visited class is a non-host member of a nest. A class is implicitly its own nest, so it's invalid to call this method with the visited class name as argument." />
+      <item value="advices" />
+      <item value="A {@link MethodVisitor} to insert before, after and around advices in methods and constructors. For constructors, the code keeps track of the elements on the stack in order to detect when the super class constructor is called (note that there can be multiple such calls in different branches). {@code onMethodEnter} is called after each super class constructor call, because the object cannot be used before it is properly initialized." />
       <item value="Visits a LDC instruction." />
       <item value="Visits a LDC instruction. Note that new constant types may be added in future versions of the Java Virtual Machine. To easily detect new constant types, implementations of this method should check for unexpected constant types, like this:" />
       <item value="Visits a LDC instruction" />
@@ -52,14 +55,11 @@
       <item value="Simply join the timestamp, log level, tag and message together." />
       <item value="Flattener" />
       <item value="the formatted final log Charsequence" />
-      <item value="Flatten the log" />
-      <item value="Flatten the log." />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4335" />
-        <entry key="ENGLISH" value="4315" />
+        <entry key="CHINESE" value="4338" />
+        <entry key="ENGLISH" value="4318" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
