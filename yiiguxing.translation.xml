@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Make the service run in the foreground when it is started." />
+      <item value="start Foreground" />
+      <item value="Compat" />
+      <item value="Servant" />
+      <item value="仆人" />
+      <item value="Slave" />
+      <item value="奴隶" />
       <item value="创建通知通道" />
       <item value="Interface for a app survive preservation witch use android service." />
       <item value="Interface for a app alive preservation witch use android service" />
@@ -48,18 +55,11 @@
       <item value="walk direction" />
       <item value="Gets a sequence for visiting this directory and all its content." />
       <item value="It creates a new file with size 0 or, if the file exists already, it is opened and closed without modifying it, but updating the file date and time." />
-      <item value="It creates a new file with size 0 or, if the file exists already," />
-      <item value="It creates a new file with size 0 or," />
-      <item value="Implements the same behaviour as the &quot;touch&quot; utility on Unix" />
-      <item value="a unique name for the content. For a given set of scopestypesformat it must be unique." />
-      <item value="An invocation object used to pass of pertinent information for a {@link Transformtransform(TransformInvocation)} call." />
-      <item value="Transform Invocation" />
-      <item value="Just delegate to old method, for code that uses the old API." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4436" />
-        <entry key="ENGLISH" value="4415" />
+        <entry key="CHINESE" value="4445" />
+        <entry key="ENGLISH" value="4424" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
