@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="STUN" />
       <item value="Alive" />
       <item value="Interface for a app alive preservation witch use android service." />
       <item value="注册" />
@@ -54,12 +55,11 @@
       <item value="alive preservation" />
       <item value="应用保活" />
       <item value="Interface for a app survive" />
-      <item value="Interface for a app survive that used by service." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4474" />
-        <entry key="ENGLISH" value="4452" />
+        <entry key="CHINESE" value="4475" />
+        <entry key="ENGLISH" value="4453" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669600383028" />
+    <option name="lastTrimTime" value="1670221043597" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
