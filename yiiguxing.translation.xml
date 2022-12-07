@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The Mihua TV-DMR service is built into the STB in the form of an Android APP." />
+      <item value="Users flip videos to STB for watch through MIhua TV APP." />
+      <item value="Users project videos to STB for watch through MIhua TV APP." />
+      <item value="project" />
+      <item value="AIDL interface for MiHua TV-DMR Service." />
+      <item value="AIDL interface of MiHua TV-DMR Service." />
       <item value="Injection" />
       <item value="index Live Injection ID" />
       <item value="is Disaster Recovery Mode" />
@@ -49,17 +55,11 @@
       <item value="开启前台进程" />
       <item value="开启前台进程 , API 26 以上无法关闭通知栏" />
       <item value="Make the service run in the foreground when it is started." />
-      <item value="start Foreground" />
-      <item value="Compat" />
-      <item value="Servant" />
-      <item value="仆人" />
-      <item value="Slave" />
-      <item value="奴隶" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4490" />
-        <entry key="ENGLISH" value="4468" />
+        <entry key="CHINESE" value="4497" />
+        <entry key="ENGLISH" value="4475" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
