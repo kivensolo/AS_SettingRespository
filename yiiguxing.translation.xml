@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="deleting play records and favorite records by launcher app" />
+      <item value="Delete play history with STB Launcher App" />
+      <item value="elete play history with STB Launcher App" />
+      <item value="Delete play history by STB Launcher App" />
+      <item value="Delete play history by STB Launcher" />
       <item value="refusing to generate code from aidl file defining parcelable" />
       <item value="The Mihua TV-DMR service is built into the STB in the form of an Android APP." />
       <item value="Users flip videos to STB for watch through MIhua TV APP." />
@@ -50,16 +55,11 @@
       <item value="Each province's own survival behavior" />
       <item value="Lord" />
       <item value="Alive Service Protect Job" />
-      <item value="died" />
-      <item value="As of" />
-      <item value="As of {@link android.os.Build.VERSION_CODESO}, this method is no longer available to third party applications. For backwards compatibility, it will still return the caller's own services." />
-      <item value="开启前台进程" />
-      <item value="开启前台进程 , API 26 以上无法关闭通知栏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4498" />
-        <entry key="ENGLISH" value="4476" />
+        <entry key="CHINESE" value="4503" />
+        <entry key="ENGLISH" value="4481" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
