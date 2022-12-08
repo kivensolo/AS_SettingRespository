@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="遥控器一键拉起" />
       <item value="uniformly" />
       <item value="Receive the number key data delivered by the launcher and jump to the live player" />
       <item value="Receive the number key data delivered by the launcher" />
@@ -54,12 +55,11 @@
       <item value="Interface for a app alive preservation witch use android service." />
       <item value="注册" />
       <item value="Processor" />
-      <item value="send Once Alarm Broadcast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4521" />
-        <entry key="ENGLISH" value="4499" />
+        <entry key="CHINESE" value="4522" />
+        <entry key="ENGLISH" value="4500" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
