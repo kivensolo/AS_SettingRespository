@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DONGLE" />
       <item value="suffix" />
       <item value="Elvis operator (?:) always returns the left operand of non-nullable type String" />
       <item value="遥控器一键拉起" />
@@ -54,12 +55,11 @@
       <item value="请确保FUNCTION IS TEST MODE也为false" />
       <item value="STUN" />
       <item value="Alive" />
-      <item value="Interface for a app alive preservation witch use android service." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4524" />
-        <entry key="ENGLISH" value="4502" />
+        <entry key="CHINESE" value="4525" />
+        <entry key="ENGLISH" value="4503" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
