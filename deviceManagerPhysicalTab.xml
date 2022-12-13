@@ -5,6 +5,147 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.10.236:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-12-08T06:19:45.323464100Z" />
+        <name value="ZTE Corporation B860A" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:54817" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-11-24T08:08:12.097463100Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:50660" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-11-18T07:12:05.244475600Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.31.11.141:5555" />
+          </Key>
+        </key>
+        <name value="TCL Multimedia x32a0" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:64386" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-11-03T11:40:02.696991200Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:51733" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-30T06:17:08.780502Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:62132" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.31.9.251:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-28T08:48:41.314544500Z" />
+        <name value="newland EVM TVOS 2.0" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.186:5555" />
+          </Key>
+        </key>
+        <name value="ZTE Corporation B863AV3.1-T2" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:49311" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-21T09:02:22.116085400Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.185:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-17T05:47:40.541268300Z" />
+        <name value="SKYWORTH E910V10C-YH" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.31.11.157:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-30T08:25:25.963914200Z" />
+        <name value="yinhe EVM TVOS 2.0" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:49282" />
           </Key>
         </key>
@@ -27,23 +168,104 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="172.31.10.236:5555" />
-          </Key>
-        </key>
-        <name value="ZTE Corporation B860A" />
-        <target value="Android 4.4" />
-        <api value="19" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:61776" />
           </Key>
         </key>
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 7.1.1" />
         <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:63485" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:55796" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:57461" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-04T13:28:55.841343300Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:49890" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:56625" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-16T09:20:13.938980300Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.6:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-29T12:23:48.387544300Z" />
+        <name value="YOUHUA MT5021" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.7:5555" />
+          </Key>
+        </key>
+        <name value="YOUHUA MT5021" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.41.8:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-30T09:54:15.047723700Z" />
+        <name value="YOUHUA M512" />
+        <target value="Android 4.4" />
+        <api value="19" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

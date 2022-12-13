@@ -1,86 +1,100 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="471" />
+    <option name="newTranslationDialogY" value="276" />
     <histories>
-      <item value="magnet" />
-      <item value="磁吸" />
-      <item value="探头张望" />
-      <item value="躲藏" />
-      <item value="探头" />
-      <item value="The amount to rotate, in degrees" />
-      <item value="旋转角度" />
-      <item value="角度" />
-      <item value="colors are distributed evenly between the center and edge of the circle." />
-      <item value="Halo" />
-      <item value="Light Halo" />
-      <item value="radial" />
-      <item value="Layer" />
-      <item value="buttom" />
-      <item value="The list of columns to put into the cursor. If * {@code null} all columns are included." />
-      <item value="Column" />
-      <item value="未定义列名称" />
-      <item value="解析器" />
-      <item value="criteria" />
-      <item value="A selection criteria to apply when filtering rows. * If {@code null} then all rows are included." />
-      <item value="You may include ?s in selection, which will be replaced by * the values from selectionArgs, in order that they appear in the selection. * The values will be bound as Strings." />
-      <item value="segment" />
-      <item value="preferences" />
-      <item value="waring Line" />
-      <item value="警告" />
-      <item value="wraring Line" />
-      <item value="wraring" />
-      <item value="wrarring Line" />
-      <item value="安全线" />
-      <item value="分割线" />
-      <item value="磁铁" />
-      <item value="active" />
-      <item value="slide" />
-      <item value="The move motion event that triggered the current onScroll." />
-      <item value="孩子" />
-      <item value="The visual x position of this view, in pixels. This is equivalent to the {@link setTranslationX(float) translationX} property plus the current {@link getLeft() left} property." />
-      <item value="Returns the original raw X coordinate of this event. For touch events on the screen, this is the original location of the event on the screen, before it had been adjusted for the containing window and views." />
-      <item value="non Transitive R Class" />
-      <item value="Transitive" />
-      <item value="internal Get" />
-      <item value="semeter" />
-      <item value="Invalid" />
-      <item value="引导语" />
-      <item value="透明" />
-      <item value="有效" />
-      <item value="可用" />
-      <item value="结合的" />
-      <item value="In Half" />
-      <item value="notify In Half" />
-      <item value="Half" />
+      <item value="tree stump" />
+      <item value="树根" />
+      <item value="多渠道构建" />
+      <item value="Multi Build" />
+      <item value="for the time" />
+      <item value="可能暂时未挂载" />
+      <item value="可能临时分离" />
+      <item value="临时分离" />
+      <item value="临时挂载" />
+      <item value="detached" />
+      <item value="detach" />
+      <item value="DONGLE" />
+      <item value="suffix" />
+      <item value="Elvis operator (?:) always returns the left operand of non-nullable type String" />
+      <item value="遥控器一键拉起" />
+      <item value="uniformly" />
+      <item value="Receive the number key data delivered by the launcher and jump to the live player" />
+      <item value="Receive the number key data delivered by the launcher" />
+      <item value="Receive the digital key data delivered by the launcher and jump to the live player" />
+      <item value="接收launcher应用传递的数字键数据，跳转直播播放器" />
+      <item value="channel" />
+      <item value="if channel isn't exist, do nothing" />
+      <item value="if channle isn't exist, do nothing." />
+      <item value="在桌面应用按数字键后进入直播播放器" />
+      <item value="Open live player when the number key in the launcher pressed." />
+      <item value="Open live player when the number key pressed in the launcher." />
+      <item value="pressed" />
+      <item value="按压" />
+      <item value="presed" />
+      <item value="pull Back" />
+      <item value="Such as Voice-App." />
+      <item value="Play video (liveplaybackvod) by remote apps.Such as Voice-App witch in STB." />
+      <item value="deleting play records and favorite records by launcher app" />
+      <item value="Delete play history with STB Launcher App" />
+      <item value="elete play history with STB Launcher App" />
+      <item value="Delete play history by STB Launcher App" />
+      <item value="Delete play history by STB Launcher" />
+      <item value="refusing to generate code from aidl file defining parcelable" />
+      <item value="The Mihua TV-DMR service is built into the STB in the form of an Android APP." />
+      <item value="Users flip videos to STB for watch through MIhua TV APP." />
+      <item value="Users project videos to STB for watch through MIhua TV APP." />
+      <item value="project" />
+      <item value="AIDL interface for MiHua TV-DMR Service." />
+      <item value="AIDL interface of MiHua TV-DMR Service." />
+      <item value="Injection" />
+      <item value="index Live Injection ID" />
+      <item value="is Disaster Recovery Mode" />
+      <item value="as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug'" />
+      <item value="None of the consumable configurations have attributes" />
+      <item value="None of the consumable configurations have attributes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3133" />
-        <entry key="ENGLISH" value="3151" />
+        <entry key="CHINESE" value="4537" />
+        <entry key="ENGLISH" value="4515" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="9" />
-        <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="13" />
-        <entry key="FILIPINO" value="9" />
+        <entry key="AFRIKAANS" value="3" />
+        <entry key="DANISH" value="11" />
+        <entry key="GERMAN" value="7" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="17" />
+        <entry key="FILIPINO" value="11" />
         <entry key="FINNISH" value="2" />
+        <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="6" />
+        <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="9" />
+        <entry key="MARATHI" value="2" />
         <entry key="MALAY" value="3" />
-        <entry key="NORWEGIAN" value="5" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="ZULU" value="2" />
+        <entry key="NEPALI" value="1" />
+        <entry key="NORWEGIAN" value="6" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="TURKISH" value="6" />
         <entry key="SPANISH" value="9" />
-        <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="13" />
-        <entry key="INDONESIAN" value="14" />
+        <entry key="HUNGARIAN" value="1" />
+        <entry key="ITALIAN" value="6" />
+        <entry key="HINDI" value="14" />
+        <entry key="INDONESIAN" value="17" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653918999476" />
+    <option name="lastTrimTime" value="1670811944884" />
   </component>
   <component name="Settings">
     <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
