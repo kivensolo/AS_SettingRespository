@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the variant outputs. There should always be at least one output." />
+      <item value="Variant" />
       <item value="build Type Name With Hump" />
       <item value="驼峰式" />
       <item value="Multi Build" />
@@ -53,13 +55,11 @@
       <item value="presed" />
       <item value="pull Back" />
       <item value="Such as Voice-App." />
-      <item value="Play video (liveplaybackvod) by remote apps.Such as Voice-App witch in STB." />
-      <item value="deleting play records and favorite records by launcher app" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4557" />
-        <entry key="ENGLISH" value="4533" />
+        <entry key="CHINESE" value="4559" />
+        <entry key="ENGLISH" value="4535" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="5" />
