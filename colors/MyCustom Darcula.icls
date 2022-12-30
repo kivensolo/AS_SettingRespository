@@ -4,7 +4,7 @@
     <property name="created">2020-09-01T12:54:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2022-09-30T17:47:42</property>
+    <property name="modified">2022-12-30T10:31:41</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
@@ -319,6 +319,9 @@
       <value>
         <option name="FOREGROUND" value="77aacc" />
       </value>
+    </option>
+    <option name="ComposableCallTextAttributes">
+      <value />
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CLASS_REFERENCE">
