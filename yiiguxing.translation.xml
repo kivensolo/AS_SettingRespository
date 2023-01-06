@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="指导手册" />
       <item value="animateContentSize will change the Surface size gradually" />
       <item value="animate Content Size" />
       <item value="surfaceColor color will be changing gradually from primary to surface" />
@@ -54,12 +55,11 @@
       <item value="阶段" />
       <item value="片段" />
       <item value="failed" />
-      <item value="Find out if the commandline is a parameterless .jar or directory, for fast unpackrepack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4604" />
-        <entry key="ENGLISH" value="4580" />
+        <entry key="CHINESE" value="4605" />
+        <entry key="ENGLISH" value="4581" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="5" />
