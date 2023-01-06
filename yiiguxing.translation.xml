@@ -5,8 +5,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Padding must be non-negative" />
       <item value="animateContentSize will change the Surface size gradually" />
+      <item value="animate Content Size" />
+      <item value="surfaceColor color will be changing gradually from primary to surface" />
+      <item value="Padding must be non-negative" />
       <item value="horizontal Bias" />
       <item value="Absolute Alignments" />
       <item value="Alignment" />
@@ -23,7 +25,6 @@
       <item value="Colleague" />
       <item value="surfaceColor will be updated gradually from one color to th" />
       <item value="gradually" />
-      <item value="surfaceColor color will be changing gradually from primary to surface" />
       <item value="surfaceColor will be updated gradually from one color to the other" />
       <item value="If the message is expanded, we display all its content otherwise we only display the first line" />
       <item value="We toggle the isExpanded variable when we click on this Column" />
@@ -54,12 +55,11 @@
       <item value="片段" />
       <item value="failed" />
       <item value="Find out if the commandline is a parameterless .jar or directory, for fast unpackrepack" />
-      <item value="Pause when ran non interactively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4601" />
-        <entry key="ENGLISH" value="4577" />
+        <entry key="CHINESE" value="4604" />
+        <entry key="ENGLISH" value="4580" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="5" />
