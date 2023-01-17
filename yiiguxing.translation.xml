@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Materials" />
+      <item value="Bill of Materials" />
       <item value="or &lt;code&gt;false&lt;code&gt; to indicate that you have not handled this event and it should continue to be propagated." />
       <item value="Return &lt;code&gt;true&lt;code&gt; to prevent this event from being propagated further" />
       <item value="The default implementation handles KEYCODE_BACK to stop the activity and go back" />
@@ -53,13 +55,11 @@
       <item value="get Canonical Path" />
       <item value="projects Evaluated" />
       <item value="Returns the variant outputs. There should always be at least one output." />
-      <item value="Variant" />
-      <item value="build Type Name With Hump" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4612" />
-        <entry key="ENGLISH" value="4588" />
+        <entry key="CHINESE" value="4614" />
+        <entry key="ENGLISH" value="4590" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="5" />
