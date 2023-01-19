@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="已激活账户" />
+      <item value="activated" />
+      <item value="activated account" />
+      <item value="aka" />
+      <item value="可能是没有账户信息，也可能是账户已经绑定了stb Id" />
+      <item value="未激活" />
+      <item value="inactive" />
+      <item value="激活" />
       <item value="portrait" />
       <item value="primary Variant" />
       <item value="primary" />
@@ -47,19 +55,11 @@
       <item value="infix" />
       <item value="conversation Sample" />
       <item value="Colleague" />
-      <item value="surfaceColor will be updated gradually from one color to th" />
-      <item value="gradually" />
-      <item value="surfaceColor will be updated gradually from one color to the other" />
-      <item value="If the message is expanded, we display all its content otherwise we only display the first line" />
-      <item value="We toggle the isExpanded variable when we click on this Column" />
-      <item value="We keep track if the message is expanded or not in this variable" />
-      <item value="Conversation" />
-      <item value="Compose Tutorial Theme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4631" />
-        <entry key="ENGLISH" value="4606" />
+        <entry key="CHINESE" value="4640" />
+        <entry key="ENGLISH" value="4615" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="6" />
