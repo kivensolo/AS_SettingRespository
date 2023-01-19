@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rust" />
+      <item value="taupe" />
+      <item value="The background color appears behind scrollable content." />
+      <item value="secondary color provides more ways to accent and distinguish your product. Secondary colors are best for:" />
+      <item value="The primary variant color is used to distinguish two elements of the app using the primary color, such as the top app bar and the system bar." />
+      <item value="The primary color is the color displayed most frequently across your app’s screens and components." />
+      <item value="Color used for text and icons displayed on top of the surface color." />
       <item value="已激活账户" />
       <item value="activated" />
       <item value="activated account" />
@@ -17,8 +24,6 @@
       <item value="primary Variant" />
       <item value="primary" />
       <item value="gray" />
-      <item value="rust" />
-      <item value="taupe" />
       <item value="Section" />
       <item value="Home Section" />
       <item value="My Soothe" />
@@ -50,16 +55,11 @@
       <item value="handle Press Interaction" />
       <item value="Inspector Info" />
       <item value="fold Out" />
-      <item value="fold In" />
-      <item value="The companion object implements `Modifier` so that it may be used as the start of a modifier extension factory expression." />
-      <item value="infix" />
-      <item value="conversation Sample" />
-      <item value="Colleague" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4640" />
-        <entry key="ENGLISH" value="4615" />
+        <entry key="CHINESE" value="4648" />
+        <entry key="ENGLISH" value="4623" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="6" />
