@@ -108,6 +108,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="robust" />
       <item value="pichillilorenzo" />
     </histories>
   </component>
