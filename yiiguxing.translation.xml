@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678244768567" />
+    <option name="lastTrimTime" value="1679815965773" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -119,6 +119,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Detected evs data" />
+      <item value="Platform" />
       <item value="Sets the policy for what actions in the VM process (on any thread) should be detected, as well as the penalty if such actions occur." />
       <item value="sub Type" />
       <item value="message Info" />
@@ -135,8 +137,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
