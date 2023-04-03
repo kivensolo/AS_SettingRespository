@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679815965773" />
+    <option name="lastTrimTime" value="1680521128132" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Observed package id 'build-tools;29.0.3' in inconsistent location" />
       <item value="重排序" />
       <item value="evs UI Data As Cms Format" />
       <item value="convert" />
@@ -147,8 +148,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
