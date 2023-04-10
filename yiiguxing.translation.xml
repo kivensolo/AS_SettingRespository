@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="组播数据" />
       <item value="Find dongle device changed !&quot;" />
       <item value="incomplete" />
       <item value="清除咪咕账户数据，以便后续使用新的id进行激活" />
@@ -163,8 +164,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
