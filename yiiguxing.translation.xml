@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680521128132" />
+    <option name="lastTrimTime" value="1681108260534" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="convert the Response data code and message to App format." />
+      <item value="分发异常错误事件前，将网络数据的code做一次转换" />
+      <item value="分发异常错误事件前，将网络数据的code做一次业务转换" />
+      <item value="无效数据" />
       <item value="draw Back Content And Shadow" />
       <item value="draw Two Side Shadow" />
       <item value="draw Flip Page Bottom Page Content" />
@@ -156,8 +160,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
