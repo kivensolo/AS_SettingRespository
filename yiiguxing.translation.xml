@@ -123,6 +123,11 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="激活" />
+      <item value="Actived" />
+      <item value="Can't find existed license" />
+      <item value="错误码" />
+      <item value="金熊猫业务错误事件分发函数" />
       <item value="form" />
       <item value="组播数据" />
       <item value="Find dongle device changed !&quot;" />
@@ -165,8 +170,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
