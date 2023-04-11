@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="form" />
       <item value="组播数据" />
       <item value="Find dongle device changed !&quot;" />
       <item value="incomplete" />
@@ -164,8 +165,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
