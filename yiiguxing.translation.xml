@@ -118,11 +118,13 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="3671" />
-    <option name="newTranslationDialogY" value="457" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="471" />
+    <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bounded" />
+      <item value="bound" />
       <item value="激活" />
       <item value="Actived" />
       <item value="Can't find existed license" />
@@ -170,8 +172,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
