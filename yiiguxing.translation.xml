@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681108260534" />
+    <option name="lastTrimTime" value="1683532001358" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,12 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Frequent" />
+      <item value="test Frequently Illegal Response" />
+      <item value="频繁" />
+      <item value="连续多次" />
+      <item value="连续" />
+      <item value="非法" />
       <item value="landscape" />
       <item value="Corresponding method handler" />
       <item value="Corresponding" />
@@ -167,16 +173,11 @@
       <item value="CONVERSATION" />
       <item value="Conversation" />
       <item value="conversation" />
-      <item value="feed" />
-      <item value="feedvideo" />
-      <item value="Easy Muxer" />
-      <item value="robust" />
-      <item value="pichillilorenzo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
