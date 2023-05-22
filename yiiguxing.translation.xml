@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="copyrighte Id" />
+      <item value="auth Code" />
+      <item value="account Identity" />
+      <item value="Epg Account Identity" />
       <item value="pichillilorenzo" />
       <item value="Frequent" />
       <item value="test Frequently Illegal Response" />
@@ -169,16 +173,13 @@
       <item value="Sets the policy for what actions in the VM process (on any thread) should be detected, as well as the penalty if such actions occur." />
       <item value="sub Type" />
       <item value="message Info" />
-      <item value="distribution" />
-      <item value="remind Style" />
-      <item value="CONVERSATION" />
-      <item value="Conversation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="65" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
