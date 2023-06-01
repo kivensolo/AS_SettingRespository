@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684481520242" />
+    <option name="lastTrimTime" value="1685605381360" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ERR CLEARTEXT NOT PERMITTED" />
       <item value="copyrighte Id" />
       <item value="auth Code" />
       <item value="account Identity" />
@@ -172,12 +173,11 @@
       <item value="Platform" />
       <item value="Sets the policy for what actions in the VM process (on any thread) should be detected, as well as the penalty if such actions occur." />
       <item value="sub Type" />
-      <item value="message Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="66" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
