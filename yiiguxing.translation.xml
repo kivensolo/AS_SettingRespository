@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PERIOD" />
+      <item value="KEYCODE PERIOD" />
       <item value="Belong" />
       <item value="Msg Cp Id Belong App Info" />
       <item value="message's target apk-app has 3" />
@@ -171,13 +173,11 @@
       <item value="convert" />
       <item value="转换" />
       <item value="Evs config data of position is illegal" />
-      <item value="illegal" />
-      <item value="Detected evs data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="72" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
