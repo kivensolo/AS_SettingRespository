@@ -306,9 +306,13 @@
           <option name="url" value="git@gitee.com:starcor-com/nmg-message.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:starcor-com/terminal-jiangsu-cable-message-sdk-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work\projects\NGM_GD" />
+    <option name="cloneParentDir" value="E:\work\projects\JSYX" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
