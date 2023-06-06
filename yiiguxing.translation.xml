@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685605381360" />
+    <option name="lastTrimTime" value="1686045818522" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="push Granary" />
+      <item value="Granary" />
+      <item value="Legal" />
+      <item value="load Legal Body" />
       <item value="Removes the last object returned by next from the collection. This method can only be called once between each call to next." />
       <item value="PERIOD" />
       <item value="KEYCODE PERIOD" />
@@ -169,15 +173,11 @@
       <item value="Direct Draw Action" />
       <item value="FAIL ON PROJECT REPOS" />
       <item value="Observed package id 'build-tools;29.0.3' in inconsistent location" />
-      <item value="重排序" />
-      <item value="evs UI Data As Cms Format" />
-      <item value="convert" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
