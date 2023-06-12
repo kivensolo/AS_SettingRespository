@@ -314,9 +314,13 @@
           <option name="url" value="git@gitee.com:starcor-com/terminal-message-sdk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:starcor-com/terminal-aaa-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work\Message" />
+    <option name="cloneParentDir" value="E:\work\HeBei" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
