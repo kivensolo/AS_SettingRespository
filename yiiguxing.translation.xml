@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Migrating from AAA-Service for the TV version" />
       <item value="为了TV版本从AAA迁移过来" />
       <item value="Migrating from AAA-Service for tv" />
       <item value="Migrating from AAA-Service cause tv" />
@@ -172,12 +173,11 @@
       <item value="convert the Response data code and message to App format." />
       <item value="分发异常错误事件前，将网络数据的code做一次转换" />
       <item value="分发异常错误事件前，将网络数据的code做一次业务转换" />
-      <item value="无效数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
