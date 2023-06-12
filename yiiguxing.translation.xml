@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686045818522" />
+    <option name="lastTrimTime" value="1686559204550" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,11 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="为了TV版本从AAA迁移过来" />
+      <item value="Migrating from AAA-Service for tv" />
+      <item value="Migrating from AAA-Service cause tv" />
+      <item value="从AAA迁移" />
+      <item value="从AAA移植" />
       <item value="Combined" />
       <item value="Decoded" />
       <item value="on Body Decoded" />
@@ -168,16 +173,11 @@
       <item value="分发异常错误事件前，将网络数据的code做一次转换" />
       <item value="分发异常错误事件前，将网络数据的code做一次业务转换" />
       <item value="无效数据" />
-      <item value="draw Back Content And Shadow" />
-      <item value="draw Two Side Shadow" />
-      <item value="draw Flip Page Bottom Page Content" />
-      <item value="draw Book Middle Area" />
-      <item value="draw Flip Page Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="88" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
