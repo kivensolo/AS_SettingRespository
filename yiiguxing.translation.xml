@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="REAL" />
+      <item value="REALL" />
       <item value="Business" />
       <item value="promotion" />
       <item value="recharge" />
@@ -171,14 +173,13 @@
       <item value="错误码" />
       <item value="金熊猫业务错误事件分发函数" />
       <item value="form" />
-      <item value="组播数据" />
-      <item value="Find dongle device changed !&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="95" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
