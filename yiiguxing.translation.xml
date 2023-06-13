@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="verb" />
       <item value="CAT REPORT PURCHASE DATA" />
       <item value="REAL" />
       <item value="REALL" />
@@ -172,12 +173,11 @@
       <item value="Actived" />
       <item value="Can't find existed license" />
       <item value="错误码" />
-      <item value="金熊猫业务错误事件分发函数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="97" />
         <entry key="ESTONIAN" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
