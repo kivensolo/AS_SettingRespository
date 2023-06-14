@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DK BATCH AUTH INDEX" />
+      <item value="is Batch Auth Index" />
       <item value="verb" />
       <item value="CAT REPORT PURCHASE DATA" />
       <item value="REAL" />
@@ -171,13 +173,11 @@
       <item value="bound" />
       <item value="激活" />
       <item value="Actived" />
-      <item value="Can't find existed license" />
-      <item value="错误码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="99" />
         <entry key="ESTONIAN" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
