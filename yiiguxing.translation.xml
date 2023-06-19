@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686559204550" />
+    <option name="lastTrimTime" value="1687143128343" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Incompatible Class Change Error" />
       <item value="Authentication polling checker for normal product package (non base product) of player." />
       <item value="appy Play" />
       <item value="appy" />
@@ -172,12 +173,11 @@
       <item value="landscape" />
       <item value="Corresponding method handler" />
       <item value="Corresponding" />
-      <item value="bounded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="102" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
