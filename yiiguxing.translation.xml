@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="safe Concat" />
       <item value="Velocity Engine" />
       <item value="register Assets Convert Task" />
       <item value="direct Boot Aware" />
@@ -172,12 +173,11 @@
       <item value="pichillilorenzo" />
       <item value="Frequent" />
       <item value="test Frequently Illegal Response" />
-      <item value="频繁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="112" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
