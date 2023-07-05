@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Repositions this stream to the position at the time the &lt;code&gt;mark&lt;code&gt; method was last called on this input stream." />
       <item value="problem might be caused by incorrect configuration of the daemon." />
       <item value="without corresponding getter has been annotated with @OutputDirectory." />
       <item value="Incremental Task" />
@@ -172,12 +173,11 @@
       <item value="copyrighte Id" />
       <item value="auth Code" />
       <item value="account Identity" />
-      <item value="Epg Account Identity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="116" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
