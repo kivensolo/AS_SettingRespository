@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688094799939" />
+    <option name="lastTrimTime" value="1688531889087" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="problem might be caused by incorrect configuration of the daemon." />
       <item value="without corresponding getter has been annotated with @OutputDirectory." />
       <item value="Incremental Task" />
       <item value="safe Concat" />
@@ -172,12 +173,11 @@
       <item value="auth Code" />
       <item value="account Identity" />
       <item value="Epg Account Identity" />
-      <item value="pichillilorenzo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="115" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
