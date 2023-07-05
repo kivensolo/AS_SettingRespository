@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bangcle" />
       <item value="Encrypt Zip File" />
       <item value="DEFAULT COMPRESSION" />
       <item value="Compression method for compressed (DEFLATED) entries." />
@@ -172,12 +173,11 @@
       <item value="KEYCODE PERIOD" />
       <item value="Belong" />
       <item value="Msg Cp Id Belong App Info" />
-      <item value="message's target apk-app has 3" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="129" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
