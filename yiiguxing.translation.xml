@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="depending on what order the tasks are executed. Please refer to" />
+      <item value="'E:\work\Softterminal\terminal-soft-git-bkg\app\build\generated\encrypted_assets\debug\out'. Reason: Task ':app:compressDebugAssets' uses this output of task ':app:encryptDebugAssetsForShell' without declaring an explicit or implicit dependency." />
+      <item value="Incremental" />
+      <item value="Path Sensitive(Path Sensitivity.RELATIVE)" />
       <item value="string Interner" />
       <item value="Kryo Backed" />
       <item value="Kryo Backed Decoder" />
@@ -169,15 +173,11 @@
       <item value="Authentication polling checker for normal product package (non base product) of player." />
       <item value="appy Play" />
       <item value="appy" />
-      <item value="DK BATCH AUTH INDEX" />
-      <item value="is Batch Auth Index" />
-      <item value="verb" />
-      <item value="CAT REPORT PURCHASE DATA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="165" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
