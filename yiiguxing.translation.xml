@@ -123,6 +123,11 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="string Interner" />
+      <item value="Kryo Backed" />
+      <item value="Kryo Backed Decoder" />
+      <item value="Default Previous Execution State Serializer" />
+      <item value="REGULAR FILE" />
       <item value="Non Incremental Input Changes" />
       <item value="Compression level for fastest compression." />
       <item value="Compression level for best compression." />
@@ -168,16 +173,11 @@
       <item value="is Batch Auth Index" />
       <item value="verb" />
       <item value="CAT REPORT PURCHASE DATA" />
-      <item value="REAL" />
-      <item value="REALL" />
-      <item value="Business" />
-      <item value="promotion" />
-      <item value="recharge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="161" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
