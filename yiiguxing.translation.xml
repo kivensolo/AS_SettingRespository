@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Satisfied By" />
+      <item value="Specs" />
+      <item value="get Do Not Cache If Specs" />
+      <item value="Base incremental task using the new input details APIs." />
       <item value="余数" />
       <item value="bangcle" />
       <item value="Encrypt Zip File" />
@@ -169,15 +173,11 @@
       <item value="Granary" />
       <item value="Legal" />
       <item value="load Legal Body" />
-      <item value="Removes the last object returned by next from the collection. This method can only be called once between each call to next." />
-      <item value="PERIOD" />
-      <item value="KEYCODE PERIOD" />
-      <item value="Belong" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="134" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
