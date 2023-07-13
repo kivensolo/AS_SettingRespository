@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688531889087" />
+    <option name="lastTrimTime" value="1689228479024" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,11 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Please realize" />
+      <item value="realize" />
+      <item value="维度" />
+      <item value="dimens" />
+      <item value="获取会话客户端id, 即与消息服务器会话消息的SRC参数。" />
       <item value="更多的" />
       <item value="further" />
       <item value="property 'inputDir' cannot be changed any further" />
@@ -168,20 +173,16 @@
       <item value="Incremental Task" />
       <item value="safe Concat" />
       <item value="Velocity Engine" />
-      <item value="register Assets Convert Task" />
-      <item value="direct Boot Aware" />
-      <item value="coopration Code" />
-      <item value="Expected 'java.lang.String com.starcor.hunan.operator.plugin.userCenter.HistoryBehavior.TAG' to be a instance field rather than a static field (declaration of 'com.starcor.hunan.operator.plugin.userCenter.HistoryBehavior' appears in dataappcom.starcor.hbgd.launcher-1base.apk)" />
-      <item value="Incompatible Class Change Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="173" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
