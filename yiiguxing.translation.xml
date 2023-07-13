@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="恢复" />
       <item value="Please realize" />
       <item value="realize" />
       <item value="维度" />
@@ -172,12 +173,11 @@
       <item value="without corresponding getter has been annotated with @OutputDirectory." />
       <item value="Incremental Task" />
       <item value="safe Concat" />
-      <item value="Velocity Engine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="174" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
