@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689228479024" />
+    <option name="lastTrimTime" value="1689663907462" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="WARN" />
       <item value="classify" />
       <item value="恢复" />
       <item value="Please realize" />
@@ -172,12 +173,11 @@
       <item value="Repositions this stream to the position at the time the &lt;code&gt;mark&lt;code&gt; method was last called on this input stream." />
       <item value="problem might be caused by incorrect configuration of the daemon." />
       <item value="without corresponding getter has been annotated with @OutputDirectory." />
-      <item value="Incremental Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="177" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
