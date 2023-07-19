@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="non Zero Count" />
+      <item value="convolution Array" />
+      <item value="CONVOLUTION FACTOR" />
+      <item value="clamp" />
       <item value="scalar" />
       <item value="scalar Y Pos" />
       <item value="WARN" />
@@ -169,15 +173,11 @@
       <item value="余数" />
       <item value="bangcle" />
       <item value="Encrypt Zip File" />
-      <item value="DEFAULT COMPRESSION" />
-      <item value="Compression method for compressed (DEFLATED) entries." />
-      <item value="Sets the ZIP file comment." />
-      <item value="Repositions this stream to the position at the time the &lt;code&gt;mark&lt;code&gt; method was last called on this input stream." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
