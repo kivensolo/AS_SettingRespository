@@ -124,6 +124,7 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="scalar" />
+      <item value="scalar Y Pos" />
       <item value="WARN" />
       <item value="classify" />
       <item value="恢复" />
@@ -172,12 +173,11 @@
       <item value="Compression method for compressed (DEFLATED) entries." />
       <item value="Sets the ZIP file comment." />
       <item value="Repositions this stream to the position at the time the &lt;code&gt;mark&lt;code&gt; method was last called on this input stream." />
-      <item value="problem might be caused by incorrect configuration of the daemon." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="181" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
