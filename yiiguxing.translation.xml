@@ -123,6 +123,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="橙色" />
+      <item value="origin" />
+      <item value="cyan" />
       <item value="Wraps a byte array into a buffer." />
       <item value="tried" />
       <item value="Suggestion: use a compatible library with a minSdk of at most 19, or increase this project's minSdk version to at least 21, or use tools:overrideLibrary=&quot;com.nioserver&quot; to force usage (may lead to runtime failures)" />
@@ -170,14 +173,11 @@
       <item value="Returns a string containing the given prefix, as is, and a capitalized version of the given &lt;var&gt;word1&lt;var&gt; and &lt;var&gt;word2&lt;var&gt;." />
       <item value="Single Initial Provider Request Impl" />
       <item value="is Satisfied By" />
-      <item value="Specs" />
-      <item value="get Do Not Cache If Specs" />
-      <item value="Base incremental task using the new input details APIs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
