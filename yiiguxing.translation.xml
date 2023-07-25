@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="vulnerabilities" />
       <item value="Illegal" />
       <item value="橙色" />
       <item value="origin" />
@@ -172,12 +173,11 @@
       <item value="compute Task Name" />
       <item value="the prefix to add before the word" />
       <item value="Returns a string containing the given prefix, as is, and a capitalized version of the given &lt;var&gt;word1&lt;var&gt; and &lt;var&gt;word2&lt;var&gt;." />
-      <item value="Single Initial Provider Request Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="195" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
