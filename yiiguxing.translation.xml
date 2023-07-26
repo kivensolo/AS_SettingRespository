@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="上边界处理" />
       <item value="Edge" />
       <item value="native Duplex" />
       <item value="Duplex Service" />
@@ -171,12 +172,11 @@
       <item value="get No Compress Predicate For Java Res" />
       <item value="No influence on output, this is for our build stats reporting mechanism" />
       <item value="DO NOT EXTEND THIS METHOD DIRECTLY. Instead extend:" />
-      <item value="Base Android task with a variant name and support for analytics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="201" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
