@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Narrowing conversion from 'double' to 'uint32_t' (aka 'unsigned int')" />
       <item value="scalar" />
       <item value="COUNT SCALAR" />
       <item value="scalar Y Pos" />
@@ -171,12 +172,11 @@
       <item value="BEST SPEED" />
       <item value="File System Location Fingerprint" />
       <item value="get No Compress Predicate For Java Res" />
-      <item value="No influence on output, this is for our build stats reporting mechanism" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="207" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
