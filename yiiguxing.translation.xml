@@ -122,6 +122,11 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Ignore" />
+      <item value="忽略" />
+      <item value="No Need to Care" />
+      <item value="无需关心" />
+      <item value="No Care" />
       <item value="COUNT SCALAR" />
       <item value="Narrowing conversion from 'double' to 'uint32_t' (aka 'unsigned int')" />
       <item value="scalar" />
@@ -167,16 +172,11 @@
       <item value="Default Previous Execution State Serializer" />
       <item value="REGULAR FILE" />
       <item value="Non Incremental Input Changes" />
-      <item value="Compression level for fastest compression." />
-      <item value="Compression level for best compression." />
-      <item value="BEST SPEED" />
-      <item value="File System Location Fingerprint" />
-      <item value="get No Compress Predicate For Java Res" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="213" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
