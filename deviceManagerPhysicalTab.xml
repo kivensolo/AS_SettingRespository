@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.11.148:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2023-07-28T07:37:43.242075Z" />
+        <name value="haier HRA962X2_2G_ALI6G_A" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.31.9.230:5555" />
           </Key>
         </key>
