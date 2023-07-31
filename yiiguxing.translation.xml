@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690189766024" />
+    <option name="lastTrimTime" value="1690767408215" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="fivehundredpx" />
       <item value="Ignore" />
       <item value="忽略" />
       <item value="No Need to Care" />
@@ -171,7 +172,6 @@
       <item value="Kryo Backed Decoder" />
       <item value="Default Previous Execution State Serializer" />
       <item value="REGULAR FILE" />
-      <item value="Non Incremental Input Changes" />
     </histories>
     <option name="languageScores">
       <map>
