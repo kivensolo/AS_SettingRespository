@@ -25,6 +25,18 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="HT68J0206712" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2023-07-31T07:50:11.948444800Z" />
+        <name value="Google Pixel XL" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
