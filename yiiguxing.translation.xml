@@ -122,6 +122,9 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="间隔" />
+      <item value="enable Heart Beat" />
+      <item value="enableheart Beat" />
       <item value="directly use Akangraoo" />
       <item value="fivehundredpx" />
       <item value="Ignore" />
@@ -169,14 +172,11 @@
       <item value="Incremental" />
       <item value="Path Sensitive(Path Sensitivity.RELATIVE)" />
       <item value="string Interner" />
-      <item value="Kryo Backed" />
-      <item value="Kryo Backed Decoder" />
-      <item value="Default Previous Execution State Serializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="217" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
