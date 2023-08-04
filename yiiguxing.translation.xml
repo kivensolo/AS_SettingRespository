@@ -122,6 +122,14 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="send Message For One More Time" />
+      <item value="one More Time Send Message" />
+      <item value="one More Time Message" />
+      <item value="one More Time" />
+      <item value="重传" />
+      <item value="想要重传消息" />
+      <item value="想要重传" />
+      <item value="请求重传" />
       <item value="pit~a~pat" />
       <item value="间隔" />
       <item value="enable Heart Beat" />
@@ -164,19 +172,11 @@
       <item value="维度" />
       <item value="dimens" />
       <item value="获取会话客户端id, 即与消息服务器会话消息的SRC参数。" />
-      <item value="更多的" />
-      <item value="further" />
-      <item value="property 'inputDir' cannot be changed any further" />
-      <item value="Capitalized" />
-      <item value="depending on what order the tasks are executed. Please refer to" />
-      <item value="'E:\work\Softterminal\terminal-soft-git-bkg\app\build\generated\encrypted_assets\debug\out'. Reason: Task ':app:compressDebugAssets' uses this output of task ':app:encryptDebugAssetsForShell' without declaring an explicit or implicit dependency." />
-      <item value="Incremental" />
-      <item value="Path Sensitive(Path Sensitivity.RELATIVE)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="228" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
