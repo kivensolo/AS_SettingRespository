@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="pit~a~pat" />
       <item value="间隔" />
       <item value="enable Heart Beat" />
       <item value="enableheart Beat" />
@@ -171,16 +172,16 @@
       <item value="'E:\work\Softterminal\terminal-soft-git-bkg\app\build\generated\encrypted_assets\debug\out'. Reason: Task ':app:compressDebugAssets' uses this output of task ':app:encryptDebugAssetsForShell' without declaring an explicit or implicit dependency." />
       <item value="Incremental" />
       <item value="Path Sensitive(Path Sensitivity.RELATIVE)" />
-      <item value="string Interner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
+        <entry key="CHINESE" value="224" />
         <entry key="ENGLISH" value="217" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
+        <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
