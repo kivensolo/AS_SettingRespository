@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690767408215" />
+    <option name="lastTrimTime" value="1691477569927" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,9 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Decide the format of log will be written to the file." />
+      <item value="Supress default constructor for noninstantiability" />
+      <item value="5 is the external function level" />
       <item value="one More Time Send Message" />
       <item value="send Message For One More Time" />
       <item value="one More Time Message" />
@@ -169,14 +172,11 @@
       <item value="恢复" />
       <item value="Please realize" />
       <item value="realize" />
-      <item value="维度" />
-      <item value="dimens" />
-      <item value="获取会话客户端id, 即与消息服务器会话消息的SRC参数。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="232" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
