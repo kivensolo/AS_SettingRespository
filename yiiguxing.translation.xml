@@ -122,6 +122,11 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="ECHO WEBVIEW" />
+      <item value="回声" />
+      <item value="Scene" />
+      <item value="场景" />
+      <item value="Channel" />
       <item value="ORDER" />
       <item value="Decide the format of log will be written to the file." />
       <item value="Supress default constructor for noninstantiability" />
@@ -167,22 +172,18 @@
       <item value="non Zero Count" />
       <item value="convolution Array" />
       <item value="CONVOLUTION FACTOR" />
-      <item value="clamp" />
-      <item value="WARN" />
-      <item value="classify" />
-      <item value="恢复" />
-      <item value="Please realize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="237" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
