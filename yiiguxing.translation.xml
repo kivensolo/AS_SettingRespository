@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="SCENE" />
       <item value="ECHO WEBVIEW" />
       <item value="回声" />
       <item value="Scene" />
@@ -171,12 +172,11 @@
       <item value="Suggestion: use a compatible library with a minSdk of at most 19, or increase this project's minSdk version to at least 21, or use tools:overrideLibrary=&quot;com.nioserver&quot; to force usage (may lead to runtime failures)" />
       <item value="non Zero Count" />
       <item value="convolution Array" />
-      <item value="CONVOLUTION FACTOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="238" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
