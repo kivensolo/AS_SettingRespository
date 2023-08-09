@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="匹配" />
+      <item value="满足" />
       <item value="Current JDK version 1.8.0_201-b09 has a bug (https:bugs.openjdk.java.netbrowseJDK-8007720) that prevents Room from being incremental" />
       <item value="Consider using JDK 11+ or the embedded JDK shipped with Android Studio 3.5+." />
       <item value="SCENE" />
@@ -170,13 +172,11 @@
       <item value="origin" />
       <item value="cyan" />
       <item value="Wraps a byte array into a buffer." />
-      <item value="tried" />
-      <item value="Suggestion: use a compatible library with a minSdk of at most 19, or increase this project's minSdk version to at least 21, or use tools:overrideLibrary=&quot;com.nioserver&quot; to force usage (may lead to runtime failures)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="242" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
