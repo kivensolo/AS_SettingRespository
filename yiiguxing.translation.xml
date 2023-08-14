@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691477569927" />
+    <option name="lastTrimTime" value="1692006403098" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Return the basic service set identifier (BSSID) of the current access point. The BSSID may be {@code null} if there is no network currently connected. @return the BSSID, in the form of a six-byte MAC address: {@code XX:XX:XX:XX:XX:XX}" />
       <item value="scene" />
       <item value="匹配" />
       <item value="满足" />
@@ -171,12 +172,11 @@
       <item value="Illegal" />
       <item value="橙色" />
       <item value="origin" />
-      <item value="cyan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="244" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
