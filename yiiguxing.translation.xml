@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692006403098" />
+    <option name="lastTrimTime" value="1692775446682" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Similar to {@link startService(Intent)}, but with an implicit promise that the Service will call {@link android.app.ServicestartForeground(int, android.app.Notification) startForeground(int, android.app.Notification)} once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically stop the service and declare the app ANR. &lt;p&gt;Unlike the ordinary {@link startService(Intent)}, this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. @param service Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. @return If the service is being started or is already running, the {@link ComponentName} of the actual service that was started is returned; else if the service does not exist null is returned. @throws SecurityException If the caller does not have permission to access the service or the service can not be found. @see stopService @see android.app.ServicestartForeground(int, android.app.Notification)" />
       <item value="Return the basic service set identifier (BSSID) of the current access point. The BSSID may be {@code null} if there is no network currently connected. @return the BSSID, in the form of a six-byte MAC address: {@code XX:XX:XX:XX:XX:XX}" />
       <item value="scene" />
       <item value="匹配" />
@@ -171,12 +172,11 @@
       <item value="vulnerabilities" />
       <item value="Illegal" />
       <item value="橙色" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="245" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
