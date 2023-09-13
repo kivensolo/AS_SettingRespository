@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="item error prompt" />
       <item value="undefined is not a function at var font_alternative_key = this.findItemById(&quot;item_alternative_key&quot;); (:1)" />
       <item value="font main key zero one" />
       <item value="letter" />
@@ -171,12 +172,11 @@
       <item value="COUNT SCALAR" />
       <item value="Narrowing conversion from 'double' to 'uint32_t' (aka 'unsigned int')" />
       <item value="scalar" />
-      <item value="scalar Y Pos" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="258" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
