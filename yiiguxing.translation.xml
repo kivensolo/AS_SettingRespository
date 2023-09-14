@@ -118,10 +118,13 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="internal" />
+      <item value="内部" />
       <item value="Prompt" />
       <item value="item error prompt" />
       <item value="undefined is not a function at var font_alternative_key = this.findItemById(&quot;item_alternative_key&quot;); (:1)" />
@@ -170,13 +173,11 @@
       <item value="No Need to Care" />
       <item value="无需关心" />
       <item value="No Care" />
-      <item value="COUNT SCALAR" />
-      <item value="Narrowing conversion from 'double' to 'uint32_t' (aka 'unsigned int')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="261" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
