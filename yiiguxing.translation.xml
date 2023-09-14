@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="settle" />
+      <item value="waiting for debugger to settle" />
       <item value="混合模式" />
       <item value="Search range parse finish." />
       <item value="解析" />
@@ -171,13 +173,11 @@
       <item value="想要重传" />
       <item value="请求重传" />
       <item value="pit~a~pat" />
-      <item value="间隔" />
-      <item value="enable Heart Beat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="272" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
