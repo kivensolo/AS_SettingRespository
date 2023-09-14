@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="合法" />
       <item value="已拆分" />
       <item value="parsing" />
       <item value="解析" />
@@ -172,12 +173,11 @@
       <item value="directly use Akangraoo" />
       <item value="fivehundredpx" />
       <item value="Ignore" />
-      <item value="忽略" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="264" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
