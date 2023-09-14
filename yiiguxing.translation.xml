@@ -123,13 +123,15 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="混合模式" />
+      <item value="Search range parse finish." />
+      <item value="解析" />
       <item value="classify" />
       <item value="分类" />
       <item value="classfiy" />
       <item value="合法" />
       <item value="已拆分" />
       <item value="parsing" />
-      <item value="解析" />
       <item value="internal" />
       <item value="内部" />
       <item value="Prompt" />
@@ -171,13 +173,11 @@
       <item value="pit~a~pat" />
       <item value="间隔" />
       <item value="enable Heart Beat" />
-      <item value="enableheart Beat" />
-      <item value="directly use Akangraoo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="269" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
