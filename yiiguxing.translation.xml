@@ -123,6 +123,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="已拆分" />
+      <item value="parsing" />
+      <item value="解析" />
       <item value="internal" />
       <item value="内部" />
       <item value="Prompt" />
@@ -170,14 +173,11 @@
       <item value="fivehundredpx" />
       <item value="Ignore" />
       <item value="忽略" />
-      <item value="No Need to Care" />
-      <item value="无需关心" />
-      <item value="No Care" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="263" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
