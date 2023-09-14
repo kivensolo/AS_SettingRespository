@@ -118,11 +118,14 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="classify" />
+      <item value="分类" />
+      <item value="classfiy" />
       <item value="合法" />
       <item value="已拆分" />
       <item value="parsing" />
@@ -138,7 +141,6 @@
       <item value="alternative" />
       <item value="sort" />
       <item value="program classify" />
-      <item value="分类" />
       <item value="search Range Categorys" />
       <item value="Set special flags controlling how this intent is handled. Most values here depend on the type of component being executed by the Intent, specifically the FLAG_ACTIVITY_ flags are all for use with {@link ContextstartActivity Context.startActivity()} and the FLAG_RECEIVER_ flags are all for use with {@link ContextsendBroadcast(Intent) Context.sendBroadcast()}." />
       <item value="Similar to {@link startService(Intent)}, but with an implicit promise that the Service will call {@link android.app.ServicestartForeground(int, android.app.Notification) startForeground(int, android.app.Notification)} once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically stop the service and declare the app ANR. &lt;p&gt;Unlike the ordinary {@link startService(Intent)}, this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. @param service Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. @return If the service is being started or is already running, the {@link ComponentName} of the actual service that was started is returned; else if the service does not exist null is returned. @throws SecurityException If the caller does not have permission to access the service or the service can not be found. @see stopService @see android.app.ServicestartForeground(int, android.app.Notification)" />
@@ -171,19 +173,18 @@
       <item value="enable Heart Beat" />
       <item value="enableheart Beat" />
       <item value="directly use Akangraoo" />
-      <item value="fivehundredpx" />
-      <item value="Ignore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="266" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="UZBEK" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
