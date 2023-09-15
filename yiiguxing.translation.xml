@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Exist same channel and program" />
+      <item value="Exist" />
       <item value="obsolete Item" />
       <item value="obsolete History Item" />
       <item value="obsolete" />
@@ -170,13 +172,11 @@
       <item value="SCENE" />
       <item value="ECHO WEBVIEW" />
       <item value="回声" />
-      <item value="Scene" />
-      <item value="场景" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="288" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
