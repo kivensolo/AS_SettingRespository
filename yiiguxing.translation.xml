@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Drop save." />
+      <item value="节目单不同" />
       <item value="Exist same channel and program" />
       <item value="Exist" />
       <item value="obsolete Item" />
@@ -170,13 +172,11 @@
       <item value="Current JDK version 1.8.0_201-b09 has a bug (https:bugs.openjdk.java.netbrowseJDK-8007720) that prevents Room from being incremental" />
       <item value="Consider using JDK 11+ or the embedded JDK shipped with Android Studio 3.5+." />
       <item value="SCENE" />
-      <item value="ECHO WEBVIEW" />
-      <item value="回声" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="290" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
