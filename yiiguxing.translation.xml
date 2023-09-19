@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1694498795080" />
+    <option name="lastTrimTime" value="1695090124575" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="COMMAND START INSTALL FIRMWARE" />
       <item value="Drop save." />
       <item value="节目单不同" />
       <item value="Exist same channel and program" />
@@ -171,12 +172,11 @@
       <item value="满足" />
       <item value="Current JDK version 1.8.0_201-b09 has a bug (https:bugs.openjdk.java.netbrowseJDK-8007720) that prevents Room from being incremental" />
       <item value="Consider using JDK 11+ or the embedded JDK shipped with Android Studio 3.5+." />
-      <item value="SCENE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="291" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
