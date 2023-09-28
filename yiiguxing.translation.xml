@@ -123,6 +123,12 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="template area bkg mask" />
+      <item value="transparency" />
+      <item value="有透明度蒙层" />
+      <item value="具有透明度的蒙层" />
+      <item value="半透明蒙层" />
+      <item value="蒙层" />
       <item value="property" />
       <item value="属性" />
       <item value="连续播放" />
@@ -167,17 +173,11 @@
       <item value="item error prompt" />
       <item value="undefined is not a function at var font_alternative_key = this.findItemById(&quot;item_alternative_key&quot;); (:1)" />
       <item value="font main key zero one" />
-      <item value="letter" />
-      <item value="area full letter pad" />
-      <item value="alternative" />
-      <item value="sort" />
-      <item value="program classify" />
-      <item value="search Range Categorys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="305" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
