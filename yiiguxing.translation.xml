@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Relative bulk &lt;i&gt;get&lt;i&gt; method." />
       <item value="The presentation timestamp in microseconds for the buffer. This is derived from the presentation timestamp passed in with the corresponding input buffer. This should be ignored for a 0-sized buffer." />
       <item value="presentation Time Us" />
       <item value="If this codec is to be used as an encoder, pass this flag." />
@@ -172,12 +173,11 @@
       <item value="classify" />
       <item value="分类" />
       <item value="classfiy" />
-      <item value="合法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="315" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
