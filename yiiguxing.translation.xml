@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Finish the decodeencode session, note that the codec instance remains active and ready to be {@link start}ed again. To ensure that it is available to other client call {@link release} and don't just rely on garbage collection to eventually do this for you. @throws IllegalStateException if in the Released state." />
       <item value="is not permitted." />
       <item value="Relative bulk &lt;i&gt;get&lt;i&gt; method." />
       <item value="The presentation timestamp in microseconds for the buffer. This is derived from the presentation timestamp passed in with the corresponding input buffer. This should be ignored for a 0-sized buffer." />
@@ -172,12 +173,11 @@
       <item value="Search range parse finish." />
       <item value="解析" />
       <item value="classify" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="317" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
