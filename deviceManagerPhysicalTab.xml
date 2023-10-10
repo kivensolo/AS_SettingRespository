@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:51559" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2023-10-10T07:26:17.161820800Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.31.14.12:5555" />
           </Key>
         </key>
