@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Do not start workers multiply times" />
       <item value="_auto Switch Variant HLS" />
       <item value="_frame Pumper" />
       <item value="is Adaptive Supported" />
@@ -172,12 +173,11 @@
       <item value="展示名称" />
       <item value="缓存容量" />
       <item value="slope" />
-      <item value="屏蔽代码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="326" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
