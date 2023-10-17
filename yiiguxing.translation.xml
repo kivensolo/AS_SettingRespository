@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696748498426" />
+    <option name="lastTrimTime" value="1697511495819" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="add Inplace Prop" />
       <item value="for live stream, base position should be microseconds from 1970-00-00 00:00:00 UTC" />
       <item value="cb should always be invoked whether exception occurs or not" />
       <item value="Do not start workers multiply times" />
@@ -172,12 +173,11 @@
       <item value="out Date History Item" />
       <item value="过时的数据" />
       <item value="被覆盖的数据" />
-      <item value="展示名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="330" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="IRISH" value="1" />
