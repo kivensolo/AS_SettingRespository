@@ -123,6 +123,17 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="NORMAL" />
+      <item value="WARNING" />
+      <item value="WARRING" />
+      <item value="WARING" />
+      <item value="常规" />
+      <item value="Diagnose" />
+      <item value="ADVISE" />
+      <item value="change Advise Id" />
+      <item value="建议标准" />
+      <item value="建议" />
+      <item value="STANDER" />
       <item value="简洁" />
       <item value="水印" />
       <item value="add Inplace Prop" />
@@ -162,24 +173,13 @@
       <item value="很宽的图片" />
       <item value="Rendered" />
       <item value="请确保在此之前调用了set Player Type函数" />
-      <item value="COMMAND START INSTALL FIRMWARE" />
-      <item value="Drop save." />
-      <item value="节目单不同" />
-      <item value="Exist same channel and program" />
-      <item value="Exist" />
-      <item value="obsolete Item" />
-      <item value="obsolete History Item" />
-      <item value="obsolete" />
-      <item value="过时" />
-      <item value="out Date" />
-      <item value="out Date History Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
