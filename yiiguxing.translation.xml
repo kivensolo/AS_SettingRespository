@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="分析" />
+      <item value="REPORT ERROR PREFIX" />
       <item value="lax" />
       <item value="strict" />
       <item value="strict mode" />
@@ -170,13 +172,11 @@
       <item value="Flush both input and output ports of the component. &lt;p&gt; Upon return, all indices previously returned in calls to {@link dequeueInputBuffer dequeueInputBuffer} and {@link dequeueOutputBuffer dequeueOutputBuffer} &amp;mdash; or obtained via {@link CallbackonInputBufferAvailable onInputBufferAvailable} or {@link CallbackonOutputBufferAvailable onOutputBufferAvailable} callbacks &amp;mdash; become invalid, and all buffers are owned by the codec. &lt;p&gt; If the codec is configured in asynchronous mode, call {@link start} after {@code flush} has returned to resume codec operations. The codec will not request input buffers until this has happened. &lt;strong&gt;Note, however, that there may still be outstanding {@code onOutputBufferAvailable} callbacks that were not handled prior to calling {@code flush}. The indices returned via these callbacks also become invalid upon calling {@code flush} and should be discarded.&lt;strong&gt; &lt;p&gt; If the codec is configured in synchronous mode, codec will resume automatically if it is configured with an input surface. Otherwise, it will resume when {@link dequeueInputBuffer dequeueInputBuffer} is called. @throws IllegalStateException if not in the Executing state. @throws MediaCodec.CodecException upon codec error." />
       <item value="Flush both input and output ports of the component." />
       <item value="Finish the decodeencode session, note that the codec instance remains active and ready to be {@link start}ed again. To ensure that it is available to other client call {@link release} and don't just rely on garbage collection to eventually do this for you. @throws IllegalStateException if in the Released state." />
-      <item value="is not permitted." />
-      <item value="Relative bulk &lt;i&gt;get&lt;i&gt; method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="367" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="IRISH" value="1" />
