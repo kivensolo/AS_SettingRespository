@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="不合格" />
+      <item value="达标" />
+      <item value="不达标" />
+      <item value="Failed" />
       <item value="浪费" />
       <item value="wast" />
       <item value="NORMAL" />
@@ -169,15 +173,11 @@
       <item value="蒙层" />
       <item value="property" />
       <item value="属性" />
-      <item value="连续播放" />
-      <item value="连播" />
-      <item value="poster very wide" />
-      <item value="很宽的图片" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="349" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="IRISH" value="1" />
