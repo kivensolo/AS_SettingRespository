@@ -118,11 +118,24 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="lax" />
+      <item value="strict" />
+      <item value="strict mode" />
+      <item value="严苛模式" />
+      <item value="force" />
+      <item value="soft" />
+      <item value="softness" />
+      <item value="weakness" />
+      <item value="stretch" />
+      <item value="Loose" />
+      <item value="宽松模式和强校验模式" />
+      <item value="宽松模式" />
+      <item value="宽松" />
+      <item value="deal Diagnose Result" />
       <item value="分析器" />
       <item value="Advise" />
       <item value="不合格" />
@@ -159,27 +172,13 @@
       <item value="Finish the decodeencode session, note that the codec instance remains active and ready to be {@link start}ed again. To ensure that it is available to other client call {@link release} and don't just rely on garbage collection to eventually do this for you. @throws IllegalStateException if in the Released state." />
       <item value="is not permitted." />
       <item value="Relative bulk &lt;i&gt;get&lt;i&gt; method." />
-      <item value="The presentation timestamp in microseconds for the buffer. This is derived from the presentation timestamp passed in with the corresponding input buffer. This should be ignored for a 0-sized buffer." />
-      <item value="presentation Time Us" />
-      <item value="If this codec is to be used as an encoder, pass this flag." />
-      <item value="encoder" />
-      <item value="Specify a surface on which to render the output of this decoder. Pass {@code null} as {@code surface} if the codec does not generate raw video output (e.g. not a video decoder) andor if you want to configure the codec for {@link ByteBuffer} output." />
-      <item value="collapse" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: E:\work\terminal-hebei-launcher\app\build\outputs\apk\debug\output-metadata.json" />
-      <item value="drop save often watch channel" />
-      <item value="template area bkg mask" />
-      <item value="transparency" />
-      <item value="有透明度蒙层" />
-      <item value="具有透明度的蒙层" />
-      <item value="半透明蒙层" />
-      <item value="蒙层" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="365" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
