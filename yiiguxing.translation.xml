@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="浪费" />
+      <item value="wast" />
       <item value="NORMAL" />
       <item value="WARNING" />
       <item value="WARRING" />
@@ -171,13 +173,11 @@
       <item value="连播" />
       <item value="poster very wide" />
       <item value="很宽的图片" />
-      <item value="Rendered" />
-      <item value="请确保在此之前调用了set Player Type函数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="345" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="IRISH" value="1" />
