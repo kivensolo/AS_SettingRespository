@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Other Brand don't adapter" />
+      <item value="Other Brand don't adapt" />
       <item value="satisfy Memory Bytes" />
       <item value="标准" />
       <item value="stander" />
@@ -171,13 +173,11 @@
       <item value="浪费" />
       <item value="wast" />
       <item value="NORMAL" />
-      <item value="WARNING" />
-      <item value="WARRING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="395" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
