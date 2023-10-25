@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697511495819" />
+    <option name="lastTrimTime" value="1698199937995" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,15 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="satisfy Memory Bytes" />
+      <item value="标准" />
+      <item value="stander" />
+      <item value="RamLimit of current device" />
+      <item value="根据实际屏幕宽度像素与标准分辨率对比的情况，动态获取运行内存最低值" />
+      <item value="根据实际屏幕宽度像素与标准分辨率对比的情况，动态获取运行内存最低" />
+      <item value="Simple Way:" />
+      <item value="Calling the &lt;code&gt;gc&lt;code&gt; method suggests that the Java Virtual Machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the Java Virtual Machine has made a best effort to reclaim space from all discarded objects." />
+      <item value="下限" />
       <item value="Diagnose" />
       <item value="有效" />
       <item value="Aviald" />
@@ -164,22 +173,13 @@
       <item value="NORMAL" />
       <item value="WARNING" />
       <item value="WARRING" />
-      <item value="WARING" />
-      <item value="常规" />
-      <item value="ADVISE" />
-      <item value="change Advise Id" />
-      <item value="建议标准" />
-      <item value="建议" />
-      <item value="STANDER" />
-      <item value="简洁" />
-      <item value="水印" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="397" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="393" />
         <entry key="ESTONIAN" value="2" />
-        <entry key="GERMAN" value="3" />
+        <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
