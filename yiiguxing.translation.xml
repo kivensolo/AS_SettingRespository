@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1698824956985" />
+    <option name="lastTrimTime" value="1699957463474" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,9 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Setting Secondary Activity" />
+      <item value="A set of values that the animation will animate between over time." />
+      <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
       <item value="Returns the protocols the client supports. This method always returns a non-null list that contains minimally {@link ProtocolHTTP_1_" />
       <item value="Subsequent calls to {@link readSampleData}, {@link getSampleTrackIndex} and {@link getSampleTime} only retrieve information for the subset of tracks selected." />
       <item value="Sets the playback sample rate for this track. This sets the sampling rate at which the audio data will be consumed and played back (as set by the sampleRateInHz parameter in the {@link AudioTrack(int, int, int, int, int, int)} constructor), not the original sampling rate of the content. For example, setting it to half the sample rate of the content will cause the playback to last twice as long, but will also result in a pitch shift down by one octave. The valid sample rate range is from 1 Hz to twice the value returned by {@link getNativeOutputSampleRate(int)}. Use {@link setPlaybackParams(PlaybackParams)} for speed control. &lt;p&gt; This method may also be used to repurpose an existing &lt;code&gt;AudioTrack&lt;code&gt; for playback of content of differing sample rate, but with identical encoding and channel mask. @param sampleRateInHz the sample rate expressed in Hz @return error code or success, see {@link SUCCESS}, {@link ERROR_BAD_VALUE}, {@link ERROR_INVALID_OPERATION}" />
@@ -170,14 +173,11 @@
       <item value="分析器" />
       <item value="Advise" />
       <item value="不合格" />
-      <item value="达标" />
-      <item value="不达标" />
-      <item value="Failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="401" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
