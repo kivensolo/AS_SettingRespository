@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699957463474" />
+    <option name="lastTrimTime" value="1700461542808" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="no consumption record" />
+      <item value="consumption bill" />
+      <item value="consumption" />
+      <item value="Consumption" />
       <item value="Setting Secondary Activity" />
       <item value="A set of values that the animation will animate between over time." />
       <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
@@ -169,15 +173,11 @@
       <item value="宽松模式和强校验模式" />
       <item value="宽松模式" />
       <item value="宽松" />
-      <item value="deal Diagnose Result" />
-      <item value="分析器" />
-      <item value="Advise" />
-      <item value="不合格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="405" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
