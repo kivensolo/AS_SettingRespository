@@ -5,6 +5,19 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.9.62:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2023-11-21T08:06:54.249918Z" />
+        <type value="TV" />
+        <name value="Hisilicon Hi3798CV200" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:51559" />
           </Key>
         </key>
