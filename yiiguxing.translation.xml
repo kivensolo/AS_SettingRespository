@@ -122,6 +122,9 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Player Render or View is null." />
+      <item value="Create DVB-Player service failed" />
+      <item value="请检查机顶盒是否是DVB设备" />
       <item value="Add DVB-Player failed," />
       <item value="enable Slid By Focus Move" />
       <item value="alpha" />
@@ -169,14 +172,11 @@
       <item value="exceed" />
       <item value="分析" />
       <item value="REPORT ERROR PREFIX" />
-      <item value="lax" />
-      <item value="strict" />
-      <item value="strict mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="419" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
