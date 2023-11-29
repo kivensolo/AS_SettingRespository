@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1700461542808" />
+    <option name="lastTrimTime" value="1701243638146" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,10 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Has selected product id from out.But not matched" />
+      <item value="Has selected product id from out.But not right" />
+      <item value="Has outer selected product.But not right" />
+      <item value="outer" />
       <item value="Player Render or View is null." />
       <item value="Create DVB-Player service failed" />
       <item value="请检查机顶盒是否是DVB设备" />
@@ -168,15 +172,11 @@
       <item value="期望" />
       <item value="unacceptable" />
       <item value="不可接受" />
-      <item value="单项检测错误提示语" />
-      <item value="exceed" />
-      <item value="分析" />
-      <item value="REPORT ERROR PREFIX" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="423" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
