@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="多码合一" />
+      <item value="Fusion" />
       <item value="promotion.center" />
       <item value="promotion" />
       <item value="Has selected product id from out.But not matched" />
@@ -170,13 +172,11 @@
       <item value="获取最低等级" />
       <item value="获取综合简介" />
       <item value="get Strict Mode Failed Advise" />
-      <item value="EXPECT DISK SIZE MB" />
-      <item value="期望" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="428" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
