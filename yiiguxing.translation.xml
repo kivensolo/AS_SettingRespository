@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701243638146" />
+    <option name="lastTrimTime" value="1701680582670" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="has load fail mask" />
       <item value="Prevent big data page event report" />
       <item value="多码合一" />
       <item value="Fusion" />
@@ -171,12 +172,11 @@
       <item value="ACCEPT" />
       <item value="STATE ACCEPT" />
       <item value="获取最低等级" />
-      <item value="获取综合简介" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="430" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
