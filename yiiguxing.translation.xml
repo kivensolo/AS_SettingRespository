@@ -121,7 +121,12 @@
     <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="用户协议" />
+      <item value="高亮" />
+      <item value="highlight" />
+      <item value="heighlight" />
       <item value="has load fail mask" />
       <item value="Prevent big data page event report" />
       <item value="多码合一" />
@@ -168,15 +173,11 @@
       <item value="下限" />
       <item value="Diagnose" />
       <item value="有效" />
-      <item value="Aviald" />
-      <item value="ACCEPT" />
-      <item value="STATE ACCEPT" />
-      <item value="获取最低等级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="434" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
