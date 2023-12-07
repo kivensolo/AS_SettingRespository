@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Screen Pixels" />
       <item value="User Agreement" />
       <item value="用户协议" />
       <item value="高亮" />
@@ -172,12 +173,11 @@
       <item value="Simple Way:" />
       <item value="Calling the &lt;code&gt;gc&lt;code&gt; method suggests that the Java Virtual Machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the Java Virtual Machine has made a best effort to reclaim space from all discarded objects." />
       <item value="下限" />
-      <item value="Diagnose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="435" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="436" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
