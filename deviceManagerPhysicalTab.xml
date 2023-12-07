@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.10.138:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2023-12-07T06:25:02.890937800Z" />
+        <name value="HISENSE YMB0300-HX" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.31.9.62:5555" />
           </Key>
         </key>
