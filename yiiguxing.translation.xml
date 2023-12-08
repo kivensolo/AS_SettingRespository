@@ -123,6 +123,10 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="备案信息" />
+      <item value="备案" />
+      <item value="备案号信息" />
+      <item value="备案号" />
       <item value="Screen Pixels" />
       <item value="User Agreement" />
       <item value="用户协议" />
@@ -169,15 +173,11 @@
       <item value="stander" />
       <item value="RamLimit of current device" />
       <item value="根据实际屏幕宽度像素与标准分辨率对比的情况，动态获取运行内存最低值" />
-      <item value="根据实际屏幕宽度像素与标准分辨率对比的情况，动态获取运行内存最低" />
-      <item value="Simple Way:" />
-      <item value="Calling the &lt;code&gt;gc&lt;code&gt; method suggests that the Java Virtual Machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the Java Virtual Machine has made a best effort to reclaim space from all discarded objects." />
-      <item value="下限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="440" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
