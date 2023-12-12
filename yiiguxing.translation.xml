@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701680582670" />
+    <option name="lastTrimTime" value="1702350438393" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,14 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="not Blocked Key When UI Mask Visible" />
+      <item value="not Blocked Key In UI Mask Visible" />
+      <item value="is Not Blocked Key In UI Mask Visible" />
+      <item value="Blocked" />
+      <item value="是否是在UI掩码展示时不拦截的按键" />
+      <item value="是否是在UI掩码展示时不消费的按键" />
+      <item value="是否是在UI掩码展示时有效的按键" />
+      <item value="is Enable Key In UI Mask Visible" />
       <item value="备案信息" />
       <item value="备案" />
       <item value="备案号信息" />
@@ -165,19 +173,11 @@
       <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
       <item value="Returns the protocols the client supports. This method always returns a non-null list that contains minimally {@link ProtocolHTTP_1_" />
       <item value="Subsequent calls to {@link readSampleData}, {@link getSampleTrackIndex} and {@link getSampleTime} only retrieve information for the subset of tracks selected." />
-      <item value="Sets the playback sample rate for this track. This sets the sampling rate at which the audio data will be consumed and played back (as set by the sampleRateInHz parameter in the {@link AudioTrack(int, int, int, int, int, int)} constructor), not the original sampling rate of the content. For example, setting it to half the sample rate of the content will cause the playback to last twice as long, but will also result in a pitch shift down by one octave. The valid sample rate range is from 1 Hz to twice the value returned by {@link getNativeOutputSampleRate(int)}. Use {@link setPlaybackParams(PlaybackParams)} for speed control. &lt;p&gt; This method may also be used to repurpose an existing &lt;code&gt;AudioTrack&lt;code&gt; for playback of content of differing sample rate, but with identical encoding and channel mask. @param sampleRateInHz the sample rate expressed in Hz @return error code or success, see {@link SUCCESS}, {@link ERROR_BAD_VALUE}, {@link ERROR_INVALID_OPERATION}" />
-      <item value="Other Brand don't adapter" />
-      <item value="Other Brand don't adapt" />
-      <item value="satisfy Memory Bytes" />
-      <item value="标准" />
-      <item value="stander" />
-      <item value="RamLimit of current device" />
-      <item value="根据实际屏幕宽度像素与标准分辨率对比的情况，动态获取运行内存最低值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="462" />
+        <entry key="ENGLISH" value="449" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
