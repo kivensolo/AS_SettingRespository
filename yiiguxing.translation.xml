@@ -118,11 +118,13 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="encrypt" />
+      <item value="加密" />
       <item value="not Blocked Key When UI Mask Visible" />
       <item value="not Blocked Key In UI Mask Visible" />
       <item value="is Not Blocked Key In UI Mask Visible" />
@@ -171,13 +173,11 @@
       <item value="Setting Secondary Activity" />
       <item value="A set of values that the animation will animate between over time." />
       <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
-      <item value="Returns the protocols the client supports. This method always returns a non-null list that contains minimally {@link ProtocolHTTP_1_" />
-      <item value="Subsequent calls to {@link readSampleData}, {@link getSampleTrackIndex} and {@link getSampleTime} only retrieve information for the subset of tracks selected." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="451" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
