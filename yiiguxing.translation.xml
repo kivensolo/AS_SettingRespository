@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702965004564" />
+    <option name="lastTrimTime" value="1704185299990" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If set, when sending a broadcast the recipient is allowed to run at foreground priority, with a shorter timeout interval. During normal broadcasts the receivers are not automatically hoisted out of the background priority class." />
       <item value="cloud Box Order Info Url Prefix" />
       <item value="encrypt" />
       <item value="加密" />
@@ -172,12 +173,11 @@
       <item value="consumption" />
       <item value="Consumption" />
       <item value="Setting Secondary Activity" />
-      <item value="A set of values that the animation will animate between over time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="453" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
