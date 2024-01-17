@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704185299990" />
+    <option name="lastTrimTime" value="1705463386544" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the result of dispatching the method represented by this object on obj with parameters args" />
+      <item value="手动" />
       <item value="Vital" />
       <item value="lint Vital Release" />
       <item value="If set, when sending a broadcast the recipient is allowed to run at foreground priority, with a shorter timeout interval. During normal broadcasts the receivers are not automatically hoisted out of the background priority class." />
@@ -171,13 +173,11 @@
       <item value="Type com.google.gson.annotations.Expose is defined multiple times" />
       <item value="has Consumption Record" />
       <item value="no consumption record" />
-      <item value="consumption bill" />
-      <item value="consumption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="457" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
