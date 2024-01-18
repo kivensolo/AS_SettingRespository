@@ -123,6 +123,8 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="频道" />
+      <item value="CHANEL" />
       <item value="the result of dispatching the method represented by this object on obj with parameters args" />
       <item value="手动" />
       <item value="Vital" />
@@ -171,13 +173,11 @@
       <item value="wipe" />
       <item value="is Performance" />
       <item value="Type com.google.gson.annotations.Expose is defined multiple times" />
-      <item value="has Consumption Record" />
-      <item value="no consumption record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="460" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
