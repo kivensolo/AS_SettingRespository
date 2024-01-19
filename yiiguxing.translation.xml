@@ -123,6 +123,7 @@
     <option name="newTranslationDialogY" value="276" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="星期" />
       <item value="duration sec" />
       <item value="转换时间" />
       <item value="分钟" />
@@ -172,12 +173,11 @@
       <item value="请检查机顶盒是否是DVB设备" />
       <item value="Add DVB-Player failed," />
       <item value="enable Slid By Focus Move" />
-      <item value="alpha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="467" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
