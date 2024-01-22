@@ -118,11 +118,30 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="打开播放器，并展示列表" />
+      <item value="指明播放的频道" />
+      <item value="Analysis Suggestion: check Request and Response of n39_A_1" />
+      <item value="排查建议" />
+      <item value="建议" />
+      <item value="Something strange happened" />
+      <item value="openDvbLivePlayer with illegal params" />
+      <item value="非法参数" />
+      <item value="is the function [appendDvbNode] of DVBChannelDataHelper is executed successfully or not?" />
+      <item value="is the request param [nns_dvb_nit_id] of n39_a_1 is null?" />
+      <item value="Please check “dvb_nit_id” params from n41_a_4 response" />
+      <item value="Please check “dvb_nit_id” from n41_a_4 response" />
+      <item value="SPECIFY" />
+      <item value="声明" />
+      <item value="指明" />
+      <item value="指定" />
+      <item value="specified" />
+      <item value="specify" />
+      <item value="直接打开指定频道" />
+      <item value="指定频道" />
       <item value="频点信息" />
       <item value="REVERSE" />
       <item value="Pill" />
@@ -153,31 +172,11 @@
       <item value="Blocked" />
       <item value="是否是在UI掩码展示时不拦截的按键" />
       <item value="是否是在UI掩码展示时不消费的按键" />
-      <item value="是否是在UI掩码展示时有效的按键" />
-      <item value="is Enable Key In UI Mask Visible" />
-      <item value="备案信息" />
-      <item value="备案" />
-      <item value="备案号信息" />
-      <item value="备案号" />
-      <item value="Screen Pixels" />
-      <item value="User Agreement" />
-      <item value="用户协议" />
-      <item value="高亮" />
-      <item value="highlight" />
-      <item value="heighlight" />
-      <item value="has load fail mask" />
-      <item value="Prevent big data page event report" />
-      <item value="多码合一" />
-      <item value="Fusion" />
-      <item value="promotion.center" />
-      <item value="promotion" />
-      <item value="Has selected product id from out.But not matched" />
-      <item value="Has selected product id from out.But not right" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="499" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
