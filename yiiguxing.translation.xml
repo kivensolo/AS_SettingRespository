@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="symbol" />
       <item value="打开播放器，并展示列表" />
       <item value="指明播放的频道" />
       <item value="Analysis Suggestion: check Request and Response of n39_A_1" />
@@ -171,12 +172,11 @@
       <item value="is Not Blocked Key In UI Mask Visible" />
       <item value="Blocked" />
       <item value="是否是在UI掩码展示时不拦截的按键" />
-      <item value="是否是在UI掩码展示时不消费的按键" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="500" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
