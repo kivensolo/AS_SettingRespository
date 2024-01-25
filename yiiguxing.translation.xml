@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705463386544" />
+    <option name="lastTrimTime" value="1706148714164" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="UPGRADE" />
+      <item value="UPDATE" />
       <item value="symbol" />
       <item value="打开播放器，并展示列表" />
       <item value="指明播放的频道" />
@@ -170,13 +172,11 @@
       <item value="not Blocked Key When UI Mask Visible" />
       <item value="not Blocked Key In UI Mask Visible" />
       <item value="is Not Blocked Key In UI Mask Visible" />
-      <item value="Blocked" />
-      <item value="是否是在UI掩码展示时不拦截的按键" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="502" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
