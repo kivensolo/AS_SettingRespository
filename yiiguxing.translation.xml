@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="estimate Id" />
       <item value="UPGRADE" />
       <item value="UPDATE" />
       <item value="symbol" />
@@ -171,12 +172,11 @@
       <item value="加密" />
       <item value="not Blocked Key When UI Mask Visible" />
       <item value="not Blocked Key In UI Mask Visible" />
-      <item value="is Not Blocked Key In UI Mask Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="503" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
