@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706148714164" />
+    <option name="lastTrimTime" value="1709091533600" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Haier" />
       <item value="estimate Id" />
       <item value="UPGRADE" />
       <item value="UPDATE" />
@@ -171,12 +172,11 @@
       <item value="encrypt" />
       <item value="加密" />
       <item value="not Blocked Key When UI Mask Visible" />
-      <item value="not Blocked Key In UI Mask Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="504" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
