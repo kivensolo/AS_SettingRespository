@@ -122,6 +122,8 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="字段" />
+      <item value="filed" />
       <item value="Haier" />
       <item value="estimate Id" />
       <item value="UPGRADE" />
@@ -170,13 +172,11 @@
       <item value="If set, when sending a broadcast the recipient is allowed to run at foreground priority, with a shorter timeout interval. During normal broadcasts the receivers are not automatically hoisted out of the background priority class." />
       <item value="cloud Box Order Info Url Prefix" />
       <item value="encrypt" />
-      <item value="加密" />
-      <item value="not Blocked Key When UI Mask Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="506" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
