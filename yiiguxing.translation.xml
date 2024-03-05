@@ -122,6 +122,7 @@
     <option name="newTranslationDialogX" value="473" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Example data" />
       <item value="Response Handler" />
       <item value="字段" />
       <item value="filed" />
@@ -171,12 +172,11 @@
       <item value="Vital" />
       <item value="lint Vital Release" />
       <item value="If set, when sending a broadcast the recipient is allowed to run at foreground priority, with a shorter timeout interval. During normal broadcasts the receivers are not automatically hoisted out of the background priority class." />
-      <item value="cloud Box Order Info Url Prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="507" />
         <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="IRISH" value="1" />
