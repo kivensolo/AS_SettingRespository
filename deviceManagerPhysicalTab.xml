@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="172.31.15.116:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2024-03-06T08:20:57.205324300Z" />
+        <name value="xiaomi MiTV-AZFP0" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.31.11.180:5555" />
           </Key>
         </key>
