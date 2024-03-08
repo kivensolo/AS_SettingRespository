@@ -346,9 +346,13 @@
           <option name="url" value="https://gitee.com/kumei/OpenInputMethod.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:starcor-com/terminal-jiangsu-cable-player.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\GitHubProjects\TV" />
+    <option name="cloneParentDir" value="E:\work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
