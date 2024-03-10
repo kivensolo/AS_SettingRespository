@@ -5,46 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="172.31.10.236:5555" />
+            <value value="172.31.15.116:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-12-08T06:19:45.323464100Z" />
-        <name value="ZTE Corporation B860A" />
-        <target value="Android 4.4" />
-        <api value="19" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:54817" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-11-24T08:08:12.097463100Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:50660" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-11-18T07:12:05.244475600Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="172.31.11.141:5555" />
-          </Key>
-        </key>
-        <name value="TCL Multimedia x32a0" />
+        <lastOnlineTime value="2024-03-06T08:20:57.205324300Z" />
+        <name value="xiaomi MiTV-AZFP0" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
@@ -52,57 +17,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:64386" />
+            <value value="172.31.11.180:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-11-03T11:40:02.696991200Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
+        <lastOnlineTime value="2024-02-21T09:55:23.596663600Z" />
+        <type value="TV" />
+        <name value="Hisilicon Hi3798CV200" />
+        <target value="Android 5.1" />
+        <api value="22" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:51733" />
+            <value value="172.31.9.178:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-09-30T06:17:08.780502Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:62132" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="172.31.9.251:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-09-28T08:48:41.314544500Z" />
-        <name value="newland EVM TVOS 2.0" />
-        <target value="Android 4.4" />
-        <api value="19" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.41.186:5555" />
-          </Key>
-        </key>
-        <name value="ZTE Corporation B863AV3.1-T2" />
+        <lastOnlineTime value="2024-01-31T08:26:09.654741Z" />
+        <name value="haier HRA962X2_2G_ALI6G_A" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
@@ -110,23 +42,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:49311" />
+            <value value="192.168.137.7:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-21T09:02:22.116085400Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
+        <type value="TV" />
+        <name value="Droidlogic X96Max_Plus_Ultra" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.41.185:5555" />
+            <value value="172.31.10.138:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-17T05:47:40.541268300Z" />
-        <name value="SKYWORTH E910V10C-YH" />
+        <lastOnlineTime value="2023-12-07T06:25:02.890937800Z" />
+        <name value="HISENSE YMB0300-HX" />
         <target value="Android 4.4" />
         <api value="19" />
       </PhysicalDevice>
@@ -134,21 +66,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="172.31.11.157:5555" />
+            <value value="172.31.9.62:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-30T08:25:25.963914200Z" />
-        <name value="yinhe EVM TVOS 2.0" />
-        <target value="Android 4.4" />
-        <api value="19" />
+        <lastOnlineTime value="2023-11-21T08:06:54.249918Z" />
+        <type value="TV" />
+        <name value="Hisilicon Hi3798CV200" />
+        <target value="Android 5.1" />
+        <api value="22" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:49282" />
+            <value value="127.0.0.1:51559" />
           </Key>
         </key>
+        <lastOnlineTime value="2023-10-10T07:26:17.161820800Z" />
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 7.1.1" />
         <api value="25" />
@@ -157,90 +91,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:60737" />
+            <value value="172.31.14.12:5555" />
           </Key>
         </key>
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
+        <lastOnlineTime value="2023-09-28T10:04:45.968695300Z" />
+        <type value="TV" />
+        <name value="Hisilicon Hi3798CV200" />
+        <target value="Android 5.1" />
+        <api value="22" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:61776" />
+            <value value="172.31.11.148:5555" />
           </Key>
         </key>
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:63485" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:55796" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:57461" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-06-04T13:28:55.841343300Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:49890" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:56625" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-07-16T09:20:13.938980300Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.41.6:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-07-29T12:23:48.387544300Z" />
-        <name value="YOUHUA MT5021" />
+        <lastOnlineTime value="2023-07-28T07:37:43.242075Z" />
+        <name value="haier HRA962X2_2G_ALI6G_A" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
@@ -248,10 +116,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.41.7:5555" />
+            <value value="172.31.9.230:5555" />
           </Key>
         </key>
-        <name value="YOUHUA MT5021" />
+        <lastOnlineTime value="2023-07-11T07:35:52.600181800Z" />
+        <name value="xiaomi MiTV-AZFP0" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
@@ -259,13 +128,13 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.41.8:5555" />
+            <value value="HT68J0206712" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-30T09:54:15.047723700Z" />
-        <name value="YOUHUA M512" />
-        <target value="Android 4.4" />
-        <api value="19" />
+        <lastOnlineTime value="2023-07-31T08:18:25.067969Z" />
+        <name value="Google Pixel XL" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
