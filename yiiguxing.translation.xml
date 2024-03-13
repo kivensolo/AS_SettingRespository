@@ -107,10 +107,16 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6953e2b0635b37a0" />
+      </youdao-translate>
+    </option>
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="operational maintenance" />
       <item value="全局" />
       <item value="GLOABLE" />
     </histories>
