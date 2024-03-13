@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="全球" />
       <item value="operational maintenance" />
       <item value="全局" />
       <item value="GLOABLE" />
