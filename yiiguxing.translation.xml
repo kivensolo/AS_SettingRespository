@@ -116,6 +116,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="status Code" />
+      <item value="eg" />
       <item value="Simple exception describe for RTSP." />
       <item value="Exception describe of RTSP" />
       <item value="描述" />
@@ -128,8 +130,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
