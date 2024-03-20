@@ -115,7 +115,16 @@
     </option>
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="3671" />
+    <option name="newTranslationDialogY" value="457" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A RTSP exception occurred" />
+      <item value="异常发生" />
+      <item value="occured" />
+      <item value="an internal exception occured" />
+      <item value="发生异常" />
       <item value="The callback from ‘_mediaSource.open’ in the {@link XPlayeropen(String)}" />
       <item value="Callback in XPlayer" />
       <item value="Method in RTSP" />
@@ -134,8 +143,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
