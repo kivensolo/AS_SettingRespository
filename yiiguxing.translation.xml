@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="3671" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="url格式不支持，请检查传入参数" />
+      <item value="Url not supported! Please check!" />
       <item value="内核切换" />
       <item value="需要被实现" />
       <item value="protocol" />
@@ -164,8 +166,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="38" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
       </map>
