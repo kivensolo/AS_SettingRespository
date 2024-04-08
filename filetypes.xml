@@ -15,6 +15,7 @@
       <mapping pattern="OrderConstans.java" type="AUTO_DETECTED" />
       <mapping pattern="itvLauncher" type="AUTO_DETECTED" />
       <mapping pattern="activity_ai_testxml" type="AUTO_DETECTED" />
+      <mapping pattern="xul_instruction" type="AUTO_DETECTED" />
       <mapping pattern="encrypted_instruction" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
