@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1714455612560" />
+    <option name="lastTrimTime" value="1715146564274" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -116,6 +116,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Pumper" />
+      <item value="Event Pumper" />
+      <item value="_do Pump Event" />
       <item value="If direct connection is desired" />
       <item value="If direct connection is desired, Proxy.NO_PROXY should be specified" />
       <item value="desired" />
@@ -163,14 +166,11 @@
       <item value="The callback from ‘_mediaSource.open’ in the {@link XPlayeropen(String)}" />
       <item value="Callback in XPlayer" />
       <item value="Method in RTSP" />
-      <item value="Method of RTSP" />
-      <item value="status Code" />
-      <item value="eg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="TURKISH" value="1" />
