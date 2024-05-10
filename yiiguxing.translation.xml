@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Transfer" />
       <item value="schedule" />
       <item value="schedule Acceptor" />
       <item value="Validate Result" />
@@ -165,12 +166,11 @@
       <item value="unsupported transport, try another transport mode" />
       <item value="A RTSP exception occurred" />
       <item value="异常发生" />
-      <item value="occured" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="TURKISH" value="1" />
