@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Simulation" />
       <item value="Server-socket channels only support the accepting of new connections, so this method returns" />
       <item value="Returns an operation set identifying this channel's supported operations" />
       <item value="revert Back Proxy" />
@@ -165,12 +166,11 @@
       <item value="paire" />
       <item value="对" />
       <item value="字段" />
-      <item value="Control" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="TURKISH" value="1" />
