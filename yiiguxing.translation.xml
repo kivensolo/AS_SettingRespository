@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Validate Result" />
       <item value="Dead System Exception" />
       <item value="react" />
       <item value="Pumper" />
@@ -165,12 +166,11 @@
       <item value="occured" />
       <item value="an internal exception occured" />
       <item value="发生异常" />
-      <item value="The callback from ‘_mediaSource.open’ in the {@link XPlayeropen(String)}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="59" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="TURKISH" value="1" />
