@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Block Request" />
       <item value="在正式请求前, 校验并修复不正确的url" />
       <item value="是否允许重定向" />
       <item value="Simulation" />
@@ -165,12 +166,11 @@
       <item value="permission was granted, yay! Do the task you need to do." />
       <item value="成对" />
       <item value="paier" />
-      <item value="paire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="77" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="TURKISH" value="1" />
