@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715146564274" />
+    <option name="lastTrimTime" value="1715583672298" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -116,6 +116,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="transparent proxying" />
+      <item value="transparent" />
       <item value="Writes a start tag with the given namespace and name. If there is no prefix defined for the given namespace, a prefix will be defined automatically. The explicit prefixes for namespaces can be established by calling setPrefix() immediately before this method. If namespace is null no namespace prefix is printed but just name. If namespace is empty string then serializer will make sure that default empty namespace is declared (in XML 1.0 xmlns='') or throw IllegalStateException if default namespace is already bound to non-empty string." />
       <item value="Write &amp;lt;&amp;63;xml declaration with encoding (if encoding not null) and standalone flag (if standalone not null) This method can only be called just after setOutput." />
       <item value="standalone" />
@@ -164,13 +166,11 @@
       <item value="需要被实现" />
       <item value="protocol" />
       <item value="协议" />
-      <item value="build Brief Info" />
-      <item value="build Detail Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="85" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
