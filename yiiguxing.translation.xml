@@ -116,6 +116,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Writes a start tag with the given namespace and name. If there is no prefix defined for the given namespace, a prefix will be defined automatically. The explicit prefixes for namespaces can be established by calling setPrefix() immediately before this method. If namespace is null no namespace prefix is printed but just name. If namespace is empty string then serializer will make sure that default empty namespace is declared (in XML 1.0 xmlns='') or throw IllegalStateException if default namespace is already bound to non-empty string." />
+      <item value="Write &amp;lt;&amp;63;xml declaration with encoding (if encoding not null) and standalone flag (if standalone not null) This method can only be called just after setOutput." />
+      <item value="standalone" />
       <item value="peer Handler" />
       <item value="peer" />
       <item value="认证完成回调通知" />
@@ -163,14 +166,11 @@
       <item value="协议" />
       <item value="build Brief Info" />
       <item value="build Detail Info" />
-      <item value="Returns the provider that created this channel." />
-      <item value="以视频高度自适应" />
-      <item value="failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="83" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
