@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="peer" />
       <item value="peer Do Read" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue" />
       <item value="Tests whether this key's channel has either finished, or failed to finish, its socket-connection operation." />
@@ -126,7 +127,6 @@
       <item value="Write &amp;lt;&amp;63;xml declaration with encoding (if encoding not null) and standalone flag (if standalone not null) This method can only be called just after setOutput." />
       <item value="standalone" />
       <item value="peer Handler" />
-      <item value="peer" />
       <item value="认证完成回调通知" />
       <item value="Block Request" />
       <item value="在正式请求前, 校验并修复不正确的url" />
@@ -169,8 +169,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
