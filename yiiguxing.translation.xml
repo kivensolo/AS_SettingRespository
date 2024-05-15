@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="peer Do Read" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue" />
       <item value="Tests whether this key's channel has either finished, or failed to finish, its socket-connection operation." />
       <item value="react" />
@@ -165,12 +166,11 @@
       <item value="url格式不支持，请检查传入参数" />
       <item value="Url not supported! Please check!" />
       <item value="内核切换" />
-      <item value="需要被实现" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
