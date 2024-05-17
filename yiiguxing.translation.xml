@@ -116,6 +116,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cleartext Traffic Permitted" />
+      <item value="ERR CLEARTEXT NOT PERMITTED" />
       <item value="peer" />
       <item value="peer Do Read" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue" />
@@ -164,13 +166,11 @@
       <item value="instruction" />
       <item value="xul instruction" />
       <item value="url格式不支持，请检查传入参数" />
-      <item value="Url not supported! Please check!" />
-      <item value="内核切换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="92" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
