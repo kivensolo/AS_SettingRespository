@@ -286,6 +286,10 @@
           <option name="url" value="https://gitee.com/starcor-com/cloudbox-log.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:starcor-com/soft-terminal-soft-probe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work\projects" />
