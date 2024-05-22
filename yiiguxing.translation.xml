@@ -116,6 +116,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Probe" />
+      <item value="Please init SoftProbeSDK" />
+      <item value="complete" />
+      <item value="信号" />
       <item value="Longitude" />
       <item value="Latitude" />
       <item value="各依赖库版本管控表" />
@@ -162,15 +166,11 @@
       <item value="_do Pump Event" />
       <item value="If direct connection is desired" />
       <item value="If direct connection is desired, Proxy.NO_PROXY should be specified" />
-      <item value="desired" />
-      <item value="the Proxy through which this connection will be made. If direct connection is desired, Proxy.NO_PROXY should be specified." />
-      <item value="Sets whether HTTP redirects (requests with response code 3xx) should be automatically followed by this class. True by default. Applets cannot change this variable. &lt;p&gt; If there is a security manager, this method first calls the security manager's {@code checkSetFactory} method to ensure the operation is allowed. This could result in a SecurityException." />
-      <item value="Redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
