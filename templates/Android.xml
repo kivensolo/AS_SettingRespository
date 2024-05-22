@@ -27,4 +27,37 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="include_custom" value="// setting.gradle文件中配置子模块&#10;include ':$MODULE_NAME$'&#10;project(':$MODULE_NAME$').projectDir = new File('$MODULE_PATH$')&#10;&#10;//Copy以下代码至目标module&#10;implementation project(':$MODULE_NAME$')" description="include local module to current module." toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE_PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Python" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+  <template name="mirror_of_gradle" value="distributionUrl=https\://mirrors.cloud.tencent.com/gradle/gradle-7.2-bin.zip" description="gradle mirror of tencent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Python" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
 </templateSet>
