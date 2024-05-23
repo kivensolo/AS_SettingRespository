@@ -116,6 +116,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="平台" />
+      <item value="PLANTFORM" />
       <item value="chorm" />
       <item value="Happy spring festival." />
       <item value="密钥协商" />
@@ -164,15 +166,13 @@
       <item value="schedule" />
       <item value="schedule Acceptor" />
       <item value="Validate Result" />
-      <item value="Dead System Exception" />
-      <item value="Pumper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="110" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="FILIPINO" value="1" />
+        <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="TURKISH" value="1" />
