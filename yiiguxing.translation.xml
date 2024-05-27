@@ -116,6 +116,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="elapsed milliseconds since sdk init" />
+      <item value="elapsed" />
+      <item value="获取设备运行时间" />
+      <item value="Static Config" />
+      <item value="Consult" />
       <item value="reate" />
       <item value="不使用" />
       <item value="if {@code true} then queue accesses for threads blocked on insertion or removal, are processed in FIFO order; if {@code false} the access order is unspecified." />
@@ -161,16 +166,11 @@
       <item value="是否允许重定向" />
       <item value="Simulation" />
       <item value="Server-socket channels only support the accepting of new connections, so this method returns" />
-      <item value="Returns an operation set identifying this channel's supported operations" />
-      <item value="revert Back Proxy" />
-      <item value="DUMMY" />
-      <item value="Proxy Request Handler" />
-      <item value="Always" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="123" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
