@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Detecotor" />
       <item value="url need be modify" />
       <item value="Pair" />
       <item value="Triple" />
@@ -165,12 +166,11 @@
       <item value="transparent" />
       <item value="Writes a start tag with the given namespace and name. If there is no prefix defined for the given namespace, a prefix will be defined automatically. The explicit prefixes for namespaces can be established by calling setPrefix() immediately before this method. If namespace is null no namespace prefix is printed but just name. If namespace is empty string then serializer will make sure that default empty namespace is declared (in XML 1.0 xmlns='') or throw IllegalStateException if default namespace is already bound to non-empty string." />
       <item value="Write &amp;lt;&amp;63;xml declaration with encoding (if encoding not null) and standalone flag (if standalone not null) This method can only be called just after setOutput." />
-      <item value="standalone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="132" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
