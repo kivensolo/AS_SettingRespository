@@ -116,6 +116,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Interface representing a continuation after a suspension point that returns a value of type `T`." />
+      <item value="Continuation" />
+      <item value="Resumes the execution of the corresponding coroutine passing a successful or failed [result] as the return value of the last suspension point." />
       <item value="CLEARTEXT communication to 218.203.73.76 not permitted by network security policy" />
       <item value="Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="Detecotor" />
@@ -163,14 +166,11 @@
       <item value="peer Do Read" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue" />
       <item value="Tests whether this key's channel has either finished, or failed to finish, its socket-connection operation." />
-      <item value="react" />
-      <item value="transparent proxying" />
-      <item value="transparent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
