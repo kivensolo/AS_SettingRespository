@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Un Use" />
       <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
       <item value="MSG STRAT PERIODIC REPORT" />
       <item value="周期性" />
@@ -165,16 +166,16 @@
       <item value="should Intercept Request" />
       <item value="Block Request" />
       <item value="cleartext Traffic Permitted" />
-      <item value="ERR CLEARTEXT NOT PERMITTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="149" />
         <entry key="ENGLISH" value="141" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
+        <entry key="LATVIAN" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
