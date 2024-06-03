@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 11 and the consumer needed a component for use during runtime, compatible with Java 8" />
       <item value="Un Use" />
       <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
       <item value="MSG STRAT PERIODIC REPORT" />
@@ -165,12 +166,11 @@
       <item value="send Simulation Response" />
       <item value="should Intercept Request" />
       <item value="Block Request" />
-      <item value="cleartext Traffic Permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="142" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
