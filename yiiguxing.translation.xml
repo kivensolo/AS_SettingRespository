@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1717382910810" />
+    <option name="lastTrimTime" value="1721268591784" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Prepare" />
       <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 11 and the consumer needed a component for use during runtime, compatible with Java 8" />
       <item value="Un Use" />
       <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
@@ -165,12 +166,11 @@
       <item value="raw Path是绝对路径" />
       <item value="send Simulation Response" />
       <item value="should Intercept Request" />
-      <item value="Block Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="143" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
