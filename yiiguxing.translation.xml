@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721268591784" />
+    <option name="lastTrimTime" value="1721806313633" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -116,6 +116,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="引导" />
+      <item value="guide" />
+      <item value="用户引导" />
       <item value="Prepare" />
       <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 11 and the consumer needed a component for use during runtime, compatible with Java 8" />
       <item value="Un Use" />
@@ -163,14 +166,11 @@
       <item value="they belong in the individual module build.gradle files" />
       <item value="individual" />
       <item value="rawpath should be absolute path." />
-      <item value="raw Path是绝对路径" />
-      <item value="send Simulation Response" />
-      <item value="should Intercept Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="146" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
