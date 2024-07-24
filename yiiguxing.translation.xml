@@ -116,6 +116,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="oringe" />
       <item value="detail" />
       <item value="引导" />
       <item value="guide" />
@@ -165,11 +166,11 @@
       <item value="Latitude" />
       <item value="各依赖库版本管控表" />
       <item value="they belong in the individual module build.gradle files" />
-      <item value="individual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="CHINESE" value="156" />
         <entry key="ENGLISH" value="147" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
