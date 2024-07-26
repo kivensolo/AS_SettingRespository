@@ -119,6 +119,9 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="distinct" />
+      <item value="FILTER" />
+      <item value="FILTE" />
       <item value="是否有用户协议" />
       <item value="Exit" />
       <item value="notes" />
@@ -166,15 +169,12 @@
       <item value="平台" />
       <item value="PLANTFORM" />
       <item value="chorm" />
-      <item value="Happy spring festival." />
-      <item value="密钥协商" />
-      <item value="Init failed! Context can't be null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="AFRIKAANS" value="2" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="156" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
