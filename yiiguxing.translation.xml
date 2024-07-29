@@ -119,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="redicte" />
+      <item value="redict" />
       <item value="Auth failed" />
       <item value="failed" />
       <item value="smile" />
@@ -167,14 +169,13 @@
       <item value="reate" />
       <item value="不使用" />
       <item value="if {@code true} then queue accesses for threads blocked on insertion or removal, are processed in FIFO order; if {@code false} the access order is unspecified." />
-      <item value="A handler for rejected tasks that discards the oldest unhandled request and then retries execute, unless the executor is shut down, in which case the task is discarded." />
-      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="162" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
