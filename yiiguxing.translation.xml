@@ -119,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="smile" />
+      <item value="children" />
       <item value="ERROR LEVEL SLIGHT" />
       <item value="distinct" />
       <item value="FILTER" />
@@ -167,14 +169,12 @@
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="FAIL ON PROJECT REPOS" />
       <item value="dependency Resolution Management" />
-      <item value="平台" />
-      <item value="PLANTFORM" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="159" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
