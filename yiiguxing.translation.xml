@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721806313633" />
+    <option name="lastTrimTime" value="1722238887331" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -119,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="Auth failed" />
+      <item value="failed" />
       <item value="smile" />
       <item value="children" />
       <item value="ERROR LEVEL SLIGHT" />
@@ -167,14 +169,12 @@
       <item value="if {@code true} then queue accesses for threads blocked on insertion or removal, are processed in FIFO order; if {@code false} the access order is unspecified." />
       <item value="A handler for rejected tasks that discards the oldest unhandled request and then retries execute, unless the executor is shut down, in which case the task is discarded." />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
-      <item value="FAIL ON PROJECT REPOS" />
-      <item value="dependency Resolution Management" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="161" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
