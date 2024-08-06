@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1722238887331" />
+    <option name="lastTrimTime" value="1722913159523" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -119,6 +119,10 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="It could be belows" />
+      <item value="Whether this part of UI data is cached successfully." />
+      <item value="UI data for XulDataNode structure" />
+      <item value="Based on platform interface data structure" />
       <item value="父View的子View Id" />
       <item value="id of child view" />
       <item value="余额支付" />
@@ -165,17 +169,13 @@
       <item value="CLEARTEXT communication to 218.203.73.76 not permitted by network security policy" />
       <item value="Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="Detecotor" />
-      <item value="url need be modify" />
-      <item value="Pair" />
-      <item value="Triple" />
-      <item value="get Client Private Key" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="178" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
