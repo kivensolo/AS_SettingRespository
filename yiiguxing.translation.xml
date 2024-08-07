@@ -119,6 +119,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="Classics" />
       <item value="author" />
       <item value="PREFIX" />
       <item value="verify Url" />
@@ -168,14 +169,13 @@
       <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
       <item value="MSG STRAT PERIODIC REPORT" />
       <item value="周期性" />
-      <item value="周期" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="185" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
