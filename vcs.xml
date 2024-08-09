@@ -302,6 +302,10 @@
           <option name="url" value="https://gitee.com/zekewong/digital_human.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/leixiaohua1020/simplest_mediadata_test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
