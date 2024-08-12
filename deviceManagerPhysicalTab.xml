@@ -5,10 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="HT68J0206712" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2024-08-12T11:10:01.453514500Z" />
+        <name value="Google Pixel XL" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.31.10.236:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2024-08-07T08:34:30.732089600Z" />
+        <lastOnlineTime value="2024-08-12T11:10:01.457511800Z" />
         <name value="ZTE Corporation B860A" />
         <target value="Android 4.4" />
         <api value="19" />
@@ -22,18 +34,6 @@
         </key>
         <lastOnlineTime value="2024-05-09T08:16:31.133591800Z" />
         <name value="xiaomi MiTV-AZFP0" />
-        <target value="Android 9.0" />
-        <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="HT68J0206712" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2024-04-16T07:12:23.721316200Z" />
-        <name value="Google Pixel XL" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
