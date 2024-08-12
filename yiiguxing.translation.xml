@@ -119,6 +119,9 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="s Sid Lead" />
+      <item value="Shared Prefer缓存工具类" />
+      <item value="完全从天威复制" />
       <item value="prefix" />
       <item value="Net Set" />
       <item value="功能卡片" />
@@ -166,16 +169,13 @@
       <item value="protocol" />
       <item value="PR Otacal" />
       <item value="oringe" />
-      <item value="detail" />
-      <item value="引导" />
-      <item value="guide" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="195" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
