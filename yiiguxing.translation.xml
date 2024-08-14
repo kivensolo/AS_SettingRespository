@@ -119,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="高级设置" />
+      <item value="PAGE NET ADVANCE SETTING" />
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="theme" />
       <item value="them" />
@@ -167,15 +169,13 @@
       <item value="smile" />
       <item value="children" />
       <item value="ERROR LEVEL SLIGHT" />
-      <item value="distinct" />
-      <item value="FILTER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="206" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
