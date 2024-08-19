@@ -119,6 +119,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="拦截" />
       <item value="拦截点击事件" />
       <item value="build in of live" />
       <item value="_build in of live" />
@@ -168,14 +169,13 @@
       <item value="prefix" />
       <item value="Net Set" />
       <item value="功能卡片" />
-      <item value="general data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="240" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
