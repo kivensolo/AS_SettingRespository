@@ -119,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="contains" />
+      <item value="template root witch contains player" />
       <item value="First tab focus action in UI" />
       <item value="First focus in EPG" />
       <item value="UIAction is Disable" />
@@ -167,15 +169,13 @@
       <item value="DISORDER" />
       <item value="Positive" />
       <item value="sync" />
-      <item value="s Sid Lead" />
-      <item value="Shared Prefer缓存工具类" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="246" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
