@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="10.252.0.9:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2024-08-30T02:13:32.234232800Z" />
+        <name value="szjiuzhou DTC9537" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="10.249.0.111:5555" />
           </Key>
         </key>
