@@ -119,6 +119,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="页面关系" />
       <item value="At Front" />
       <item value="遥控器" />
       <item value="手动" />
@@ -168,14 +169,13 @@
       <item value="DEFAULT STANDBY TIME IN HOUR" />
       <item value="HOUR" />
       <item value="没有重启设备的权限" />
-      <item value="NO permission of android.permission.REBOOT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="261" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
