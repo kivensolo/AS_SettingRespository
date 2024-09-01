@@ -119,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="当前页面属于设置模块" />
+      <item value="Current front page belong setting pages" />
       <item value="页面关系" />
       <item value="At Front" />
       <item value="遥控器" />
@@ -167,15 +169,13 @@
       <item value="IS RUNNING IN NOT DVB" />
       <item value="build Ratio Items" />
       <item value="DEFAULT STANDBY TIME IN HOUR" />
-      <item value="HOUR" />
-      <item value="没有重启设备的权限" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="263" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
