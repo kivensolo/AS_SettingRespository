@@ -119,6 +119,9 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="modulation" />
+      <item value="symbol Rate" />
+      <item value="frequency" />
       <item value="health" />
       <item value="I Alarm Event" />
       <item value="sync Thumbnail" />
@@ -166,16 +169,13 @@
       <item value="mock Hardware version info to avoid native crash" />
       <item value="avoid" />
       <item value="运营商" />
-      <item value="运营商扇区个数" />
-      <item value="occurring" />
-      <item value="发生" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="278" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
