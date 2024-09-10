@@ -119,6 +119,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="health" />
       <item value="I Alarm Event" />
       <item value="sync Thumbnail" />
       <item value="Mock UDRM ID" />
@@ -168,14 +169,13 @@
       <item value="运营商扇区个数" />
       <item value="occurring" />
       <item value="发生" />
-      <item value="occure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="275" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="2" />
