@@ -30,5 +30,16 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="terminal-sztw-data-core|1318473438567511">
+          <value>
+            <list>
+              <option value="请帮我定义一个变量名称，用于表示是否优先使用IPV6的网络环境。" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </application>
