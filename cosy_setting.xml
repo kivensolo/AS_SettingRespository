@@ -36,6 +36,8 @@
           <value>
             <list>
               <option value="请帮我定义一个变量名称，用于表示是否优先使用IPV6的网络环境。" />
+              <option value="我这有一个API定义：getIPAddr &#10;原型 public java.lang.String getIPAddr() &#10;描述：获取IP地址。如果是IPV6，此处返回的是IPV6地址。 &#10;返回：String 型，返回值格式为通用IP地址格式，如192.168.1.1。如果是&#10;IPV6，格式为AAAA::1111，用零压缩法&#10;。其中&quot;用零压缩法&quot;是什么意思？AAAA::1111的格式，不像是ipv6的格式啊" />
+              <option value="如果一个ipv6的地址是零压缩的形式，比如：2001:0db8:85a3::8a2e:0370:7334，我如何将其还原为完整形式，以java代码为例。" />
             </list>
           </value>
         </entry>
