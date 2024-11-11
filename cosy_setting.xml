@@ -2,6 +2,7 @@
   <component name="CosySettings">
     <option name="dedicatedDomainUrl" value="" />
     <option name="localStoragePath" value="D:\AppData\.lingma" />
+    <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -25,7 +26,7 @@
         </option>
         <option name="local">
           <LocalModelParam>
-            <option name="enable" value="false" />
+            <option name="enable" value="true" />
             <option name="inferenceMode" value="auto" />
             <option name="maxCandidateNum" value="3" />
           </LocalModelParam>
