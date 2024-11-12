@@ -44,6 +44,10 @@
               <option value="我在windows电脑上使用ipconfig，输出如下：&#10;以太网适配器 有线以太网:&#10;&#10;   连接特定的 DNS 后缀 . . . . . . . :&#10;   IPv6 地址 . . . . . . . . . . . . : 240e:699:c001:500::5f&#10;   IPv6 地址 . . . . . . . . . . . . : 240e:699:c001:500:5423:ba6c:18b8:25fa&#10;&#10;为什么500::5f采用零压缩法会省略中间的数据，两者之间的数据不为0啊" />
               <option value="java代码如何判定一个字符串是不是ipv6地址？" />
               <option value="java代码如何判定一个字符串是不是ipv6的格式，不用在乎是否有效？" />
+              <option value="查询现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且传参action为commoninfo，传参key为sp_code，请问如何编写adb命了？" />
+              <option value="我现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且传参action为commoninfo，传参key为sp_code，请问如何编写adb命令？" />
+              <option value="查询现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且选择条件selection为action为commoninfo参key为sp_code，请问如何编写adb命了？" />
+              <option value="查询现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且选择条件selection为action为commoninf，参key为sp_code，请问如何编写adb命了？" />
             </list>
           </value>
         </entry>
