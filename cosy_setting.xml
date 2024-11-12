@@ -48,6 +48,8 @@
               <option value="我现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且传参action为commoninfo，传参key为sp_code，请问如何编写adb命令？" />
               <option value="查询现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且选择条件selection为action为commoninfo参key为sp_code，请问如何编写adb命了？" />
               <option value="查询现在想通过adb的content query命令，查uri为com.starcor.authorities/device的目标，，并且选择条件selection为action为commoninf，参key为sp_code，请问如何编写adb命了？" />
+              <option value="contentprivder查询时的projection和selection以及selectionArgs分别是什么？ 再uri中如何表现？" />
+              <option value="报错[ERROR] Unsupported argument: AND" />
             </list>
           </value>
         </entry>
