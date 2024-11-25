@@ -106,7 +106,6 @@
     <option name="lastTrimTime" value="1730105289201" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
@@ -120,6 +119,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="399" />
     <histories>
+      <item value="Hump" />
+      <item value="build Type Name With Hump" />
       <item value="unmarshal" />
       <item value="Couldn't get post build model. Module: terminal-sztw-data-core.app Variant: debug" />
       <item value="Unable to determine application id" />
@@ -168,8 +169,6 @@
       <item value="抛开" />
       <item value="batch" />
       <item value="成批阻止" />
-      <item value="批量阻止" />
-      <item value="批量拦截" />
     </histories>
     <option name="languageScores">
       <map>
